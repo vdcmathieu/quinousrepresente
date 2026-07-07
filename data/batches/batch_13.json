@@ -1,0 +1,152 @@
+[
+ {
+  "uid": "PA722366",
+  "nom": "Jean-Luc Fugit",
+  "naissance": "1969-11-27",
+  "profession_declaree": "Professeur de faculté",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "école nationale supérieure des ingénieurs en arts chimiques et technologiques",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA722366.txt"
+ },
+ {
+  "uid": "PA722374",
+  "nom": "Cyrille Isaac-Sibille",
+  "naissance": "1958-04-30",
+  "profession_declaree": "Médecin",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "université Claude-Bernard-Lyon-I",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA722374.txt"
+ },
+ {
+  "uid": "PA722382",
+  "nom": "Benjamin Dirx",
+  "naissance": "1979-01-25",
+  "profession_declaree": "Industriel-Chef d'entreprise",
+  "insee_cat": "Commerçants et assimilés",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA722382.txt"
+ },
+ {
+  "uid": "PA722390",
+  "nom": "Josiane Corneloup",
+  "naissance": "1959-09-30",
+  "profession_declaree": "Pharmacien",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "Faculté de pharmacie de Clermont-Ferrand",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA722390.txt"
+ },
+ {
+  "uid": "PA736201",
+  "nom": "Sophie Taillé-Polian",
+  "naissance": "1974-10-04",
+  "profession_declaree": "Cadre de la fonction publique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "université Paris-Nanterre",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA736201.txt"
+ },
+ {
+  "uid": "PA757225",
+  "nom": "Mikaele Seo",
+  "naissance": "1971-12-27",
+  "profession_declaree": "Profession intermédiaire administrative de la fonction publique",
+  "insee_cat": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA757225.txt"
+ },
+ {
+  "uid": "PA759832",
+  "nom": "Agnès Pannier-Runacher",
+  "naissance": "1974-06-19",
+  "profession_declaree": "Dirigeante d'entreprise",
+  "insee_cat": "Chefs d'entreprise de plus de 10 personnes",
+  "wikidata_edu": "HEC Paris | Institut d'études politiques de Paris | École nationale d'administration",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA759832.txt"
+ },
+ {
+  "uid": "PA774954",
+  "nom": "Anne-Laure Blin",
+  "naissance": "1983-06-12",
+  "profession_declaree": "Juriste",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "université Nancy-II",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA774954.txt"
+ },
+ {
+  "uid": "PA774958",
+  "nom": "Gérard Leseul",
+  "naissance": "1960-08-15",
+  "profession_declaree": "Cadre d'entreprise / enseignant universitaire",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "lycée Pierre-Corneille de Rouen",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA774958.txt"
+ },
+ {
+  "uid": "PA774960",
+  "nom": "Isabelle Santiago",
+  "naissance": "1965-09-20",
+  "profession_declaree": "Cadre territorial",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA774960.txt"
+ },
+ {
+  "uid": "PA774962",
+  "nom": "Karine Lebon",
+  "naissance": "1985-06-09",
+  "profession_declaree": "Professeure des écoles",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA774962.txt"
+ },
+ {
+  "uid": "PA791812",
+  "nom": "Sophia Chikirou",
+  "naissance": "1979-06-03",
+  "profession_declaree": "Chef d'entreprise de 10 salariés ou plus",
+  "insee_cat": "Chefs d'entreprise de plus de 10 personnes",
+  "wikidata_edu": "IAE Paris-Sorbonne (maîtrise, gestion des ressources humaines) | Institut d'études politiques de Grenoble (diplôme d'études supérieures spécialisées, communication politique) | université Paris-I-Panthéon-Sorbonne",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA791812.txt"
+ },
+ {
+  "uid": "PA791824",
+  "nom": "Sarah Legrain",
+  "naissance": "1985-11-17",
+  "profession_declaree": "Professeure de français",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "École normale supérieure",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA791824.txt"
+ },
+ {
+  "uid": "PA793094",
+  "nom": "Nicolas Ray",
+  "naissance": "1981-05-14",
+  "profession_declaree": "Inspecteur principal des Finances publiques",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "Institut d'études politiques de Paris",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793094.txt"
+ },
+ {
+  "uid": "PA793102",
+  "nom": "Christian Girard",
+  "naissance": "1952-05-07",
+  "profession_declaree": "Ancien cadre",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793102.txt"
+ }
+]

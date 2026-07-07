@@ -1,0 +1,152 @@
+[
+ {
+  "uid": "PA720468",
+  "nom": "Sébastien Chenu",
+  "naissance": "1973-04-13",
+  "profession_declaree": "Conseiller en communication",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "École des hautes études internationales et politiques",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720468.txt"
+ },
+ {
+  "uid": "PA720480",
+  "nom": "Charlotte Parmentier-Lecocq",
+  "naissance": "1977-07-17",
+  "profession_declaree": "Industriel-Chef d'entreprise",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "IAE Lille",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720480.txt"
+ },
+ {
+  "uid": "PA720552",
+  "nom": "Isabelle Rauch",
+  "naissance": "1968-08-10",
+  "profession_declaree": "Consultante",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "ICN Business School",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720552.txt"
+ },
+ {
+  "uid": "PA720560",
+  "nom": "Perrine Goulet",
+  "naissance": "1978-03-19",
+  "profession_declaree": "Autre cadre (secteur privé)",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720560.txt"
+ },
+ {
+  "uid": "PA720614",
+  "nom": "Marine Le Pen",
+  "naissance": "1968-08-05",
+  "profession_declaree": "Avocate",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "université Paris-Panthéon-Assas",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720614.txt"
+ },
+ {
+  "uid": "PA720668",
+  "nom": "Emmanuel Blairy",
+  "naissance": "1986-03-14",
+  "profession_declaree": "Fonctionnaire territorial",
+  "insee_cat": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720668.txt"
+ },
+ {
+  "uid": "PA720720",
+  "nom": "Josy Poueyto",
+  "naissance": "1954-01-13",
+  "profession_declaree": "Retraitée de la fonction publique (hors enseignement)",
+  "insee_cat": "Sans profession déclarée",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720720.txt"
+ },
+ {
+  "uid": "PA720728",
+  "nom": "Jean-Paul Mattei",
+  "naissance": "1954-03-21",
+  "profession_declaree": "Notaire",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720728.txt"
+ },
+ {
+  "uid": "PA720822",
+  "nom": "Bruno Bilde",
+  "naissance": "1976-09-22",
+  "profession_declaree": "Juriste",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "université d'Artois",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720822.txt"
+ },
+ {
+  "uid": "PA720838",
+  "nom": "Soumya Bourouaha",
+  "naissance": "1964-03-16",
+  "profession_declaree": "Professeure",
+  "insee_cat": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720838.txt"
+ },
+ {
+  "uid": "PA720846",
+  "nom": "Bastien Lachaud",
+  "naissance": "1980-08-05",
+  "profession_declaree": "Professeur du secondaire et technique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720846.txt"
+ },
+ {
+  "uid": "PA720892",
+  "nom": "Mathilde Panot",
+  "naissance": "1989-01-15",
+  "profession_declaree": "Coordinatrice de projets associatifs",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "Institut d'études politiques de Paris",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720892.txt"
+ },
+ {
+  "uid": "PA720952",
+  "nom": "Aurélien Taché",
+  "naissance": "1984-05-26",
+  "profession_declaree": "Fonctionnaire de catégorie A",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "université de Limoges",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720952.txt"
+ },
+ {
+  "uid": "PA720960",
+  "nom": "Olivier Serva",
+  "naissance": "1974-06-21",
+  "profession_declaree": "Expert comptable",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720960.txt"
+ },
+ {
+  "uid": "PA720976",
+  "nom": "Max Mathiasin",
+  "naissance": "1956-02-24",
+  "profession_declaree": "Fonction publique territoriale",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720976.txt"
+ }
+]

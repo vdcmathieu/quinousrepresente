@@ -1,0 +1,152 @@
+[
+ {
+  "uid": "PA795730",
+  "nom": "Bastien Marchive",
+  "naissance": "1990-07-15",
+  "profession_declaree": "Juriste",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA795730.txt"
+ },
+ {
+  "uid": "PA795746",
+  "nom": "Antoine Léaument",
+  "naissance": "1989-09-04",
+  "profession_declaree": "Responsable de la communication numérique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "COMUE Centre-Val de Loire | université Paris-I-Panthéon-Sorbonne | université de Poitiers",
+  "wikidata_emp": "Jean-Luc Mélenchon",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA795746.txt"
+ },
+ {
+  "uid": "PA795762",
+  "nom": "Elie Califer",
+  "naissance": "1954-04-19",
+  "profession_declaree": "Ancien cadre",
+  "insee_cat": "Sans profession déclarée",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA795762.txt"
+ },
+ {
+  "uid": "PA795778",
+  "nom": "Jean-Philippe Tanguy",
+  "naissance": "1986-03-25",
+  "profession_declaree": "Cadre administratif et commercial d'entreprise",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA795778.txt"
+ },
+ {
+  "uid": "PA795786",
+  "nom": "Yaël Ménaché",
+  "naissance": "1985-05-12",
+  "profession_declaree": "Commerciale",
+  "insee_cat": "Professions intermédiaires administratives et commerciales des entreprises",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA795786.txt"
+ },
+ {
+  "uid": "PA795808",
+  "nom": "Sabrina Sebaihi",
+  "naissance": "1981-05-10",
+  "profession_declaree": "Profession libérale",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "université Paris-Diderot (maîtrise, santé publique)",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA795808.txt"
+ },
+ {
+  "uid": "PA795820",
+  "nom": "Marcellin Nadeau",
+  "naissance": "1962-11-02",
+  "profession_declaree": "Cadre de la fonction publique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA795820.txt"
+ },
+ {
+  "uid": "PA795844",
+  "nom": "Karen Erodi",
+  "naissance": "1977-02-04",
+  "profession_declaree": "Profession libérale",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA795844.txt"
+ },
+ {
+  "uid": "PA795864",
+  "nom": "Pierre Cazeneuve",
+  "naissance": "1995-03-11",
+  "profession_declaree": "Cadre de la fonction publique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "HEC Paris | Institut d'études politiques de Paris",
+  "wikidata_emp": "cabinet du président de la République française",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA795864.txt"
+ },
+ {
+  "uid": "PA795868",
+  "nom": "Jean-Victor Castor",
+  "naissance": "1962-04-21",
+  "profession_declaree": "Cadre technique d'entreprise",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA795868.txt"
+ },
+ {
+  "uid": "PA795876",
+  "nom": "Davy Rimane",
+  "naissance": "1979-12-15",
+  "profession_declaree": "Technicien",
+  "insee_cat": "Agents de maîtrise (hors maîtrise administrative)",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA795876.txt"
+ },
+ {
+  "uid": "PA795884",
+  "nom": "Marc Ferracci",
+  "naissance": "1977-12-19",
+  "profession_declaree": "Professeur, profession scientifique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "HEC Paris | Institut d'études politiques de Paris | université Paris-I-Panthéon-Sorbonne",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA795884.txt"
+ },
+ {
+  "uid": "PA795900",
+  "nom": "Marine Hamelet",
+  "naissance": "1967-07-13",
+  "profession_declaree": "Profession intermédiaire administrative et commerciale des entreprises",
+  "insee_cat": "Employés de commerce",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA795900.txt"
+ },
+ {
+  "uid": "PA795908",
+  "nom": "Yannick Chenevard",
+  "naissance": "1959-11-27",
+  "profession_declaree": "Profession libérale",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA795908.txt"
+ },
+ {
+  "uid": "PA795912",
+  "nom": "Laure Lavalette",
+  "naissance": "1976-04-16",
+  "profession_declaree": "(85) - Personne diverse sans activité professionnelle de moins de 60 ans (sauf r",
+  "insee_cat": "Sans profession déclarée",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA795912.txt"
+ }
+]

@@ -1,0 +1,152 @@
+[
+ {
+  "uid": "PA720992",
+  "nom": "Jiovanny William",
+  "naissance": "1985-06-03",
+  "profession_declaree": "Profession libérale",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720992.txt"
+ },
+ {
+  "uid": "PA721004",
+  "nom": "Amélia Lakrafi",
+  "naissance": "1978-03-20",
+  "profession_declaree": "Chef d'entreprise",
+  "insee_cat": "Commerçants et assimilés",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA721004.txt"
+ },
+ {
+  "uid": "PA721024",
+  "nom": "Anne Genetet",
+  "naissance": "1963-04-20",
+  "profession_declaree": "Médecin généraliste",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "Singapore Polytechnic | Sorbonne Université | université Paris-Descartes | université Pierre-et-Marie-Curie",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA721024.txt"
+ },
+ {
+  "uid": "PA721062",
+  "nom": "Jean-Hugues Ratenon",
+  "naissance": "1967-06-25",
+  "profession_declaree": "Employé (secteur privé)",
+  "insee_cat": "Employés de commerce",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA721062.txt"
+ },
+ {
+  "uid": "PA721110",
+  "nom": "Nicole Sanquer",
+  "naissance": "1972-06-16",
+  "profession_declaree": "Professeur du secondaire et technique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "Institut Paul-Bocuse | université française du Pacifique | École supérieure des sciences économiques et commerciales",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA721110.txt"
+ },
+ {
+  "uid": "PA721158",
+  "nom": "Pieyre-Alexandre Anglade",
+  "naissance": "1986-11-02",
+  "profession_declaree": "Agent contractuel au Parlement européen",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "Sorbonne",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA721158.txt"
+ },
+ {
+  "uid": "PA721182",
+  "nom": "Frédéric Petit",
+  "naissance": "1961-02-10",
+  "profession_declaree": "Ingénieur",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "Institut national polytechnique de Lorraine",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA721182.txt"
+ },
+ {
+  "uid": "PA721202",
+  "nom": "Éric Coquerel",
+  "naissance": "1958-12-30",
+  "profession_declaree": "Industriel-Chef d'entreprise",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA721202.txt"
+ },
+ {
+  "uid": "PA721210",
+  "nom": "Alexis Corbière",
+  "naissance": "1968-08-17",
+  "profession_declaree": "Professeur de lycée professionnel",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "université Paris-Diderot | université Paris-Est-Créteil-Val-de-Marne | université Paul-Valéry | université de Montpellier",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA721210.txt"
+ },
+ {
+  "uid": "PA721234",
+  "nom": "Maud Petit",
+  "naissance": "1971-11-15",
+  "profession_declaree": "Chargée de ressources humaines",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "université de Caen-Normandie",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA721234.txt"
+ },
+ {
+  "uid": "PA721270",
+  "nom": "Stéphane Peu",
+  "naissance": "1962-07-24",
+  "profession_declaree": "Employé",
+  "insee_cat": "Employés administratifs d'entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA721270.txt"
+ },
+ {
+  "uid": "PA721296",
+  "nom": "Guillaume Gouffier Valente",
+  "naissance": "1986-02-01",
+  "profession_declaree": "Manager public",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA721296.txt"
+ },
+ {
+  "uid": "PA721314",
+  "nom": "Raphaël Schellenberger",
+  "naissance": "1990-02-14",
+  "profession_declaree": "(33) - Cadre de la fonction publique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "Institut des hautes études européennes",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA721314.txt"
+ },
+ {
+  "uid": "PA721336",
+  "nom": "Blandine Brocard",
+  "naissance": "1981-11-03",
+  "profession_declaree": "Employée (secteur privé)",
+  "insee_cat": "Employés administratifs d'entreprise",
+  "wikidata_edu": "université Jean-Moulin-Lyon-III (master) | université Lumière-Lyon-II (licence)",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA721336.txt"
+ },
+ {
+  "uid": "PA721410",
+  "nom": "Émilie Bonnivard",
+  "naissance": "1980-08-02",
+  "profession_declaree": "Cadre à la Caisse des Dépôts et Consignations",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "Institut de relations internationales et stratégiques | université Savoie-Mont-Blanc",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA721410.txt"
+ }
+]

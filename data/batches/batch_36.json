@@ -1,0 +1,152 @@
+[
+ {
+  "uid": "PA841927",
+  "nom": "Anne-Sophie Ronceret",
+  "naissance": "1978-01-07",
+  "profession_declaree": "Collaboratrice parlementaire",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841927.txt"
+ },
+ {
+  "uid": "PA841931",
+  "nom": "Laurent Mazaury",
+  "naissance": "1965-08-23",
+  "profession_declaree": "(37) - Cadre administratif et commercial d'entreprise",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841931.txt"
+ },
+ {
+  "uid": "PA841947",
+  "nom": "Zahia Hamdane",
+  "naissance": "1965-05-14",
+  "profession_declaree": "(43) - Profession intermédiaire de la santé et du travail social",
+  "insee_cat": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841947.txt"
+ },
+ {
+  "uid": "PA841955",
+  "nom": "Matthias Renault",
+  "naissance": "1988-05-02",
+  "profession_declaree": "(37) - Cadre administratif et commercial d'entreprise",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "Institut d’études politiques de Lille (maîtrise, administration publique) | université de Mannheim (science économique) | École nationale d'administration",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841955.txt"
+ },
+ {
+  "uid": "PA841973",
+  "nom": "Pierre-Henri Carbonnel",
+  "naissance": "1990-03-23",
+  "profession_declaree": "Agriculteur",
+  "insee_cat": "Agriculteurs exploitants",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841973.txt"
+ },
+ {
+  "uid": "PA841981",
+  "nom": "Catherine Rimbert",
+  "naissance": "1968-09-13",
+  "profession_declaree": "(31) - Profession libérale",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841981.txt"
+ },
+ {
+  "uid": "PA841993",
+  "nom": "Dominique Paillat",
+  "naissance": "1958-06-11",
+  "profession_declaree": "responsable d'usine",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841993.txt"
+ },
+ {
+  "uid": "PA842001",
+  "nom": "Guillaume Bigot",
+  "naissance": "1969-11-14",
+  "profession_declaree": "(35) - Profession de l'information, des arts et des spectacles",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "Institut d'études politiques de Paris | université Paris-Panthéon-Assas",
+  "wikidata_emp": "pôle universitaire Léonard-de-Vinci",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA842001.txt"
+ },
+ {
+  "uid": "PA842013",
+  "nom": "Steevy Gustave",
+  "naissance": "1970-02-05",
+  "profession_declaree": "(35) - Profession de l'information, des arts et des spectacles",
+  "insee_cat": "Chefs d'entreprise de plus de 10 personnes",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA842013.txt"
+ },
+ {
+  "uid": "PA842029",
+  "nom": "Claire Lejeune",
+  "naissance": "1994-09-07",
+  "profession_declaree": "34 - Professeur, profession scientifique",
+  "insee_cat": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "wikidata_edu": "Institut d'études politiques de Paris | École normale supérieure de Lyon",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA842029.txt"
+ },
+ {
+  "uid": "PA842037",
+  "nom": "Bérenger Cernon",
+  "naissance": "1988-05-02",
+  "profession_declaree": "(65) - Ouvrier qualifié de la manutention, du magasinage et du transport",
+  "insee_cat": "Ouvriers qualifiés de type industriel",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA842037.txt"
+ },
+ {
+  "uid": "PA842045",
+  "nom": "Julie Ozenne",
+  "naissance": "1978-08-02",
+  "profession_declaree": "(38) - Ingénieur et cadre technique d'entreprise",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA842045.txt"
+ },
+ {
+  "uid": "PA842073",
+  "nom": "Gaëtan Dussausaye",
+  "naissance": "1994-04-05",
+  "profession_declaree": "(55) - Employé de commerce",
+  "insee_cat": "Employés de commerce",
+  "wikidata_edu": "université Paris-I-Panthéon-Sorbonne",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA842073.txt"
+ },
+ {
+  "uid": "PA842085",
+  "nom": "Sébastien Humbert",
+  "naissance": "1990-07-10",
+  "profession_declaree": "(33) - Cadre de la fonction publique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA842085.txt"
+ },
+ {
+  "uid": "PA842097",
+  "nom": "Sophie-Laurence Roy",
+  "naissance": "1955-12-23",
+  "profession_declaree": "(31) - Profession libérale",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA842097.txt"
+ }
+]

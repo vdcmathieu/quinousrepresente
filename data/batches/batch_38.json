@@ -1,0 +1,72 @@
+[
+ {
+  "uid": "PA842299",
+  "nom": "Emmanuel Tjibaou",
+  "naissance": "1976-03-17",
+  "profession_declaree": "(33) - Cadre de la fonction publique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA842299.txt"
+ },
+ {
+  "uid": "PA842311",
+  "nom": "Vincent Caure",
+  "naissance": "1992-12-31",
+  "profession_declaree": "(33) - Cadre de la fonction publique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "Institut d'études politiques de Paris | Institut d'études politiques de Toulouse | université Toulouse-Jean-Jaurès (histoire) | université baptiste de Hong Kong",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA842311.txt"
+ },
+ {
+  "uid": "PA857021",
+  "nom": "Alim Latrèche",
+  "naissance": "1979-12-05",
+  "profession_declaree": "Ingénieur-Cadre",
+  "insee_cat": "Ingénieurs et cadres techniques d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "Schneider Electric",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA857021.txt"
+ },
+ {
+  "uid": "PA870009",
+  "nom": "Lionel Duparay",
+  "naissance": "1981-02-07",
+  "profession_declaree": "Ingénieur",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA870009.txt"
+ },
+ {
+  "uid": "PA878242",
+  "nom": "Antoine Valentin",
+  "naissance": "1992-10-16",
+  "profession_declaree": "chef d'entreprise",
+  "insee_cat": "Chefs d'entreprise de plus de 10 personnes",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA878242.txt"
+ },
+ {
+  "uid": "PA879389",
+  "nom": "Marie-Philippe Lubet",
+  "naissance": "1957-09-06",
+  "profession_declaree": "Retraitée",
+  "insee_cat": "{'@xmlns:xsi': 'http://www.w3.org/2001/XMLSchema-instance', '@xsi:nil': 'true'}",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA879389.txt"
+ },
+ {
+  "uid": "PA942",
+  "nom": "Charles de Courson",
+  "naissance": "1952-04-02",
+  "profession_declaree": "Conseiller référendaire honoraire à la Cour des comptes",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "École nationale d'administration | École supérieure des sciences économiques et commerciales",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA942.txt"
+ }
+]

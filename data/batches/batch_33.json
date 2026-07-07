@@ -1,0 +1,152 @@
+[
+ {
+  "uid": "PA841395",
+  "nom": "Maxime Michelet",
+  "naissance": "1992-04-19",
+  "profession_declaree": "Historien",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841395.txt"
+ },
+ {
+  "uid": "PA841419",
+  "nom": "Damien Girard",
+  "naissance": "1973-05-30",
+  "profession_declaree": "(38) - Ingénieur et cadre technique d'entreprise",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841419.txt"
+ },
+ {
+  "uid": "PA841431",
+  "nom": "Nathalie Colin-Oesterlé",
+  "naissance": "1965-05-05",
+  "profession_declaree": "(31) - Profession libérale",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "université Paris-Panthéon-Assas",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841431.txt"
+ },
+ {
+  "uid": "PA841439",
+  "nom": "Pascal Jenft",
+  "naissance": "1966-11-29",
+  "profession_declaree": "(21) - Artisan",
+  "insee_cat": "Artisans",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841439.txt"
+ },
+ {
+  "uid": "PA841451",
+  "nom": "Julien Guibert",
+  "naissance": "1984-05-11",
+  "profession_declaree": "(46) - Profession intermédiaire administrative et commerciale des entreprises",
+  "insee_cat": "Professions intermédiaires administratives et commerciales des entreprises",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841451.txt"
+ },
+ {
+  "uid": "PA841463",
+  "nom": "Estelle Mercier",
+  "naissance": "1973-01-15",
+  "profession_declaree": "(34) - Professeur, profession scientifique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841463.txt"
+ },
+ {
+  "uid": "PA841471",
+  "nom": "Stéphane Hablot",
+  "naissance": "1965-06-30",
+  "profession_declaree": "Education nationale",
+  "insee_cat": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841471.txt"
+ },
+ {
+  "uid": "PA841479",
+  "nom": "Frédéric Weber",
+  "naissance": "1973-05-21",
+  "profession_declaree": "(43) - Profession intermédiaire de la santé et du travail social",
+  "insee_cat": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841479.txt"
+ },
+ {
+  "uid": "PA841487",
+  "nom": "Anthony Boulogne",
+  "naissance": "1993-06-08",
+  "profession_declaree": "(37) - Cadre administratif et commercial d'entreprise",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841487.txt"
+ },
+ {
+  "uid": "PA841495",
+  "nom": "Maxime Amblard",
+  "naissance": "1996-09-06",
+  "profession_declaree": "(38) - Ingénieur et cadre technique d'entreprise",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841495.txt"
+ },
+ {
+  "uid": "PA841507",
+  "nom": "Nicolas Bonnet",
+  "naissance": "1981-02-11",
+  "profession_declaree": "(38) - Ingénieur et cadre technique d'entreprise",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "Institut d'informatique d'Auvergne",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841507.txt"
+ },
+ {
+  "uid": "PA841515",
+  "nom": "Aurélien Le Coq",
+  "naissance": "1996-09-28",
+  "profession_declaree": "(54) - Employé administratif d'entreprise",
+  "insee_cat": "Employés administratifs d'entreprise",
+  "wikidata_edu": "Institut d’études politiques de Lille",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841515.txt"
+ },
+ {
+  "uid": "PA841531",
+  "nom": "Shéhérazade Bentorki",
+  "naissance": "1986-11-06",
+  "profession_declaree": "Collaboratrice parlementaire",
+  "insee_cat": "{'@xmlns:xsi': 'http://www.w3.org/2001/XMLSchema-instance', '@xsi:nil': 'true'}",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841531.txt"
+ },
+ {
+  "uid": "PA841543",
+  "nom": "Jean Bodart",
+  "naissance": "1946-02-21",
+  "profession_declaree": "Retraité de la sidérurgie",
+  "insee_cat": "Sans profession déclarée",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841543.txt"
+ },
+ {
+  "uid": "PA841553",
+  "nom": "Thierry Tesson",
+  "naissance": "1957-04-22",
+  "profession_declaree": "(74) - Ancien cadre",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA841553.txt"
+ }
+]

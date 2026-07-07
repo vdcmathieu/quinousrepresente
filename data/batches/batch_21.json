@@ -1,0 +1,152 @@
+[
+ {
+  "uid": "PA794658",
+  "nom": "Philippe Fait",
+  "naissance": "1969-06-24",
+  "profession_declaree": "Professeur des écoles, instituteur et assimilé",
+  "insee_cat": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA794658.txt"
+ },
+ {
+  "uid": "PA794670",
+  "nom": "Caroline Parmentier",
+  "naissance": "1965-12-16",
+  "profession_declaree": "Attachée de Presse",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "Présent",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA794670.txt"
+ },
+ {
+  "uid": "PA794678",
+  "nom": "Thierry Frappé",
+  "naissance": "1952-05-23",
+  "profession_declaree": "Profession libérale",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA794678.txt"
+ },
+ {
+  "uid": "PA794686",
+  "nom": "Marianne Maximi",
+  "naissance": "1985-11-13",
+  "profession_declaree": "Profession intermédiaire de la santé et du travail social",
+  "insee_cat": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "wikidata_edu": "université Blaise-Pascal",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA794686.txt"
+ },
+ {
+  "uid": "PA794702",
+  "nom": "Delphine Lingemann",
+  "naissance": "1972-11-14",
+  "profession_declaree": "Chef d'entreprise - Enseignante associée université",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "PSB Paris School of Business | université Paris-I-Panthéon-Sorbonne | université de la Sarre",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA794702.txt"
+ },
+ {
+  "uid": "PA794710",
+  "nom": "Julien Brugerolles",
+  "naissance": "1982-07-05",
+  "profession_declaree": "Collaborateur parlementaire",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "Institut d'études politiques de Toulouse",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA794710.txt"
+ },
+ {
+  "uid": "PA794718",
+  "nom": "Christine Engrand",
+  "naissance": "1955-05-07",
+  "profession_declaree": "Cadre administratif et commercial d'entreprise",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA794718.txt"
+ },
+ {
+  "uid": "PA794734",
+  "nom": "Michel Guiniot",
+  "naissance": "1954-11-29",
+  "profession_declaree": "Ancien cadre",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA794734.txt"
+ },
+ {
+  "uid": "PA794750",
+  "nom": "Thierry Liger",
+  "naissance": "1970-05-27",
+  "profession_declaree": "Chef d'entreprise",
+  "insee_cat": "Chefs d'entreprise de 10 salariés ou plus",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA794750.txt"
+ },
+ {
+  "uid": "PA794762",
+  "nom": "Sandrine Dogor-Such",
+  "naissance": "1970-11-08",
+  "profession_declaree": "Préparatrice en pharmacie",
+  "insee_cat": "Employés de commerce",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA794762.txt"
+ },
+ {
+  "uid": "PA794770",
+  "nom": "Michèle Martinez",
+  "naissance": "1968-06-06",
+  "profession_declaree": "Clerc d'huissier",
+  "insee_cat": "Professions intermédiaires administratives et commerciales des entreprises",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA794770.txt"
+ },
+ {
+  "uid": "PA794778",
+  "nom": "Sandra Regol",
+  "naissance": "1978-04-13",
+  "profession_declaree": "(85) - Personne diverse sans activité professionnelle de moins de 60 ans (sauf r",
+  "insee_cat": "Sans profession déclarée",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA794778.txt"
+ },
+ {
+  "uid": "PA794786",
+  "nom": "Emmanuel Fernandes",
+  "naissance": "1980-08-10",
+  "profession_declaree": "Profession intermédiaire administrative et commerciale des entreprises",
+  "insee_cat": "Professions intermédiaires administratives et commerciales des entreprises",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA794786.txt"
+ },
+ {
+  "uid": "PA794798",
+  "nom": "Françoise Buffet",
+  "naissance": "1953-12-11",
+  "profession_declaree": "Ancien artisan, commerçant, chef d'entreprise",
+  "insee_cat": "Sans profession déclarée",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA794798.txt"
+ },
+ {
+  "uid": "PA794802",
+  "nom": "Charles Sitzenstuhl",
+  "naissance": "1988-12-03",
+  "profession_declaree": "Cadre de la fonction publique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "Institut d'études politiques de Paris (doctorat, science politique)",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA794802.txt"
+ }
+]

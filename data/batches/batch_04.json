@@ -1,0 +1,152 @@
+[
+ {
+  "uid": "PA642695",
+  "nom": "Éric Bothorel",
+  "naissance": "1966-10-20",
+  "profession_declaree": "Cadre supérieur (secteur privé)",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA642695.txt"
+ },
+ {
+  "uid": "PA642725",
+  "nom": "Eric Liégeon",
+  "naissance": "1961-01-24",
+  "profession_declaree": "Exploitant agricole",
+  "insee_cat": "Agriculteurs exploitants",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA642725.txt"
+ },
+ {
+  "uid": "PA642764",
+  "nom": "Joël Aviragnet",
+  "naissance": "1956-06-16",
+  "profession_declaree": "Directeur d'un établissement pour l'enfance handicapée",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "École des hautes études en santé publique",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA642764.txt"
+ },
+ {
+  "uid": "PA642847",
+  "nom": "Thibault Bazin",
+  "naissance": "1984-10-27",
+  "profession_declaree": "Autre cadre (secteur privé)",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "Institut d'études politiques de Strasbourg | École supérieure des sciences économiques et commerciales",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA642847.txt"
+ },
+ {
+  "uid": "PA642935",
+  "nom": "Olivier Becht",
+  "naissance": "1976-04-28",
+  "profession_declaree": "Magistrat",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "Institut d'études politiques de Paris | Institut d'études politiques de Strasbourg | lycée Jeanne-d'Arc | université Paris-Panthéon-Assas | École nationale d'administration",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA642935.txt"
+ },
+ {
+  "uid": "PA642988",
+  "nom": "Hervé de Lépinau",
+  "naissance": "1969-06-08",
+  "profession_declaree": "Avocat",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA642988.txt"
+ },
+ {
+  "uid": "PA643089",
+  "nom": "Jean-Louis Thiériot",
+  "naissance": "1969-06-26",
+  "profession_declaree": "Sans profession déclarée",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA643089.txt"
+ },
+ {
+  "uid": "PA643104",
+  "nom": "Christelle Minard",
+  "naissance": "1970-10-04",
+  "profession_declaree": "Agricultrice",
+  "insee_cat": "Agriculteurs exploitants",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA643104.txt"
+ },
+ {
+  "uid": "PA643143",
+  "nom": "Christian Baptiste",
+  "naissance": "1962-06-18",
+  "profession_declaree": "Directeur d'association",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA643143.txt"
+ },
+ {
+  "uid": "PA643157",
+  "nom": "Philippe Naillet",
+  "naissance": "1960-08-14",
+  "profession_declaree": "Inspecteur assurance-vie",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "université de La Réunion",
+  "wikidata_emp": "AG2R La Mondiale",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA643157.txt"
+ },
+ {
+  "uid": "PA643175",
+  "nom": "Stella Dupont",
+  "naissance": "1973-11-03",
+  "profession_declaree": "Comptable",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA643175.txt"
+ },
+ {
+  "uid": "PA643184",
+  "nom": "Brigitte Klinkert",
+  "naissance": "1956-07-22",
+  "profession_declaree": "Ancien cadre",
+  "insee_cat": "Sans profession déclarée",
+  "wikidata_edu": "Institut régional d'administration de Metz",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA643184.txt"
+ },
+ {
+  "uid": "PA643192",
+  "nom": "Chantal Jourdan",
+  "naissance": "1958-09-02",
+  "profession_declaree": "Psychologue",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA643192.txt"
+ },
+ {
+  "uid": "PA687214",
+  "nom": "Sylvain Berrios",
+  "naissance": "1968-05-06",
+  "profession_declaree": "(33) - Cadre de la fonction publique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA687214.txt"
+ },
+ {
+  "uid": "PA712014",
+  "nom": "Vincent Ledoux",
+  "naissance": "1966-06-21",
+  "profession_declaree": "Sans profession déclarée",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "université Lille-III | université catholique de Lille",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA712014.txt"
+ }
+]

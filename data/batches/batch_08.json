@@ -1,0 +1,152 @@
+[
+ {
+  "uid": "PA720100",
+  "nom": "Aurélien Pradié",
+  "naissance": "1986-03-14",
+  "profession_declaree": "Cadre supérieur (secteur privé)",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720100.txt"
+ },
+ {
+  "uid": "PA720138",
+  "nom": "Laetitia Saint-Paul",
+  "naissance": "1981-01-21",
+  "profession_declaree": "Officier de l'armée de Terre",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "Prytanée national militaire | école spéciale militaire de Saint-Cyr",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720138.txt"
+ },
+ {
+  "uid": "PA720146",
+  "nom": "Denis Masséglia",
+  "naissance": "1981-04-11",
+  "profession_declaree": "Ingénieur Arts et métiers",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "Institut catholique d'arts et métiers",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720146.txt"
+ },
+ {
+  "uid": "PA720154",
+  "nom": "Nicole Dubré-Chirat",
+  "naissance": "1951-12-18",
+  "profession_declaree": "Retraitée de la fonction publique hospitalière et chargée de formation",
+  "insee_cat": "Sans profession déclarée",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720154.txt"
+ },
+ {
+  "uid": "PA720190",
+  "nom": "Bertrand Sorre",
+  "naissance": "1965-05-08",
+  "profession_declaree": "Enseignant 1er degré-directeur d'école (en disponibilité)",
+  "insee_cat": "Employés administratifs de la fonction publique, agents de service et auxiliaires de santé",
+  "wikidata_edu": "Institut d'études politiques de Bordeaux",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720190.txt"
+ },
+ {
+  "uid": "PA720230",
+  "nom": "Lise Magnier",
+  "naissance": "1984-12-31",
+  "profession_declaree": "Cadre territorial",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "université Lille-I",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720230.txt"
+ },
+ {
+  "uid": "PA720256",
+  "nom": "Géraldine Bannier",
+  "naissance": "1979-11-22",
+  "profession_declaree": "Professeur du secondaire et technique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "université Rennes-II",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720256.txt"
+ },
+ {
+  "uid": "PA720334",
+  "nom": "Jimmy Pahun",
+  "naissance": "1962-05-15",
+  "profession_declaree": "Navigateur",
+  "insee_cat": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "wikidata_edu": "Centre de formation des journalistes",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720334.txt"
+ },
+ {
+  "uid": "PA720342",
+  "nom": "Nicole Le Peih",
+  "naissance": "1959-09-28",
+  "profession_declaree": "Agricultrice",
+  "insee_cat": "Agriculteurs exploitants",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720342.txt"
+ },
+ {
+  "uid": "PA720354",
+  "nom": "Jean-Michel Jacques",
+  "naissance": "1968-02-29",
+  "profession_declaree": "Infirmier des forces spéciales",
+  "insee_cat": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "wikidata_edu": "diplôme d'État d'infirmier | École des fusiliers marins de Lorient",
+  "wikidata_emp": "Marine nationale",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720354.txt"
+ },
+ {
+  "uid": "PA720362",
+  "nom": "Belkhir Belhaddad",
+  "naissance": "1969-07-09",
+  "profession_declaree": "Industriel-Chef d'entreprise",
+  "insee_cat": "Chefs d'entreprise de plus de 10 personnes",
+  "wikidata_edu": "université de Metz",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720362.txt"
+ },
+ {
+  "uid": "PA720370",
+  "nom": "Ludovic Mendes",
+  "naissance": "1987-04-11",
+  "profession_declaree": "Cadre supérieur (secteur privé)",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720370.txt"
+ },
+ {
+  "uid": "PA720390",
+  "nom": "Jérôme End",
+  "naissance": "1979-04-09",
+  "profession_declaree": "Chargé de mission et d'études",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720390.txt"
+ },
+ {
+  "uid": "PA720430",
+  "nom": "Ugo Bernalicis",
+  "naissance": "1989-09-25",
+  "profession_declaree": "Fonctionnaire de catégorie A",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "Institut régional d’administration de Lille | université Lille-III",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720430.txt"
+ },
+ {
+  "uid": "PA720446",
+  "nom": "Brigitte Liso",
+  "naissance": "1959-07-29",
+  "profession_declaree": "Commerçant",
+  "insee_cat": "Commerçants et assimilés",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA720446.txt"
+ }
+]

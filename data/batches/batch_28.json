@@ -1,0 +1,152 @@
+[
+ {
+  "uid": "PA796078",
+  "nom": "Estelle Youssouffa",
+  "naissance": "1978-07-31",
+  "profession_declaree": "Consultante",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA796078.txt"
+ },
+ {
+  "uid": "PA796090",
+  "nom": "Aymeric Caron",
+  "naissance": "1971-12-04",
+  "profession_declaree": "Profession de l'information, des arts et des spectacles",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "École supérieure de journalisme de Lille",
+  "wikidata_emp": "CNews | Europe 1",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA796090.txt"
+ },
+ {
+  "uid": "PA796106",
+  "nom": "Édouard Bénard",
+  "naissance": "1995-02-18",
+  "profession_declaree": "Collaborateur d'élu",
+  "insee_cat": "Employés administratifs de la fonction publique, agents de service et auxiliaires de santé",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA796106.txt"
+ },
+ {
+  "uid": "PA796118",
+  "nom": "Bénédicte Auzanot",
+  "naissance": "1972-08-05",
+  "profession_declaree": "(85) - Personne diverse sans activité professionnelle de moins de 60 ans (sauf r",
+  "insee_cat": "Sans profession déclarée",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA796118.txt"
+ },
+ {
+  "uid": "PA805166",
+  "nom": "Anne Bergantz",
+  "naissance": "1968-09-17",
+  "profession_declaree": "responsable de service social",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA805166.txt"
+ },
+ {
+  "uid": "PA817203",
+  "nom": "Laure Miller",
+  "naissance": "1983-12-25",
+  "profession_declaree": "Avocate",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA817203.txt"
+ },
+ {
+  "uid": "PA817211",
+  "nom": "René Pilato",
+  "naissance": "1962-08-31",
+  "profession_declaree": "Enseignant",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA817211.txt"
+ },
+ {
+  "uid": "PA822617",
+  "nom": "Martine Froger",
+  "naissance": "1961-06-11",
+  "profession_declaree": "Chef d'entreprise",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA822617.txt"
+ },
+ {
+  "uid": "PA826635",
+  "nom": "Aurélien Rousseau",
+  "naissance": "1976-06-25",
+  "profession_declaree": "Maître des requêtes au Conseil d'État",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "lycée Alphonse-Daudet | lycée Joffre | École nationale d'administration",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA826635.txt"
+ },
+ {
+  "uid": "PA840067",
+  "nom": "Gabriel Tomatis",
+  "naissance": "1999-11-02",
+  "profession_declaree": "Sans profession déclarée",
+  "insee_cat": "Sans profession déclarée",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA840067.txt"
+ },
+ {
+  "uid": "PA840075",
+  "nom": "Eddy Casterman",
+  "naissance": "1996-07-28",
+  "profession_declaree": "(37) - Cadre administratif et commercial d'entreprise",
+  "insee_cat": "Sans profession déclarée",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA840075.txt"
+ },
+ {
+  "uid": "PA840107",
+  "nom": "Bernard Chaumeil",
+  "naissance": "1958-09-30",
+  "profession_declaree": "Directeur des relations institutionnelles",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA840107.txt"
+ },
+ {
+  "uid": "PA840119",
+  "nom": "Sandra Delannoy",
+  "naissance": "1974-05-01",
+  "profession_declaree": "(21) - Artisan",
+  "insee_cat": "Artisans",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA840119.txt"
+ },
+ {
+  "uid": "PA840135",
+  "nom": "Alexandre Dufosset",
+  "naissance": "1998-08-24",
+  "profession_declaree": "(54) - Employé administratif d'entreprise",
+  "insee_cat": "Employés administratifs d'entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA840135.txt"
+ },
+ {
+  "uid": "PA840143",
+  "nom": "Guillaume Florquin",
+  "naissance": "1993-05-04",
+  "profession_declaree": "(33) - Cadre de la fonction publique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA840143.txt"
+ }
+]

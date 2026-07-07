@@ -1,0 +1,152 @@
+[
+ {
+  "uid": "PA793708",
+  "nom": "Sébastien Peytavie",
+  "naissance": "1982-04-17",
+  "profession_declaree": "Profession intermédiaire de la santé et du travail social",
+  "insee_cat": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793708.txt"
+ },
+ {
+  "uid": "PA793716",
+  "nom": "Laurent Croizier",
+  "naissance": "1975-01-29",
+  "profession_declaree": "Professeur des écoles, instituteur et assimilé",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793716.txt"
+ },
+ {
+  "uid": "PA793736",
+  "nom": "Hadrien Clouet",
+  "naissance": "1991-07-13",
+  "profession_declaree": "Sociologue",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "Institut d'études politiques de Paris",
+  "wikidata_emp": "Laboratoire interdisciplinaire pour la sociologie économique | centre de sociologie des organisations | université Paris-Nanterre",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793736.txt"
+ },
+ {
+  "uid": "PA793744",
+  "nom": "Anne Stambach-Terrenoir",
+  "naissance": "1980-06-23",
+  "profession_declaree": "Professeure de piano",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793744.txt"
+ },
+ {
+  "uid": "PA793756",
+  "nom": "François Piquemal",
+  "naissance": "1984-12-28",
+  "profession_declaree": "Enseignant",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "Institut national supérieur du professorat et de l'éducation | université Toulouse-Jean-Jaurès",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793756.txt"
+ },
+ {
+  "uid": "PA793772",
+  "nom": "Christophe Bex",
+  "naissance": "1961-11-14",
+  "profession_declaree": "Retraité",
+  "insee_cat": "Sans profession déclarée",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793772.txt"
+ },
+ {
+  "uid": "PA793780",
+  "nom": "Christine Arrighi",
+  "naissance": "1959-09-19",
+  "profession_declaree": "Ancien cadre",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793780.txt"
+ },
+ {
+  "uid": "PA793796",
+  "nom": "David Taupiac",
+  "naissance": "1975-05-13",
+  "profession_declaree": "Consultant aéronautique",
+  "insee_cat": "Professions libérales",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793796.txt"
+ },
+ {
+  "uid": "PA793816",
+  "nom": "Mélanie Thomin",
+  "naissance": "1984-06-04",
+  "profession_declaree": "Professeur, profession scientifique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793816.txt"
+ },
+ {
+  "uid": "PA793832",
+  "nom": "Yoann Gillet",
+  "naissance": "1986-08-29",
+  "profession_declaree": "Cadre de la fonction publique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793832.txt"
+ },
+ {
+  "uid": "PA793852",
+  "nom": "Pierre Meurin",
+  "naissance": "1989-11-30",
+  "profession_declaree": "Cadre administratif et commercial d'entreprise",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793852.txt"
+ },
+ {
+  "uid": "PA793872",
+  "nom": "Nathalie Oziol",
+  "naissance": "1990-02-18",
+  "profession_declaree": "Professeur, profession scientifique",
+  "insee_cat": "Cadres administratifs et techniques de la fonction publique",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793872.txt"
+ },
+ {
+  "uid": "PA793892",
+  "nom": "Stéphanie Galzy",
+  "naissance": "1981-10-20",
+  "profession_declaree": "Employé administratif d'entreprise",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "La Banque postale",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793892.txt"
+ },
+ {
+  "uid": "PA793912",
+  "nom": "Sylvain Carrière",
+  "naissance": "1991-05-21",
+  "profession_declaree": "Employé de commerce",
+  "insee_cat": "Employés de commerce",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793912.txt"
+ },
+ {
+  "uid": "PA793928",
+  "nom": "Edwige Diaz",
+  "naissance": "1987-10-15",
+  "profession_declaree": "Cadre administratif et commercial d'entreprise",
+  "insee_cat": "Cadres des services administratifs et commerciaux d’entreprise",
+  "wikidata_edu": "",
+  "wikidata_emp": "",
+  "bio_file": "/Users/mathieu.vandecatsije/Code/quinousrepresente/data/wiki_trimmed/PA793928.txt"
+ }
+]
