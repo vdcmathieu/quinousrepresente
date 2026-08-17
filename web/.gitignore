@@ -39,5 +39,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-.data/
-public/photos/
+# Synced from ../data by scripts/sync-data.mjs. Committed, not ignored:
+# the deployment builds from web/ alone and cannot reach ../data.

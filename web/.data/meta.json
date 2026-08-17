@@ -1,0 +1,11 @@
+{
+ "legislature": 17,
+ "source": "Assemblée nationale (open data AMO10), Wikidata, fr.wikipedia, recherche documentaire",
+ "couverture": {
+  "deputes": 577,
+  "diplomeDocumente": 474,
+  "diplomeInconnu": 103,
+  "carriereDocumentee": 574,
+  "confianceHaute": 321
+ }
+}
