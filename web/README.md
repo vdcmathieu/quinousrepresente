@@ -8,18 +8,18 @@ Next.js App Router + TypeScript + Tailwind v4. No runtime database, no API route
 ```
 npm install
 npm run dev      # http://localhost:3000
-npm run build    # 598 static pages
+npm run build    # prerenders the whole site (577 profiles included)
 npm run lint
 ```
 
 `predev` and `prebuild` both run `scripts/sync-data.mjs`, which copies the data contract into the app:
 
 - `../data/site/*.json` → `web/.data/` (read at build time by `src/lib/data.ts`)
-- `../data/photos/*.jpg` → `web/public/photos/`
+- `../data/photos/*.jpg` → `web/public/photos/*.webp` (re-encoded, ~29 kB JPEG → ~4 kB WebP)
 
-Both destinations are gitignored, so the numbers on the site are always whatever the pipeline produced for that build. Nothing is snapshotted into source.
+Both destinations are committed: that is what lets `web/` build and deploy on its own, without the pipeline.
+When `../data` is reachable, every build refreshes them from whatever the pipeline produced last; when it is not (a bare `web/` checkout), the committed snapshot is served as is.
 `data/` and `scripts/` at the repository root are read-only inputs and are never written to from here.
-Both destinations stay gitignored, which is also what makes a clean Vercel checkout correct: `prebuild` regenerates them from the committed sources on every deployment.
 
 ## Routes
 

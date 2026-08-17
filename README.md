@@ -62,10 +62,12 @@ Next.js (App Router, TypeScript, Tailwind), entièrement statique, généré au 
 cd web
 npm install
 npm run dev      # synchronise les données puis démarre sur :3000
-npm run build    # 599 pages prérendues
+npm run build    # tout le site prérendu, fiches des 577 députés incluses
 ```
 
-`npm run dev` et `npm run build` copient `data/site/*.json` et `data/photos/` dans `web/` : ces copies ne sont pas versionnées, seules leurs sources le sont.
+`npm run dev` et `npm run build` copient `data/site/*.json` et `data/photos/` dans `web/` (portraits recompressés en WebP au passage).
+Ces copies sont versionnées : c'est ce qui permet de déployer `web/` seul, sans exécuter le pipeline.
+Quand `data/` est présent, chaque build les régénère depuis la sortie du pipeline.
 
 ## Licence
 

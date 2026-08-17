@@ -10,9 +10,10 @@
  * On the directory page, where several dozen portraits load, that is the
  * difference between 800 kB and 110 kB.
  *
- * Both destinations are gitignored. The copy runs on `predev` and `prebuild`,
- * so every build re-reads whatever the data pipeline produced last — nothing is
- * ever snapshotted into source.
+ * Both destinations are committed, so a checkout of web/ alone still builds.
+ * The copy runs on `predev` and `prebuild`: when ../data is reachable, every
+ * build re-reads whatever the data pipeline produced last; when it is not,
+ * the committed snapshot is served as is.
  */
 import { cpSync, existsSync, mkdirSync, readdirSync, rmSync, statSync } from "node:fs";
 import { dirname, join, parse } from "node:path";
