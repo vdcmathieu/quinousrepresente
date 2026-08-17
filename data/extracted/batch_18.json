@@ -1,0 +1,286 @@
+{
+  "batch": 18,
+  "deputies": [
+    {
+      "uid": "PA793944",
+      "nom": "Alexandra Martin (Gironde)",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Responsable d'un centre de formation dans les métiers de l'industrie", "employeur": "Centre de formation (Bruges)", "secteur": "prive", "periode": "avant 2023"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Bio très courte, secteur du centre de formation non précisé."
+    },
+    {
+      "uid": "PA793948",
+      "nom": "Nicolas Thierry",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-Sorbonne", "diplome": "DESS", "domaine": "psychosociologie de l'environnement"},
+        {"institution": "Université Paris-Nanterre", "diplome": "Master", "domaine": "histoire"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Gestion des déchets", "employeur": "non précisé (Polynésie française)", "secteur": "prive", "periode": "vers 2002-2005"},
+        {"poste": "Conseiller technique", "employeur": "Cabinet de Cécile Duflot, ministre du Logement", "secteur": "politique", "periode": "vers 2012-2014"},
+        {"poste": "Chargé de mission", "employeur": "Syndicat mixte du Parc naturel régional des Landes de Gascogne", "secteur": "public", "periode": "avril 2016-juin 2021"},
+        {"poste": "Chargé de mission", "employeur": "Agence régionale de la biodiversité Nouvelle-Aquitaine", "secteur": "public", "periode": "janvier 2018-juin 2021"},
+        {"poste": "Chargé de mission", "employeur": "Conservatoire d'espaces naturels de Nouvelle-Aquitaine", "secteur": "associatif", "periode": "janvier 2020-juin 2021"},
+        {"poste": "Enseignant en communication politique", "employeur": "Sciences Po Bordeaux", "secteur": "public", "periode": "2017-2024"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Le secteur du premier emploi (gestion des déchets en Polynésie) est incertain."
+    },
+    {
+      "uid": "PA793980",
+      "nom": "Charles Fournier",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université de Tours", "diplome": "non précisé", "domaine": "aménagement du territoire et géographie"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Formateur", "employeur": "Coopérative (non précisée)", "secteur": "prive", "periode": "non précisée, avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Niveau exact du diplôme d'études non précisé dans la source."
+    },
+    {
+      "uid": "PA793992",
+      "nom": "Henri Alfandari",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": ["economie", "gestion-commerce"],
+      "career": [
+        {"poste": "Directeur de la communication", "employeur": "Groupe Saint-Gatien (clinique privée, entreprise familiale)", "secteur": "prive", "periode": "jusqu'en février 2021"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Études en économie-gestion entamées mais non certifiées comme achevées dans la source."
+    },
+    {
+      "uid": "PA794008",
+      "nom": "Cyrielle Chatelain",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "non précisée", "diplome": "Double licence", "domaine": "philosophie et science politique"},
+        {"institution": "non précisée", "diplome": "Master", "domaine": "entrepreneuriat en économie sociale et solidaire"}
+      ],
+      "fields": ["sciences politiques", "gestion-commerce", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Salariée", "employeur": "Fédération d'associations d'insertion par le logement", "secteur": "associatif", "periode": "avant 2012"},
+        {"poste": "Collaboratrice parlementaire", "employeur": "Éric Alauzet, député", "secteur": "politique", "periode": "2012-2014"},
+        {"poste": "Chargée du dossier logement au cabinet", "employeur": "Christophe Ferrari, président de la Métropole de Grenoble", "secteur": "politique", "periode": "2015-2018"},
+        {"poste": "Conseillère technique au cabinet", "employeur": "Bruno Bernard, président de la Métropole de Lyon", "secteur": "politique", "periode": "2020-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Carrière dominée par des postes en cabinet politique, avec un passage associatif antérieur."
+    },
+    {
+      "uid": "PA794022",
+      "nom": "Jérémie Iordanoff",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": ["arts"],
+      "career": [
+        {"poste": "Attaché parlementaire", "employeur": "Jean-Louis Roumégas, député", "secteur": "politique", "periode": "2012-2017"},
+        {"poste": "Artiste-peintre", "employeur": "Indépendant", "secteur": "liberal_independant", "periode": "non précisée"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Exerce aussi comme artiste-peintre indépendant en parallèle de son parcours politique."
+    },
+    {
+      "uid": "PA794030",
+      "nom": "Alexis Jolly",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Commerçant", "employeur": "non précisé", "secteur": "liberal_independant", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Le parcours professionnel n'est décrit dans la bio que via la profession déclarée (commerçant), sans détail."
+    },
+    {
+      "uid": "PA794038",
+      "nom": "Yannick Neuder",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "non précisée", "diplome": "Doctorat en médecine, spécialisation cardiologie", "domaine": "medecine-sante"}
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {"poste": "Cardiologue, responsable du pôle thorax et vaisseaux", "employeur": "CHU de Grenoble", "secteur": "public", "periode": "avant 2022, exercice continu"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA794058",
+      "nom": "Justine Gruet",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "non précisée", "diplome": "Diplôme d'État de masseur-kinésithérapeute", "domaine": "medecine-sante"}
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {"poste": "Masseur-kinésithérapeute", "employeur": "Cabinet libéral", "secteur": "liberal_independant", "periode": "jusqu'à son élection en 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA794082",
+      "nom": "Mathilde Hignet",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [
+        {"institution": "non précisée", "diplome": "Baccalauréat STAV (bac agricole)", "domaine": "agriculture"},
+        {"institution": "non précisée", "diplome": "Certificat de qualification professionnelle de commis de cuisine", "domaine": "autre"}
+      ],
+      "fields": ["agriculture", "autre"],
+      "career": [
+        {"poste": "Ouvrière agricole", "employeur": "Ferme fruitière familiale", "secteur": "prive", "periode": "avant 2022"},
+        {"poste": "Employée", "employeur": "Ehpad (établissement non précisé)", "secteur": "prive", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Statut public/privé de l'Ehpad où elle a travaillé non précisé dans la source."
+    },
+    {
+      "uid": "PA794094",
+      "nom": "Mickaël Bouloux",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École supérieure d'électricité (Supélec)", "diplome": "Diplôme d'ingénieur", "domaine": "informatique"}
+      ],
+      "fields": ["ingenierie", "informatique"],
+      "career": [
+        {"poste": "Ingénieur", "employeur": "Orange", "secteur": "prive", "periode": "depuis 1995, avant son mandat"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA794106",
+      "nom": "Andrée Taurinya",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "non précisée", "diplome": "Maîtrise", "domaine": "russe"},
+        {"institution": "non précisée", "diplome": "CAPES de lettres modernes", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["lettres-sciences humaines", "education"],
+      "career": [
+        {"poste": "Professeure de lettres modernes", "employeur": "Éducation nationale (région parisienne puis collège Jean-Dasté, Saint-Étienne)", "secteur": "public", "periode": "jusqu'en 2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA794114",
+      "nom": "Emmanuel Mandon",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "non précisée", "diplome": "Maîtrise", "domaine": "droit public"},
+        {"institution": "IEP de Lyon", "diplome": "Diplôme de l'IEP", "domaine": "sciences politiques"}
+      ],
+      "fields": ["droit", "sciences politiques"],
+      "career": [
+        {"poste": "Assistant parlementaire", "employeur": "François Rochebloine, député", "secteur": "politique", "periode": "dès 1988"},
+        {"poste": "Conseiller d'insertion professionnelle", "employeur": "non précisé", "secteur": "prive", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Secteur exact de l'activité de conseiller d'insertion professionnelle non précisé."
+    },
+    {
+      "uid": "PA794118",
+      "nom": "Antoine Vermorel-Marques",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme de l'IEP", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Collaborateur parlementaire", "employeur": "Robin Reda puis Damien Abad, députés", "secteur": "politique", "periode": "2017-2019"},
+        {"poste": "Conseiller presse et politique", "employeur": "Groupe Les Républicains à l'Assemblée nationale", "secteur": "politique", "periode": "2019-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA794130",
+      "nom": "Andy Kerbrat",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [
+        {"institution": "non précisée", "diplome": "Baccalauréat, série art dramatique", "domaine": "arts"}
+      ],
+      "fields": ["arts"],
+      "career": [
+        {"poste": "Ouvreur", "employeur": "Théâtre (non précisé)", "secteur": "prive", "periode": "CDD, avant son mandat"},
+        {"poste": "Chargé d'assistance automobile", "employeur": "non précisé", "secteur": "prive", "periode": "CDD, avant son mandat"},
+        {"poste": "Salarié", "employeur": "Centre d'appels téléphoniques (non précisé)", "secteur": "prive", "periode": "avant son mandat"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "A entamé des études d'histoire en faculté mais les a abandonnées."
+    }
+  ]
+}

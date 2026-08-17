@@ -1,0 +1,271 @@
+{"deputies": [
+ {
+  "uid": "PA840869",
+  "nom": "Florence Joubert",
+  "highest_degree_level": "bac+2",
+  "degrees": [
+   {"institution": "inconnu", "diplome": "Formation d'instituteur (concours + École normale, avant la réforme de 1990 créant les professeurs des écoles)", "domaine": "enseignement"}
+  ],
+  "fields": ["enseignement"],
+  "career": [
+   {"poste": "Institutrice", "employeur": "Éducation nationale, Paris", "secteur": "public", "periode": "avant 1995"},
+   {"poste": "Restauration de maisons (rénovation immobilière)", "employeur": "inconnu, Dordogne", "secteur": "liberal_independant", "periode": "à partir de 1995"},
+   {"poste": "Secrétariat médical", "employeur": "SCM ORL Associés (Dordogne)", "secteur": "prive", "periode": "01/2019-09/2020 (HATVP)"},
+   {"poste": "Assistante parlementaire", "employeur": "Serge Muller, député RN de la 2e circonscription de Dordogne", "secteur": "politique", "periode": "07/2022-06/2024"}
+  ],
+  "worked_private": true,
+  "worked_public": true,
+  "political_career_only": false,
+  "career_profile": "mixte_public_prive",
+  "confidence": "moyenne",
+  "notes": "Le wikitext brut de l'article Wikipédia (non visible dans l'extrait trimé) révèle, sourcé par Sud Ouest (5 juillet 2024), que Florence Joubert est « institutrice à Paris avant de s'installer en Dordogne en 1995, où elle travaille dans la restauration de maisons et le secrétariat médical » ; l'infobox indique par ailleurs la profession « Ancienne institutrice ». Ceci recoupe et éclaire l'emploi HATVP « Secrétariat médical » chez SCM ORL Associés (01/2019-09/2020), jusqu'ici sans lien établi avec son parcours. Le métier d'instituteur (et non de professeur des écoles, titre créé en 1989-1990) était recruté par concours après le baccalauréat avec deux ans de formation à l'École normale, soit un niveau bac+2 ; inférence de profession réglementée, confiance plafonnée à moyenne. Le profil bascule de « public_uniquement » à « mixte_public_prive » : enseignement public avant 1995, puis activités privées/indépendantes en Dordogne (rénovation, secrétariat médical), puis collaboration parlementaire.",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Florence_Joubert", "pour": "both"},
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA721004",
+  "nom": "Amélia Lakrafi",
+  "highest_degree_level": "inconnu",
+  "degrees": [],
+  "fields": ["armee-securite", "informatique"],
+  "career": [
+   {"poste": "Fondatrice", "employeur": "Bizinnov (édition de solutions de sécurisation des données)", "secteur": "liberal_independant", "periode": "à partir de 2009"},
+   {"poste": "Fondatrice-dirigeante", "employeur": "AZGUARD (conseil et formation en cybersécurité et intelligence économique)", "secteur": "liberal_independant", "periode": "avant 2017"},
+   {"poste": "Réserviste, grade de commandant", "employeur": "Réserve citoyenne cyberdéfense", "secteur": "associatif", "periode": "depuis 2015 (engagement bénévole)"}
+  ],
+  "worked_private": true,
+  "worked_public": false,
+  "political_career_only": false,
+  "career_profile": "prive_uniquement",
+  "confidence": "moyenne",
+  "notes": "Wikitext brut et site personnel (amelialakrafi.fr/votre-deputee/biographie, texte vérifié par curl+grep) confirment : études au CNAM-Intec puis diplômée en 2015 de l'INHESJ (spécialisation intelligence économique, sécurité et sûreté des entreprises, École militaire) ; création d'une première société Bizinnov en 2009 (non mentionnée dans le lot précédent), puis AZGUARD en 2016. Son propre site précise que son siège 2018-2022 au conseil d'administration de l'Agence française de développement (repris dans le HATVP comme rôle « dirigeant ») découle de son mandat de députée, et non d'un emploi salarié : exclu de la carrière professionnelle. Conformément au raisonnement déjà établi lors du passage précédent, l'INHESJ est une formation professionnelle continue de haut niveau et non un diplôme universitaire classique clairement gradué (bac+3/bac+5) ; le CNAM-Intec n'est associé à aucun diplôme nommé (BTS, DCG, DSCG) dans les sources disponibles. Diplôme maintenu à « inconnu » par honnêteté, faute de mieux.",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Amal_Am%C3%A9lia_Lakrafi", "pour": "both"},
+   {"url": "https://amelialakrafi.fr/votre-deputee/biographie/", "pour": "both"},
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA795390",
+  "nom": "Sandrine Lalanne",
+  "highest_degree_level": "inconnu",
+  "degrees": [],
+  "fields": [],
+  "career": [
+   {"poste": "Cadre Responsable de Projets", "employeur": "Société Air France", "secteur": "prive", "periode": "01/2020-12/2025 (HATVP)"}
+  ],
+  "worked_private": true,
+  "worked_public": false,
+  "political_career_only": false,
+  "career_profile": "prive_uniquement",
+  "confidence": "haute",
+  "notes": "L'index HATVP local, absent lors du passage précédent, résout entièrement le cas : Sandrine Lalanne était « Cadre Responsable de Projets » chez la Société Air France de janvier 2020 à décembre 2025, ce qui corrobore directement la catégorie INSEE « Ingénieurs et cadres techniques d'entreprise » associée à son profil AN et lève l'incohérence avec la mention « Sans profession déclarée » (probablement un artefact de saisie au moment de son entrée tardive à l'Assemblée le 13 novembre 2025, après la fin de son emploi déclaré). Wikipédia (article très court, deux phrases) et Wikidata ne mentionnent aucune occupation ni établissement de formation. Diplôme resté inconnu faute de toute source sur son parcours d'études, mais carrière désormais bien établie via une source autoritative nommée (HATVP).",
+  "sources": [
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+   {"url": "https://fr.wikipedia.org/wiki/Sandrine_Lalanne", "pour": "diplome"}
+  ]
+ },
+ {
+  "uid": "PA857021",
+  "nom": "Alim Latrèche",
+  "highest_degree_level": "bac+5",
+  "degrees": [
+   {"institution": "inconnu", "diplome": "Master en management", "domaine": "economie-gestion"}
+  ],
+  "fields": ["economie-gestion"],
+  "career": [
+   {"poste": "Ingénieur-Cadre", "employeur": "Schneider Electric", "secteur": "prive", "periode": "inconnue"}
+  ],
+  "worked_private": true,
+  "worked_public": false,
+  "political_career_only": false,
+  "career_profile": "prive_uniquement",
+  "confidence": "moyenne",
+  "notes": "Le Dauphiné Libéré (3 décembre 2024, texte vérifié par curl+grep) écrit : « Titulaire d'un master en management, il a mené en parallèle une carrière de sportif de très haut niveau », ce qui apporte une information de diplôme totalement absente de la section « Formation » (explicitement vide, {{…}}) de l'article Wikipédia complet, vérifié en wikitext brut. L'établissement délivrant ce master n'est pas nommé, d'où confiance plafonnée à moyenne malgré un diplôme identifié. L'employeur Schneider Electric et le titre « Ingénieur-Cadre » proviennent de Wikidata et de la profession déclarée à l'Assemblée nationale mais n'ont pu être recoupés par aucune source de presse indépendante (HATVP ne contient aucune fiche pour PA857021, probablement parce qu'il n'est député que depuis le 27 mars 2026) ; carrière conservée telle quelle par manque de mieux.",
+  "sources": [
+   {"url": "https://www.ledauphine.com/elections/2024/12/03/legislative-partielle-camille-galliard-minier-en-lice-avec-le-champion-paralympique-alim-latreche", "pour": "diplome"},
+   {"url": "https://fr.wikipedia.org/wiki/Alim_Latr%C3%A8che", "pour": "both"}
+  ]
+ },
+ {
+  "uid": "PA720342",
+  "nom": "Nicole Le Peih",
+  "highest_degree_level": "inconnu",
+  "degrees": [],
+  "fields": [],
+  "career": [
+   {"poste": "Emploi en hôtellerie de luxe (poste non précisé)", "employeur": "inconnu, à Quiberon puis Chartres puis Paris", "secteur": "prive", "periode": "avant 1980"},
+   {"poste": "Assistante commerciale", "employeur": "Lerial (Locminé, Morbihan)", "secteur": "prive", "periode": "jusqu'en 1989"},
+   {"poste": "Co-exploitante agricole (volailles et vaches allaitantes)", "employeur": "Exploitation agricole familiale, Baud", "secteur": "liberal_independant", "periode": "depuis 1989, jusqu'en retraite 12/2021 (pension MSA-Ircantec depuis, HATVP)"}
+  ],
+  "worked_private": true,
+  "worked_public": false,
+  "political_career_only": false,
+  "career_profile": "prive_uniquement",
+  "confidence": "haute",
+  "notes": "Aucun élément nouveau sur le niveau d'études : le wikitext brut de l'article Wikipédia complet (vérifié) confirme mot pour mot le même récit que l'extrait trimé (hôtellerie de luxe puis Lerial puis exploitation agricole à Baud), avec le champ infobox « université » vide. L'index HATVP local confirme la mise en retraite au 31/12/2021 (pension MSA-Ircantec) et un rôle de dirigeante à partir de 07/2022 (employeur non nommé, cohérent avec la structure de l'exploitation agricole familiale). Diplôme laissé inconnu ; le métier d'agricultrice/exploitante ne présume aucun niveau de diplôme précis (cf. règle sur les professions non réglementées).",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Nicole_Le_Peih", "pour": "both"},
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA795374",
+  "nom": "Pascal Lecamp",
+  "highest_degree_level": "inconnu",
+  "degrees": [],
+  "fields": [],
+  "career": [
+   {"poste": "Directeur des relations parlementaires et de la coopération internationale", "employeur": "Business France (établissement public industriel et commercial)", "secteur": "public", "periode": "09/2018-03/2022 (HATVP)"}
+  ],
+  "worked_private": false,
+  "worked_public": true,
+  "political_career_only": false,
+  "career_profile": "public_uniquement",
+  "confidence": "haute",
+  "notes": "L'index HATVP local résout un cas jusque-là totalement générique (« Cadre administratif et commercial d'entreprise @ inconnu ») : Pascal Lecamp a été directeur des relations parlementaires et de la coopération internationale chez Business France de septembre 2018 à mars 2022, poste qu'il occupe donc jusqu'à son élection comme député (19 juin 2022). Business France est un établissement public industriel et commercial (EPIC) placé sous la tutelle des ministères de l'Économie et des Affaires étrangères, donc classé « public » et non « prive » malgré la catégorie AN « Cadre administratif et commercial d'entreprise » (probablement un artefact de la nomenclature socio-professionnelle générique de l'Assemblée, qui ne distingue pas EPIC et entreprise privée). Aucune trace d'un emploi antérieur distinct dans le privé n'a pu être établie. Le profil bascule donc de « prive_uniquement » (confiance basse) à « public_uniquement » (confiance haute). Aucun diplôme mentionné dans le wikitext brut de l'article Wikipédia (ébauche centrée sur son parcours politique local), qui reste vide sur ce point malgré vérification complète.",
+  "sources": [
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+   {"url": "https://fr.wikipedia.org/wiki/Pascal_Lecamp", "pour": "diplome"}
+  ]
+ },
+ {
+  "uid": "PA794838",
+  "nom": "Didier Lemaire",
+  "highest_degree_level": "inconnu",
+  "degrees": [],
+  "fields": [],
+  "career": [
+   {"poste": "Sapeur-pompier volontaire", "employeur": "SDIS du Haut-Rhin", "secteur": "public", "periode": "à partir de 16 ans"},
+   {"poste": "Sapeur-pompier professionnel", "employeur": "SDIS du Haut-Rhin, centre de secours principal de Mulhouse puis Altkirch", "secteur": "public", "periode": "2003-2018"},
+   {"poste": "Adjudant-chef, adjoint au chef de centre de secours d'Altkirch", "employeur": "SDIS du Haut-Rhin", "secteur": "public", "periode": "2011-2018"},
+   {"poste": "Agent au centre opérationnel départemental d'incendie et de secours (CODIS)", "employeur": "SDIS du Haut-Rhin, Colmar", "secteur": "public", "periode": "2018-2022 (confirmé HATVP : 01/2018-06/2022)"}
+  ],
+  "worked_private": false,
+  "worked_public": true,
+  "political_career_only": false,
+  "career_profile": "public_uniquement",
+  "confidence": "haute",
+  "notes": "Wikitext brut de l'article Wikipédia et HATVP confirment intégralement la carrière déjà établie, sans nouvel élément sur un diplôme. L'index HATVP local révèle en outre des rôles de dirigeant bénévole (Office municipal des sports d'Altkirch 05/2020-07/2022, Syndicat mixte des gardes champêtres intercommunaux « Brigades vertes » 09/2020-11/2022) et un engagement bénévole à l'Association française pour la prévention des catastrophes naturelles et technologiques : fonctions civiques liées à son mandat d'élu local, non ajoutées à la carrière professionnelle proprement dite. Le concours de sapeur-pompier professionnel ne requiert pas de diplôme universitaire particulier ; diplôme laissé inconnu par honnêteté, comme lors du passage précédent.",
+  "sources": [
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+   {"url": "https://fr.wikipedia.org/wiki/Didier_Lemaire", "pour": "both"}
+  ]
+ },
+ {
+  "uid": "PA721632",
+  "nom": "Patricia Lemoine",
+  "highest_degree_level": "inconnu",
+  "degrees": [],
+  "fields": [],
+  "career": [
+   {"poste": "Agent immobilier", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "avant sa carrière politique (source Who's Who)"},
+   {"poste": "Directrice de cabinet", "employeur": "inconnu (cabinet d'un élu local, non identifié)", "secteur": "politique", "periode": "avant 2018 (profession déclarée à l'Assemblée nationale et confirmée par nosdeputes.fr)"},
+   {"poste": "Maire de Condé-Sainte-Libiaire", "employeur": "Commune de Condé-Sainte-Libiaire", "secteur": "politique", "periode": "mars 2008-décembre 2018"},
+   {"poste": "Présidente de la communauté de communes du Pays Créçois", "employeur": "CC du Pays Créçois", "secteur": "politique", "periode": "mars 2008-octobre 2018"}
+  ],
+  "worked_private": true,
+  "worked_public": false,
+  "political_career_only": false,
+  "career_profile": "politique_principalement",
+  "confidence": "moyenne",
+  "notes": "Aucune amélioration possible cette session : le wikitext brut de l'article Wikipédia complet ne contient toujours aucune information sur sa carrière avant 2008 ni sur un établissement de formation (infobox sans champ profession/université). L'index HATVP local ne contient aucune déclaration pour PA721632 (entrée null). Le JSON nosdeputes.fr confirme uniquement la profession déclarée « Directrice de cabinet » à son entrée en fonction, sans détail supplémentaire. La fiche Who's Who (citée lors du passage précédent) reste inaccessible en contenu statique (site chargé en JavaScript). Enregistrement conservé inchangé.",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Patricia_Lemoine", "pour": "both"},
+   {"url": "https://www.nosdeputes.fr/patricia-lemoine/json", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA795244",
+  "nom": "Stéphane Lenormand",
+  "highest_degree_level": "bac+5",
+  "degrees": [
+   {"institution": "inconnu", "diplome": "Professorat certifié d'histoire-géographie et de français (niveau CAPES)", "domaine": "enseignement"}
+  ],
+  "fields": ["histoire-geographie", "lettres-langues", "enseignement"],
+  "career": [
+   {"poste": "Professeur d'histoire-géographie et de français", "employeur": "Éducation nationale, Saint-Pierre-et-Miquelon", "secteur": "public", "periode": "avant sa carrière politique ; réapparaît au HATVP comme « Enseignant » 01/2021-08/2021"}
+  ],
+  "worked_private": false,
+  "worked_public": true,
+  "political_career_only": false,
+  "career_profile": "public_uniquement",
+  "confidence": "moyenne",
+  "notes": "La page la1ere.francetvinfo.fr (portrait de candidat, 30 mai 2017 — précédemment notée comme introuvable/404 par le passage précédent, mais accessible et vérifiée par curl+grep cette session) écrit explicitement : « Ce professeur d'histoire-géographie et de français […] a rejoint le mouvement politique Archipel Demain il y a 30 ans. » Ceci recoupe l'infobox du wikitext brut Wikipédia (profession = Enseignant) et la catégorie Wikipédia « Professeur français de lettres », ainsi que l'entrée HATVP « Enseignant @ Education Nationale » (01/2021-08/2021, un retour ponctuel à l'enseignement entre la présidence du conseil territorial et son mandat de député). Professeur certifié d'histoire-géographie et de français implique normalement le CAPES (bac+5) ; inférence de profession réglementée, confiance plafonnée à moyenne malgré une source de presse nommée et vérifiée. Établissement scolaire non identifié.",
+  "sources": [
+   {"url": "https://la1ere.francetvinfo.fr/saintpierremiquelon/portraits-candidats-25-stephane-lenormand-archipel-demain-478817.html", "pour": "both"},
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+   {"url": "https://fr.wikipedia.org/wiki/St%C3%A9phane_Lenormand", "pour": "both"}
+  ]
+ },
+ {
+  "uid": "PA794750",
+  "nom": "Thierry Liger",
+  "highest_degree_level": "inconnu",
+  "degrees": [],
+  "fields": [],
+  "career": [
+   {"poste": "Chef d'entreprise (secteur et société non identifiés)", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "avant 2014"},
+   {"poste": "Maire de Maison-Maugis", "employeur": "Commune de Maison-Maugis", "secteur": "politique", "periode": "mars 2014-décembre 2015"},
+   {"poste": "Président de la communauté de communes Cœur du Perche", "employeur": "CdC Cœur du Perche", "secteur": "politique", "periode": "juillet 2020-février 2025"},
+   {"poste": "Conseiller régional de Normandie", "employeur": "Région Normandie", "secteur": "politique", "periode": "depuis juillet 2021"}
+  ],
+  "worked_private": true,
+  "worked_public": false,
+  "political_career_only": false,
+  "career_profile": "prive_uniquement",
+  "confidence": "basse",
+  "notes": "Aucun élément nouveau : le wikitext brut de l'article Wikipédia (biographie très courte, uniquement politique) ne nomme ni entreprise ni diplôme (infobox université/profession réduite à « Chef d'entreprise »). La version archivée (web.archive.org, 18 juillet 2024) de la page normandie.fr/thierry-liger citée par Wikipédia ne contient qu'une fiche de contact (adresse, téléphone), sans biographie professionnelle. L'index HATVP local ne contient aucune déclaration pour PA794750 (entrée null). Diplôme et secteur d'entreprise restent inconnus faute de toute source.",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Thierry_Liger", "pour": "both"},
+   {"url": "http://web.archive.org/web/20240718032400/https://www.normandie.fr/thierry-liger", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA840967",
+  "nom": "René Lioret",
+  "highest_degree_level": "inconnu",
+  "degrees": [],
+  "fields": [],
+  "career": [
+   {"poste": "Employé, spécialisé en antibiothérapie, cancérologie et psychotropes", "employeur": "Laboratoires Lederle (laboratoire pharmaceutique américain)", "secteur": "prive", "periode": "1976-1984"},
+   {"poste": "Directeur des opérations, circuit pharmaceutique", "employeur": "Laboratoires Urgo", "secteur": "prive", "periode": "1984-2018 (retraite)"}
+  ],
+  "worked_private": true,
+  "worked_public": false,
+  "political_career_only": false,
+  "career_profile": "prive_uniquement",
+  "confidence": "haute",
+  "notes": "Le wikitext brut de l'article Wikipédia complet confirme la carrière déjà établie (postes, employeurs nommés, dates), sans aucune mention de diplôme ni d'établissement de formation (infobox profession/université vides). L'index HATVP local ne contient aucune activité déclarée pour PA840967 (retraité depuis 2018, avant le début de ses déclarations de mandat en 2021). Le poste de directeur des opérations concerne la logistique du circuit pharmaceutique, non la fabrication ou la dispensation du médicament, donc pas d'inférence de diplôme de pharmacien. Diplôme laissé inconnu par honnêteté.",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Ren%C3%A9_Lioret", "pour": "both"},
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA720446",
+  "nom": "Brigitte Liso",
+  "highest_degree_level": "inconnu",
+  "degrees": [],
+  "fields": [],
+  "career": [
+   {"poste": "Chargée de relations publiques et commerciales", "employeur": "Pernod Ricard", "secteur": "prive", "periode": "inconnu"},
+   {"poste": "Chargée de relations publiques et commerciales", "employeur": "Hachette Livre", "secteur": "prive", "periode": "inconnu"},
+   {"poste": "Visiteuse médicale", "employeur": "GlaxoSmithKline (GSK)", "secteur": "prive", "periode": "inconnu"},
+   {"poste": "Co-fondatrice, restaurant de cuisine française moderne", "employeur": "Restaurant indépendant, Vieux-Lille", "secteur": "liberal_independant", "periode": "2010-"},
+   {"poste": "Fondatrice, boutique de pâtisseries spécialisée dans les éclairs", "employeur": "Commerce indépendant, Vieux-Lille", "secteur": "liberal_independant", "periode": "2015-"}
+  ],
+  "worked_private": true,
+  "worked_public": false,
+  "political_career_only": false,
+  "career_profile": "prive_uniquement",
+  "confidence": "haute",
+  "notes": "Le wikitext brut de l'article Wikipédia confirme mot pour mot la carrière déjà établie (source La Croix, 22 juin 2018), sans nouvelle mention de diplôme (section « Jeunesse et formation » qui ne traite en réalité que des origines familiales italiennes, pas d'études). L'index HATVP local ne mentionne aucune activité salariée nommée (champ vide) ; il révèle un rôle bénévole/dirigeant récent (2026) à l'UNADFI, postérieur de plusieurs années à son entrée en politique (2017) et donc sans pertinence pour la carrière pré-politique. Le site personnel brigitteliso.fr reste injoignable et les articles de La Voix du Nord cités restent bloqués (403). Diplôme laissé inconnu.",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Brigitte_Liso", "pour": "both"},
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+  ]
+ }
+]}

@@ -1,0 +1,250 @@
+{"deputies": [
+  {
+    "uid": "PA841487",
+    "nom": "Anthony Boulogne",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Chargé de développement commercial", "employeur": "L'expert comptable.com", "secteur": "prive", "periode": "2020-2021"},
+      {"poste": "Assistant commercial", "employeur": "Expertise Choix B", "secteur": "prive", "periode": "2021-2022"},
+      {"poste": "Responsable commercial", "employeur": "FOEDERIS", "secteur": "prive", "periode": "2022-2024"},
+      {"poste": "Président", "employeur": "Centre de Conseil en Construction", "secteur": "liberal_independant", "periode": "depuis 2021"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Carrière entièrement documentée via sa déclaration HATVP consultée directement : quatre employeurs privés successifs dans le commercial/vente B2B (expertise-comptable en ligne, conseil en création d'entreprise, édition de logiciels RH), plus une société de conseil en construction dont il est président depuis 2021. Aucune information sur ses études ou diplômes trouvée malgré vérification de la fiche Assemblée nationale, Wikipédia (fr/en), HATVP et recherches presse ciblées (BTS commerce, formation) : reste inconnu.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/boulogne-anthony-27516", "pour": "carriere"},
+      {"url": "https://www.assemblee-nationale.fr/dyn/deputes/PA841487", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA794938",
+    "nom": "Idir Boumertit",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Conseiller emploi formation", "employeur": "Mission locale de Lyon", "secteur": "associatif", "periode": "2019-2022"},
+      {"poste": "Éducateur sportif (taekwondo)", "employeur": "Taekwondo St Fons Métropole", "secteur": "associatif", "periode": "2019-2022"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Déclaration HATVP consultée directement : deux employeurs nommés et datés, tous deux de statut associatif (mission locale loi 1901, club sportif) et non fonction publique - comptés comme secteur privé/non-public au sens du champ worked_private, avec secteur précis \"associatif\" indiqué par poste. Aucun diplôme mentionné dans la déclaration HATVP ; la bio Wikipédia le présente comme \"conseiller en insertion professionnelle\" sans préciser de diplôme obtenu (BPJEPS/DEFA envisageables mais non confirmés par une source primaire) - reste inconnu par prudence.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/fiche-nominative/?declarant=boumertit-idir-24344", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841131",
+    "nom": "Manon Bouquin",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Stagiaire chargée de missions", "employeur": "Syndicat du Conseil en Relations Publics", "secteur": "associatif", "periode": "10/2019-03/2020"},
+      {"poste": "Assistante parlementaire (Parlement européen)", "employeur": "France Jamet (eurodéputée RN)", "secteur": "politique", "periode": "10/2020-08/2023"},
+      {"poste": "Collaboratrice parlementaire", "employeur": "Aurélien Lopez-Liguori (député RN de l'Hérault)", "secteur": "politique", "periode": "09/2023-06/2024"}
+    ],
+    "worked_private": false,
+    "worked_public": false,
+    "political_career_only": true,
+    "career_profile": "politique_principalement",
+    "confidence": "haute",
+    "notes": "Déclaration HATVP consultée directement : hormis un court stage (5 mois) dans un syndicat professionnel, toute sa carrière rémunérée avant le mandat est de la collaboration politique RN (assistante parlementaire européenne puis nationale), confirmant le profil politique_principalement déjà retenu. Des sources secondaires (non vérifiées sur page primaire) évoquent des études d'histoire à la Sorbonne visant le professorat, sans confirmation d'obtention d'un diplôme : le niveau de diplôme reste donc inconnu par prudence.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/fiche-nominative/?declarant=bouquin-manon-27517", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA342240",
+    "nom": "Jean-Luc Bourgeaux",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Exploitant agricole (éleveur laitier puis céréalier)", "employeur": "Exploitation individuelle à Cherrueix (Ille-et-Vilaine)", "secteur": "liberal_independant", "periode": "01/2019-12/2023 (activité cessée le 01/01/2024)"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Déclaration HATVP consultée directement : statut d'exploitant agricole individuel confirmé avec dates précises, activité cessée en 2024 (mandat de député + non-cumul). La presse locale le décrit comme ancien éleveur de vaches laitières devenu céréalier. Site personnel (jeanlucbourgeaux.fr/biographie) consulté : ne mentionne que \"agriculteur de profession\" sans détail sur sa formation. Aucune information fiable sur ses études trouvée malgré vérification HATVP, site personnel et presse : diplôme reste inconnu.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/bourgeaux-jean-luc-18806", "pour": "carriere"},
+      {"url": "https://www.jeanlucbourgeaux.fr/biographie.html", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA720838",
+    "nom": "Soumya Bourouaha",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [
+      {"institution": "École de formation aux métiers de la mode (établissement non identifié, région parisienne)", "diplome": "Formation professionnelle mode/modélisme (niveau CAP/BEP)", "domaine": "arts"}
+    ],
+    "fields": ["arts", "enseignement"],
+    "career": [
+      {"poste": "Modéliste, patronnière", "employeur": "Entreprise de mode (Paris, nom non précisé)", "secteur": "prive", "periode": "environ 5 ans, avant son entrée dans l'Éducation nationale"},
+      {"poste": "Enseignante (SEGPA puis lycée professionnel, section mode)", "employeur": "Éducation nationale - collèges de Sevran, Rosny-sous-Bois, Épinay-sur-Seine puis lycée professionnel de Saint-Denis, puis Lycée Le Corbusier (Aubervilliers)", "secteur": "public", "periode": "32 ans, à partir d'environ 26 ans ; titularisée professeure en 2021, directrice déléguée aux formations professionnelles et technologiques depuis 2004"}
+    ],
+    "worked_private": true,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "mixte_public_prive",
+    "confidence": "moyenne",
+    "notes": "Carrière double bien documentée par le site du PCF (consulté directement) : 5 ans comme modéliste/patronnière dans le privé, puis 32 ans dans l'Éducation nationale (SEGPA, lycée professionnel, direction déléguée à Aubervilliers), confirmant mixte_public_prive avec confiance haute sur ce point. Le niveau de diplôme est en revanche une inférence : sa formation initiale relève des métiers de la mode (niveau CAP/BEP), mais son statut de \"professeure\" titularisée en 2021 après un parcours de maître-auxiliaire suppose un niveau licence a minima (CAPLP/intégration) - inférence de profession réglementée, non confirmée par une source primaire citant un diplôme précis ; confiance donc fixée à moyenne, jamais haute, conformément à la règle sur les inférences.",
+    "sources": [
+      {"url": "https://www.pcf.fr/soumya_bourouaha_legislatives_2022", "pour": "both"}
+    ]
+  },
+  {
+    "uid": "PA793182",
+    "nom": "Jorys Bovet",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Chauffeur-livreur", "employeur": "DRS Transport", "secteur": "prive", "periode": "10/2017-08/2019"},
+      {"poste": "Chauffeur-livreur", "employeur": "SARL SLM Frères Transports", "secteur": "prive", "periode": "08/2019-11/2019"},
+      {"poste": "Chauffeur-livreur", "employeur": "Trans Territoire Service", "secteur": "prive", "periode": "11/2019-08/2020"},
+      {"poste": "Chauffeur-livreur", "employeur": "Transport Conan", "secteur": "prive", "periode": "09/2019-07/2022"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Déclaration HATVP consultée directement : quatre employeurs de transport/livraison nommés et datés (2017-2022), confirmant une carrière entièrement salariée dans le privé comme chauffeur-livreur, cohérent avec la profession déclarée. Une synthèse de recherche web a fait apparaître une affirmation isolée et non recoupée selon laquelle il serait diplômé de Sciences Po Lyon et serait passé par Saint-Cyr/l'INSP : cette information contredit frontalement son parcours de chauffeur-livreur documenté par l'Assemblée nationale, Wikipédia et HATVP, et n'a été retrouvée nulle part ailleurs (probable erreur d'agrégation de résultats de recherche) - elle est donc écartée. Aucun diplôme fiable trouvé : reste inconnu.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/bovet-jorys-24137", "pour": "carriere"},
+      {"url": "https://en.wikipedia.org/wiki/Jorys_Bovet", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA795318",
+    "nom": "Louis Boyard",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": ["droit"],
+    "career": [
+      {"poste": "Président de l'Union nationale lycéenne (UNL)", "employeur": "UNL", "secteur": "associatif", "periode": "2018-2019"},
+      {"poste": "Chroniqueur média (Les Grandes Gueules, Touche pas à mon poste)", "employeur": "RMC / C8", "secteur": "prive", "periode": "à partir de l'été 2021"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Inscrit en licence de droit à l'Université Paris-Panthéon-Assas à l'automne 2019 (source vérifiée directement) ; a mis ses études en pause à la rentrée de septembre 2022 après son élection comme député en juin 2022 - aucune source ne confirme l'obtention d'une licence, le niveau de diplôme reste donc inconnu plutôt que présumé bac+3. Avant son mandat, activité de syndicaliste lycéen (président UNL, non rémunéré/associatif) puis chroniqueur média nommément identifié sur RMC et C8 à partir de 2021, ce qui relève du secteur privé.",
+    "sources": [
+      {"url": "https://www.hodea.fr/blog/article/louis-boyard-ecole/", "pour": "both"}
+    ]
+  },
+  {
+    "uid": "PA793508",
+    "nom": "Hubert Brigand",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Technicien en études, recherche et développement en informatique (informaticien)", "employeur": "Non précisé", "secteur": "inconnu", "periode": "avant sa retraite, avant son premier mandat de maire (1995)"}
+    ],
+    "worked_private": false,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "inconnu",
+    "confidence": "basse",
+    "notes": "Sources consultées : fiche Assemblée nationale (aucune info professionnelle), Wikipédia fr/en (idem, biographie centrée sur ses mandats de maire), France 3 Bourgogne-Franche-Comté (article bloqué, 403 Forbidden), Dijon l'Hebdo (non accessible). Une synthèse de recherche web (mon-maire.fr, non vérifiée sur page primaire) indique une profession antérieure d'\"informaticien\", technicien en études/R&D informatique, aujourd'hui retraité, cohérent avec sa profession déclarée \"ancienne profession intermédiaire\" - mais aucun employeur nommé ni secteur (public/privé) précisé, et aucune information sur ses études ou diplômes. Reste inconnu sur les deux plans.",
+    "sources": [
+      {"url": "https://www.mon-maire.fr/maire-de-chatillon-sur-seine-21", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA794798",
+    "nom": "Françoise Buffet",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Restauratrice, patronne de restaurant (elle a créé et développé l'établissement)", "employeur": "Restaurant à Strasbourg (nom non identifié avec certitude)", "secteur": "liberal_independant", "periode": "années 1990 jusqu'en 2001 (vente de l'établissement)"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Son propre site (francoisebuffet.fr, consulté directement) et un article ICI (ex-France Bleu) confirment de façon concordante qu'elle a créé et développé un restaurant à Strasbourg dans les années 1990, élu meilleur bistrot d'Alsace puis de France par Gault & Millau, revendu en 2001 par choix personnel - cohérent avec sa profession déclarée \"ancien artisan, commerçant, chef d'entreprise\". Le nom exact de l'établissement n'a pas pu être confirmé avec certitude. Aucune information sur ses études ou diplômes trouvée : reste inconnu.",
+    "sources": [
+      {"url": "https://www.francoisebuffet.fr/a-propos/", "pour": "carriere"},
+      {"url": "https://www.ici.fr/infos/politique/legislatives-qui-est-francoise-buffe-la-nouvelle-deputee-renaissance-de-la-6e-circonscription-du-bas-1655216639", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA796106",
+    "nom": "Édouard Bénard",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": ["lettres-langues"],
+    "career": [
+      {"poste": "Employé en boulangerie (emploi étudiant)", "employeur": "Boulangerie (non précisée)", "secteur": "prive", "periode": "pendant ses études de philosophie"},
+      {"poste": "Agent de la fonction publique territoriale", "employeur": "Collectivité territoriale non précisée (probablement Saint-Étienne-du-Rouvray ou intercommunalité)", "secteur": "public", "periode": "avant son mandat (2024)"}
+    ],
+    "worked_private": true,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "mixte_public_prive",
+    "confidence": "moyenne",
+    "notes": "Source L'Écho du Sud consultée directement : orienté à 15 ans vers un CAP en apprentissage boucherie, puis reprise d'un cursus général au lycée, puis études de philosophie à La Sorbonne (aucune confirmation d'obtention d'un diplôme, ni CAP ni licence) tout en travaillant en boulangerie ; devient ensuite agent de la fonction publique territoriale. Le mélange privé (boulangerie)/public (collectivité territoriale) est confirmé mais sans employeur nommé précis, d'où confiance moyenne et non haute. Diplôme final non confirmé : reste inconnu.",
+    "sources": [
+      {"url": "https://www.lechodusud.com/qui-est-%c3%a9douard-b%c3%a9nard/", "pour": "both"}
+    ]
+  },
+  {
+    "uid": "PA795762",
+    "nom": "Elie Califer",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [],
+    "fields": ["enseignement"],
+    "career": [
+      {"poste": "Enseignant", "employeur": "IME Les Gommiers, Gourbeyre (Guadeloupe)", "secteur": "public", "periode": "jusqu'en août 2017, retraité depuis septembre 2017"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "Déclaration HATVP consultée directement : enseignant à l'IME Les Gommiers jusqu'en août 2017, retraité depuis septembre 2017 (cohérent avec profession déclarée \"ancien cadre\"). Une base biographique (Who's Who, snippet de recherche non vérifié sur la fiche complète) le qualifie de \"professeur des écoles\". Le niveau de diplôme est une inférence de profession réglementée (enseignant du premier degré nécessitant a minima une licence) plutôt qu'une confirmation directe ; sa carrière d'enseignant étant vraisemblablement antérieure à 2010 (déjà maire en 2003), le niveau retenu est bac+3_4 et non bac+5, avec confiance moyenne conformément à la règle sur les inférences de profession réglementée.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/fiche-nominative/?declarant=califer-elie-24314", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841973",
+    "nom": "Pierre-Henri Carbonnel",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Agriculteur (polyculture-élevage : bovins, moutons, palmipèdes) - GAEC", "employeur": "GAEC / exploitation individuelle à Saint-Cirq (Tarn-et-Garonne)", "secteur": "liberal_independant", "periode": "depuis 01/2020"},
+      {"poste": "Dirigeant (100% associé) - production solaire", "employeur": "SASU PAG", "secteur": "liberal_independant", "periode": "depuis 01/2023"},
+      {"poste": "Administrateur", "employeur": "Coopérative Natera", "secteur": "liberal_independant", "periode": "depuis 07/2024"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Déclaration HATVP consultée directement : carrière entièrement d'agriculteur/chef d'exploitation indépendant à Saint-Cirq (GAEC de polyculture-élevage depuis 2020, société de production solaire SASU PAG depuis 2023, administrateur de la coopérative Natera depuis 2024), confirmant prive_uniquement (liberal_independant) avec confiance haute. Aucune information sur ses études ou diplômes trouvée malgré vérification HATVP, site du parti UDR et Wikipédia : reste inconnu.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/carbonnel-pierre-henri-29796", "pour": "carriere"}
+    ]
+  }
+]}

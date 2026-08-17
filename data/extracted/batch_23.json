@@ -1,0 +1,291 @@
+{
+  "batch": 23,
+  "deputies": [
+    {
+      "uid": "PA795046",
+      "nom": "Caroline Yadan",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "CAPA (avocate)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Responsable du pôle antisémitisme", "employeur": "Licra", "secteur": "associatif", "periode": "inconnue"},
+        {"poste": "Avocate en droit de la famille", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le niveau de diplôme (bac+5) est déduit de sa profession d'avocate, non explicité dans la biographie."
+    },
+    {
+      "uid": "PA795050",
+      "nom": "Astrid Panosyan-Bouvet",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "HEC Paris", "diplome": "Diplôme HEC", "domaine": "gestion-commerce"},
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme Sciences Po", "domaine": "sciences politiques"},
+        {"institution": "Harvard Kennedy School of Government", "diplome": "Master", "domaine": "sciences politiques"}
+      ],
+      "fields": ["gestion-commerce", "sciences politiques"],
+      "career": [
+        {"poste": "Consultante", "employeur": "A.T. Kearney", "secteur": "prive", "periode": "1994-1997"},
+        {"poste": "Direction stratégie puis Business Support & Development Asie-Pacifique", "employeur": "GIE Axa", "secteur": "prive", "periode": "1998-2001"},
+        {"poste": "Diverses fonctions puis responsable des participations stratégiques, secrétaire générale", "employeur": "Groupama", "secteur": "prive", "periode": "2002-2015"},
+        {"poste": "Conseillère d'Emmanuel Macron", "employeur": "Gouvernement (second gouvernement Valls)", "secteur": "politique", "periode": "inconnue"},
+        {"poste": "Directrice générale fonctions centrales", "employeur": "Unibail-Rodamco-Westfield", "secteur": "prive", "periode": "2015-2021"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "A aussi été conseillère ministérielle (secteur politique) entre sa carrière chez Groupama et son poste chez Unibail-Rodamco-Westfield."
+    },
+    {
+      "uid": "PA795076",
+      "nom": "Sandrine Rousseau",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Université de Poitiers", "diplome": "Études non précisées", "domaine": "economie"},
+        {"institution": "Université de Lille", "diplome": "Doctorat en sciences économiques", "domaine": "economie"}
+      ],
+      "fields": ["economie"],
+      "career": [
+        {"poste": "Enseignante-chercheuse en sciences économiques, vice-présidente de l'université", "employeur": "Université de Lille", "secteur": "public", "periode": "2002-2021"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA795084",
+      "nom": "Rodrigo Arenas",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-I-Panthéon-Sorbonne", "diplome": "Master 2, Histoire de la pensée économique", "domaine": "economie"},
+        {"institution": "Celsa", "diplome": "Master 2, Communication des collectivités territoriales", "domaine": "communication-journalisme"}
+      ],
+      "fields": ["economie", "communication-journalisme"],
+      "career": [
+        {"poste": "Analyste de gestion", "employeur": "Ville de Sevran", "secteur": "public", "periode": "inconnue"},
+        {"poste": "Attaché territorial", "employeur": "Conseil départemental de Seine-Saint-Denis", "secteur": "public", "periode": "inconnue"},
+        {"poste": "Coprésident", "employeur": "Fédération des conseils de parents d'élèves (FCPE)", "secteur": "associatif", "periode": "2018-2021"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "A aussi eu un engagement associatif marqué (coprésidence de la FCPE) avant son mandat."
+    },
+    {
+      "uid": "PA795100",
+      "nom": "Éric Martineau",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Agriculteur sur moyenne exploitation", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "La biographie ne détaille ni ses études ni son parcours professionnel ; l'information provient de la profession déclarée."
+    },
+    {
+      "uid": "PA795108",
+      "nom": "Élise Leboucher",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Éducatrice spécialisée en pédopsychiatrie", "employeur": "Établissement public de santé mentale (EPSM) d'Allonnes", "secteur": "public", "periode": "2006-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "La biographie ne mentionne pas son diplôme."
+    },
+    {
+      "uid": "PA795124",
+      "nom": "Didier Padey",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Cadre commercial", "employeur": "inconnu", "secteur": "prive", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "La biographie ne contient aucune information sur ses études ou son parcours professionnel détaillé ; seule la profession déclarée est disponible."
+    },
+    {
+      "uid": "PA795136",
+      "nom": "Jean-François Coulomme",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Commercial (bâtiment et énergies renouvelables)", "employeur": "inconnu", "secteur": "prive", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": ""
+    },
+    {
+      "uid": "PA795156",
+      "nom": "Fatiha Keloua Hachi",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Sorbonne-Nouvelle", "diplome": "Licence, lettres modernes", "domaine": "lettres-sciences humaines"},
+        {"institution": "Université Sorbonne-Nouvelle", "diplome": "Maîtrise, lettres modernes", "domaine": "lettres-sciences humaines"},
+        {"institution": "Université Sorbonne-Nouvelle", "diplome": "DEA, humanités", "domaine": "lettres-sciences humaines"},
+        {"institution": "Université Paris-Est-Créteil", "diplome": "Master, ingénierie de la formation", "domaine": "education"},
+        {"institution": "inconnu", "diplome": "CAPES de lettres modernes (1998)", "domaine": "education"}
+      ],
+      "fields": ["lettres-sciences humaines", "education"],
+      "career": [
+        {"poste": "Enseignante de lettres modernes", "employeur": "Éducation nationale", "secteur": "public", "periode": "1998-2022 (environ)"},
+        {"poste": "Formatrice en maîtrise de la langue, enseignante", "employeur": "Université de Créteil", "secteur": "public", "periode": "inconnue"},
+        {"poste": "Membre de la Mission Grande Pauvreté et Éducation prioritaire", "employeur": "Académie de Créteil", "secteur": "public", "periode": "2021-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA795164",
+      "nom": "Aurélie Trouvé",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Établissement national d'enseignement supérieur agronomique de Dijon (ENESAD)", "diplome": "Diplôme d'ingénieur agronome", "domaine": "agriculture"},
+        {"institution": "Université de Bourgogne", "diplome": "Doctorat en sciences économiques", "domaine": "economie"}
+      ],
+      "fields": ["agriculture", "economie", "ingenierie"],
+      "career": [
+        {"poste": "Maîtresse de conférences", "employeur": "Agrosup Dijon", "secteur": "public", "periode": "2007-2013"},
+        {"poste": "Maîtresse de conférences en économie", "employeur": "AgroParisTech", "secteur": "public", "periode": "2014-2022"},
+        {"poste": "Coprésidente puis porte-parole", "employeur": "Attac", "secteur": "associatif", "periode": "2006-2021"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Engagement associatif de longue durée (Attac) en parallèle de sa carrière académique publique."
+    },
+    {
+      "uid": "PA795176",
+      "nom": "Nicolas Metzdorf",
+      "highest_degree_level": "inconnu",
+      "degrees": [
+        {"institution": "Université de Strasbourg", "diplome": "inconnu", "domaine": "autre"}
+      ],
+      "fields": [],
+      "career": [
+        {"poste": "Ingénieur et cadre technique d'entreprise", "employeur": "inconnu", "secteur": "prive", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "La biographie disponible est tronquée et ne précise ni le diplôme obtenu à Strasbourg ni le détail de son parcours professionnel."
+    },
+    {
+      "uid": "PA795200",
+      "nom": "Alma Dufour",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Panthéon-Sorbonne", "diplome": "Licence de droit", "domaine": "droit"},
+        {"institution": "inconnu", "diplome": "Master (géopolitique, commencé)", "domaine": "sciences politiques"},
+        {"institution": "AgroParisTech", "diplome": "Mastère spécialisé, sciences de l'environnement", "domaine": "sciences"}
+      ],
+      "fields": ["droit", "sciences politiques", "sciences"],
+      "career": [
+        {"poste": "Employée", "employeur": "Suez", "secteur": "prive", "periode": "inconnue"},
+        {"poste": "Serveuse", "employeur": "inconnu", "secteur": "prive", "periode": "inconnue"},
+        {"poste": "Chargée de dossiers (économie circulaire)", "employeur": "Bureau européen de l'environnement (BEE)", "secteur": "associatif", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "A aussi travaillé pour une fédération associative (Bureau européen de l'environnement) à Bruxelles."
+    },
+    {
+      "uid": "PA795228",
+      "nom": "Nadège Abomangoli",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Celsa - Sorbonne Université", "diplome": "Études en communication", "domaine": "communication-journalisme"},
+        {"institution": "Université Paris-Sorbonne", "diplome": "Maîtrise d'histoire", "domaine": "lettres-sciences humaines"},
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Master, média et communication publique", "domaine": "sciences politiques"}
+      ],
+      "fields": ["communication-journalisme", "lettres-sciences humaines", "sciences politiques"],
+      "career": [
+        {"poste": "Responsable des budgets délégués, Direction du patrimoine et de l'architecture", "employeur": "Mairie de Paris", "secteur": "public", "periode": "2006-2012"},
+        {"poste": "Collaboratrice parlementaire", "employeur": "Sénat", "secteur": "politique", "periode": "2013-2015"},
+        {"poste": "Coordinatrice de la communication interne et risk manager", "employeur": "Mairie de Paris", "secteur": "public", "periode": "2016-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "A aussi été collaboratrice parlementaire au Sénat entre deux postes à la Mairie de Paris."
+    },
+    {
+      "uid": "PA795240",
+      "nom": "Mereana Reid Arbelot",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Ingénieur en chef du contrôle de la navigation aérienne", "employeur": "inconnu", "secteur": "public", "periode": "inconnue"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "La biographie ne détaille pas ses études ; le corps des ingénieurs du contrôle de la navigation aérienne relève de la fonction publique d'État."
+    },
+    {
+      "uid": "PA795244",
+      "nom": "Stéphane Lenormand",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Ancien cadre (fonction publique)", "employeur": "inconnu", "secteur": "public", "periode": "inconnue"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "La biographie ne contient aucune information sur ses études ou son parcours professionnel ; seuls la profession déclarée et le code INSEE (cadre de la fonction publique) sont disponibles."
+    }
+  ]
+}

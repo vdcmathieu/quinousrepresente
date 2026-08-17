@@ -1,0 +1,48 @@
+{"deputies": [
+  {
+    "uid": "PA722000",
+    "nom": "Stéphane Buchou",
+    "highest_degree_level": "bac+5",
+    "degrees": [
+      {"institution": "École de management de Normandie", "diplome": "Mastère spécialisé en management du développement territorial", "domaine": "gestion-commerce"}
+    ],
+    "fields": ["gestion-commerce"],
+    "career": [
+      {"poste": "Poste dans l'immobilier", "employeur": "inconnu", "secteur": "prive", "periode": "avant 2006"},
+      {"poste": "Poste dans la banque", "employeur": "inconnu", "secteur": "prive", "periode": "avant 2006"},
+      {"poste": "Manager de centre-ville", "employeur": "Ville de La Roche-sur-Yon", "secteur": "public", "periode": "2006-2009"},
+      {"poste": "Directeur adjoint", "employeur": "Entreprise de communication (affichage numérique urbain)", "secteur": "prive", "periode": "2009-2017"}
+    ],
+    "worked_private": true,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "mixte_public_prive",
+    "confidence": "moyenne",
+    "notes": "Mastère spécialisé EM Normandie en management du développement territorial ; carrière dans l'immobilier puis la banque, manager de centre-ville à La Roche-sur-Yon (2006-2009), puis directeur adjoint d'une entreprise de communication urbaine (source: https://legislatives.en-marche.fr/candidat/vendee-3eme-circonscription)."
+  },
+  {
+    "uid": "PA722134",
+    "nom": "Jean-Marie Fiévet",
+    "career": [
+      {"poste": "Sapeur-pompier professionnel, lieutenant", "employeur": "SDIS Deux-Sèvres (Parthenay puis Niort)", "secteur": "public", "periode": "à partir de 27 ans, avant 2017"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "A travaillé dans le privé avant de devenir sapeur-pompier professionnel à 27 ans (secteur d'origine non précisé) ; niveau d'études non trouvé (source: https://www.lechodusud.com/post/qui-est-jean-marie-fi%C3%A9vet)."
+  },
+  {
+    "uid": "PA722336",
+    "nom": "Vincent Thiébaut",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [
+      {"institution": "CESI", "diplome": "Titre de technicien supérieur de la fonction technico-commercial (en alternance)", "domaine": "gestion-commerce"},
+      {"institution": "CNAM - Institut supérieur des cadres de la vente (ICSV), Illkirch-Graffenstaden", "diplome": "Formation cadres de la vente (1999-2001)", "domaine": "gestion-commerce"}
+    ],
+    "fields": ["gestion-commerce", "informatique"],
+    "confidence": "moyenne",
+    "notes": "Bac scientifique et technique série E, puis BTS technico-commercial en alternance (CESI) et formation à l'ICSV du CNAM (1999-2001) ; niveau exact du diplôme ICSV non confirmé, estimé bac+3/4 (source: https://vincentthiebaut.fr/vincent-thiebaut/biographie/)."
+  }
+]}

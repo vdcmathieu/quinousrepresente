@@ -1,0 +1,430 @@
+{
+ "deputies": [
+  {
+   "uid": "PA719922",
+   "nom": "Lionel Causse",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Cadre, économie sociale et solidaire",
+     "employeur": "inconnu",
+     "secteur": "associatif",
+     "periode": "avant 2008"
+    },
+    {
+     "poste": "Président puis vice-président (bénévole)",
+     "employeur": "CPIE Seignanx et Adour",
+     "secteur": "associatif",
+     "periode": "2016-2024"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "inconnu",
+   "confidence": "basse",
+   "notes": "Deuxième passage : déclaration HATVP consultée directement — confirme le poste de dirigeant bénévole au CPIE Seignanx Adour depuis 01/2016 (précise la date de début, absente du premier passage), ainsi qu'un mandat de représentant au Conseil national de l'habitat (12/2022-06/2024), lié à son activité de député rapporteur sur la tarification sociale de l'eau — non retenu comme activité professionnelle distincte. Wikitext brut de Wikipédia consulté (infobox : profession = « Cadre d'entreprise », université vide) : aucune information nouvelle sur le nom de l'employeur ESS ni sur un diplôme. Recherche Wikipédia (API full-text, « Lionel Causse diplômé », « économie sociale solidaire ») : aucun résultat pertinent nouveau. Le secteur ESS étant à cheval entre privé et associatif selon les structures, et aucun employeur nommé, le profil de carrière reste « inconnu » par prudence, comme le diplôme.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Lionel_Causse",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA841047",
+   "nom": "François-Xavier Ceccoli",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Gérant puis directeur",
+     "employeur": "Fruticor (station de conditionnement et négoce de clémentines et agrumes, San-Nicolao, Corse)",
+     "secteur": "liberal_independant",
+     "periode": "gérant 2018-2021, directeur depuis 2022"
+    },
+    {
+     "poste": "Président",
+     "employeur": "GIE Corsica Comptoir",
+     "secteur": "liberal_independant",
+     "periode": "depuis 2018"
+    },
+    {
+     "poste": "Agriculteur (activité secondaire)",
+     "employeur": "Exploitation personnelle (Ceccoli FX)",
+     "secteur": "liberal_independant",
+     "periode": "depuis 2018"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Deuxième passage : déclaration HATVP reconsultée directement — les dates concordent exactement avec ce qui était déjà connu (DIRECTION @ Fruticor depuis 01/2022 ; agriculteur à titre secondaire @ Ceccoli FX depuis 01/2018 ; dirigeant Fruticor 01/2018-10/2021 ; dirigeant GIE Corsica Comptoir depuis 01/2018). Wikitext brut vérifié (infobox : profession = « Chef d'entreprise », université vide) : rien de nouveau. Recherche Wikipédia (API full-text, « diplômé », « études ») infructueuse — aucun résultat pertinent (résultats renvoyés concernent d'autres personnalités homonymes ou sans lien). Diplôme reste inconnu malgré ce second passage ; carrière confirmée avec un niveau de confiance élevé.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Xavier_Ceccoli",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA842037",
+   "nom": "Bérenger Cernon",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Conducteur de train (RER D puis R)",
+     "employeur": "SNCF",
+     "secteur": "public",
+     "periode": "2008-présent"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Deuxième passage : déclaration HATVP consultée directement — indique « Conducteur de train » @ Sncf depuis 01/2018 seulement, et non 2008. Cela pourrait signaler une promotion interne (agent SNCF dès 2008, poste de conducteur obtenu après formation en 2018) plutôt qu'une contradiction, mais l'article de La Vie Ouvrière (NVO, 2024, déjà cité au premier passage) affirme explicitement qu'« il rejoint la SNCF en 2008 comme conducteur » — cette source de première main est conservée comme référence de la date d'entrée, la nuance HATVP étant signalée par prudence. Wikitext brut vérifié (infobox : profession = « Cheminot », université vide). Nouvelle recherche Wikipédia (« Bérenger Cernon Bourgogne », « formation ») : aucun résultat pertinent — la mention d'un profil LinkedIn évoquant l'Université de Bourgogne (déjà signalée au premier passage, sans diplôme précisé) reste non confirmée. Diplôme reste inconnu.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/B%C3%A9renger_Cernon",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA840701",
+   "nom": "Bernard Chaix",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Gérant majoritaire, commerce de tapis et moquettes",
+     "employeur": "Chaix Décoration (entreprise familiale fondée en 1936 sous le nom de comptoir textile du Sud-Est, puis Tapichaix)",
+     "secteur": "liberal_independant",
+     "periode": "depuis 2016"
+    },
+    {
+     "poste": "Président",
+     "employeur": "CGPME Alpes-Maritimes",
+     "secteur": "associatif",
+     "periode": "depuis 2007"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Deuxième passage : déclaration HATVP reconsultée directement — au moins deux déclarations successives (2016 et 2021) listent le même poste « commerce de tissus tapis revêtements sols et murs » chez Chaix Décoration, avec un début en 01/2016 pour la première. La gérance est donc retenue comme active depuis 2016 (et non « formellement depuis 06/2021 » comme indiqué au premier passage). La déclaration HATVP révèle aussi une longue liste de mandats non rémunérés dans des organismes économiques et consulaires niçois (UPE, CPME06, SEM Habitat 06, Office du tourisme métropolitain NCA, EPA Éco-Vallée Plaine du Var) et des sièges au conseil d'administration de l'EDHEC Business School, de l'IAE de Nice et de l'ISEM à partir de 06/2021 — ces sièges reflètent vraisemblablement sa fonction de représentant patronal (président CPME) plutôt qu'un diplôme personnel de ces établissements, donc non retenus comme preuve d'un diplôme. Wikitext brut vérifié (infobox : profession = « Commerçant », université vide). Recherche Wikipédia « diplômé Nice » infructueuse. Diplôme reste inconnu.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Bernard_Chaix",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA840107",
+   "nom": "Bernard Chaumeil",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Directeur de cabinet puis cadre dirigeant",
+     "employeur": "Bouygues Telecom",
+     "secteur": "prive",
+     "periode": "inconnu (carrière privée avec missions à l'international)"
+    },
+    {
+     "poste": "Cadre dirigeant, relations institutionnelles",
+     "employeur": "Engie",
+     "secteur": "prive",
+     "periode": "inconnu"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Deuxième passage : pas de déclaration HATVP disponible dans l'index local (fiche absente — probablement trop récent comme titulaire, ayant accédé au mandat en 2026 comme suppléant d'Aurélien Lopez-Liguori). L'article d'Hérault Tribune (echo-des-tribunes.com) déjà cité au premier passage a été récupéré et vérifié texte par texte (curl + grep sur le contenu réellement présent dans la page, celle-ci étant en Next.js avec le texte embarqué en JSON) : les citations connues sont confirmées mot pour mot (« carrière dense dans le secteur privé », « Directeur de cabinet, puis cadre dirigeant » chez Bouygues Telecom et Engie, allusion au scoutisme et à « son éducation »), mais aucune école, aucun diplôme ni cursus n'est mentionné dans l'article en entier. Wikitext brut vérifié (infobox : université et profession vides). Diplôme reste inconnu.",
+   "sources": [
+    {
+     "url": "https://echo-des-tribunes.com/herault-tribune/articles/lopezliguori-elu-a-la-mairie-dagde-qui-est-bernard-chaumeil-le-nouveau-depute-rn-de-lherault",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Bernard_Chaumeil",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA840721",
+   "nom": "Marc Chavent",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Assistant parlementaire",
+     "employeur": "Sylvie Goy-Chavent, sénatrice de l'Ain (sa sœur)",
+     "secteur": "politique",
+     "periode": "01/2018-07/2024 (démission le soir de son élection)"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "Deuxième passage : déclaration HATVP reconsultée directement — confirme exactement l'activité déjà connue (assistant de sénateur, Sylvie Goy-Chavent, 01/2018-07/2024, avec la précision « J'ai démissionné le 7 juillet 2024 au soir date de mon élection »), ainsi qu'un mandat non rémunéré au Syndicat mixte Scot Bucopa depuis 03/2020, lié à son mandat de maire de Cerdon et non à une activité professionnelle distincte. Wikitext brut vérifié (infobox : profession = « Cadre administratif », université vide). Recherches Wikipédia (« Marc Chavent études », « Marc Chavent Cerdon ») infructueuses pour toute information de formation. La profession déclarée officiellement (« cadre de la fonction publique ») ne correspond à aucun poste public identifié — le classement en « politique » (collaborateur parlementaire) est maintenu. Diplôme reste inconnu.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Marc_Chavent",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841595",
+   "nom": "Cendrine Chazé",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Secrétaire de mairie",
+     "employeur": "Commune de Gouffern en Auge et communes déléguées",
+     "secteur": "public",
+     "periode": "inconnu"
+    },
+    {
+     "poste": "Secrétaire de mairie",
+     "employeur": "Communauté de communes du Pays du Haras du Pin",
+     "secteur": "public",
+     "periode": "inconnu"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Deuxième passage : pas de déclaration HATVP disponible dans l'index local (députée très récente, élue en 2026 en remplacement de Jérôme Nury). Wikitext brut vérifié (infobox : profession = « Secrétaire de mairie », université vide). Recherche Wikipédia (« Cendrine Chazé », « Cendrine Chazé Orne ») : seule nouvelle mention trouvée, la page « Canton d'Argentan-2 », confirme « Ancienne secrétaire de mairie à Silly-en-Gouffern, suppléante du... » sans détail de formation. La profession INSEE déclarée (« Employés administratifs de la fonction publique »), correspondant typiquement à la catégorie C, sort du barème d'inférence du projet (qui ne couvre que les catégories A et B) : aucun niveau n'est donc inféré. Diplôme reste inconnu.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Cendrine_Chaz%C3%A9",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA721202",
+   "nom": "Éric Coquerel",
+   "highest_degree_level": "bac_ou_moins",
+   "degrees": [],
+   "fields": [
+    "histoire-geographie"
+   ],
+   "career": [
+    {
+     "poste": "Fondateur et dirigeant",
+     "employeur": "Effets Mer (agence de communication, voile sportive)",
+     "secteur": "liberal_independant",
+     "periode": "fin années 1980 - début années 2000"
+    },
+    {
+     "poste": "Permanent politique (secrétaire national du MRC, puis fondateur du MARS, coordinateur du Parti de Gauche)",
+     "employeur": "Mouvement républicain et citoyen, MARS, Parti de Gauche",
+     "secteur": "politique",
+     "periode": "2003-2021"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "Deuxième passage — amélioration du diplôme : le wikitext brut de Wikipédia confirme qu'il passe le baccalauréat en candidat libre en 1983, puis « entreprend des études d'histoire à l'université Paris-Diderot [...] avec pour objectif le CAPES qu'il n'obtient pas ». Aucune source consultée (Who's Who, cité en référence mais payant et inaccessible ; recherches Wikipédia « licence d'histoire », « CAPES histoire ») ne confirme l'obtention d'une licence. Par convention du projet (études non finalisées → le diplôme retenu est le palier réellement obtenu, donc le niveau inférieur), le niveau passe d'« inconnu » à « bac_ou_moins », avec une confiance modérée compte tenu de l'ambiguïté résiduelle (des études universitaires ont bien été entreprises, simplement sans diplôme confirmé au-delà du baccalauréat). Carrière professionnelle (agence Effets Mer) et politique (permanent MRC puis MARS puis Parti de Gauche) inchangées, déjà bien sourcées au premier passage. Note sur la catégorie « mixte_public_prive » retenue pour career_profile : elle reflète en réalité un mélange libéral/privé (Effets Mer) et politique (permanent de parti), non un emploi dans la fonction publique au sens strict — conservée par cohérence avec le premier passage faute de catégorie plus précise disponible dans le schéma du projet.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Coquerel",
+     "pour": "diplome"
+    }
+   ]
+  },
+  {
+   "uid": "PA793520",
+   "nom": "Mickaël Cosson",
+   "highest_degree_level": "bac+2",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Chargé d'opérations urbanisme",
+     "employeur": "DDTM des Côtes-d'Armor (DDTM22)",
+     "secteur": "public",
+     "periode": "2015-06/2022 (mise en disponibilité automatique à l'élection)"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Deuxième passage — amélioration du diplôme : Wikidata (entité Q65574870, propriété occupation P106) le classe explicitement comme « fonctionnaire de catégorie B », référencé au Répertoire national des élus (RNE, base gouvernementale officielle) — vérifié en récupérant le JSON Wikidata (Special:EntityData) et en résolvant la chaîne de référence (P248 → Q63762917 « Répertoire national des élus du 9 avril 2019 »). Selon la convention du projet (catégorie B de la fonction publique → bac+2), le niveau de diplôme passe d'« inconnu » à « bac+2 », confiance plafonnée à « moyenne » car il s'agit d'une inférence de catégorie statutaire et non d'un diplôme nommé. Par ailleurs, la déclaration HATVP (reconsultée directement) comporte deux entrées pour le même poste « Chargé d'opération » à la DDTM22 : l'une débutant en 01/2015, l'autre en 01/2019 (déclarations successives), toutes deux se terminant en 06/2022. La date la plus ancienne (2015) est retenue comme plus représentative de la durée réelle du poste, ce qui allonge la période par rapport au premier passage (qui indiquait 01/2019-06/2022). Wikitext brut vérifié (infobox : profession = « Responsable à la DDTM », université vide).",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.wikidata.org/wiki/Q65574870",
+     "pour": "diplome"
+    }
+   ]
+  },
+  {
+   "uid": "PA795136",
+   "nom": "Jean-François Coulomme",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Ingénieur commercial",
+     "employeur": "SchlegelGiesse",
+     "secteur": "prive",
+     "periode": "2016-06/2022"
+    },
+    {
+     "poste": "Commercial (bâtiment/second-œuvre, plasturgie, énergies renouvelables)",
+     "employeur": "Employeurs successifs non tous identifiés",
+     "secteur": "prive",
+     "periode": "avant 2016"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Deuxième passage : déclaration HATVP reconsultée directement — deux déclarations successives listent le même poste « Ingénieur commercial » chez SchlegelGiesse, l'une débutant en 01/2016, l'autre en 01/2019 (toutes deux se terminant en 06/2022). La date la plus ancienne (2016) est retenue, ce qui avance de trois ans le début du poste identifié par rapport au premier passage, et réduit d'autant la période de la carrière commerciale antérieure non identifiée (désormais « avant 2016 » plutôt que « avant 2019 »). Le titre de poste « ingénieur commercial » reste une fonction commerciale et non une preuve de diplôme d'ingénieur : wikitext brut vérifié (infobox : profession = « Ingénieur commercial », université vide) ; recherche Wikipédia « école commerce » infructueuse. Diplôme reste inconnu.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Coulomme",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA795644",
+   "nom": "Nathalie Da Conceicao Carvalho",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Événementiel (activité indépendante)",
+     "employeur": "Non identifié",
+     "secteur": "liberal_independant",
+     "periode": "avant 2022 (non précisé)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Deuxième passage : déclaration HATVP reconsultée directement — confirme l'absence totale d'activité professionnelle rémunérée déclarée (tableau « activites » vide) sur les deux déclarations disponibles, cohérent avec le premier passage. Wikitext brut vérifié (infobox : profession = « Entrepreneuse dans l'évènementiel », université vide) : aucun nom d'employeur ni diplôme. Recherche Wikipédia « événementiel » infructueuse pour identifier une structure. Diplôme et détail d'employeur restent inconnus.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Nathalie_Da_Conceicao_Carvalho",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA332523",
+   "nom": "Marie-Christine Dalloz",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Employée de banque",
+     "employeur": "Non nommé",
+     "secteur": "prive",
+     "periode": "1981-1991"
+    },
+    {
+     "poste": "Conseillère en gestion de patrimoine",
+     "employeur": "Non nommé",
+     "secteur": "prive",
+     "periode": "1991-2001"
+    },
+    {
+     "poste": "Gérante d'une société de formation-conseil",
+     "employeur": "Société non nommée (propre entreprise)",
+     "secteur": "liberal_independant",
+     "periode": "à partir de 2001"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Deuxième passage : déclaration HATVP reconsultée directement — confirme « néant » (aucune activité professionnelle rémunérée) de 01/2019 à 04/2025, cohérent avec son statut de retraitée déclaré et avec la fin de la carrière professionnelle en 2001 (gérante de société de formation-conseil) déjà connue. Wikitext brut vérifié (infobox : profession = « Gérante de société », université vide) : aucune mention de diplôme, y compris dans les liens externes déjà consultés au premier passage (mcdalloz.fr/votre-depute/son-portrait). Recherche Wikipédia (« Marie-Christine Dalloz banque ») infructueuse pour retrouver une école ou un diplôme bancaire (BTS, etc.). Diplôme reste inconnu malgré ce second passage.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Marie-Christine_Dalloz",
+     "pour": "carriere"
+    }
+   ]
+  }
+ ]
+}

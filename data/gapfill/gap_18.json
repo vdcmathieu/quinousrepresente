@@ -1,0 +1,66 @@
+{
+  "deputies": [
+    {
+      "uid": "PA793944",
+      "nom": "Alexandra Martin (Gironde)",
+      "career": [
+        {"poste": "Responsable d'un centre de formation dans les métiers de l'industrie", "employeur": "AFPI Sud-Ouest / CFAI Aquitaine (Pôle Formation UIMM, Bruges)", "secteur": "prive", "periode": "environ 25 ans avant son mandat"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le centre de formation identifié (AFPI/CFAI, Pôle Formation UIMM) est une structure de formation professionnelle privée liée au patronat de l'industrie (source: https://www.lechodusud.com/qui-est-alexandra-martin-gironde/, https://www.ici.fr/infos/politique/qui-est-alexandra-martin-la-nouvelle-deputee-de-la-1ere-circonscription-de-gironde-9756018). Aucune information trouvée sur ses études."
+    },
+    {
+      "uid": "PA793992",
+      "nom": "Henri Alfandari",
+      "fields": ["economie", "gestion-commerce", "communication-journalisme"],
+      "career": [
+        {"poste": "Réalisateur de documentaires", "employeur": "Indépendant", "secteur": "liberal_independant", "periode": "avant de rejoindre le groupe Saint-Gatien"},
+        {"poste": "Directeur de la communication", "employeur": "Groupe Saint-Gatien (clinique privée, entreprise familiale)", "secteur": "prive", "periode": "jusqu'en février 2021"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "A entamé des études d'économie-gestion (niveau non précisé, semble ne pas avoir été achevé) avant de se tourner vers le documentaire (source: https://en.wikipedia.org/wiki/Henri_Alfandari)."
+    },
+    {
+      "uid": "PA794022",
+      "nom": "Jérémie Iordanoff",
+      "career": [
+        {"poste": "Travaux saisonniers (vendanges, cueillette d'abricots et de maïs, maçonnerie)", "employeur": "non précisé", "secteur": "prive", "periode": "avant son engagement politique"},
+        {"poste": "Informatique", "employeur": "non précisé", "secteur": "prive", "periode": "entre ses activités artistiques, avant son mandat"},
+        {"poste": "Directeur de campagne puis attaché parlementaire", "employeur": "Jean-Louis Roumégas, député", "secteur": "politique", "periode": "2012-2017"},
+        {"poste": "Artiste-peintre", "employeur": "Indépendant", "secteur": "liberal_independant", "periode": "non précisée"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Scolarité en lycée d'arts appliqués, tentative d'études de mathématiques abandonnée, des études de droit engagées par la suite et une formation en informatique menée à bien, mais aucun diplôme obtenu n'est mentionné (source: https://www.petit-bulletin.fr/article-72336-jeremie-iordanoff-depute-les-gens-me-disaient-artiste-peintre-mais-vous-ne-serez-jamais-elu.html)."
+    },
+    {
+      "uid": "PA794030",
+      "nom": "Alexis Jolly",
+      "career": [
+        {"poste": "Attaché parlementaire", "employeur": "Steeve Briois, député", "secteur": "politique", "periode": "novembre 2017-mai 2019"},
+        {"poste": "Attaché parlementaire", "employeur": "Aurélia Beigneux, députée européenne", "secteur": "politique", "periode": "septembre 2019-décembre 2019"},
+        {"poste": "Distributeur de magazines de montagne", "employeur": "Les Éditions du Serac", "secteur": "liberal_independant", "periode": "janvier 2017-juillet 2021"},
+        {"poste": "Vacataire", "employeur": "INSEEC (école privée)", "secteur": "prive", "periode": "août 2021-juin 2022"},
+        {"poste": "Gérant, micro-entreprise AJ Conseil (relations publiques et communication)", "employeur": "AJ Conseil", "secteur": "liberal_independant", "periode": "avril 2021-octobre 2021"},
+        {"poste": "Co-fondateur et gérant, vente et location d'équipements de montagne et de camping", "employeur": "SARL Piste Verte", "secteur": "liberal_independant", "periode": "octobre 2021-juillet 2024"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "D'après sa déclaration HATVP, a aussi été attaché parlementaire (RN) avant de créer son entreprise ; profil dominé par l'activité indépendante/commerçante (source: https://www.hatvp.fr/pages_nominatives/jolly-alexis-24185)."
+    }
+  ]
+}

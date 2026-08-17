@@ -1,0 +1,49 @@
+{
+  "deputies": [
+    {
+      "uid": "PA793928",
+      "nom": "Edwige Diaz",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "Universite de Bordeaux",
+          "diplome": "Master",
+          "domaine": "espagnol"
+        }
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "confidence": "moyenne",
+      "notes": "Master d'espagnol a l'Universite de Bordeaux, aucun detail sur son emploi avant le mandat au-dela de la profession declaree (source: https://fr.wikipedia.org/wiki/Edwige_Diaz)"
+    },
+    {
+      "uid": "PA793832",
+      "nom": "Yoann Gillet",
+      "career": [
+        {
+          "poste": "Gerant de magasin(s) de pret-a-porter",
+          "employeur": "Enseigne de pret-a-porter (non precisee)",
+          "secteur": "prive",
+          "periode": "environ 8 ans"
+        },
+        {
+          "poste": "Directeur regional (reseau de 39 points de vente)",
+          "employeur": "Enseigne de pret-a-porter (non precisee)",
+          "secteur": "prive",
+          "periode": ""
+        },
+        {
+          "poste": "Directeur de cabinet du maire de Beaucaire",
+          "employeur": "Mairie de Beaucaire (Julien Sanchez)",
+          "secteur": "politique",
+          "periode": "a partir de 2014"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Carriere confirmee dans le pret-a-porter (gerant puis directeur regional) avant son poste de directeur de cabinet du maire de Beaucaire; pas d'info sur ses etudes (sources: fr.wikipedia.org/wiki/Yoann_Gillet, linsoumission.fr portrait 2022)"
+    }
+  ]
+}

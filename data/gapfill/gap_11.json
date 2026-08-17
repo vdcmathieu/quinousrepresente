@@ -1,0 +1,61 @@
+{
+  "deputies": [
+    {
+      "uid": "PA721612",
+      "nom": "Carole Guillerm",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "Université Paris 1 Panthéon-Sorbonne / Université de Strasbourg / Université d'Helsinki",
+          "diplome": "Master en droit européen et international",
+          "domaine": "droit"
+        }
+      ],
+      "fields": ["droit"],
+      "career": [
+        {
+          "poste": "Chargée de mission (Protocole de Kyoto)",
+          "employeur": "Ministère des Affaires étrangères (Quai d'Orsay)",
+          "secteur": "public",
+          "periode": "avant mandat"
+        },
+        {
+          "poste": "Conseillère ministérielle",
+          "employeur": "cabinet ministériel",
+          "secteur": "politique",
+          "periode": "avant élection"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Études de droit à Paris 1 Panthéon-Sorbonne, Strasbourg et Helsinki, puis poste au Quai d'Orsay sur le Protocole de Kyoto avant de devenir conseillère ministérielle (source: recoupement Wikipédia/Viadeo/LinkedIn, non confirmé par une source officielle unique)."
+    },
+    {
+      "uid": "PA721632",
+      "nom": "Patricia Lemoine",
+      "career": [
+        {
+          "poste": "Agent immobilier",
+          "employeur": "indépendante",
+          "secteur": "liberal_independant",
+          "periode": "avant mandats locaux"
+        },
+        {
+          "poste": "Maire de Condé-Sainte-Libiaire et présidente de la communauté de communes du Pays Créçois",
+          "employeur": "collectivités locales",
+          "secteur": "politique",
+          "periode": "avant 2018"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Fiche Who's Who France la présente comme agent immobilier avant sa carrière politique, aucune information trouvée sur ses études (source: https://www.whoswho.fr/biographie/patricia-lemoine_81929)."
+    }
+  ]
+}

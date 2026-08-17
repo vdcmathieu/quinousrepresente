@@ -1,0 +1,290 @@
+{
+  "batch": 1,
+  "deputies": [
+    {
+      "uid": "PA267794",
+      "nom": "Michèle Tabarot",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Chef d'entreprise", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Information de carrière issue uniquement de la profession déclarée à l'Assemblée nationale, non confirmée par la biographie."
+    },
+    {
+      "uid": "PA2940",
+      "nom": "Dominique Voynet",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Faculté de médecine de Besançon", "diplome": "Doctorat en médecine (CES d'anesthésie-réanimation)", "domaine": "médecine-santé"}
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {"poste": "Infirmière de nuit", "employeur": "inconnu", "secteur": "public", "periode": "1977-1982"},
+        {"poste": "Médecin remplaçante (généraliste puis spécialiste)", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "1981-1985"},
+        {"poste": "Anesthésiste-réanimatrice", "employeur": "Hôpital de Dole", "secteur": "public", "periode": "1985-1989"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA2952",
+      "nom": "Jean-Luc Warsmann",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme IEP (voie Service Public), promotion 1991", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Directeur", "employeur": "Mutuelle générale des étudiants de l'Est", "secteur": "prive", "periode": "jusqu'en 1996"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA309643",
+      "nom": "Véronique Besse",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "Faculté de droit (non précisée)", "diplome": "DEUG de droit", "domaine": "droit"},
+        {"institution": "Sciences Com'", "diplome": "Diplôme de journalisme", "domaine": "communication-journalisme"}
+      ],
+      "fields": ["droit", "communication-journalisme"],
+      "career": [
+        {"poste": "Journaliste", "employeur": "Radio Alouette FM", "secteur": "prive", "periode": "1986-1990"},
+        {"poste": "Chargée de mission au cabinet du président du conseil général", "employeur": "Conseil général de la Vendée (cabinet Philippe de Villiers)", "secteur": "politique", "periode": "1991-1994"},
+        {"poste": "Assistante parlementaire", "employeur": "Bruno Retailleau", "secteur": "politique", "periode": "1994-1997"},
+        {"poste": "Assistante parlementaire", "employeur": "Philippe de Villiers", "secteur": "politique", "periode": "1997-2004"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Brève expérience en radio privée avant une longue carrière de collaboratrice politique."
+    },
+    {
+      "uid": "PA330008",
+      "nom": "Xavier Breton",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme IEP (1987)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Chef de cabinet du maire", "employeur": "Mairie de Saint-Malo", "secteur": "politique", "periode": "avant 1990"},
+        {"poste": "Collaborateur du président du conseil général", "employeur": "Conseil général de l'Yonne", "secteur": "politique", "periode": "avant 1990"},
+        {"poste": "Agent territorial (aménagement du territoire, affaires européennes)", "employeur": "Conseil général de l'Ain", "secteur": "public", "periode": "à partir de 1990"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Carrière essentiellement faite de postes de cabinet politique, avec un poste d'agent territorial de la fonction publique."
+    },
+    {
+      "uid": "PA330240",
+      "nom": "Éric Ciotti",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Nice", "diplome": "Licence d'économie", "domaine": "économie"},
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme IEP (1988)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["economie", "sciences politiques"],
+      "career": [
+        {"poste": "Collaborateur parlementaire", "employeur": "Christian Estrosi (député)", "secteur": "politique", "periode": "1988-1995"},
+        {"poste": "Conseiller de cabinet", "employeur": "Conseil régional PACA (cabinet Jean-Claude Gaudin)", "secteur": "politique", "periode": "1995-1998"},
+        {"poste": "Directeur de cabinet", "employeur": "Conseil général des Alpes-Maritimes (Christian Estrosi)", "secteur": "politique", "periode": "2003-2007"},
+        {"poste": "Conseiller ministériel", "employeur": "Cabinet ministériel de Christian Estrosi", "secteur": "politique", "periode": "2005-2007"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA330909",
+      "nom": "Vincent Descoeur",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Agrégation de biologie", "domaine": "sciences"}
+      ],
+      "fields": ["sciences"],
+      "career": [
+        {"poste": "Professeur agrégé de biologie", "employeur": "Éducation nationale", "secteur": "public", "periode": "avant 1988"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Peu de détails sur les dates et l'établissement d'exercice."
+    },
+    {
+      "uid": "PA331582",
+      "nom": "Philippe Vigier",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "inconnu (faculté de pharmacie)", "diplome": "Doctorat en pharmacie", "domaine": "medecine-sante"}
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {"poste": "Interne des hôpitaux", "employeur": "Hôpitaux de Paris (AP-HP)", "secteur": "public", "periode": "inconnue"},
+        {"poste": "Directeur des laboratoires d'analyses médicales", "employeur": "Laboratoires de Bonneval, Brou et Châteaudun", "secteur": "liberal_independant", "periode": "avant 2007"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Sources Wikipédia partiellement marquées comme non référencées."
+    },
+    {
+      "uid": "PA331973",
+      "nom": "Pascale Got",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "IUT de Bordeaux", "diplome": "DUT de journalisme (1985)", "domaine": "communication-journalisme"}
+      ],
+      "fields": ["communication-journalisme"],
+      "career": [
+        {"poste": "Journaliste", "employeur": "inconnu", "secteur": "prive", "periode": "avant 2007"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Peu d'informations disponibles sur l'employeur et les dates exactes de sa carrière de journaliste."
+    },
+    {
+      "uid": "PA332228",
+      "nom": "Thierry Benoit",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [
+        {"institution": "Maison Familiale Rurale de Bretagne", "diplome": "Formation MFR (niveau non précisé)", "domaine": "agriculture"}
+      ],
+      "fields": ["agriculture"],
+      "career": [
+        {"poste": "Représentant de commerce (secteur du vin)", "employeur": "inconnu", "secteur": "prive", "periode": "à partir de la fin des années 1980"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Formation en Maison Familiale Rurale, sans mention de diplôme précis."
+    },
+    {
+      "uid": "PA332523",
+      "nom": "Marie-Christine Dalloz",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Employée de banque", "employeur": "inconnu", "secteur": "prive", "periode": "pendant dix ans, avant 1991"},
+        {"poste": "Conseillère en gestion de patrimoine", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "1991-2001"},
+        {"poste": "Gérante d'une société de formation-conseil", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "à partir de 2001"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Aucune information sur ses études, mais parcours professionnel bien détaillé."
+    },
+    {
+      "uid": "PA333285",
+      "nom": "Guillaume Garot",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-1 Panthéon-Sorbonne", "diplome": "Maîtrise d'histoire", "domaine": "lettres-sciences humaines"},
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme IEP (section Service Public, promotion 1991)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["lettres-sciences humaines", "sciences politiques"],
+      "career": [
+        {"poste": "Directeur de cabinet", "employeur": "Mairie du 18e arrondissement de Paris (Daniel Vaillant)", "secteur": "politique", "periode": "1995-2000"},
+        {"poste": "Conseiller de cabinet", "employeur": "Ministère de l'Intérieur (cabinet Daniel Vaillant)", "secteur": "politique", "periode": "2000-2002"},
+        {"poste": "Collaborateur", "employeur": "Mairie de Paris (Bertrand Delanoë)", "secteur": "politique", "periode": "2002-2005"},
+        {"poste": "Conseiller politique", "employeur": "Cabinet de Christophe Caresche, adjoint au maire de Paris", "secteur": "politique", "periode": "à partir de 2005"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA335054",
+      "nom": "Marietta Karamanli",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Doctorat en sciences politiques", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Enseignante", "employeur": "Université du Mans", "secteur": "public", "periode": "avant 2007"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA335612",
+      "nom": "Jean-Paul Lecoq",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Formation d'électricien", "domaine": "autre"}
+      ],
+      "fields": ["autre"],
+      "career": [
+        {"poste": "Réparateur de caisses enregistreuses", "employeur": "Supermarchés Mammouth", "secteur": "prive", "periode": "à partir de 14 ans"},
+        {"poste": "Loueur de barques et pédalos", "employeur": "Parc forestier du Havre", "secteur": "prive", "periode": "week-ends, jeunesse"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Entrée dans la vie active dès 14 ans, sans poursuite d'études."
+    },
+    {
+      "uid": "PA335999",
+      "nom": "Delphine Batho",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Vice-présidente", "employeur": "SOS Racisme", "secteur": "associatif", "periode": "1992-1998"},
+        {"poste": "Cadre du Parti socialiste (spécialiste sécurité)", "employeur": "Parti socialiste", "secteur": "politique", "periode": "avant 2007"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Baccalauréat obtenu en 1992, études d'histoire à Paris-7 entamées puis abandonnées ; carrière faite de militantisme associatif puis de fonctions politiques."
+    }
+  ]
+}

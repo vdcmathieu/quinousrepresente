@@ -1,0 +1,272 @@
+{
+  "batch": 14,
+  "deputies": [
+    {
+      "uid": "PA793122",
+      "nom": "Romain Daubié",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Jean-Moulin-Lyon-III", "diplome": "master", "domaine": "droit des affaires et fiscalité"},
+        {"institution": "HEC Paris", "diplome": "master", "domaine": "droit et management international"}
+      ],
+      "fields": ["droit", "gestion-commerce"],
+      "career": [
+        {"poste": "avocat", "employeur": "cabinet (exercice libéral)", "secteur": "liberal_independant", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Avocat de profession en parallèle de mandats locaux (maire, conseiller départemental) avant son élection comme député."
+    },
+    {
+      "uid": "PA793134",
+      "nom": "Jérôme Buisson",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université de Bologne", "diplome": "licence", "domaine": "civilisation italienne"},
+        {"institution": "Université Jean-Moulin-Lyon-III", "diplome": "CAPES d'italien", "domaine": "education"}
+      ],
+      "fields": ["lettres-sciences humaines", "education"],
+      "career": [
+        {"poste": "professeur d'italien", "employeur": "collège privé puis lycée privé de Bourg-en-Bresse", "secteur": "prive", "periode": "2000-2015"},
+        {"poste": "professeur d'italien indépendant", "employeur": "activité indépendante", "secteur": "liberal_independant", "periode": "à partir d'octobre 2020"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Enseignement dans le privé sous contrat puis en indépendant; plusieurs informations sourcées 'réf. souhaitée'."
+    },
+    {
+      "uid": "PA793146",
+      "nom": "Nicolas Dragon",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": null,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Biographie centrée exclusivement sur le parcours politique, sans information sur études ou emploi; profession déclarée 'Profession libérale' trop vague pour être exploitée."
+    },
+    {
+      "uid": "PA793158",
+      "nom": "José Beaurain",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "CAP", "domaine": "autre"}
+      ],
+      "fields": ["autre"],
+      "career": [
+        {"poste": "accordeur de piano et pianiste (piano-bar)", "employeur": "restaurants lillois / activité indépendante", "secteur": "liberal_independant", "periode": "jeunesse, avant mandat"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Titulaire d'un CAP, exercice indépendant comme accordeur de piano et pianiste."
+    },
+    {
+      "uid": "PA793166",
+      "nom": "Jocelyn Dessigny",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "responsable d'une agence d'intérim", "employeur": "agence d'intérim à Soissons", "secteur": "prive", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Aucune information sur son parcours de formation."
+    },
+    {
+      "uid": "PA793174",
+      "nom": "Yannick Monnet",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "diplôme en ingénierie sociale", "domaine": "autre"}
+      ],
+      "fields": ["autre"],
+      "career": [
+        {"poste": "éducateur spécialisé de rue", "employeur": "ville de Moulins", "secteur": "public", "periode": "plusieurs années avant le mandat"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le niveau du diplôme d'ingénierie sociale (souvent assimilé à un niveau master) reste une inférence."
+    },
+    {
+      "uid": "PA793182",
+      "nom": "Jorys Bovet",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "chauffeur-livreur", "employeur": "inconnu", "secteur": "prive", "periode": "avant mandat (non précisé)"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Information issue uniquement de la profession déclarée, non confirmée par la biographie disponible qui ne traite que du parcours politique."
+    },
+    {
+      "uid": "PA793194",
+      "nom": "Lionel Vuibert",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École de gestion et de commerce de Charleville-Mézières", "diplome": "diplôme de gestion et commerce", "domaine": "gestion-commerce"},
+        {"institution": "Institut français de gestion (cycle ICG)", "diplome": "cycle ICG (formation supérieure en gestion)", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce", "agriculture"],
+      "career": [
+        {"poste": "délégué général", "employeur": "UIMM des Ardennes puis UIMM Champagne-Ardenne", "secteur": "associatif", "periode": "avant 2002 à 2022"},
+        {"poste": "éleveur bovin", "employeur": "exploitation familiale", "secteur": "liberal_independant", "periode": "jusqu'en 2023, activité parallèle"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Carrière essentiellement au sein d'une organisation patronale (UIMM) complétée par une activité d'éleveur."
+    },
+    {
+      "uid": "PA793214",
+      "nom": "Audrey Abadie-Amiel",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "master de psychologie (titre de psychologue)", "domaine": "lettres-sciences humaines"},
+        {"institution": "inconnu", "diplome": "professorat des écoles", "domaine": "education"}
+      ],
+      "fields": ["education", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "professeure des écoles / professeure ressource TSA", "employeur": "Direction des services départementaux de l'Éducation nationale de l'Ariège", "secteur": "public", "periode": "avant 2025"},
+        {"poste": "collaboratrice parlementaire", "employeur": "Laurent Panifous, député", "secteur": "politique", "periode": "avant novembre 2025"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "A aussi été collaboratrice parlementaire juste avant de devenir députée elle-même."
+    },
+    {
+      "uid": "PA793218",
+      "nom": "Jordan Guitton",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Centre universitaire de Troyes / Université de Reims-Champagne-Ardenne", "diplome": "études de droit (niveau licence, non confirmé)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "attaché parlementaire à temps partiel", "employeur": "Philippe Olivier, eurodéputé", "secteur": "politique", "periode": "avant 2022"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "basse",
+      "notes": "La biographie mentionne des études de droit sans confirmer l'obtention d'un diplôme."
+    },
+    {
+      "uid": "PA793230",
+      "nom": "Angélique Ranc",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "formation comptable", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "conseillère clientèle bancaire", "employeur": "banque (non précisée)", "secteur": "prive", "periode": "avant mandat"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le niveau exact de la formation comptable n'est pas précisé, estimé à bac+2."
+    },
+    {
+      "uid": "PA793246",
+      "nom": "Frédéric Falcon",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "commerçant", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "avant mandat (non précisé)"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Information issue uniquement de la profession déclarée, la biographie disponible ne traite que du parcours politique."
+    },
+    {
+      "uid": "PA793254",
+      "nom": "Julien Rancoule",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "agent de sécurité", "employeur": "diverses sociétés", "secteur": "prive", "periode": "2014-2020"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Aucune information sur son parcours de formation."
+    },
+    {
+      "uid": "PA793262",
+      "nom": "Laurent Alexandre",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "bac professionnel", "domaine": "ingenierie"},
+        {"institution": "inconnu", "diplome": "BTS mise en œuvre des matériaux composites", "domaine": "ingenierie"}
+      ],
+      "fields": ["ingenierie"],
+      "career": [
+        {"poste": "ouvrier", "employeur": "Ratier-Figeac", "secteur": "prive", "periode": "à partir de 1998"},
+        {"poste": "ouvrier qualifié", "employeur": "Collins Aerospace", "secteur": "prive", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793270",
+      "nom": "Jean-François Rousset",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Université de Toulouse", "diplome": "doctorat en médecine", "domaine": "medecine-sante"}
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {"poste": "chirurgien digestif", "employeur": "clinique Pasteur de Toulouse", "secteur": "liberal_independant", "periode": "1987-2014"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Exercice en clinique privée; retraité depuis 2014, avant son élection en 2022."
+    }
+  ]
+}

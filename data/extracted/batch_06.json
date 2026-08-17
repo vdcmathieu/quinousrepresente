@@ -1,0 +1,299 @@
+{
+  "batch": 6,
+  "deputies": [
+    {
+      "uid": "PA719218",
+      "nom": "Hervé Berville",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Lille", "diplome": "Diplôme (promotion 2013, commerce et finance internationale)", "domaine": "sciences politiques"},
+        {"institution": "London School of Economics", "diplome": "Maîtrise ès sciences en histoire économique (2013)", "domaine": "economie"}
+      ],
+      "fields": ["sciences politiques", "economie"],
+      "career": [
+        {"poste": "Volontaire international en administration, économiste", "employeur": "Agence française de développement (AFD), Maputo", "secteur": "public", "periode": "2013-2016"},
+        {"poste": "Chargé de programme (Seed Transformation Program)", "employeur": "Stanford Institute for Innovation in Developing Countries, Kenya", "secteur": "prive", "periode": "2016-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA719272",
+      "nom": "Frédérique Meunier",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnue", "diplome": "CAPA (avocat)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Avocate", "employeur": "Cabinet d'avocat (non précisé)", "secteur": "liberal_independant", "periode": "avant 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le diplôme est déduit de la profession d'avocate (CAPA), non détaillé dans la biographie."
+    },
+    {
+      "uid": "PA719286",
+      "nom": "Paul-André Colombani",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Faculté des sciences médicales et paramédicales de Marseille", "diplome": "Doctorat en médecine", "domaine": "medecine-sante"}
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {"poste": "Médecin généraliste", "employeur": "Cabinet libéral", "secteur": "liberal_independant", "periode": "avant 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Exercice en médecine générale supposé libéral, non explicitement confirmé (pas de mention d'hôpital)."
+    },
+    {
+      "uid": "PA719338",
+      "nom": "Graziella Melchior",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École supérieure de commerce Bretagne Brest (Sup de Co Brest)", "diplome": "Diplôme d'école de commerce", "domaine": "gestion-commerce"},
+        {"institution": "inconnue", "diplome": "Agrégation d'économie-gestion commerciale", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Cadre en entreprises et coopératives", "employeur": "Diverses entreprises et coopératives (Bretagne, Italie)", "secteur": "prive", "periode": "environ 1981-1996"},
+        {"poste": "Enseignante en économie", "employeur": "Institut universitaire de technologie de Brest", "secteur": "public", "periode": "à partir de 1996"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA719372",
+      "nom": "Guillaume Kasbarian",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École supérieure des sciences économiques et commerciales (ESSEC)", "diplome": "Diplôme de grande école de commerce (2009)", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Consultant en stratégie", "employeur": "Monitor Deloitte", "secteur": "prive", "periode": "2009-2013 environ"},
+        {"poste": "Consultant en stratégie", "employeur": "PMP Conseil", "secteur": "prive", "periode": "2013-2015 environ"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA719388",
+      "nom": "Annaïg Le Meur",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Formatrice en appareillage", "employeur": "IFMK, Assistance publique - Hôpitaux de Paris", "secteur": "public", "periode": "1999-2003"},
+        {"poste": "Formatrice", "employeur": "IFMK de Brest", "secteur": "public", "periode": "2015-2017"},
+        {"poste": "Enseignante", "employeur": "Centre de formation des podo-orthésistes de Paris", "secteur": "prive", "periode": "2003-2011"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "basse",
+      "notes": "La biographie ne précise ni son propre diplôme ni sa profession principale, seulement des activités de formation/jury connexes."
+    },
+    {
+      "uid": "PA719404",
+      "nom": "Didier Le Gac",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Faculté de Brest", "diplome": "Licence AES option Gestion des Entreprises (1986)", "domaine": "gestion-commerce"},
+        {"institution": "inconnue (formation permanente)", "diplome": "DESS Gestion des PME/PMI (1996)", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Directeur d'agence bancaire", "employeur": "Cetelem (groupe BNP Paribas)", "secteur": "prive", "periode": "1988-1996"},
+        {"poste": "Directeur d'un groupe d'agences", "employeur": "Caisse des dépôts - Crédit municipal", "secteur": "public", "periode": "1996-2008"},
+        {"poste": "Conseiller en insertion professionnelle et formation continue", "employeur": "AFPA et GRETA", "secteur": "public", "periode": "2008-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA719412",
+      "nom": "Sandrine Le Feur",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "Lycée Pommerit", "diplome": "BTS agricole ACSE", "domaine": "agriculture"}
+      ],
+      "fields": ["agriculture"],
+      "career": [
+        {"poste": "Agricultrice (maraîchage bio, élevage)", "employeur": "Exploitation agricole familiale", "secteur": "liberal_independant", "periode": "2015-2017"},
+        {"poste": "Co-fondatrice et présidente", "employeur": "Épicerie locale et collaborative de Pleyber (Elocop)", "secteur": "liberal_independant", "periode": "2013-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "A interrompu une école d'ingénieurs en 2011 sans diplôme avant de se réorienter vers l'agriculture."
+    },
+    {
+      "uid": "PA719436",
+      "nom": "Nicolas Meizonnet",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université Montpellier-II", "diplome": "Études en informatique (obtention non confirmée, source jugée insuffisante)", "domaine": "informatique"},
+        {"institution": "inconnue", "diplome": "Master 1 psychologie clinique (2019)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["informatique", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Assistant parlementaire", "employeur": "Gilbert Collard (parlementaire)", "secteur": "politique", "periode": "2012-2019"}
+      ],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "basse",
+      "notes": "La profession déclarée (ingénieur en informatique) n'est pas confirmée par un emploi décrit dans la biographie, qui ne mentionne qu'un parcours politique."
+    },
+    {
+      "uid": "PA719472",
+      "nom": "Jean-René Cazeneuve",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École centrale de Marseille", "diplome": "Diplôme d'ingénieur (1982)", "domaine": "ingenierie"},
+        {"institution": "HEC Paris", "diplome": "MBA (1985)", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["ingenierie", "gestion-commerce"],
+      "career": [
+        {"poste": "Poste en entreprise (ingénierie/direction)", "employeur": "Saint-Gobain", "secteur": "prive", "periode": "avant 2001"},
+        {"poste": "Poste de direction", "employeur": "Compaq", "secteur": "prive", "periode": "avant 2001"},
+        {"poste": "Poste de direction", "employeur": "Cisco Systems", "secteur": "prive", "periode": "avant 2001"},
+        {"poste": "Directeur général France, Europe centrale, Moyen-Orient et Afrique", "employeur": "Apple", "secteur": "prive", "periode": "2001-2004"},
+        {"poste": "Directeur général adjoint", "employeur": "Bouygues Telecom", "secteur": "prive", "periode": "2004-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA719512",
+      "nom": "Corinne Vignon",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École supérieure d'art et de design de Reims", "diplome": "Diplôme (arts/design)", "domaine": "arts"}
+      ],
+      "fields": ["arts"],
+      "career": [
+        {"poste": "Fondatrice", "employeur": "Complexe éco-touristique (Costa Rica)", "secteur": "liberal_independant", "periode": "non précisée"},
+        {"poste": "Responsable commerciale", "employeur": "Promoteur immobilier", "secteur": "prive", "periode": "2006"},
+        {"poste": "Astrologue", "employeur": "Activité indépendante", "secteur": "liberal_independant", "periode": "non précisée"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Périodes d'emploi peu précisées dans la biographie."
+    },
+    {
+      "uid": "PA719528",
+      "nom": "Jean-François Portarrieu",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Toulouse", "diplome": "Diplôme en philosophie (niveau requis pour l'enseignement, non détaillé)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["lettres-sciences humaines", "communication-journalisme"],
+      "career": [
+        {"poste": "Enseignant de philosophie", "employeur": "Éducation nationale (région parisienne)", "secteur": "public", "periode": "environ 1988-1995"},
+        {"poste": "Journaliste", "employeur": "La Dépêche du Midi", "secteur": "prive", "periode": "environ 1995-2007"},
+        {"poste": "Directeur de cabinet adjoint du maire de Toulouse", "employeur": "Mairie de Toulouse", "secteur": "politique", "periode": "2008-2014"},
+        {"poste": "Directeur général", "employeur": "Communauté d'agglomération du Grand Narbonne", "secteur": "public", "periode": "2014-2016"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Diplôme personnel non détaillé, déduit de son activité d'enseignant de philosophie."
+    },
+    {
+      "uid": "PA719550",
+      "nom": "Liliana Tanguy",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-I Panthéon-Sorbonne", "diplome": "Diplôme en économie", "domaine": "economie"},
+        {"institution": "Institut d'études politiques de Paris (Sciences Po)", "diplome": "Diplôme (études soviétiques et est-européennes)", "domaine": "sciences politiques"},
+        {"institution": "Université Paris-Dauphine", "diplome": "Master II Affaires internationales", "domaine": "economie"}
+      ],
+      "fields": ["economie", "sciences politiques"],
+      "career": [
+        {"poste": "Cadre administratif (fonction publique hospitalière)", "employeur": "Hôpital du Scorff", "secteur": "public", "periode": "non précisée, avant 2017"}
+      ],
+      "worked_private": null,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "La section carrière de la biographie est vide ; l'emploi indiqué provient uniquement de l'indice Wikidata (hôpital du Scorff)."
+    },
+    {
+      "uid": "PA719558",
+      "nom": "Erwan Balanant",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université Rennes-II", "diplome": "Maîtrise d'histoire contemporaine", "domaine": "lettres-sciences humaines"},
+        {"institution": "École nationale supérieure de création industrielle (ENSCI)", "diplome": "Master 1 multimédia interactif (1997)", "domaine": "arts"},
+        {"institution": "École du Louvre", "diplome": "Études (non diplômantes précisées)", "domaine": "arts"}
+      ],
+      "fields": ["lettres-sciences humaines", "arts"],
+      "career": [
+        {"poste": "Photographe et réalisateur indépendant", "employeur": "Divers artistes (label Mercury)", "secteur": "liberal_independant", "periode": "jusqu'en 2017"},
+        {"poste": "Président", "employeur": "Association intermédiaire d'économie sociale et solidaire", "secteur": "associatif", "periode": "à partir de 2010"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "A aussi été athlète de haut niveau (saut en hauteur) avant sa reconversion, statut professionnel non précisé."
+    },
+    {
+      "uid": "PA719578",
+      "nom": "Loïc Prud'homme",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": ["sciences"],
+      "career": [
+        {"poste": "Emploi non précisé", "employeur": "Secteur privé (non précisé)", "secteur": "prive", "periode": "début de carrière"},
+        {"poste": "Technicien (sciences du sol, puis phosphore)", "employeur": "Institut national de la recherche agronomique (INRA)", "secteur": "public", "periode": "avant 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Le niveau de diplôme n'est pas précisé dans la biographie (la catégorie B de fonctionnaire ne permet pas de le déduire de façon fiable)."
+    }
+  ]
+}

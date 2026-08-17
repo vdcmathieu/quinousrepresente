@@ -1,0 +1,302 @@
+{
+  "batch": 3,
+  "deputies": [
+    {
+      "uid": "PA606573",
+      "nom": "Fanny Dombre Coste",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "École des Gobelins, Paris", "diplome": "diplôme de photographie (niveau non précisé, probablement BTS)", "domaine": "arts"}
+      ],
+      "fields": ["arts"],
+      "career": [
+        {"poste": "Photographe, gérante d'un atelier de photographie", "employeur": "Atelier indépendant, quartier Boutonnet, Montpellier", "secteur": "liberal_independant", "periode": "à partir de la fin des années 1970-1980, avant 2012"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le niveau exact du diplôme de photographie obtenu aux Gobelins n'est pas précisé; les études de droit ont été abandonnées."
+    },
+    {
+      "uid": "PA606793",
+      "nom": "Laurent Baumel",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "diplôme de Sciences Po Paris", "domaine": "sciences politiques"},
+        {"institution": "École centrale de Lyon", "diplome": "diplôme d'ingénieur", "domaine": "ingenierie"}
+      ],
+      "fields": ["sciences politiques", "ingenierie"],
+      "career": [
+        {"poste": "Cadre supérieur du secteur public", "employeur": "non précisé", "secteur": "public", "periode": "avant 2012"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "La biographie Wikipédia ne détaille ni les études ni la carrière professionnelle; le poste est déduit de la profession déclarée à l'Assemblée nationale et des établissements fréquentés selon Wikidata."
+    },
+    {
+      "uid": "PA607090",
+      "nom": "Jean-Pierre Vigier",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "non précisée", "diplome": "diplôme d'ingénieur", "domaine": "ingenierie"},
+        {"institution": "non précisée", "diplome": "diplôme d'études approfondies (DEA) en informatique", "domaine": "informatique"}
+      ],
+      "fields": ["ingenierie", "informatique"],
+      "career": [
+        {"poste": "Directeur administratif et financier", "employeur": "Syndicat mixte d'aménagement touristique (SMAT) du Haut-Allier", "secteur": "public", "periode": "avant 2012"},
+        {"poste": "Directeur général des services", "employeur": "Ville de Saint-Flour (Cantal)", "secteur": "public", "periode": "avant 2012"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA607193",
+      "nom": "Sophie Errante",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "non précisée", "diplome": "études de commerce international (niveau exact non précisé)", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Chef d'entreprise, cofondatrice", "employeur": "Entreprise d'équipements médicaux (cofondée avec son mari)", "secteur": "liberal_independant", "periode": "à partir de 1998, avant 2012"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le niveau précis du diplôme de commerce international n'est pas indiqué."
+    },
+    {
+      "uid": "PA607395",
+      "nom": "Stéphane Travert",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "école de commerce (non précisée)", "diplome": "diplôme d'école de commerce", "domaine": "gestion-commerce"},
+        {"institution": "non précisée", "diplome": "BTS action commerciale", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Poste non précisé dans l'industrie", "employeur": "non précisé", "secteur": "prive", "periode": "début de carrière, avant l'engagement politique"},
+        {"poste": "Chef de cabinet du député-maire de Caen", "employeur": "Philippe Duron, mairie de Caen", "secteur": "politique", "periode": "avant 2012"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Le passage dans l'industrie n'est pas détaillé; l'essentiel de la carrière connue avant le mandat est un poste de cabinet politique."
+    },
+    {
+      "uid": "PA607553",
+      "nom": "Dominique Potier",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "non précisée", "diplome": "études agricoles", "domaine": "agriculture"},
+        {"institution": "non précisée", "diplome": "études de géographie (diplôme précis non mentionné)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["agriculture", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Agriculteur, cofondateur du GAEC du Sillon", "employeur": "GAEC du Sillon, Lay-Saint-Rémy", "secteur": "liberal_independant", "periode": "avant 2012"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le diplôme exact obtenu en géographie n'est pas précisé."
+    },
+    {
+      "uid": "PA607619",
+      "nom": "Paul Molac",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "non précisée", "diplome": "BEPA (études agricoles)", "domaine": "agriculture"},
+        {"institution": "Université Rennes-II", "diplome": "licence d'histoire et CAPES d'histoire-géographie (1989)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["agriculture", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Exploitant agricole (aide familiale)", "employeur": "Ferme familiale", "secteur": "liberal_independant", "periode": "jeunesse, avant reprise d'études"},
+        {"poste": "Professeur d'histoire-géographie", "employeur": "Lycée-collège de Brocéliande, Guer (Éducation nationale)", "secteur": "public", "periode": "1990-2012"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA608172",
+      "nom": "Christine Pirès Beaune",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "Université Clermont-Ferrand I", "diplome": "DUT gestion des entreprises et administrations (1984)", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Employée", "employeur": "Syndicat mixte d'aménagement et de développement des Combrailles", "secteur": "public", "periode": "avant 1998"},
+        {"poste": "Chef de cabinet du président du Conseil général du Puy-de-Dôme", "employeur": "Conseil général du Puy-de-Dôme (Pierre-Joël Bonté)", "secteur": "politique", "periode": "1998-2004"},
+        {"poste": "Chef de cabinet du président du Conseil régional d'Auvergne", "employeur": "Conseil régional d'Auvergne (Pierre-Joël Bonté)", "secteur": "politique", "periode": "2004-2006"},
+        {"poste": "Directrice des services financiers puis directrice générale des services", "employeur": "Ville de Riom", "secteur": "public", "periode": "2006-2012"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Deux postes de chef de cabinet auprès d'un élu s'inscrivent dans une carrière par ailleurs menée dans la fonction publique territoriale."
+    },
+    {
+      "uid": "PA608264",
+      "nom": "Colette Capdevielle",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Facultés de droit de Bayonne et Pau", "diplome": "études de droit, CAPA (avocate)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Avocate", "employeur": "Cabinet d'avocat (exercice libéral)", "secteur": "liberal_independant", "periode": "avant 2012"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le parcours universitaire est présenté de façon anecdotique (abandon de Sciences Po Bordeaux); l'obtention du CAPA est déduite de sa profession d'avocate."
+    },
+    {
+      "uid": "PA608416",
+      "nom": "Patrick Hetzel",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "EM Strasbourg Business School", "diplome": "diplôme d'école de commerce", "domaine": "gestion-commerce"},
+        {"institution": "Université Jean-Moulin-Lyon-III", "diplome": "doctorat en sciences de gestion (1993)", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Enseignant-chercheur", "employeur": "Universités de Strasbourg et Lyon-III", "secteur": "public", "periode": "années 1990"},
+        {"poste": "Professeur des universités, fondateur du laboratoire Largepa", "employeur": "Université Paris-Panthéon-Assas", "secteur": "public", "periode": "1999-2012"},
+        {"poste": "Chef du service des études de défense", "employeur": "Institut des hautes études de défense nationale (IHEDN)", "secteur": "public", "periode": "2001-2004"},
+        {"poste": "Recteur de l'académie de Limoges", "employeur": "Ministère de l'Éducation nationale", "secteur": "public", "periode": "2005-2007"},
+        {"poste": "Conseiller éducation, enseignement supérieur et recherche du Premier ministre", "employeur": "Cabinet du Premier ministre François Fillon", "secteur": "politique", "periode": "2007-2008"},
+        {"poste": "Directeur général de l'Enseignement supérieur et de l'Insertion professionnelle (DGESIP)", "employeur": "Ministère de l'Enseignement supérieur et de la Recherche", "secteur": "public", "periode": "2008-2012"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Carrière presque intégralement dans l'enseignement supérieur public et la haute administration, avec un court passage en cabinet ministériel."
+    },
+    {
+      "uid": "PA608826",
+      "nom": "Virginie Duby-Muller",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Grenoble", "diplome": "diplôme de Sciences Po, section service public (2000)", "domaine": "sciences politiques"},
+        {"institution": "non précisée", "diplome": "DESS Économiste d'entreprise (2001)", "domaine": "economie"},
+        {"institution": "Institut de relations internationales et stratégiques (IRIS)", "diplome": "Cycle de formation supérieure aux questions internationales stratégiques (2004-2005)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques", "economie"],
+      "career": [
+        {"poste": "Collaboratrice parlementaire", "employeur": "Députés Jean-Marc Chavanne, Marc Francina, Jean-Pierre Le Ridant", "secteur": "politique", "periode": "2002-2007"},
+        {"poste": "Responsable de la permanence parlementaire", "employeur": "Claude Birraux, député", "secteur": "politique", "periode": "2007-2012"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA609332",
+      "nom": "Olivier Faure",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université d'Orléans", "diplome": "diplôme d'études approfondies (DEA) en droit économique", "domaine": "droit"},
+        {"institution": "Université Paris-I-Panthéon-Sorbonne", "diplome": "diplôme d'études approfondies (DEA) en sciences politiques", "domaine": "sciences politiques"}
+      ],
+      "fields": ["droit", "sciences politiques"],
+      "career": [
+        {"poste": "Collaborateur du président de la commission des lois", "employeur": "Assemblée nationale (Gérard Gouzes)", "secteur": "politique", "periode": "1991-1993"},
+        {"poste": "Cadre dirigeant", "employeur": "PME de 150 salariés (non nommée)", "secteur": "prive", "periode": "1993-1997"},
+        {"poste": "Conseiller au ministère de l'Emploi", "employeur": "Cabinet de Martine Aubry, ministère de l'Emploi", "secteur": "politique", "periode": "1997-2000"},
+        {"poste": "Directeur adjoint de cabinet", "employeur": "François Hollande, Parti socialiste", "secteur": "politique", "periode": "2000-2007"},
+        {"poste": "Secrétaire général du groupe socialiste à l'Assemblée nationale", "employeur": "Groupe socialiste, Assemblée nationale", "secteur": "politique", "periode": "2007-2012"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Un seul emploi privé de quatre ans dans une PME interrompt une carrière presque entièrement politique (collaborateur, cabinets, appareil du PS)."
+    },
+    {
+      "uid": "PA610002",
+      "nom": "Eva Sas",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "ESSEC", "diplome": "diplôme ESSEC", "domaine": "gestion-commerce"},
+        {"institution": "Université Paris-IV Sorbonne", "diplome": "licence de philosophie", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["gestion-commerce", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Associée", "employeur": "Secafi (cabinet d'expertise économique auprès des organisations syndicales)", "secteur": "prive", "periode": "avant 2012"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le diplôme ESSEC et la licence de philosophie sont signalés comme des informations à sourcer sur Wikipédia."
+    },
+    {
+      "uid": "PA610654",
+      "nom": "Jean-Philippe Nilor",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "non précisée", "diplome": "diplôme d'études approfondies (DEA) en aménagement du territoire et économie du transport", "domaine": "economie"}
+      ],
+      "fields": ["economie"],
+      "career": [
+        {"poste": "Assistant parlementaire", "employeur": "Alfred Marie-Jeanne, député", "secteur": "politique", "periode": "1997-2012"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA610968",
+      "nom": "Pouria Amirshahi",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Cadre, en charge de la protection sociale des jeunes adultes", "employeur": "Fédération des mutuelles de France (FMF)", "secteur": "associatif", "periode": "2000-2004"},
+        {"poste": "Directeur", "employeur": "Association 4D (Dossiers et débats pour le développement durable)", "secteur": "associatif", "periode": "2004-2006"},
+        {"poste": "Responsable de circonscription d'action sociale, directeur de centres médico-sociaux", "employeur": "Conseil général de la Charente", "secteur": "public", "periode": "2006-2009"},
+        {"poste": "Cadre, contribution à la politique culturelle et rédacteur en chef de la revue Neuvième Art", "employeur": "Cité internationale de la bande dessinée et de l'image, Angoulême", "secteur": "public", "periode": "2009-2012"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Aucun diplôme précis n'est mentionné dans la biographie malgré des études évoquées (présidence de l'Unef-ID, lien avec Paris I); la carrière avant 2012 combine emplois associatifs et fonction publique territoriale/culturelle."
+    }
+  ]
+}

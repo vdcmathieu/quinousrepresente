@@ -1,0 +1,297 @@
+{
+  "batch": 10,
+  "deputies": [
+    {
+      "uid": "PA720992",
+      "nom": "Jiovanny William",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université (non précisée)", "diplome": "Master de droit", "domaine": "droit"},
+        {"institution": "École d'avocats de Bordeaux", "diplome": "CAPA (certificat d'aptitude à la profession d'avocat)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Avocat", "employeur": "Barreau de Fort-de-France", "secteur": "liberal_independant", "periode": "2013-2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA721004",
+      "nom": "Amélia Lakrafi",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Experte en sécurité informatique / chef d'entreprise", "employeur": "entreprise propre (non précisée)", "secteur": "liberal_independant", "periode": "avant 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Bio mentionne des études (CNAM-Intec, INHESJ) sans préciser les diplômes obtenus ni détailler la carrière; profession déclarée utilisée pour la carrière."
+    },
+    {
+      "uid": "PA721024",
+      "nom": "Anne Genetet",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Université Paris-Descartes / Sorbonne Université / Université Pierre-et-Marie-Curie", "diplome": "Doctorat en médecine", "domaine": "medecine-sante"},
+        {"institution": "non précisée", "diplome": "Diplôme en journalisme médical et communication", "domaine": "communication-journalisme"}
+      ],
+      "fields": ["medecine-sante", "communication-journalisme"],
+      "career": [
+        {"poste": "Journaliste médicale", "employeur": "Revue Impact médecine / groupe Scorpion Communication", "secteur": "prive", "periode": "2000-2005"},
+        {"poste": "Consultante", "employeur": "International SOS", "secteur": "prive", "periode": "à partir de 2005"},
+        {"poste": "Consultante", "employeur": "ONG (conditions de travail du personnel de maison)", "secteur": "associatif", "periode": "années 2000"},
+        {"poste": "Fondatrice et dirigeante d'une structure de conseil en recrutement de personnel de maison", "employeur": "entreprise propre", "secteur": "liberal_independant", "periode": "2009-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "A aussi eu une activité associative (conseil pour ONG) entre ses emplois privés; pas d'exercice de la médecine en tant que praticienne mentionné dans la bio."
+    },
+    {
+      "uid": "PA721062",
+      "nom": "Jean-Hugues Ratenon",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Militant associatif, président d'associations de défense des pauvres et des chômeurs", "employeur": "associations locales à La Réunion", "secteur": "associatif", "periode": "depuis les années 1990"},
+        {"poste": "Employé (secteur privé)", "employeur": "non précisé", "secteur": "prive", "periode": "avant le mandat"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Bio centrée sur le militantisme associatif; emploi privé déduit de la profession déclarée."
+    },
+    {
+      "uid": "PA721110",
+      "nom": "Nicole Sanquer",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université française du Pacifique", "diplome": "DEUG histoire-géographie (mention)", "domaine": "lettres-sciences humaines"},
+        {"institution": "École des Arts culinaires d'Ecully (Institut Paul Bocuse)", "diplome": "Diplôme culinaire", "domaine": "autre"},
+        {"institution": "ESSEC / Université Cornell", "diplome": "Maîtrise en Management Hôtelier International", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["lettres-sciences humaines", "gestion-commerce", "autre"],
+      "career": [
+        {"poste": "Maître auxiliaire en hôtellerie-restauration", "employeur": "Lycée hôtelier de Tahiti", "secteur": "public", "periode": "1997-1998"},
+        {"poste": "Chef du service du protocole", "employeur": "Présidence de la Polynésie française", "secteur": "public", "periode": "1998-2000"},
+        {"poste": "Chef du service des activités et aménagements touristiques", "employeur": "Polynésie française", "secteur": "public", "periode": "2000-2001"},
+        {"poste": "Assistante au chef des travaux", "employeur": "Lycée hôtelier de Tahiti", "secteur": "public", "periode": "à partir de 2001"},
+        {"poste": "Ministre de l'Éducation de la Polynésie française", "employeur": "Gouvernement de la Polynésie française", "secteur": "politique", "periode": "2014-2017"}
+      ],
+      "worked_public": true,
+      "worked_private": false,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "A aussi exercé une fonction ministérielle locale (politique) juste avant son mandat national."
+    },
+    {
+      "uid": "PA721158",
+      "nom": "Pieyre-Alexandre Anglade",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-IV Sorbonne", "diplome": "Diplôme en histoire des relations internationales", "domaine": "lettres-sciences humaines"},
+        {"institution": "IEP de Strasbourg", "diplome": "Master de politique européenne", "domaine": "sciences politiques"}
+      ],
+      "fields": ["lettres-sciences humaines", "sciences politiques"],
+      "career": [
+        {"poste": "Collaborateur", "employeur": "Nathalie Griesbeck, députée européenne", "secteur": "politique", "periode": "environ 2012-2016"},
+        {"poste": "Directeur de cabinet", "employeur": "Pavel Telička, vice-président du Parlement européen", "secteur": "politique", "periode": "avant 2017"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA721182",
+      "nom": "Frédéric Petit",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut national polytechnique de Lorraine (ENSGSI)", "diplome": "Diplôme d'ingénieur environnement", "domaine": "ingenierie"},
+        {"institution": "IUT de Metz", "diplome": "DUT de gestion des entreprises et des administrations", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["ingenierie", "gestion-commerce"],
+      "career": [
+        {"poste": "Directeur du Comité de gestion des centres sociaux de Borny", "employeur": "Centres sociaux de Borny, Metz", "secteur": "associatif", "periode": "environ 1983-1994"},
+        {"poste": "Directeur du centre interculturel de Bévoye", "employeur": "Centre interculturel de Bévoye", "secteur": "associatif", "periode": "à partir de 1994"},
+        {"poste": "Cadre", "employeur": "Compagnie générale de chauffe (groupe Veolia)", "secteur": "prive", "periode": "1998-2005"},
+        {"poste": "Directeur d'Onyx Polska", "employeur": "Veolia Environnement", "secteur": "prive", "periode": "2005-2009"},
+        {"poste": "Consultant indépendant en ingénierie et management de transition", "employeur": "indépendant", "secteur": "liberal_independant", "periode": "2009-2010"},
+        {"poste": "Directeur filiale Égypte puis Consolis Central Europe", "employeur": "Consolis (Bonna Sabla)", "secteur": "prive", "periode": "2010-2016"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "A eu une longue carrière associative avant de rejoindre le secteur privé."
+    },
+    {
+      "uid": "PA721202",
+      "nom": "Éric Coquerel",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Fondateur de l'agence de communication Effets Mer", "employeur": "Effets Mer (entreprise propre)", "secteur": "liberal_independant", "periode": "à partir de 1989"},
+        {"poste": "Coordinateur national du Parti de gauche", "employeur": "Parti de gauche", "secteur": "politique", "periode": "2014-2021"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "A entrepris des études d'histoire sans obtenir le CAPES visé; a aussi dirigé une agence de communication avant de devenir permanent politique."
+    },
+    {
+      "uid": "PA721210",
+      "nom": "Alexis Corbière",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université Paris-Diderot / Université Paul-Valéry Montpellier", "diplome": "Licence d'histoire", "domaine": "lettres-sciences humaines"},
+        {"institution": "IUFM de Saint-Denis", "diplome": "CAPLP lettres-histoire", "domaine": "education"}
+      ],
+      "fields": ["lettres-sciences humaines", "education"],
+      "career": [
+        {"poste": "Professeur de lettres et d'histoire-géographie en lycée professionnel", "employeur": "Éducation nationale", "secteur": "public", "periode": "1995-2014"},
+        {"poste": "Chargé de mission, mis à disposition du rectorat au musée de l'histoire de l'immigration", "employeur": "Rectorat de l'académie de Paris", "secteur": "public", "periode": "2014-2017"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA721234",
+      "nom": "Maud Petit",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université de Caen-Normandie", "diplome": "Études supérieures de droit et lettres modernes (niveau licence)", "domaine": "droit"}
+      ],
+      "fields": ["droit", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Chargée de ressources humaines", "employeur": "Filiale d'un grand groupe agro-alimentaire", "secteur": "prive", "periode": "avant 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Niveau exact du diplôme universitaire (licence ou maîtrise) non précisé par la source."
+    },
+    {
+      "uid": "PA721270",
+      "nom": "Stéphane Peu",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Employé administratif", "employeur": "non précisé (entreprise privée présumée)", "secteur": "prive", "periode": "avant le mandat"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Bio très succincte sur formation et carrière; emploi déduit de la profession déclarée à l'Assemblée."
+    },
+    {
+      "uid": "PA721296",
+      "nom": "Guillaume Gouffier Valente",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-XII Est-Créteil-Val-de-Marne", "diplome": "Licence de droit", "domaine": "droit"},
+        {"institution": "ISMaPP", "diplome": "Master en stratégie et décision publique et politique", "domaine": "sciences politiques"}
+      ],
+      "fields": ["droit", "sciences politiques"],
+      "career": [
+        {"poste": "Chargé de mission sur la démocratie participative", "employeur": "non précisé", "secteur": "public", "periode": "avant 2017"},
+        {"poste": "Assistant ressources humaines", "employeur": "groupe de nettoyage industriel", "secteur": "prive", "periode": "avant 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Secteur du poste sur la démocratie participative déduit avec prudence, l'employeur n'étant pas précisé par la source."
+    },
+    {
+      "uid": "PA721314",
+      "nom": "Raphaël Schellenberger",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Strasbourg", "diplome": "Licence de science politique", "domaine": "sciences politiques"},
+        {"institution": "IEP de Strasbourg", "diplome": "Master administration des collectivités territoriales", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Cadre de la fonction publique territoriale", "employeur": "collectivité territoriale (non précisée)", "secteur": "public", "periode": "2013-2017"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Carrière professionnelle non détaillée dans la bio, déduite de la profession déclarée et du parcours d'études (master en administration des collectivités territoriales)."
+    },
+    {
+      "uid": "PA721336",
+      "nom": "Blandine Brocard",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Lumière-Lyon-II", "diplome": "Licence", "domaine": "droit"},
+        {"institution": "Université Jean-Moulin-Lyon-III", "diplome": "Master", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Juriste", "employeur": "Association des maires ruraux de France", "secteur": "associatif", "periode": "environ 2010-2017 (sept ans)"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "moyenne",
+      "notes": "Carrière exercée dans le secteur associatif (juriste pendant sept ans), non capturé par les catégories public/privé strictes."
+    },
+    {
+      "uid": "PA721410",
+      "nom": "Émilie Bonnivard",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Savoie-Mont-Blanc / Université Paris-Nanterre", "diplome": "Études de philosophie", "domaine": "lettres-sciences humaines"},
+        {"institution": "Institut de relations internationales et stratégiques (IRIS)", "diplome": "Master de relations internationales", "domaine": "sciences politiques"}
+      ],
+      "fields": ["lettres-sciences humaines", "sciences politiques"],
+      "career": [
+        {"poste": "Monitrice de ski", "employeur": "indépendante", "secteur": "liberal_independant", "periode": "non précisée"},
+        {"poste": "Attachée parlementaire", "employeur": "Michel Bouvard, député de Savoie", "secteur": "politique", "periode": "2010-2012"},
+        {"poste": "Cadre à la direction régionale", "employeur": "Caisse des dépôts et consignations", "secteur": "public", "periode": "2012-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    }
+  ]
+}

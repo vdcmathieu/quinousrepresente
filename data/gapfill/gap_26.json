@@ -1,0 +1,61 @@
+{
+  "deputies": [
+    {
+      "uid": "PA795762",
+      "nom": "Élie Califer",
+      "career": [
+        {
+          "poste": "Enseignant",
+          "employeur": "IME Les Gommiers",
+          "secteur": "public",
+          "periode": "jusqu'en 2017 (retraite depuis septembre 2017)"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "HATVP: enseignant à l'IME Les Gommiers jusqu'en 2017, retraité depuis septembre 2017 (source: hatvp.fr, déclaration d'intérêts)."
+    },
+    {
+      "uid": "PA795844",
+      "nom": "Karen Erodi",
+      "career": [
+        {
+          "poste": "Chef d'entreprise (gérante)",
+          "employeur": "SARL Economie et Construction",
+          "secteur": "liberal_independant",
+          "periode": "2019-2024"
+        },
+        {
+          "poste": "Secrétaire comptable",
+          "employeur": "Comité régional CGT Occitanie",
+          "secteur": "associatif",
+          "periode": "fevrier-juillet 2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "HATVP: gérante de SARL Economie et Construction (2019-2024) et secrétaire comptable au Comité régional CGT Occitanie (fev-juil 2022) (source: hatvp.fr, déclaration d'intérêts)."
+    },
+    {
+      "uid": "PA795908",
+      "nom": "Yannick Chenevard",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "Faculté de droit de Toulon",
+          "diplome": "Maîtrise/DESS",
+          "domaine": "droit public, spécialité défense et sécurité"
+        }
+      ],
+      "fields": ["droit"],
+      "confidence": "moyenne",
+      "notes": "Wikipedia FR: maîtrise en droit public (DESS défense et sécurité) à la faculté de droit de Toulon; a aussi étudié à la faculté de médecine de Marseille sans diplôme confirmé (source: fr.wikipedia.org/wiki/Yannick_Chenevard)."
+    }
+  ]
+}

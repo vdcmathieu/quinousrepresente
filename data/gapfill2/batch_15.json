@@ -1,0 +1,257 @@
+{"deputies": [
+  {
+    "uid": "PA719024",
+    "nom": "Christophe Blanchet",
+    "highest_degree_level": "inconnu",
+    "degrees": [{"institution": "Omnes Éducation (établissement précis du groupe non identifié)", "diplome": "inconnu", "domaine": "commerce"}],
+    "fields": ["commerce"],
+    "career": [
+      {"poste": "Gestion de biens immobiliers", "employeur": "SARL LMB", "secteur": "liberal_independant", "periode": "2017-2023"},
+      {"poste": "Chef d'entreprise (bars, hôtels-restaurants, discothèque à Caen)", "employeur": "SARL Beach / SNC TBJL / SARL 3B / SARL Nuit Blanche", "secteur": "liberal_independant", "periode": "2017-2022/2024"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Wikipédia signale la section « Famille et études » comme non sourcée (bandeau depuis 2020) et ne donne ni institution ni diplôme précis, juste « de retour en France et diplômé ». Wikidata mentionne Omnes Éducation (groupe d'écoles de commerce privées) comme établissement fréquenté, mais sans niveau ni diplôme identifiable : niveau d'études laissé « inconnu » plutôt que déduit. La carrière entrepreneuriale (bars, hôtels-restaurants, boîte de nuit à Caen, gestion immobilière) est en revanche bien documentée par la déclaration HATVP (SARL LMB, SARL Beach, SNC TBJL, SARL 3B, SARL Nuit Blanche) et corroborée par Wikipédia (ancien représentant syndical des débits de boisson en Normandie).",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Christophe_Blanchet", "pour": "both"}
+    ]
+  },
+  {
+    "uid": "PA721816",
+    "nom": "Ian Boucard",
+    "highest_degree_level": "bac+5",
+    "degrees": [{"institution": "École supérieure de commerce de Dijon-Bourgogne", "diplome": "inconnu (programme grande école, niveau généralement bac+5)", "domaine": "commerce"}],
+    "fields": ["commerce"],
+    "career": [
+      {"poste": "Assistant parlementaire", "employeur": "Damien Meslot, député", "secteur": "politique", "periode": "2013-2014"}
+    ],
+    "worked_private": false,
+    "worked_public": false,
+    "political_career_only": true,
+    "career_profile": "politique_principalement",
+    "confidence": "moyenne",
+    "notes": "Aucune activité professionnelle hors politique n'est mentionnée ni dans la biographie Wikipédia (qui ne comporte même pas de section « études ») ni dans la déclaration HATVP, dont le champ « activités » est entièrement vide (seuls des mandats et des sièges d'administrateur ès qualités d'élu : OPH Territoire Habitat, SDIS90, Mission Locale, Collège Vauban, etc., qui reflètent ses fonctions électives locales et non un emploi). Il devient assistant parlementaire de Damien Meslot dès 2013 à 25 ans puis enchaîne les mandats locaux et le mandat de député sans interruption documentée. Le libellé officiel de profession déclarée (« Autre cadre secteur privé ») n'est corroboré par aucun emploi identifiable et n'est donc pas retenu comme carrière. L'établissement d'études (ESC Dijon-Bourgogne) vient de Wikidata, sans confirmation par une source de presse indépendante.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Ian_Boucard", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA721336",
+    "nom": "Blandine Brocard",
+    "highest_degree_level": "bac+5",
+    "degrees": [
+      {"institution": "Université Lumière-Lyon-II", "diplome": "Licence", "domaine": "droit"},
+      {"institution": "Université Jean-Moulin-Lyon-III", "diplome": "Master", "domaine": "droit"}
+    ],
+    "fields": ["droit"],
+    "career": [
+      {"poste": "Juriste", "employeur": "Association des maires ruraux de France", "secteur": "associatif", "periode": "environ 7 ans, avant 2014"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Wikidata précise licence à Lyon-II et master à Lyon-III ; le domaine (droit) est déduit de sa profession de juriste, cohérente avec les facultés de ces deux universités, mais non nommé explicitement comme « droit » dans les sources. La carrière de juriste pendant sept ans à l'Association des maires ruraux de France (association loi 1901) est mentionnée par Wikipédia ; classée en secteur associatif, comptée comme secteur privé au sens large (convention retenue pour les autres déclarations de ce projet), d'où career_profile prive_uniquement malgré la nature associative de l'employeur.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Blandine_Brocard", "pour": "both"}
+    ]
+  },
+  {
+    "uid": "PA794330",
+    "nom": "Anthony Brosse",
+    "highest_degree_level": "bac+2",
+    "degrees": [{"institution": "établissement non précisé, Tours", "diplome": "inconnu (probablement BTS/DUT environnement)", "domaine": "sciences"}],
+    "fields": ["sciences"],
+    "career": [
+      {"poste": "Technicien assainissement", "employeur": "Communauté de communes du Pithiverais", "secteur": "public", "periode": "à partir de 2004"},
+      {"poste": "Directeur-adjoint", "employeur": "établissement pour personnes âgées souffrant de handicap mental, région parisienne (nom non précisé)", "secteur": "inconnu", "periode": "inconnu-2020"},
+      {"poste": "Adjoint à l'urbanisme", "employeur": "Mairie de Pithiviers", "secteur": "politique", "periode": "2014-2020"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "basse",
+    "notes": "Wikipédia (repris par France Bleu/ici.fr, vérifié par curl) mentionne des « études en environnement à Tours » sans nommer d'établissement ni de diplôme ; le niveau bac+2 est une estimation compatible avec un poste de technicien obtenu directement après ces études, non un diplôme confirmé. Poste de technicien assainissement à la communauté de communes du Pithiverais (collectivité territoriale, secteur public) confirmé par deux sources de presse. Le second emploi (directeur-adjoint d'un établissement médico-social pour personnes âgées handicapées) n'est nommé nulle part et son statut (public/privé/associatif) reste inconnu. Le stage HATVP (UNIFAF, 2018-2019) est une formation non rémunérée, non comptée comme emploi. Les nombreux mandats de « dirigeant » figurant dans sa déclaration HATVP (EPF Loiret, SITOMAP, SMORE, CNAS, etc.) correspondent à des sièges d'administrateur liés à ses fonctions d'élu local, non à une activité professionnelle.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Anthony_Brosse", "pour": "carriere"},
+      {"url": "https://www.francebleu.fr/infos/politique/legislatives-qui-est-anthony-brosse-le-nouveau-depute-ensemble-de-la-5e-circonscription-du-loiret-1655280142", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA722000",
+    "nom": "Stéphane Buchou",
+    "highest_degree_level": "bac+5",
+    "degrees": [
+      {"institution": "Université de Nantes", "diplome": "inconnu", "domaine": "inconnu"},
+      {"institution": "École de management de Normandie", "diplome": "Mastère spécialisé (intitulé précis non re-vérifiable, site source disparu)", "domaine": "economie-gestion"}
+    ],
+    "fields": ["economie-gestion"],
+    "career": [
+      {"poste": "Cadre (immobilier puis banque)", "employeur": "non précisé", "secteur": "prive", "periode": "avant 2006"},
+      {"poste": "Manager de centre-ville", "employeur": "Oryon (SEM de La Roche-sur-Yon, statut de droit privé)", "secteur": "prive", "periode": "2006-2009"},
+      {"poste": "Directeur-adjoint", "employeur": "Cocktail Vision / SAS Cocktail Développement (communication publicitaire numérique, La Roche-sur-Yon)", "secteur": "prive", "periode": "2009-06/2017"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "L'infobox Wikipédia confirme les deux établissements (Université de Nantes, École de management de Normandie) et le texte détaille la carrière : immobilier puis banque, manager de centre-ville chez Oryon (SEM, classée secteur privé par convention car de statut de droit privé) de 2006 à 2009, puis directeur-adjoint de Cocktail Vision/SAS Cocktail Développement de 2009 à juin 2017, confirmé pour la dernière période par sa déclaration HATVP. L'intitulé précis du mastère spécialisé EM Normandie (« management du développement territorial »), noté lors d'une recherche antérieure sur legislatives.en-marche.fr, n'a pas pu être re-vérifié : le site renvoie une erreur HTTP 520 (domaine de campagne 2017 hors service). Niveau bac+5 retenu car cohérent avec les deux établissements d'enseignement supérieur nommés indépendamment.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/St%C3%A9phane_Buchou", "pour": "both"},
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA718820",
+    "nom": "Pauline Cestrières",
+    "highest_degree_level": "bac+5",
+    "degrees": [{"institution": "École d'ingénieurs de Purpan (Toulouse)", "diplome": "Diplôme d'ingénieur agricole, 79e promotion", "domaine": "agriculture"}],
+    "fields": ["agriculture"],
+    "career": [
+      {"poste": "Agricultrice exploitante", "employeur": "Exploitation agricole, Saint-Amans-des-Cots (Aveyron)", "secteur": "liberal_independant", "periode": "inconnu"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Page confirmée directement par curl+grep sur purpanalumni.com (site de l'association des anciens élèves de Purpan) : titre « Pauline Cestrières (79è), appelée à siéger à l'Assemblée nationale », le « 79è » désignant sa promotion de sortie de l'école d'ingénieurs agricoles. Aucune déclaration HATVP disponible pour cette députée (entrée absente du dump).",
+    "sources": [
+      {"url": "https://www.purpanalumni.com/news/pauline-cestrieres-79e-appelee-a-sieger-a-l-assemblee-nationale-6228", "pour": "diplome"},
+      {"url": "https://fr.wikipedia.org/wiki/Pauline_Cestri%C3%A8res", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA793928",
+    "nom": "Edwige Diaz",
+    "highest_degree_level": "bac+5",
+    "degrees": [{"institution": "Université de Bordeaux", "diplome": "Master", "domaine": "espagnol"}],
+    "fields": ["lettres-langues"],
+    "career": [
+      {"poste": "Assistante de direction", "employeur": "SARL GL Holding / La Plage", "secteur": "prive", "periode": "2020-2022"},
+      {"poste": "Assistante parlementaire (Jacques Colombier, alors député européen RN)", "employeur": "Jacques Colombier", "secteur": "politique", "periode": "2018-2019"},
+      {"poste": "Chargée de mission", "employeur": "AFE MLP 2022 (campagne présidentielle de Marine Le Pen)", "secteur": "politique", "periode": "01/2022-04/2022"},
+      {"poste": "Dirigeante (vice-présidente)", "employeur": "Rassemblement National", "secteur": "politique", "periode": "depuis 2021"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "politique_principalement",
+    "confidence": "haute",
+    "notes": "Le wikitexte brut (non repris dans l'extrait rogné) confirme, référence de presse à l'appui (Le Populaire du Centre, 2021) : « Elle suit des études d'espagnol à l'université de Bordeaux et est titulaire d'un master. » La déclaration HATVP détaille une carrière mixte : emploi salarié privé (assistante de direction, 2020-2022) entrecoupé et suivi de fonctions politiques rémunérées (assistante parlementaire d'un député européen RN, chargée de mission pour la campagne présidentielle de M. Le Pen) et d'un rôle de dirigeante du RN depuis 2021 ; l'identité politique (vice-présidente du parti) domine, d'où politique_principalement malgré un emploi privé réel et documenté.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/w/index.php?title=Edwige_Diaz&action=raw", "pour": "diplome"},
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA794762",
+    "nom": "Sandrine Dogor-Such",
+    "highest_degree_level": "bac_ou_moins",
+    "degrees": [{"institution": "Lycée Al Sol, Perpignan", "diplome": "Brevet professionnel (BP) de préparateur en pharmacie", "domaine": "medecine-sante"}],
+    "fields": ["medecine-sante"],
+    "career": [
+      {"poste": "Préparatrice en pharmacie", "employeur": "Grande Pharmacie de la Loge / Pharmacie de la Loge, Perpignan", "secteur": "prive", "periode": "2017-2020"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Carrière et employeurs confirmés directement par la déclaration HATVP (préparatrice en pharmacie, Grande Pharmacie de la Loge puis Pharmacie de la Loge, jusqu'à sa prise de fonction d'adjointe au maire en juin 2020). Le BP de préparateur en pharmacie est un diplôme de niveau bac (niveau IV, non post-bac), d'où bac_ou_moins ; l'établissement de formation (Lycée Al Sol) provient d'une recherche antérieure croisant plusieurs fiches biographiques, non re-vérifiée dans cette passe. Les mandats de dirigeante figurant dans la déclaration (Rassemblement National, Mediance 66, Régie quartier sud) correspondent à des fonctions politiques/associatives liées à son mandat d'élue, non à un second emploi salarié.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Sandrine_Dogor-Such", "pour": "diplome"}
+    ]
+  },
+  {
+    "uid": "PA643175",
+    "nom": "Stella Dupont",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [{"institution": "Classe préparatoire aux études comptables et financières", "diplome": "Diplôme d'études comptables et financières (DECF), 1993", "domaine": "economie-gestion"}],
+    "fields": ["economie-gestion"],
+    "career": [
+      {"poste": "Comptable", "employeur": "Groupe Cerfrance (réseau associatif loi 1901)", "secteur": "associatif", "periode": "à partir de 1993"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Le diplôme (DECF, obtenu en 1993 après une classe préparatoire aux études comptables et financières) est explicitement décrit par Wikipédia ; le DECF de cette époque équivaut à un niveau bac+4. Le passage sur l'emploi chez Cerfrance est lui-même signalé comme « source insuffisante » par Wikipédia : Cerfrance est un réseau associatif (loi 1901) qui fonctionne comme un cabinet de conseil comptable, classé ici en secteur associatif et compté comme secteur privé par convention. La déclaration HATVP ne comporte aucune « activité » professionnelle ; tous ses mandats de « dirigeant » (hôpital de la Corniche Angevine, missions locales, centre de santé mentale) sont des sièges d'administrateur liés à ses fonctions d'élue locale, non un second emploi.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Stella_Dupont", "pour": "both"},
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841761",
+    "nom": "Aurélien Dutremble",
+    "highest_degree_level": "bac_ou_moins",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Technicien hospitalier", "employeur": "Résidence départementale d'accueil et de soins", "secteur": "public", "periode": "depuis 2019"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "Se définit lui-même comme « autodidacte » (Wikipédia) ; aucun diplôme n'est mentionné nulle part. L'emploi de technicien hospitalier à la Résidence départementale d'accueil et de soins, depuis 2019, est confirmé directement par sa déclaration HATVP (seule activité professionnelle déclarée). Le grade « technicien hospitalier » de la fonction publique hospitalière peut correspondre à un niveau bac+2 (catégorie B) selon la grille de référence de ce projet, mais son propre positionnement en « autodidacte » et le classement INSEE de sa profession aux côtés des agents de service et auxiliaires de santé (plutôt catégorie C) incitent à ne pas monter le niveau sans confirmation ; niveau laissé à bac_ou_moins par prudence.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Aur%C3%A9lien_Dutremble", "pour": "diplome"}
+    ]
+  },
+  {
+    "uid": "PA793246",
+    "nom": "Frédéric Falcon",
+    "highest_degree_level": "bac+5",
+    "degrees": [{"institution": "École de commerce (nom non précisé)", "diplome": "inconnu", "domaine": "commerce"}],
+    "fields": ["commerce"],
+    "career": [
+      {"poste": "Consultant en système d'information et organisation", "employeur": "société de conseil (non nommée)", "secteur": "prive", "periode": "avant 2015"},
+      {"poste": "Fondateur / dirigeant", "employeur": "société de conseil en investissement immobilier (La Venta / SAS Gobo-Groupe)", "secteur": "liberal_independant", "periode": "2015/2018-présent"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Texte confirmé mot pour mot par curl+grep sur falcondepute.fr/biographie/ (site de campagne personnel, contenu statique et vérifiable) : « Après des études de géographie, d'aménagement du territoire puis une École de Commerce, je deviens consultant en système d'information et organisation pour une société de conseil [...] je crée en 2015 une société de conseil en investissement immobilier [...] je poursuis d'autres cursus universitaires ; l'un en géopolitique, l'autre en droit et gestion privée. » Le nom de l'école de commerce n'est pas précisé, d'où confiance moyenne malgré un texte source directement vérifié. La déclaration HATVP confirme sa qualité de dirigeant de La Venta (depuis 2018) et de SAS Gobo-Groupe (2018-2020), cohérent avec l'activité de conseil en immobilier décrite.",
+    "sources": [
+      {"url": "https://falcondepute.fr/biographie/", "pour": "both"},
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA793980",
+    "nom": "Charles Fournier",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [{"institution": "Université de Tours", "diplome": "inconnu", "domaine": "histoire-geographie"}],
+    "fields": ["histoire-geographie"],
+    "career": [
+      {"poste": "Formateur", "employeur": "coopérative (nom non précisé)", "secteur": "inconnu", "periode": "inconnu"}
+    ],
+    "worked_private": false,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "inconnu",
+    "confidence": "basse",
+    "notes": "Le wikitexte brut confirme « des études d'aménagement du territoire puis de géographie à Tours » sans nommer de diplôme obtenu ni son niveau exact ; bac+3_4 retenu par estimation prudente (études universitaires longues mais diplôme non confirmé). Seul emploi documenté hors politique : « formateur au sein d'une coopérative », sans nom d'employeur ni secteur précisé (Le Monde, source payante, non accessible en clair). Tous les très nombreux mandats de « dirigeant » de sa déclaration HATVP (SEM Centre-Val de Loire Énergie, ADEME, Conseil national de la transition écologique, Commission nationale du débat public, etc.) correspondent à des sièges occupés ès qualités de vice-président du conseil régional Centre-Val de Loire (2015-2022), non à un emploi salarié ; career_profile laissé « inconnu » faute d'employeur identifiable pour son unique activité professionnelle documentée.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/w/index.php?title=Charles_Fournier_(homme_politique,_1968)&action=raw", "pour": "both"},
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+    ]
+  }
+]}

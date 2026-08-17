@@ -1,0 +1,295 @@
+{
+  "batch": 27,
+  "deputies": [
+    {
+      "uid": "PA795920",
+      "nom": "Prisca Thevenot",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "EM Lyon Business School", "diplome": "Diplôme (2009)", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Consultante", "employeur": "BearingPoint", "secteur": "prive", "periode": "inconnue"},
+        {"poste": "Consultante", "employeur": "Ernst & Young", "secteur": "prive", "periode": "inconnue"},
+        {"poste": "Chargée de mission/communication", "employeur": "Veolia Eau", "secteur": "prive", "periode": "inconnue"},
+        {"poste": "Salariée", "employeur": "Webhelp", "secteur": "prive", "periode": "inconnue"},
+        {"poste": "Collaboratrice parlementaire", "employeur": "Assemblée nationale", "secteur": "politique", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Postes en entreprise identifiés via wikidata (BearingPoint, EY, Veolia Eau, Webhelp) sans détails précis; a aussi été collaboratrice parlementaire avant son élection."
+    },
+    {
+      "uid": "PA795954",
+      "nom": "Catherine Ibled",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Gérante", "employeur": "C2C Communication", "secteur": "liberal_independant", "periode": "jusqu'en 2020"},
+        {"poste": "Gérante", "employeur": "Com'as (holding)", "secteur": "liberal_independant", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Gérante de sociétés de conseil en communication et de holding; source qualifiée d'insuffisante sur ce point par Wikipédia."
+    },
+    {
+      "uid": "PA795962",
+      "nom": "Joséphine Missoffe",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "École d'infirmières", "diplome": "Diplôme d'État d'infirmière-puéricultrice", "domaine": "medecine-sante"}
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {"poste": "Infirmière", "employeur": "non précisé", "secteur": "public", "periode": "avant 2020"},
+        {"poste": "Directrice de crèche", "employeur": "non précisé", "secteur": "public", "periode": "avant 2020"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "Employeurs et secteur exact (public/privé) des postes d'infirmière et de directrice de crèche non précisés dans la biographie."
+    },
+    {
+      "uid": "PA795966",
+      "nom": "Stéphane Rambaud",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Policier puis commissaire de police", "employeur": "Police nationale", "secteur": "public", "periode": "37 ans, jusqu'en 2021"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Formation initiale non précisée dans la biographie."
+    },
+    {
+      "uid": "PA795974",
+      "nom": "Philippe Lottiaux",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme IEP", "domaine": "sciences politiques"},
+        {"institution": "École nationale d'administration", "diplome": "Diplôme ENA (1991)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Chef de service de la Jeunesse", "employeur": "Mairie de Paris", "secteur": "public", "periode": "1990s"},
+        {"poste": "Agent", "employeur": "Ministère de la Coopération", "secteur": "public", "periode": "1990s"},
+        {"poste": "Directeur de cabinet du secrétaire général", "employeur": "Mairie de Paris", "secteur": "public", "periode": "1990s-2000s"},
+        {"poste": "Directeur général des services", "employeur": "Mairie de Levallois-Perret", "secteur": "public", "periode": "années 2000"},
+        {"poste": "Chef du service de gestion des implantations", "employeur": "Mairie de Paris", "secteur": "public", "periode": "2013"},
+        {"poste": "Humoriste-imitateur (Philippe Bacart)", "employeur": "indépendant (spectacles)", "secteur": "liberal_independant", "periode": "à partir de 2011, en parallèle"},
+        {"poste": "Directeur de cabinet du maire de Fréjus", "employeur": "Mairie de Fréjus", "secteur": "public", "periode": "à partir de 2014"},
+        {"poste": "Directeur général des services", "employeur": "CAVEM et Mairie de Fréjus", "secteur": "public", "periode": "à partir de 2020"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": "Carrière essentiellement dans la haute fonction publique territoriale et d'État, avec une activité parallèle d'humoriste-imitateur."
+    },
+    {
+      "uid": "PA795982",
+      "nom": "Aurélien Saintoul",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Lycée Louis-le-Grand", "diplome": "Classe préparatoire aux grandes écoles", "domaine": "lettres-sciences humaines"},
+        {"institution": "Agrégation", "diplome": "Agrégation de lettres classiques (2016)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Professeur de lettres classiques", "employeur": "Éducation nationale", "secteur": "public", "periode": "2016-2017"},
+        {"poste": "Collaborateur parlementaire", "employeur": "Bastien Lachaud (député)", "secteur": "politique", "periode": "2017-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Enseignant un an avant de devenir collaborateur parlementaire de 2017 à 2022."
+    },
+    {
+      "uid": "PA795998",
+      "nom": "Émeline K/Bidi",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université (La Réunion)", "diplome": "Licence de droit", "domaine": "droit"},
+        {"institution": "Université", "diplome": "Master en droit des affaires", "domaine": "droit"},
+        {"institution": "École de formation des barreaux (EFB) de Paris", "diplome": "CAPA", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Juriste", "employeur": "non précisé", "secteur": "prive", "periode": "1 an, avant 2013"},
+        {"poste": "Avocate collaboratrice", "employeur": "Barreau de Saint-Denis (La Réunion)", "secteur": "liberal_independant", "periode": "2013-2018"},
+        {"poste": "Avocate", "employeur": "Barreau de Saint-Pierre (La Réunion)", "secteur": "liberal_independant", "periode": "à partir de 2018"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA796010",
+      "nom": "Frédéric Maillot",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Boulanger", "employeur": "non précisé", "secteur": "prive", "periode": "avant 2011"},
+        {"poste": "Animateur de centre de loisirs", "employeur": "non précisé", "secteur": "associatif", "periode": "avant 2011"},
+        {"poste": "Salarié, boutique de solidarité", "employeur": "Fondation Abbé-Pierre", "secteur": "associatif", "periode": "depuis 2011"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "A quitté le collège en troisième, sans diplôme, avant d'exercer plusieurs métiers puis de devenir salarié associatif."
+    },
+    {
+      "uid": "PA796018",
+      "nom": "Danielle Simonnet",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-Nanterre", "diplome": "Diplôme d'État de conseillère d'orientation-psychologue (inféré)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Conseillère d'orientation psychologue", "employeur": "Éducation nationale, Seine-Saint-Denis", "secteur": "public", "periode": "1990s"},
+        {"poste": "Membre du cabinet du ministre délégué à l'enseignement professionnel", "employeur": "Jean-Luc Mélenchon (ministère)", "secteur": "politique", "periode": "2000"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "A exercé comme conseillère d'orientation psychologue avant de s'engager pleinement dans des fonctions politiques dès 2000."
+    },
+    {
+      "uid": "PA796026",
+      "nom": "Julie Lechanteux",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [
+        {"institution": "Lycée Saint-Exupéry (Saint-Raphaël)", "diplome": "Brevet de gestion comptabilité", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Gérante", "employeur": "Salon de coiffure (entreprise propre)", "secteur": "liberal_independant", "periode": "avant 2014"},
+        {"poste": "Gérante", "employeur": "Traiteur de réception (entreprise propre)", "secteur": "liberal_independant", "periode": "avant 2014"},
+        {"poste": "Gérante", "employeur": "Agence immobilière (entreprise propre)", "secteur": "liberal_independant", "periode": "avant 2014"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Chef d'entreprise dans plusieurs secteurs (coiffure, traiteur, immobilier) avant son engagement politique."
+    },
+    {
+      "uid": "PA796034",
+      "nom": "Frank Giletti",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Institut régional d'administration de Lyon", "diplome": "Formation d'attaché d'administration", "domaine": "autre"}
+      ],
+      "fields": ["autre"],
+      "career": [
+        {"poste": "Attaché d'administration", "employeur": "Fonction publique (non précisé)", "secteur": "public", "periode": "inconnue"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "Poste précis non détaillé dans la biographie; inféré de la formation à l'IRA de Lyon et de la profession déclarée (fonctionnaire)."
+    },
+    {
+      "uid": "PA796042",
+      "nom": "Frédéric Boccaletti",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Libraire (propriétaire)", "employeur": "Librairie (nom non précisé)", "secteur": "liberal_independant", "periode": "jusqu'en 1998"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Wikidata mentionne un lien avec Dominique Martin (eurodéputé RN), non confirmé ni détaillé par la biographie."
+    },
+    {
+      "uid": "PA796050",
+      "nom": "Philippe Schreck",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École d'avocats (non précisée)", "diplome": "Diplôme d'avocat / CAPA (1995)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Avocat (cabinet familial)", "employeur": "Cabinet Schreck", "secteur": "liberal_independant", "periode": "1995-2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA796062",
+      "nom": "Thomas Portes",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université Bordeaux-IV", "diplome": "Licence de droit", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Agent circulation puis chef circulation", "employeur": "SNCF", "secteur": "public", "periode": "2010-2019"},
+        {"poste": "Chef de cabinet du maire de Champigny-sur-Marne", "employeur": "Mairie de Champigny-sur-Marne", "secteur": "public", "periode": "sept. 2019-juil. 2020"},
+        {"poste": "Directeur", "employeur": "Confédération nationale du logement (CNL)", "secteur": "associatif", "periode": "2021-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "A aussi dirigé une association (CNL) entre son emploi SNCF et son élection."
+    },
+    {
+      "uid": "PA796070",
+      "nom": "Perceval Gaillard",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Manœuvre", "employeur": "non précisé", "secteur": "prive", "periode": "à partir de 19 ans, La Réunion"},
+        {"poste": "Maçon", "employeur": "non précisé", "secteur": "prive", "periode": "idem"},
+        {"poste": "Manutentionnaire (dépotage de conteneurs)", "employeur": "Port (non précisé)", "secteur": "prive", "periode": "idem"},
+        {"poste": "Éducateur social", "employeur": "non précisé", "secteur": "associatif", "periode": "avant 2020"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Secteur exact de l'emploi d'éducateur social non précisé dans la biographie (probablement associatif ou médico-social)."
+    }
+  ]
+}

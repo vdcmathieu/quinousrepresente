@@ -1,0 +1,230 @@
+[
+ {
+  "uid": "PA794418",
+  "num": "794418",
+  "nom": "Florence Goulet",
+  "groupe": "Rassemblement National",
+  "dept": "Meuse",
+  "circo": "2",
+  "naissance": "1961-06-30",
+  "profession_declaree": "Cadre de la fonction publique",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "politique_principalement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Florence_Goulet",
+  "wiki_trimmed": "data/wiki_trimmed/PA794418.txt",
+  "notes_actuelles": ""
+ },
+ {
+  "uid": "PA840757",
+  "num": "840757",
+  "nom": "Monique Griseti",
+  "groupe": "Rassemblement National",
+  "dept": "Bouches-du-Rhône",
+  "circo": "1",
+  "naissance": "1960-07-23",
+  "profession_declaree": "(22) - Commerçant et assimilé",
+  "insee": "Commerçants et assimilés",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Monique_Griseti",
+  "wiki_trimmed": "data/wiki_trimmed/PA840757.txt",
+  "notes_actuelles": "Biographie quasi inexistante hormis l'engagement politique dès 18 ans."
+ },
+ {
+  "uid": "PA841451",
+  "num": "841451",
+  "nom": "Julien Guibert",
+  "groupe": "Rassemblement National",
+  "dept": "Nièvre",
+  "circo": "2",
+  "naissance": "1984-05-11",
+  "profession_declaree": "(46) - Profession intermédiaire administrative et commerciale des entreprises",
+  "insee": "Professions intermédiaires administratives et commerciales des entreprises",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Julien_Guibert",
+  "wiki_trimmed": "data/wiki_trimmed/PA841451.txt",
+  "notes_actuelles": "Biographie quasi inexistante ; classement basé uniquement sur la profession déclarée."
+ },
+ {
+  "uid": "PA794734",
+  "num": "794734",
+  "nom": "Michel Guiniot",
+  "groupe": "Rassemblement National",
+  "dept": "Oise",
+  "circo": "6",
+  "naissance": "1954-11-29",
+  "profession_declaree": "Ancien cadre",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "politique_principalement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Michel_Guiniot",
+  "wiki_trimmed": "data/wiki_trimmed/PA794734.txt",
+  "notes_actuelles": "Artisan-commerçant pendant 26 ans, puis carrière de cadre du parti à temps plein pendant plusieurs décennies avant le mandat."
+ },
+ {
+  "uid": "PA795258",
+  "num": "795258",
+  "nom": "Frantz Gumbs",
+  "groupe": "Les Démocrates",
+  "dept": "Saint-Barthélemy et Saint-Martin",
+  "circo": "1",
+  "naissance": "1954-01-21",
+  "profession_declaree": "Personnel de direction de l'éducation nationale retraité",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Frantz_Gumbs",
+  "wiki_trimmed": "data/wiki_trimmed/PA795258.txt",
+  "notes_actuelles": "Career issue de la profession déclarée officielle uniquement, la biographie ne détaille pas son parcours professionnel."
+ },
+ {
+  "uid": "PA842013",
+  "num": "842013",
+  "nom": "Steevy Gustave",
+  "groupe": "Écologiste et Social",
+  "dept": "Essonne",
+  "circo": "3",
+  "naissance": "1970-02-05",
+  "profession_declaree": "(35) - Profession de l'information, des arts et des spectacles",
+  "insee": "Chefs d'entreprise de plus de 10 personnes",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Steevy_Gustave",
+  "wiki_trimmed": "data/wiki_trimmed/PA842013.txt",
+  "notes_actuelles": "Carrière principalement artistique et entrepreneuriale, avec un bref passage en cabinet ministériel en 2015."
+ },
+ {
+  "uid": "PA794470",
+  "num": "794470",
+  "nom": "Félicie Gérard",
+  "groupe": "Horizons & Indépendants",
+  "dept": "Nord",
+  "circo": "7",
+  "naissance": "1974-01-28",
+  "profession_declaree": "Chef de projet",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/F%C3%A9licie_G%C3%A9rard",
+  "wiki_trimmed": "data/wiki_trimmed/PA794470.txt",
+  "notes_actuelles": "Aucune mention de ses études dans la biographie."
+ },
+ {
+  "uid": "PA841471",
+  "num": "841471",
+  "nom": "Stéphane Hablot",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Meurthe-et-Moselle",
+  "circo": "2",
+  "naissance": "1965-06-30",
+  "profession_declaree": "Education nationale",
+  "insee": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/St%C3%A9phane_Hablot",
+  "wiki_trimmed": "data/wiki_trimmed/PA841471.txt",
+  "notes_actuelles": "Carrière d'enseignant confirmée mais niveau de diplôme non précisé par la source."
+ },
+ {
+  "uid": "PA842263",
+  "num": "842263",
+  "nom": "Ayda Hadizadeh",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Val-d'Oise",
+  "circo": "2",
+  "naissance": "1982-02-12",
+  "profession_declaree": "(37) - Cadre administratif et commercial d'entreprise",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Ayda_Hadizadeh",
+  "wiki_trimmed": "data/wiki_trimmed/PA842263.txt",
+  "notes_actuelles": "Formation non précisée dans la source; carrière mêlant ministère, association et fondation avant son élection."
+ },
+ {
+  "uid": "PA841813",
+  "num": "841813",
+  "nom": "Florence Herouin-Léautey",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Seine-Maritime",
+  "circo": "1",
+  "naissance": "1972-12-28",
+  "profession_declaree": "(33) - Cadre de la fonction publique",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Florence_H%C3%A9rouin-L%C3%A9autey",
+  "wiki_trimmed": "data/wiki_trimmed/PA841813.txt",
+  "notes_actuelles": ""
+ },
+ {
+  "uid": "PA840947",
+  "num": "840947",
+  "nom": "Catherine Hervieu",
+  "groupe": "Écologiste et Social",
+  "dept": "Côte-d'Or",
+  "circo": "2",
+  "naissance": "1958-05-09",
+  "profession_declaree": "Psychologue scolaire",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Catherine_Hervieu",
+  "wiki_trimmed": "data/wiki_trimmed/PA840947.txt",
+  "notes_actuelles": "La biographie ne détaille pas son parcours d'études."
+ },
+ {
+  "uid": "PA795954",
+  "num": "795954",
+  "nom": "Catherine Ibled",
+  "groupe": "Ensemble pour la République",
+  "dept": "Paris",
+  "circo": "13",
+  "naissance": "1975-05-25",
+  "profession_declaree": "Directrice adjointe de la communication",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Catherine_Ibled",
+  "wiki_trimmed": "data/wiki_trimmed/PA795954.txt",
+  "notes_actuelles": "Gérante de sociétés de conseil en communication et de holding; source qualifiée d'insuffisante sur ce point par Wikipédia."
+ }
+]

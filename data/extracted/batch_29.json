@@ -1,0 +1,273 @@
+{
+  "batch": 29,
+  "deputies": [
+    {
+      "uid": "PA840159",
+      "nom": "Bruno Clavet",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Mannequin (lingerie), sous le nom de Bruno May", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "vers 2012"},
+        {"poste": "Profession intermédiaire administrative de la fonction publique (profession déclarée, non détaillée)", "employeur": "inconnu", "secteur": "public", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "basse",
+      "notes": "Biographie centrée sur le parcours politique; le seul emploi décrit (mannequinat) est anecdotique et la profession déclarée n'est pas détaillée."
+    },
+    {
+      "uid": "PA840175",
+      "nom": "Dorine Bregman",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Doctorat en science politique (1991)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Consultante en participation citoyenne", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "avant 2026"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Biographie très courte; consultante indépendante en participation citoyenne."
+    },
+    {
+      "uid": "PA840235",
+      "nom": "Moerani Frébault",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Master en droit public", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Directeur général des services", "employeur": "Mairie de Hiva Oa", "secteur": "public", "periode": "avant 2024"},
+        {"poste": "Secrétaire général de la circonscription administrative des îles Marquises", "employeur": "Polynésie française", "secteur": "public", "periode": "2016-2019 (environ 3 ans et demi)"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Nommé secrétaire général sans concours, dans un contexte de favoritisme familial rapporté par la presse."
+    },
+    {
+      "uid": "PA840657",
+      "nom": "Sophie Ricourt Vaginay",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Formation de clerc de notaire", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Clerc de notaire", "employeur": "inconnu", "secteur": "prive", "periode": "avant mandats locaux"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "La biographie mentionne seulement qu'elle est \"clerc de notaire de formation\", sans détail sur l'employeur."
+    },
+    {
+      "uid": "PA840665",
+      "nom": "Marie-José Allemand",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Éleveuse de brebis (agricultrice)", "employeur": "GAEC familial", "secteur": "liberal_independant", "periode": "avant 2024"},
+        {"poste": "Membre du bureau de la FRSEA Provence-Alpes-Côte d'Azur", "employeur": "FRSEA PACA", "secteur": "associatif", "periode": "à partir de 2023"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Aucune information sur son parcours d'études; carrière agricole bien documentée."
+    },
+    {
+      "uid": "PA840673",
+      "nom": "Valérie Rossi",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Collaboratrice parlementaire", "employeur": "Joël Giraud puis Claire Bouchet, députés des Hautes-Alpes", "secteur": "politique", "periode": "neuf ans, avant 2024"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Aucun emploi hors sphère politique/mandats locaux n'est mentionné."
+    },
+    {
+      "uid": "PA840685",
+      "nom": "Vincent Trébuchet",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Directeur adjoint et financier d'un magasin", "employeur": "Leroy Merlin", "secteur": "prive", "periode": "avant 2024"},
+        {"poste": "Chargé de la gestion et du développement d'un portefeuille de dirigeants actionnaires", "employeur": "Caisse d'épargne", "secteur": "prive", "periode": "avant 2024"},
+        {"poste": "Employé du \"start-up studio\"", "employeur": "Fondation Bien Commun", "secteur": "associatif", "periode": "avant 2024"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Carrière essentiellement dans le privé (distribution, banque) avant un dernier poste dans une fondation liée à Pierre-Édouard Stérin."
+    },
+    {
+      "uid": "PA840701",
+      "nom": "Bernard Chaix",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Commerçant (vente de tapis et moquettes)", "employeur": "Entreprise familiale (depuis 1936)", "secteur": "liberal_independant", "periode": "avant 2024"},
+        {"poste": "Président de la CGPME des Alpes-Maritimes", "employeur": "CGPME Alpes-Maritimes", "secteur": "associatif", "periode": "à partir de 2007"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": null
+    },
+    {
+      "uid": "PA840721",
+      "nom": "Marc Chavent",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Assistant parlementaire", "employeur": "Sylvie Goy-Chavent, sénatrice", "secteur": "politique", "periode": "inconnu"},
+        {"poste": "Cadre de la fonction publique (profession déclarée, non détaillée)", "employeur": "inconnu", "secteur": "public", "periode": "inconnu"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "La biographie ne détaille pas son emploi de cadre de la fonction publique; a aussi été assistant parlementaire de sa sœur."
+    },
+    {
+      "uid": "PA840745",
+      "nom": "Édouard Jordan",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "IEP de Toulouse", "diplome": "Diplôme de l'Institut d'études politiques", "domaine": "sciences politiques"},
+        {"institution": "École nationale des finances publiques de Clermont-Ferrand", "diplome": "Formation d'inspecteur des finances publiques", "domaine": "economie"}
+      ],
+      "fields": ["sciences politiques", "economie"],
+      "career": [
+        {"poste": "Inspecteur des finances publiques", "employeur": "Direction générale des finances publiques", "secteur": "public", "periode": "avant 2026"},
+        {"poste": "Attaché territorial", "employeur": "collectivité territoriale", "secteur": "public", "periode": "avant 2026"},
+        {"poste": "Directeur général des services", "employeur": "Ville de Quillan", "secteur": "public", "periode": "2016-2026"},
+        {"poste": "Chargé de mission", "employeur": "Chambre d'agriculture de l'Aude", "secteur": "public", "periode": "avant/pendant mandat"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": null
+    },
+    {
+      "uid": "PA840757",
+      "nom": "Monique Griseti",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Commerçante et assimilée (profession déclarée, non détaillée)", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie quasi inexistante hormis l'engagement politique dès 18 ans."
+    },
+    {
+      "uid": "PA840765",
+      "nom": "Laurent Lhardit",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "IEP de Lyon", "diplome": "Diplôme de l'Institut d'études politiques", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Collaborateur parlementaire", "employeur": "Michel Pezet, député socialiste", "secteur": "politique", "periode": "à partir de 1988"},
+        {"poste": "Fondateur d'un cabinet de conseil", "employeur": "Cabinet propre", "secteur": "liberal_independant", "periode": "à partir de 1997"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "A aussi été collaborateur parlementaire avant de fonder son propre cabinet de conseil."
+    },
+    {
+      "uid": "PA840773",
+      "nom": "Olivier Fayssat",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Courtier en assurances / dirigeant d'entreprise", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "avant 2024"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": null
+    },
+    {
+      "uid": "PA840781",
+      "nom": "Romain Tonussi",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Profession intermédiaire administrative de la fonction publique (profession déclarée, non détaillée)", "employeur": "inconnu", "secteur": "public", "periode": "inconnu"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie centrée sur les candidatures successives dès 2020, sans détail sur un emploi."
+    },
+    {
+      "uid": "PA840793",
+      "nom": "Marc Pena",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Faculté de droit d'Aix", "diplome": "Doctorat en droit (1989)", "domaine": "droit"},
+        {"institution": "inconnu", "diplome": "Agrégation (1996)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Enseignant-chercheur / historien du droit", "employeur": "Université d'Aix-Marseille (Faculté de droit d'Aix)", "secteur": "public", "periode": "à partir de 1989/1996"},
+        {"poste": "Doyen de la faculté de droit d'Aix", "employeur": "Université d'Aix-Marseille", "secteur": "public", "periode": "à partir de 2004"},
+        {"poste": "Président de l'université Paul-Cézanne", "employeur": "Université Paul-Cézanne", "secteur": "public", "periode": "2008-2012"},
+        {"poste": "Vice-président d'Aix-Marseille Université", "employeur": "Aix-Marseille Université", "secteur": "public", "periode": "2012-2016"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": null
+    }
+  ]
+}

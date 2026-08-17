@@ -1,0 +1,256 @@
+{"deputies": [
+  {
+    "uid": "PA793520",
+    "nom": "Mickaël Cosson",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Chargé d'opérations urbanisme", "employeur": "DDTM des Côtes-d'Armor (DDTM22)", "secteur": "public", "periode": "01/2019-06/2022 (mise en disponibilité automatique à l'élection)"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "haute",
+    "notes": "Fonctionnaire, chargé d'opérations à la DDTM des Côtes-d'Armor de janvier 2019 à juin 2022, mise en disponibilité automatique lors de son élection : confirmé par sa déclaration HATVP consultée directement. Aucune information sur ses diplômes trouvée malgré recherche (fiche AN, HATVP, site personnel mickaelcosson.carrd.co, Wikipédia) : reste inconnu.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/cosson-mickael-18183", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Micka%C3%ABl_Cosson", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA795136",
+    "nom": "Jean-François Coulomme",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Ingénieur commercial", "employeur": "SchlegelGiesse", "secteur": "prive", "periode": "01/2019-06/2022"},
+      {"poste": "Commercial (bâtiment/second-œuvre, plasturgie, énergies renouvelables)", "employeur": "Employeurs successifs non tous identifiés", "secteur": "prive", "periode": "avant 2019"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Déclaration HATVP consultée directement : ingénieur commercial chez SchlegelGiesse de janvier 2019 à juin 2022 (rémunérations détaillées par année). Carrière antérieure de commercial dans le bâtiment/second-œuvre, la plasturgie et les énergies renouvelables déjà documentée dans les notes précédentes. Le titre de poste « ingénieur commercial » est une fonction commerciale et ne constitue pas une preuve d'un diplôme d'ingénieur : aucune école ni diplôme n'a été trouvé (HATVP, site jfcoulomme.fr, Wikipédia, Who's Who inaccessible en intégralité) : diplôme reste inconnu.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/coulomme-jean-francois-24341", "pour": "carriere"},
+      {"url": "https://jfcoulomme.fr/bio/", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Coulomme", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA794430",
+    "nom": "Michel Criaud",
+    "highest_degree_level": "bac_ou_moins",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Artisan menuisier, chef d'entreprise", "employeur": "Criaud Michel Menuiserie (entreprise individuelle)", "secteur": "liberal_independant", "periode": "1987-2025 (retraite à son entrée à l'Assemblée)"},
+      {"poste": "Directeur", "employeur": "Athena Conseils (construction/rénovation)", "secteur": "liberal_independant", "periode": "05/2021-08/2021"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Maître menuisier, chef d'une entreprise individuelle de menuiserie depuis 1987 ; a aussi dirigé Athena Conseils (construction/rénovation) en 2021 (source : Contexte.com, consulté directement). Interviewé par le Journal des Lycées (consulté directement), il déclare explicitement : « Je ne suis pas passé par les grandes écoles [...] J'ai appris avec le terrain, avec les gens ». Sur cette base, un niveau bac_ou_moins (formation de type CAP/apprentissage du métier de menuisier) est retenu par inférence à confiance moyenne, faute de diplôme nommé précisément. A par ailleurs participé à la définition de diplômes professionnels du bois au niveau national/européen (source : Contexte.com), ce qui atteste d'une expertise professionnelle mais pas d'un diplôme supérieur.",
+    "sources": [
+      {"url": "https://www.contexte.com/resources/key-people/michel-criaud/", "pour": "carriere"},
+      {"url": "https://www.journaldeslycees.fr/actualite-jeunes/morbihan/lycee-saint-francois-xavier/michel-criaudnbsp---nbsp-je-metais-jure-de-ne-jamais-venir-a-la-mairienbsp-,3177.html", "pour": "diplome"}
+    ]
+  },
+  {
+    "uid": "PA795644",
+    "nom": "Nathalie Da Conceicao Carvalho",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Événementiel (activité indépendante)", "employeur": "Non identifié", "secteur": "liberal_independant", "periode": "avant 2022 (non précisé)"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "basse",
+    "notes": "Se déclarait dans la presse comme travaillant « dans l'événementiel » (France 3 Régions, portrait des législatives 2022, article consulté directement) mais sans nom d'employeur ni d'entreprise. Sa déclaration HATVP 2022-2024 ne mentionne, selon les recherches précédentes, aucune activité professionnelle rémunérée dans les cinq années précédentes. Recherches complémentaires infructueuses (Wikipédia, Augora, Facebook, HATVP) : diplôme et détail de carrière restent inconnus.",
+    "sources": [
+      {"url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/essonne/portrait-legislatives-2022-nathalie-da-conceicao-carvalho-unique-deputee-rn-de-l-essonne-2566460.html", "pour": "carriere"},
+      {"url": "https://www.hatvp.fr/pages_nominatives/da-conceicao-carvalho-nathalie-24181", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA332523",
+    "nom": "Marie-Christine Dalloz",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Employée de banque", "employeur": "Non nommé", "secteur": "prive", "periode": "1981-1991"},
+      {"poste": "Conseillère en gestion de patrimoine", "employeur": "Non nommé", "secteur": "prive", "periode": "1991-2001"},
+      {"poste": "Gérante d'une société de formation-conseil", "employeur": "Société non nommée (propre entreprise)", "secteur": "liberal_independant", "periode": "à partir de 2001"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Carrière bancaire (1981-1991), puis conseillère en gestion de patrimoine (1991-2001), puis gérante d'une société de formation-conseil (à partir de 2001) : dates et intitulés confirmés à la fois par Wikipédia et par son site officiel (mcdalloz.fr/votre-depute/son-portrait, déjà consulté lors d'une recherche antérieure). Aucun diplôme mentionné nulle part, y compris sur son propre site : reste inconnu malgré recherche ciblée (BTS banque, etc.).",
+    "sources": [
+      {"url": "https://www.mcdalloz.fr/votre-depute/son-portrait", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Marie-Christine_Dalloz", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA1008",
+    "nom": "Alain David",
+    "highest_degree_level": "bac+5",
+    "degrees": [
+      {"institution": "Non nommée", "diplome": "Diplôme d'ingénieur (école non précisée)", "domaine": "ingenierie"}
+    ],
+    "fields": ["ingenierie", "agriculture"],
+    "career": [
+      {"poste": "Ingénieur", "employeur": "SAFER Aquitaine Atlantique", "secteur": "prive", "periode": "1970-1998"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Ingénieur à la SAFER Aquitaine Atlantique de 1970 à 1998, confirmé par Wikipédia et par son site officiel (alain-david.com/votre-depute, consulté directement), qui le présente comme titulaire d'un diplôme d'ingénieur sans nommer l'école : niveau bac+5 retenu à confiance moyenne (pas d'établissement nommé). Les SAFER sont des sociétés de droit privé (SA) malgré leur mission de service public, d'où le classement en secteur privé.",
+    "sources": [
+      {"url": "https://alain-david.com/votre-depute/", "pour": "both"},
+      {"url": "https://fr.wikipedia.org/wiki/Alain_David_(homme_politique)", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA840119",
+    "nom": "Sandra Delannoy",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Artisan torréfactrice (entreprise individuelle)", "employeur": "Entreprise individuelle", "secteur": "liberal_independant", "periode": "07/2019-06/2024"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Déclaration HATVP consultée directement : activité d'artisan torréfactrice en entreprise individuelle de juillet 2019 à juin 2024 (revenus déclarés par année). Également administratrice de la CAF du Nord et élue à la Chambre de métiers et de l'artisanat des Hauts-de-France (2021-2024, mandats non rémunérés en tant que tels hors indemnités). Aucun diplôme mentionné dans la déclaration HATVP ni ailleurs (site personnel sandra-delannoy.com, Wikipédia, recherche web ciblée) : reste inconnu.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/fiche-nominative/?declarant=delannoy-sandra-27339", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Sandra_Delannoy", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841059",
+    "nom": "Catherine Dellong Meng",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Cadre territoriale (direction des finances)", "employeur": "Mairie d'Avignon, Communauté d'agglomération du Grand Avignon, Opéra d'Avignon, Ville du Pontet (employeurs successifs)", "secteur": "public", "periode": "jusqu'au 01/01/2026 (retraite)"},
+      {"poste": "Responsable du contrôle de gestion externe", "employeur": "Communauté d'agglomération du Grand Avignon", "secteur": "public", "periode": "2021"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "haute",
+    "notes": "Carrière de cadre de la fonction publique territoriale à la direction des finances de la mairie d'Avignon, de la communauté d'agglomération du Grand Avignon, de l'Opéra d'Avignon puis de la ville du Pontet ; responsable du contrôle de gestion externe au Grand Avignon en 2021. Retraitée au 1er janvier 2026. Source : article ICI Vaucluse consulté directement. Aucune information sur ses diplômes trouvée (déclaration HATVP déposée mais publication en attente au moment de la recherche, Wikipédia, recherche web ciblée) : reste inconnu.",
+    "sources": [
+      {"url": "https://www.ici.fr/provence-alpes-cote-d-azur/vaucluse-84/l-adjointe-au-pontet-catherine-dellong-meng-devient-deputee-rn-du-gard-1990328", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Catherine_Dellong-Meng", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA794982",
+    "nom": "Julie Delpech",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Attachée parlementaire du sénateur Jean-Claude Boulard", "employeur": "Sénat (cabinet du sénateur Boulard, PS)", "secteur": "politique", "periode": "2014-2017"},
+      {"poste": "Collaboratrice de cabinet", "employeur": "Mairie du Mans", "secteur": "politique", "periode": "10/2017-08/2018"},
+      {"poste": "Chargée de communication et déléguée générale du Fonds de solidarité", "employeur": "Oui Care (ex-O2, services à la personne, Le Mans)", "secteur": "prive", "periode": "07/2018-05/2022"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Déclaration HATVP (PDF consulté directement) : chargée de communication chez Oui Care (ex-O2, services à la personne, Le Mans) de juillet 2018 à mai 2022, puis présidente bénévole de l'association Les Simones (10/2021-07/2022). Avant cela, selon la presse (ICI Sarthe, article consulté directement) : attachée parlementaire du sénateur PS Jean-Claude Boulard (2014-2017) puis collaboratrice du cabinet du maire du Mans (10/2017-08/2018) — deux postes relevant du secteur « politique » (collaboration d'élu) et non de la fonction publique statutaire. Le poste le plus récent et le mieux documenté avant le mandat (Oui Care, secteur privé) est retenu comme classement dominant. Aucun diplôme trouvé (fiche AN, HATVP, presse locale, LinkedIn non accessible en détail) : reste inconnu.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/dossiers/delpech-julie-dia31642-depute-72.pdf", "pour": "carriere"},
+      {"url": "https://www.ici.fr/infos/politique/legislatives-en-sarthe-qui-est-julie-delpech-la-nouvelle-deputee-macroniste-de-la-1ere-1655472357", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA842155",
+    "nom": "Aly Diouara",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [
+      {"institution": "Non confirmée (études à l'université Paris 13 / Paris-Nord et à Paris-Est-Créteil selon Wikidata)", "diplome": "Licence (inférée du grade d'attaché territorial, non confirmée directement)", "domaine": "inconnu"}
+    ],
+    "fields": [],
+    "career": [
+      {"poste": "Attaché territorial", "employeur": "Ville de Bobigny", "secteur": "public", "periode": "01/2019-06/2023"},
+      {"poste": "Attaché territorial", "employeur": "Ville de Drancy", "secteur": "public", "periode": "06/2023-07/2024"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "Fonctionnaire territorial, attaché territorial (catégorie A) à la ville de Bobigny (01/2019-06/2023) puis à la ville de Drancy (06/2023-07/2024), carrière bien documentée. A étudié à l'université Paris-Nord (Paris 13) et à Paris-Est-Créteil (Paris 12, 2010-2011 selon Wikidata), sans diplôme précisément identifié. Le grade d'attaché territorial (catégorie A de la fonction publique territoriale) s'obtient normalement par un concours externe exigeant une licence (bac+3) : un niveau bac+3_4 est donc retenu par inférence, à confiance moyenne (voie d'accès interne/3e concours sans licence non exclue, aucun diplôme nommé trouvé).",
+    "sources": [
+      {"url": "https://www.wikidata.org/wiki/Q126684712", "pour": "diplome"},
+      {"url": "https://fr.wikipedia.org/wiki/Aly_Diouara", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA722382",
+    "nom": "Benjamin Dirx",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Cadre dirigeant", "employeur": "Entreprise familiale (non nommée)", "secteur": "prive", "periode": "non précisée, avant création d'entreprise"},
+      {"poste": "Entrepreneur, secteur de la formation professionnelle continue", "employeur": "Entreprise créée par lui-même (non nommée avec certitude)", "secteur": "liberal_independant", "periode": "avant 2017"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "A fait toute sa scolarité à Mâcon (école des Blanchettes, collège Saint-Exupéry, lycée Lamartine) puis ses études universitaires à l'Université de Bourgogne (Dijon), sans diplôme précisé (Wikipédia, consulté directement). Carrière : cadre dirigeant dans une entreprise familiale, puis créateur d'entreprise dans le secteur de la formation tout au long de la vie (Wikipédia). Une synthèse de recherche web a évoqué des postes chez « IFPAD » et comme chargé de mission pour le « GIP FIPAN », mais ce dernier organisme est basé dans l'académie de Nice (Alpes-Maritimes/Var), ce qui est incohérent avec l'ancrage local de Benjamin Dirx en Saône-et-Loire ; cette information n'a pas pu être confirmée par une source primaire directement consultée et n'est donc pas retenue.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Benjamin_Dirx", "pour": "carriere"},
+      {"url": "https://wikimonde.com/article/Benjamin_Dirx", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA793146",
+    "nom": "Nicolas Dragon",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Consultant indépendant en communication et relations publiques", "employeur": "Activité indépendante", "secteur": "liberal_independant", "periode": "01/2019-06/2022"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Déclaration HATVP : consultant indépendant en communication et relations publiques de janvier 2019 à juin 2022 (déjà identifié dans les notes existantes, reconfirmé lors de cette recherche). Engagé en politique locale depuis l'adolescence (RPR puis RN) mais sans mandat rémunéré à plein temps avant son élection. Aucun diplôme trouvé malgré recherche (site personnel nicolasdragon.com/a-propos consulté directement, Wikipédia, recherche web ciblée) : reste inconnu.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/dragon-nicolas-24250", "pour": "carriere"},
+      {"url": "https://nicolasdragon.com/a-propos", "pour": "carriere"}
+    ]
+  }
+]}

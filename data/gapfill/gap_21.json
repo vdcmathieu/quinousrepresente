@@ -1,0 +1,100 @@
+{
+  "deputies": [
+    {
+      "uid": "PA794670",
+      "nom": "Caroline Parmentier",
+      "career": [
+        {
+          "poste": "Journaliste, rédactrice en chef",
+          "employeur": "Présent (quotidien)",
+          "secteur": "prive",
+          "periode": "1986-2018"
+        },
+        {
+          "poste": "Attachée de presse",
+          "employeur": "Rassemblement national",
+          "secteur": "politique",
+          "periode": "2019-2022"
+        },
+        {
+          "poste": "Collaboratrice parlementaire",
+          "employeur": "Marine Le Pen (députée)",
+          "secteur": "politique",
+          "periode": "2019-2021"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": "Fiche HATVP confirme presse RN (2019-2022) et collaboratrice de Marine Le Pen (2019-2021), en plus de sa carrière de journaliste au quotidien Présent (source: hatvp.fr/pages_nominatives/parmentier-caroline-24247)."
+    },
+    {
+      "uid": "PA794718",
+      "nom": "Christine Engrand",
+      "career": [
+        {
+          "poste": "Professeure d'anglais",
+          "employeur": "non précisé",
+          "secteur": "public",
+          "periode": "inconnue"
+        },
+        {
+          "poste": "Directrice commerciale (magasins Kiabi, Duty Free Eurotunnel, agences d'intérim, organisme de formation)",
+          "employeur": "Kiabi, Eurotunnel, agences d'intérim Côte d'Opale",
+          "secteur": "prive",
+          "periode": "inconnue"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Plusieurs sources indiquent qu'elle a été professeure d'anglais avant sa reconversion dans le commerce (Kiabi, Eurotunnel, intérim) ; niveau d'études non précisé (source: radio6.fr/article-60999, lechodusud.com/qui-est-christine-engrand)."
+    },
+    {
+      "uid": "PA794762",
+      "nom": "Sandrine Dogor-Such",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [
+        {
+          "institution": "Lycée Aristide-Maillol (dit \"Al Sol\"), Perpignan",
+          "diplome": "Brevet professionnel de préparateur en pharmacie",
+          "domaine": "medecine-sante"
+        }
+      ],
+      "fields": ["medecine-sante"],
+      "confidence": "moyenne",
+      "notes": "Formée au lycée Al Sol de Perpignan en pharmacie ; le BP de préparateur en pharmacie est un diplôme de niveau bac (niveau IV), pas un diplôme post-bac de niveau superieur (source: recherche web croisant plusieurs fiches biographiques et fiche RNCP1008 du BP préparateur en pharmacie)."
+    },
+    {
+      "uid": "PA794778",
+      "nom": "Sandra Regol",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "Université Paris VIII Vincennes-Saint-Denis puis Université de Bourgogne (Dijon)",
+          "diplome": "Études supérieures (niveau précis non communiqué)",
+          "domaine": "communication"
+        }
+      ],
+      "fields": ["communication-journalisme"],
+      "career": [
+        {
+          "poste": "Chargée de communication puis responsable communication",
+          "employeur": "EM Strasbourg (école de management), puis Sciences Po Strasbourg",
+          "secteur": "public",
+          "periode": "à partir de 2004"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Études à Paris VIII puis Dijon, puis responsable communication d'EM Strasbourg puis de Sciences Po Strasbourg (établissements publics d'enseignement supérieur) avant son engagement politique à temps plein (source: fr.wikipedia.org/wiki/Sandra_Regol, franceinfo grand-est 2022)."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "deputies": [
+    {
+      "uid": "PA794154",
+      "nom": "Jean-Claude Raux",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "Université de Caen",
+          "diplome": "Études supérieures (niveau précis non communiqué)",
+          "domaine": "lettres-sciences humaines"
+        }
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "confidence": "moyenne",
+      "notes": "A étudié à l'Université de Caen puis enseigné les lettres-anglais en lycée professionnel dès 1999, ce qui suppose au moins une licence (source: jeanclauderaux.fr/mon-parcours, lechodusud.com/post/qui-est-jean-claude-raux)."
+    }
+  ]
+}

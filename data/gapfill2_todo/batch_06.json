@@ -1,0 +1,230 @@
+[
+ {
+  "uid": "PA722134",
+  "num": "722134",
+  "nom": "Jean-Marie Fiévet",
+  "groupe": "Ensemble pour la République",
+  "dept": "Deux-Sèvres",
+  "circo": "3",
+  "naissance": "1964-06-19",
+  "profession_declaree": "Fonctionnaire de catégorie B",
+  "insee": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Jean-Marie_Fi%C3%A9vet",
+  "wiki_trimmed": "data/wiki_trimmed/PA722134.txt",
+  "notes_actuelles": "A travaillé dans le privé avant de devenir sapeur-pompier professionnel à 27 ans (secteur d'origine non précisé) ; niveau d'études non trouvé (source: https://www.lechodusud.com/post/qui-est-jean-marie-fi%C3%A9vet)."
+ },
+ {
+  "uid": "PA840143",
+  "num": "840143",
+  "nom": "Guillaume Florquin",
+  "groupe": "Rassemblement National",
+  "dept": "Nord",
+  "circo": "20",
+  "naissance": "1993-05-04",
+  "profession_declaree": "(33) - Cadre de la fonction publique",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Guillaume_Florquin",
+  "wiki_trimmed": "data/wiki_trimmed/PA840143.txt",
+  "notes_actuelles": "Biographie centrée sur le parcours militant ; emploi connu uniquement via la profession déclarée officielle."
+ },
+ {
+  "uid": "PA840801",
+  "num": "840801",
+  "nom": "Emmanuel Fouquart",
+  "groupe": "Rassemblement National",
+  "dept": "Bouches-du-Rhône",
+  "circo": "13",
+  "naissance": "1966-07-30",
+  "profession_declaree": "Retraité militaire",
+  "insee": "Employés administratifs de la fonction publique, agents de service et auxiliaires de santé",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Emmanuel_Fouquart",
+  "wiki_trimmed": "data/wiki_trimmed/PA840801.txt",
+  "notes_actuelles": "Carrière militaire connue uniquement via la profession déclarée (retraité militaire), la biographie ne détaille pas son parcours professionnel."
+ },
+ {
+  "uid": "PA822617",
+  "num": "822617",
+  "nom": "Martine Froger",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Ariège",
+  "circo": "1",
+  "naissance": "1961-06-11",
+  "profession_declaree": "Chef d'entreprise",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "inconnu",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Martine_Froger",
+  "wiki_trimmed": "data/wiki_trimmed/PA822617.txt",
+  "notes_actuelles": "Son seul emploi connu est la direction d'une association d'insertion, secteur non couvert par les catégories prive/public standard."
+ },
+ {
+  "uid": "PA841665",
+  "num": "841665",
+  "nom": "Denis Fégné",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Hautes-Pyrénées",
+  "circo": "2",
+  "naissance": "1960-07-31",
+  "profession_declaree": "(74) - Ancien cadre",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "inconnu",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Denis_F%C3%A9gn%C3%A9",
+  "wiki_trimmed": "data/wiki_trimmed/PA841665.txt",
+  "notes_actuelles": "Profession déclarée 'ancien cadre' sans précision de secteur; parcours connu essentiellement fait de mandats électifs."
+ },
+ {
+  "uid": "PA796070",
+  "num": "796070",
+  "nom": "Perceval Gaillard",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Réunion",
+  "circo": "7",
+  "naissance": "1983-04-24",
+  "profession_declaree": "Profession intermédiaire de la santé et du travail social",
+  "insee": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Perceval_Gaillard",
+  "wiki_trimmed": "data/wiki_trimmed/PA796070.txt",
+  "notes_actuelles": "Secteur exact de l'emploi d'éducateur social non précisé dans la biographie (probablement associatif ou médico-social)."
+ },
+ {
+  "uid": "PA793892",
+  "num": "793892",
+  "nom": "Stéphanie Galzy",
+  "groupe": "Rassemblement National",
+  "dept": "Hérault",
+  "circo": "5",
+  "naissance": "1981-10-20",
+  "profession_declaree": "Employé administratif d'entreprise",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/St%C3%A9phanie_Galzy",
+  "wiki_trimmed": "data/wiki_trimmed/PA793892.txt",
+  "notes_actuelles": ""
+ },
+ {
+  "uid": "PA841737",
+  "num": "841737",
+  "nom": "Jonathan Gery",
+  "groupe": "Rassemblement National",
+  "dept": "Rhône",
+  "circo": "8",
+  "naissance": "1986-10-12",
+  "profession_declaree": "(53) - Policier et militaire",
+  "insee": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Jonathan_G%C3%A9ry",
+  "wiki_trimmed": "data/wiki_trimmed/PA841737.txt",
+  "notes_actuelles": "Bio courte, pas d'information sur les études."
+ },
+ {
+  "uid": "PA793832",
+  "num": "793832",
+  "nom": "Yoann Gillet",
+  "groupe": "Rassemblement National",
+  "dept": "Gard",
+  "circo": "1",
+  "naissance": "1986-08-29",
+  "profession_declaree": "Cadre de la fonction publique",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "mixte_public_prive",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Yoann_Gillet",
+  "wiki_trimmed": "data/wiki_trimmed/PA793832.txt",
+  "notes_actuelles": "Carriere confirmee dans le pret-a-porter (gerant puis directeur regional) avant son poste de directeur de cabinet du maire de Beaucaire; pas d'info sur ses etudes (sources: fr.wikipedia.org/wiki/Yoann_Gillet, linsoumission.fr portrait 2022)"
+ },
+ {
+  "uid": "PA793102",
+  "num": "793102",
+  "nom": "Christian Girard",
+  "groupe": "Rassemblement National",
+  "dept": "Alpes-de-Haute-Provence",
+  "circo": "1",
+  "naissance": "1952-05-07",
+  "profession_declaree": "Ancien cadre",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Christian_Girard_(homme_politique)",
+  "wiki_trimmed": "data/wiki_trimmed/PA793102.txt",
+  "notes_actuelles": ""
+ },
+ {
+  "uid": "PA841605",
+  "num": "841605",
+  "nom": "Antoine Golliot",
+  "groupe": "Rassemblement National",
+  "dept": "Pas-de-Calais",
+  "circo": "5",
+  "naissance": "1985-08-13",
+  "profession_declaree": "(47) - Technicien",
+  "insee": "Techniciens",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "inconnu",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Antoine_Golliot",
+  "wiki_trimmed": "data/wiki_trimmed/PA841605.txt",
+  "notes_actuelles": "Biographie mentionne seulement qu'il est technicien, sans précision sur l'employeur ou le secteur."
+ },
+ {
+  "uid": "PA793362",
+  "num": "793362",
+  "nom": "José Gonzalez",
+  "groupe": "Rassemblement National",
+  "dept": "Bouches-du-Rhône",
+  "circo": "10",
+  "naissance": "1943-04-28",
+  "profession_declaree": "Ancien employé",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "mixte_public_prive",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Jos%C3%A9_Gonzalez",
+  "wiki_trimmed": "data/wiki_trimmed/PA793362.txt",
+  "notes_actuelles": "Aucune mention d'études dans la biographie."
+ }
+]

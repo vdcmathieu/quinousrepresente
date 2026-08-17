@@ -476,7 +476,7 @@ PA841091,M.,Arnaud,Simion,1968-05-19,Castelsarrasin,(33) - Cadre de la fonction 
 PA841107,M.,Jacques,Oberti,1960-11-26,Marseille,(38) - Ingénieur et cadre technique d'entreprise,Cadres des services administratifs et commerciaux d’entreprise,Cadres et professions intellectuelles supérieures,Socialistes et apparentés,Haute-Garonne,10
 PA841131,Mme,Manon,Bouquin,1992-06-02,Evreux,(33) - Cadre de la fonction publique,Cadres administratifs et techniques de la fonction publique,Cadres et professions intellectuelles supérieures,Rassemblement National,Hérault,4
 PA841139,M.,Julien,Gabarron,1981-03-11,Lille,Cadre Commercial,Cadres des services administratifs et commerciaux d’entreprise,Cadres et professions intellectuelles supérieures,Rassemblement National,Hérault,6
-PA841151,Mme,Alix,Fruchon,1994-10-14,Chateauroux,Juriste,"{'@xmlns:xsi': 'http://www.w3.org/2001/XMLSchema-instance', '@xsi:nil': 'true'}","{'@xmlns:xsi': 'http://www.w3.org/2001/XMLSchema-instance', '@xsi:nil': 'true'}",Droite Républicaine,Indre,2
+PA841151,Mme,Alix,Fruchon,1994-10-14,Chateauroux,Juriste,,,Droite Républicaine,Indre,2
 PA841183,Mme,Hanane,Mansouri,2000-11-24,Echirolles,"(84) - Elève, étudiant",Sans profession déclarée,Sans profession déclarée,Union des droites pour la République,Isère,8
 PA841191,Mme,Sandrine,Nosbé,1972-10-29,La Réunion,(54) - Employé administratif d'entreprise,Employés administratifs d'entreprise,Employés,La France insoumise - Nouveau Front Populaire,Isère,9
 PA841199,M.,Thierry,Perez,1966-11-19,Paris,(33) - Cadre de la fonction publique,Cadres administratifs et techniques de la fonction publique,Cadres et professions intellectuelles supérieures,Rassemblement National,Isère,10
@@ -506,7 +506,7 @@ PA841487,M.,Anthony,Boulogne,1993-06-08,Laxou,(37) - Cadre administratif et comm
 PA841495,M.,Maxime,Amblard,1996-09-06,L'Isle-d'Espagnac,(38) - Ingénieur et cadre technique d'entreprise,Cadres des services administratifs et commerciaux d’entreprise,Cadres et professions intellectuelles supérieures,Rassemblement National,Meuse,1
 PA841507,M.,Nicolas,Bonnet,1981-02-11,Clermont-Ferrand,(38) - Ingénieur et cadre technique d'entreprise,Cadres des services administratifs et commerciaux d’entreprise,Cadres et professions intellectuelles supérieures,Écologiste et Social,Puy-de-Dôme,3
 PA841515,M.,Aurélien,Le Coq,1996-09-28,Paris,(54) - Employé administratif d'entreprise,Employés administratifs d'entreprise,Employés,La France insoumise - Nouveau Front Populaire,Nord,1
-PA841531,Mme,Shéhérazade,Bentorki,1986-11-06,Tourcoing,Collaboratrice parlementaire,"{'@xmlns:xsi': 'http://www.w3.org/2001/XMLSchema-instance', '@xsi:nil': 'true'}","{'@xmlns:xsi': 'http://www.w3.org/2001/XMLSchema-instance', '@xsi:nil': 'true'}",La France insoumise - Nouveau Front Populaire,Nord,8
+PA841531,Mme,Shéhérazade,Bentorki,1986-11-06,Tourcoing,Collaboratrice parlementaire,,,La France insoumise - Nouveau Front Populaire,Nord,8
 PA841543,M.,Jean,Bodart,1946-02-21,Aniche,Retraité de la sidérurgie,Sans profession déclarée,Sans profession déclarée,"Libertés, Indépendants, Outre-mer et Territoires",Nord,13
 PA841553,M.,Thierry,Tesson,1957-04-22,Les Sables d'Olonne,(74) - Ancien cadre,Cadres administratifs et techniques de la fonction publique,Cadres et professions intellectuelles supérieures,Rassemblement National,Nord,17
 PA841563,Mme,Claire,Marais-Beuil,1958-11-04,Caen,Profession libérale,Professions libérales,Cadres et professions intellectuelles supérieures,Rassemblement National,Oise,1
@@ -574,5 +574,5 @@ PA842311,M.,Vincent,Caure,1992-12-31,Castres,(33) - Cadre de la fonction publiqu
 PA857021,M.,Alim,Latrèche,1979-12-05,Grenoble,Ingénieur-Cadre,Ingénieurs et cadres techniques d’entreprise,Cadres et professions intellectuelles supérieures,Ensemble pour la République,Isère,1
 PA870009,M.,Lionel,Duparay,1981-02-07,Châtenay-Malabry,Ingénieur,Cadres des services administratifs et commerciaux d’entreprise,Cadres et professions intellectuelles supérieures,Droite Républicaine,Saône-et-Loire,5
 PA878242,M.,Antoine,Valentin,1992-10-16,Bonneville,chef d'entreprise,Chefs d'entreprise de plus de 10 personnes,"Artisans, commerçants, chefs d'entreprises",Union des droites pour la République,Haute-Savoie,3
-PA879389,Mme,Marie-Philippe,Lubet,1957-09-06,Orléans,Retraitée,"{'@xmlns:xsi': 'http://www.w3.org/2001/XMLSchema-instance', '@xsi:nil': 'true'}","{'@xmlns:xsi': 'http://www.w3.org/2001/XMLSchema-instance', '@xsi:nil': 'true'}",Ensemble pour la République,Loiret,1
+PA879389,Mme,Marie-Philippe,Lubet,1957-09-06,Orléans,Retraitée,,,Ensemble pour la République,Loiret,1
 PA942,M.,Charles,de Courson,1952-04-02,Paris 16,Conseiller référendaire honoraire à la Cour des comptes,Cadres administratifs et techniques de la fonction publique,Cadres et professions intellectuelles supérieures,"Libertés, Indépendants, Outre-mer et Territoires",Marne,5

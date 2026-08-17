@@ -1,0 +1,38 @@
+{
+  "deputies": [
+    {
+      "uid": "PA267794",
+      "nom": "Michèle Tabarot",
+      "highest_degree_level": "inconnu",
+      "fields": [],
+      "confidence": "moyenne",
+      "notes": "A entamé des études de droit à la faculté de Nice mais les a abandonnées vers 20-21 ans pour se consacrer à la politique (adjointe au maire du Cannet dès 1983) ; aucun diplôme obtenu n'est mentionné, et aucune information supplémentaire sur son parcours professionnel de chef d'entreprise (secteur/employeur déjà connu) n'a été trouvée (source: https://fr.wikipedia.org/wiki/Mich%C3%A8le_Tabarot ; https://histoirecoloniale.net/le-clan-tabarot-promoteur-de-la-nostalgie-de-lalgerie-coloniale/)."
+    },
+    {
+      "uid": "PA332523",
+      "nom": "Marie-Christine Dalloz",
+      "career": [
+        {
+          "poste": "Employée de banque",
+          "employeur": "inconnu",
+          "secteur": "prive",
+          "periode": "1981-1991"
+        },
+        {
+          "poste": "Conseillère en gestion de patrimoine",
+          "employeur": "inconnu",
+          "secteur": "liberal_independant",
+          "periode": "1991-2001"
+        },
+        {
+          "poste": "Gérante d'une société de formation-conseil (SARL)",
+          "employeur": "inconnu",
+          "secteur": "liberal_independant",
+          "periode": "à partir de 2001"
+        }
+      ],
+      "confidence": "haute",
+      "notes": "Site officiel confirme les dates précises de sa carrière bancaire (1981-1991) ; aucune information sur ses études n'a été trouvée, y compris sur son propre site (source: https://www.mcdalloz.fr/votre-depute/son-portrait)."
+    }
+  ]
+}

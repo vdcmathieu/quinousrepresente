@@ -1,0 +1,29 @@
+{
+  "deputies": [
+    {
+      "uid": "PA721004",
+      "nom": "Amélia Lakrafi",
+      "degrees": [
+        {
+          "institution": "INHESJ (Institut national des hautes études de la sécurité et de la justice, École militaire)",
+          "diplome": "Auditrice, 19e session nationale spécialisée \"Protection des entreprises et intelligence économique\" (2015-2016)",
+          "domaine": "autre"
+        }
+      ],
+      "career": [
+        {
+          "poste": "Fondatrice et dirigeante",
+          "employeur": "AZGUARD (conseil et formation en cybersécurité et intelligence économique)",
+          "secteur": "liberal_independant",
+          "periode": "avant 2017"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "INHESJ = formation professionnelle continue de haut niveau, pas un diplome universitaire classique, donc niveau d'etudes reste inconnu; nom de l'entreprise (AZGUARD) precise (source: https://amelialakrafi.fr/votre-deputee/biographie/)."
+    }
+  ]
+}

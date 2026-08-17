@@ -1,0 +1,282 @@
+{
+ "batch": 12,
+ "deputies": [
+  {
+   "uid": "PA721932",
+   "nom": "Marie-France Lorho",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Déléguée médicale", "employeur": "inconnu", "secteur": "prive", "periode": "avant le mandat, non précisé"}
+   ],
+   "worked_private": true,
+   "worked_public": null,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Biographie très pauvre en détails ; la carrière est déduite de la seule profession déclarée officielle."
+  },
+  {
+   "uid": "PA721960",
+   "nom": "Danièle Obono",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {"institution": "Université Paris-I-Panthéon-Sorbonne", "diplome": "Maîtrise", "domaine": "histoire"}
+   ],
+   "fields": ["lettres-sciences humaines"],
+   "career": [
+    {"poste": "Bibliothécaire", "employeur": "Médiathèque Marguerite-Yourcenar (Paris 15e)", "secteur": "public", "periode": "avant 2017"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Elle a aussi été militante associative en parallèle de son emploi de bibliothécaire."
+  },
+  {
+   "uid": "PA721984",
+   "nom": "Philippe Latombe",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université Rennes-I", "diplome": "Maîtrise/Master", "domaine": "économie et droit des affaires"},
+    {"institution": "Université de Nantes", "diplome": "Maîtrise/Master", "domaine": "économie et droit des affaires"}
+   ],
+   "fields": ["economie", "droit"],
+   "career": [
+    {"poste": "Auditeur financier", "employeur": "Deloitte Touche Tohmatsu Audit (Nantes)", "secteur": "prive", "periode": "avant 2014"},
+    {"poste": "Responsable du service recouvrement et contentieux", "employeur": "Crédit agricole Atlantique-Vendée", "secteur": "prive", "periode": "2014-2017"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA722000",
+   "nom": "Stéphane Buchou",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Cadre supérieur", "employeur": "inconnu", "secteur": "prive", "periode": "avant 2017, non précisé"}
+   ],
+   "worked_private": true,
+   "worked_public": null,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Biographie quasi vide ; il a fréquenté l'université de Nantes et l'École de management de Normandie sans qu'un diplôme précis soit mentionné."
+  },
+  {
+   "uid": "PA722070",
+   "nom": "Pierre Henriet",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université de Nantes", "diplome": "Master (formation enseignement, CAPES/CAPET)", "domaine": "éducation"}
+   ],
+   "fields": ["education"],
+   "career": [
+    {"poste": "Professeur du secondaire et technique", "employeur": "Éducation nationale", "secteur": "public", "periode": "avant 2017"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Niveau de diplôme déduit de la profession (le CAPES/CAPET requiert un master depuis la mastérisation), non détaillé explicitement dans la biographie."
+  },
+  {
+   "uid": "PA722102",
+   "nom": "Annie Vidal",
+   "highest_degree_level": "bac+2",
+   "degrees": [
+    {"institution": "Faculté de pharmacie de Paris", "diplome": "Formation de technicienne de laboratoire (niveau précis non détaillé, probablement BTS/DUT)", "domaine": "medecine-sante"}
+   ],
+   "fields": ["medecine-sante"],
+   "career": [
+    {"poste": "Technicienne de laboratoire de biologie médicale", "employeur": "inconnu", "secteur": "prive", "periode": "début de carrière"},
+    {"poste": "Accompagnement à la création d'une entreprise de carrosserie automobile", "employeur": "entreprise familiale", "secteur": "liberal_independant", "periode": "non précisée"},
+    {"poste": "Cadre chargée de la mise en œuvre de projets", "employeur": "CHU de Rouen", "secteur": "public", "periode": "avant 2017"}
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": ""
+  },
+  {
+   "uid": "PA722134",
+   "nom": "Jean-Marie Fiévet",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Sapeur-pompier (lieutenant)", "employeur": "SDIS (Service départemental d'incendie et de secours)", "secteur": "public", "periode": "avant 2017"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Formation de sapeur-pompier mentionnée mais niveau de diplôme non précisé."
+  },
+  {
+   "uid": "PA722142",
+   "nom": "François Ruffin",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université de Picardie Jules-Verne", "diplome": "Maîtrise", "domaine": "lettres modernes"},
+    {"institution": "Centre de formation des journalistes (CFJ)", "diplome": "Diplôme de journalisme (promotion 2002)", "domaine": "communication-journalisme"}
+   ],
+   "fields": ["lettres-sciences humaines", "communication-journalisme"],
+   "career": [
+    {"poste": "Fondateur et rédacteur en chef", "employeur": "Fakir (journal)", "secteur": "associatif", "periode": "depuis 1999, avant le mandat"},
+    {"poste": "Reporter", "employeur": "France Inter (Là-bas si j'y suis)", "secteur": "public", "periode": "7 ans, avant le mandat"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "A aussi mené une activité associative/indépendante durable avec le journal Fakir, en plus de sa collaboration avec France Inter."
+  },
+  {
+   "uid": "PA722150",
+   "nom": "Sacha Houlié",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université de Poitiers", "diplome": "Licence", "domaine": "droit"},
+    {"institution": "Université de Grenade (Erasmus)", "diplome": "Master 1", "domaine": "droit"},
+    {"institution": "Université Paris-Panthéon-Assas / Paris-Sorbonne", "diplome": "Master 2", "domaine": "droit"},
+    {"institution": "CRFPA, barreau de Paris", "diplome": "CAPA (avocat)", "domaine": "droit"}
+   ],
+   "fields": ["droit"],
+   "career": [
+    {"poste": "Avocat", "employeur": "Barreau de Paris", "secteur": "liberal_independant", "periode": "depuis 2013, avant le mandat"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA722162",
+   "nom": "Nicolas Turquois",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "AgroParisTech (Institut des sciences et industries du vivant et de l'environnement)", "diplome": "Diplôme d'ingénieur agronome", "domaine": "agriculture"}
+   ],
+   "fields": ["agriculture"],
+   "career": [
+    {"poste": "Agriculteur exploitant", "employeur": "exploitation agricole (propriétaire)", "secteur": "liberal_independant", "periode": "avant 2017"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA722190",
+   "nom": "Gabriel Attal",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Institut d'études politiques de Paris (Sciences Po)", "diplome": "Master 2", "domaine": "affaires publiques"}
+   ],
+   "fields": ["sciences politiques"],
+   "career": [
+    {"poste": "Membre du cabinet ministériel", "employeur": "Cabinet de la ministre de la Santé Marisol Touraine", "secteur": "politique", "periode": "2012-2017"}
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": "A étudié le droit à Assas pendant trois ans sans obtenir la licence."
+  },
+  {
+   "uid": "PA722252",
+   "nom": "Marie-Pierre Rixain",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Institut d'études politiques de Toulouse", "diplome": "Diplôme IEP (promotion 1999)", "domaine": "sciences politiques"}
+   ],
+   "fields": ["sciences politiques"],
+   "career": [
+    {"poste": "Collaboratrice", "employeur": "Jacques Barrot (député)", "secteur": "politique", "periode": "avant de devenir consultante"},
+    {"poste": "Consultante indépendante (réseaux de santé, secteur périnatal)", "employeur": "indépendante", "secteur": "liberal_independant", "periode": "avant 2017"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "A d'abord été collaboratrice parlementaire avant de devenir consultante indépendante."
+  },
+  {
+   "uid": "PA722284",
+   "nom": "Bruno Fuchs",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Institut supérieur de gestion (ISG) de la Sorbonne", "diplome": "Diplôme de l'ISG", "domaine": "gestion-commerce"}
+   ],
+   "fields": ["gestion-commerce"],
+   "career": [
+    {"poste": "Correspondant adjoint à Bruxelles / journaliste service économique", "employeur": "TF1", "secteur": "prive", "periode": "1983-1992"},
+    {"poste": "Présentateur et rédacteur en chef du Journal de la nuit", "employeur": "TF1", "secteur": "prive", "periode": "1992-1995"},
+    {"poste": "Rédacteur en chef et présentateur (Atout savoir)", "employeur": "La Cinquième", "secteur": "public", "periode": "1995-1998"},
+    {"poste": "Chargé de l'émission Comment faire", "employeur": "France 2", "secteur": "public", "periode": "1998 et après"}
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA722336",
+   "nom": "Vincent Thiébaut",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Ingénieur commercial en informatique", "employeur": "inconnu", "secteur": "prive", "periode": "2001-2011"},
+    {"poste": "Cadre et manager commercial", "employeur": "inconnu", "secteur": "prive", "periode": "2011-2017"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "A fréquenté l'université Strasbourg-III mais le diplôme obtenu n'est pas précisé."
+  },
+  {
+   "uid": "PA722358",
+   "nom": "Thomas Gassilloud",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "EM Lyon Business School", "diplome": "Master en finance", "domaine": "gestion-commerce"},
+    {"institution": "Université Lumière-Lyon-II", "diplome": "Master", "domaine": "gestion-commerce"}
+   ],
+   "fields": ["gestion-commerce"],
+   "career": [
+    {"poste": "Chef d'entreprise / industriel", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "avant 2017"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "A aussi suivi l'IHEDN et l'École de guerre, formations militaires non académiques non comptées comme diplôme initial."
+  }
+ ]
+}

@@ -1,0 +1,252 @@
+{"deputies": [
+  {
+    "uid": "PA794022",
+    "nom": "Jérémie Iordanoff",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Attaché parlementaire", "employeur": "Jean-Louis Roumégas, député de l'Hérault", "secteur": "politique", "periode": "2012-2017"},
+      {"poste": "Secrétaire national adjoint", "employeur": "Europe Écologie Les Verts (EELV)", "secteur": "politique", "periode": "2019-2022"},
+      {"poste": "Artiste-peintre indépendant", "employeur": "Activité indépendante", "secteur": "liberal_independant", "periode": "2018-2024"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "politique_principalement",
+    "confidence": "haute",
+    "notes": "Carrière bien documentée par la déclaration HATVP (dépôt du 16/07/2025) : attaché parlementaire de Jean-Louis Roumégas (2012-2017), secrétaire national adjoint d'EELV rémunéré (2019-2022), et activité d'artiste-peintre indépendant aux revenus modestes et irréguliers (0 à 8 174 €/an entre 2018 et 2024). L'essentiel de la vie active semble s'être déroulé dans des fonctions politiques (attaché parlementaire à temps plein puis cadre de parti rémunéré), d'où le profil « politique_principalement », mais l'activité artistique indépendante réelle empêche de cocher political_career_only. Niveau d'études inconnu : scolarité en lycée d'arts appliqués, tentative d'études de mathématiques abandonnée, études de droit engagées puis formation en informatique menée à bien, mais aucun diplôme final n'est mentionné dans la source déjà identifiée (petit-bulletin.fr). Sources consultées cette session : Wikipedia FR (article complet), fiche HATVP. Les moteurs de recherche (WebSearch, DuckDuckGo, Bing, Brave, Mojeek, Yandex, Marginalia) étaient tous indisponibles ou bloqués (quota épuisé / anti-bot) pendant cette session, empêchant une recherche d'éducation complémentaire.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%A9mie_Iordanoff", "pour": "carriere"},
+      {"url": "https://www.hatvp.fr/fiche-nominative/?declarant=iordanoff-jeremie-24286", "pour": "carriere"},
+      {"url": "https://www.petit-bulletin.fr/article-72336-jeremie-iordanoff-depute-les-gens-me-disaient-artiste-peintre-mais-vous-ne-serez-jamais-elu.html", "pour": "diplome"}
+    ]
+  },
+  {
+    "uid": "PA841439",
+    "nom": "Pascal Jenft",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Gendarme motocycliste", "employeur": "Gendarmerie nationale", "secteur": "public", "periode": "environ 1985-2005"},
+      {"poste": "Fondateur-gérant", "employeur": "FERMAP (menuiserie PVC et aluminium)", "secteur": "prive", "periode": "2005-présent"}
+    ],
+    "worked_private": true,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "mixte_public_prive",
+    "confidence": "haute",
+    "notes": "Carrière de gendarme motocycliste pendant une vingtaine d'années (Wikipedia), suivie de la fondation en mars 2005 de l'entreprise de menuiserie FERMAP à Forbach/Sarreguemines, confirmée par le site de l'entreprise (« Créée en Mars 2005 par Pascal JENFT ») et par sa fiche dirigeant Infonet (gérant de FERMAP GEST). Aucun diplôme n'a été trouvé malgré plusieurs recherches ciblées. Sources consultées : Wikipedia FR, fermap.fr, infonet.fr. Les moteurs de recherche web étaient indisponibles/bloqués (WebSearch quota épuisé, DuckDuckGo et Brave anti-bot, Bing renvoyant des résultats non pertinents) pendant une bonne partie de cette session, limitant la recherche de sources de presse régionale supplémentaires et d'informations sur sa formation.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Pascal_Jenft", "pour": "carriere"},
+      {"url": "https://fermap.fr/about/", "pour": "carriere"},
+      {"url": "https://infonet.fr/dirigeants/65a6b4bef1d86af3dadaef98-pascal-jenft", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA794030",
+    "nom": "Alexis Jolly",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Attaché parlementaire", "employeur": "Steeve Briois, député", "secteur": "politique", "periode": "11/2017-05/2019"},
+      {"poste": "Attaché parlementaire", "employeur": "Aurélia Beigneux, députée européenne", "secteur": "politique", "periode": "09/2019-12/2019"},
+      {"poste": "Diffuseur de presse/magazines", "employeur": "Les éditions du Serac", "secteur": "liberal_independant", "periode": "01/2017-07/2021"},
+      {"poste": "Examinateur vacataire (jurys d'examens)", "employeur": "INSEEC", "secteur": "prive", "periode": "08/2021-06/2022"},
+      {"poste": "Consultant en communication (micro-entreprise AJ Conseil)", "employeur": "Activité indépendante", "secteur": "liberal_independant", "periode": "04/2021-10/2021"},
+      {"poste": "Propriétaire de librairie", "employeur": "SARL Piste Verte", "secteur": "liberal_independant", "periode": "11/2021-01/2025 (activité conservée)"},
+      {"poste": "Responsable local (non rémunéré)", "employeur": "Rassemblement national", "secteur": "politique", "periode": "2019-2023"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Déclaration HATVP (dépôt du 23/01/2025) très détaillée, consultée directement : deux passages comme attaché parlementaire RN (2017-2019 puis 2019), en parallèle d'une activité continue et durable de diffuseur de presse indépendant (2017-2021) puis de libraire (SARL Piste Verte, 2021-2025, activité toujours en cours au dépôt de la déclaration), plus une activité ponctuelle d'examinateur vacataire à l'INSEEC et de consultant en micro-entreprise. L'activité économique privée/indépendante est la plus continue et la plus longue, d'où le classement « prive_uniquement » malgré les deux mandats d'attaché parlementaire (indiqués en secteur politique dans le détail de carrière pour transparence). Aucun diplôme n'a été trouvé (Wikipedia, fiche AN, HATVP ne mentionnent pas de formation).",
+    "sources": [
+      {"url": "https://www.hatvp.fr/fiche-nominative/?declarant=jolly-alexis-24185", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Alexis_Jolly", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841749",
+    "nom": "Tiffany Joncour",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Cadre administratif et commercial d'entreprise", "employeur": "inconnu", "secteur": "prive", "periode": "inconnue"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "basse",
+    "notes": "Sa carrière professionnelle est qualifiée de « floue » par la presse (Wikipedia FR) et son profil « discret, loin des estrades et des plateaux de télévision » (lemalpensant.fr). Elle est décrite comme « commerciale sans emploi » au moment de son élection en 2024. Aucun employeur nommé n'a pu être identifié malgré plusieurs recherches, y compris un article de presse consacré spécifiquement à sa biographie. Aucune information sur sa formation n'a été trouvée. Le secteur « privé » est retenu par déduction de la catégorie INSEE (« cadre administratif et commercial d'entreprise », qui exclut la fonction publique par définition), mais sans confirmation d'un employeur précis, d'où la confiance basse. Sources consultées : Wikipedia FR, fiche AN, lemalpensant.fr, Wikidata (occupations : cadres administratifs et commerciaux d'entreprise). Les moteurs de recherche généralistes étaient indisponibles/bloqués pendant une large partie de cette session.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Tiffany_Joncour", "pour": "carriere"},
+      {"url": "https://lemalpensant.fr/qui-est-tiffany-joncour-biographie-mandat-et-parcours-politique/", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA720038",
+    "nom": "Sandrine Josso",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Coach/consultante en nutrition (cabinet indépendant)", "employeur": "Activité indépendante (cabinets à Vannes, Bruz, Guérande, Pontchâteau)", "secteur": "liberal_independant", "periode": "2007-2015 (procédure de liquidation judiciaire close en 2018)"},
+      {"poste": "Intervenante occasionnelle", "employeur": "IPDD (institut de formation de diététiciens)", "secteur": "prive", "periode": "inconnue"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Une enquête de presse (breizh-info.com, 2019) documente en détail son activité professionnelle réelle : ouverture d'un cabinet de coaching/consultation en nutrition à Vannes en mars 2007, avec des antennes à Bruz, Guérande et Pontchâteau, vente de consultations et de compléments alimentaires, quelques interventions à l'IPDD ; la société a connu une procédure de redressement judiciaire (cessation des paiements au 01/02/2014, jugement du 07/08/2015) puis une liquidation close le 29/01/2018. La même enquête affirme n'avoir trouvé aucune trace des diplômes qu'elle revendiquait (« ingénieur en nutrition et diplômée en communication », un master en coaching en Angleterre jamais terminé) : ces titres sont donc traités comme non vérifiés et non retenus, conformément à la note déjà présente dans le jeu de données. Le titre « diététicienne » figurant dans l'infobox Wikipedia n'est pas un motif suffisant d'inférence de diplôme d'État compte tenu de cette controverse documentée. Sources : breizh-info.com (enquête), Wikipedia FR, fiche AN.",
+    "sources": [
+      {"url": "https://www.breizh-info.com/2019/10/20/129033/la-baule-sandrine-josso-lrem-sest-elle-attribuee-de-faux-diplomes/", "pour": "both"},
+      {"url": "https://fr.wikipedia.org/wiki/Sandrine_Josso", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA840869",
+    "nom": "Florence Joubert",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Assistante parlementaire", "employeur": "Serge Muller, député RN de la 2e circonscription de Dordogne", "secteur": "politique", "periode": "environ 2022-2024"},
+      {"poste": "Cadre de la fonction publique (poste non précisé)", "employeur": "inconnu", "secteur": "public", "periode": "inconnue"}
+    ],
+    "worked_public": true,
+    "worked_private": false,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "basse",
+    "notes": "La biographie Wikipedia est centrée sur son parcours politique (déléguée départementale RN Dordogne depuis 2021, assistante parlementaire de Serge Muller après son élection en 2022). Sa profession déclarée à l'Assemblée nationale, « cadre de la fonction publique », est corroborée par la classification d'occupation Wikidata qui inclut « cadres de la fonction publique » et « salarié du secteur médical », suggérant une carrière antérieure dans la fonction publique hospitalière, mais aucun établissement employeur nommé n'a pu être identifié malgré plusieurs recherches. Aucune information de formation/diplôme trouvée. Sources consultées : Wikipedia FR, fiche AN, Wikidata (entité Q63349050). Les moteurs de recherche web étaient indisponibles ou bloqués (quota WebSearch épuisé, DuckDuckGo/Brave anti-bot, Bing non pertinent) pendant l'essentiel de cette session, empêchant la recherche de presse régionale (Sud Ouest) qui aurait pu préciser son établissement employeur.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Florence_Joubert", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA721004",
+    "nom": "Amélia Lakrafi",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Fondatrice-dirigeante", "employeur": "AZGUARD (conseil et formation en cybersécurité et intelligence économique)", "secteur": "liberal_independant", "periode": "avant 2017"},
+      {"poste": "Réserviste, grade de commandant", "employeur": "Réserve citoyenne cyberdéfense", "secteur": "associatif", "periode": "depuis 2015 (engagement bénévole)"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Selon Wikipedia FR, elle étudie à l'Institut national des techniques économiques et comptables (CNAM-Intec) puis à l'Institut national des hautes études de la sécurité et de la justice (INHESJ, promotion 2015, spécialisation « Intelligence économique, sécurité et sûreté des entreprises » à l'École militaire) ; son propre site de campagne confirme ce diplôme INHESJ 2015 mais, conformément à la note déjà présente dans le jeu de données, l'INHESJ est une formation professionnelle continue de haut niveau et non un diplôme universitaire classique, et le passage par le CNAM-Intec n'est décrit que comme des études suivies sans obtention de diplôme confirmée nulle part : le niveau d'études reste donc inconnu. Sa carrière d'entrepreneure est mieux documentée : fondatrice-dirigeante d'AZGUARD, société de conseil/formation en cybersécurité (source : site officiel de campagne, corroboré par Wikipedia), plus un engagement bénévole comme réserviste cyberdéfense (grade commandant), qui n'est pas traité comme emploi public salarié. Confiance moyenne car la source principale sur la carrière est son propre site de campagne, non recoupée par une source indépendante lors de cette session (moteurs de recherche indisponibles).",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Amal_Am%C3%A9lia_Lakrafi", "pour": "both"},
+      {"url": "https://amelialakrafi.fr/votre-deputee/biographie/", "pour": "both"}
+    ]
+  },
+  {
+    "uid": "PA795390",
+    "nom": "Sandrine Lalanne",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [],
+    "worked_private": false,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "inconnu",
+    "confidence": "basse",
+    "notes": "Cas très peu documenté. Devenue députée le 13 novembre 2025 en tant que suppléante de Mathieu Lefèvre nommé ministre, elle n'a auparavant qu'un mandat de conseillère municipale d'opposition à Bry-sur-Marne depuis 2020. La profession déclarée à l'Assemblée nationale est « sans profession déclarée », alors que la catégorie INSEE associée est « Ingénieurs et cadres techniques d'entreprise » (incohérence non résolue). Wikidata ne recense aucune occupation autre que « personnalité politique » et aucune institution de formation. Aucune source (Wikipedia FR article complet, fiche AN, tentative de fiche HATVP) n'a permis de retrouver un employeur, un poste d'ingénieur ou un diplôme. Les moteurs de recherche web (WebSearch, DuckDuckGo, Bing, Brave, Mojeek, Yandex, Marginalia, Qwant, Google) étaient tous indisponibles, bloqués par anti-bot ou renvoyaient des résultats non pertinents pendant la quasi-totalité de cette session, ce qui a fortement limité la recherche pour ce cas en particulier ; un suivi ultérieur avec accès moteur de recherche fonctionnel est recommandé.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Sandrine_Lalanne", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA857021",
+    "nom": "Alim Latrèche",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Ingénieur-cadre", "employeur": "Schneider Electric", "secteur": "prive", "periode": "inconnue"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Sa biographie Wikipedia (article complet vérifié) est centrée sur son exceptionnel parcours sportif : champion paralympique d'épée par équipes (Athènes 2004), plusieurs médailles individuelles (Pékin 2008, Londres 2012), chevalier de la Légion d'honneur en 2004 ; la section « Formation » de l'article est explicitement vide. Sa profession déclarée à l'Assemblée nationale, « Ingénieur-Cadre », et l'employeur « Schneider Electric » figurant dans les données Wikidata structurées, n'ont pas pu être recoupés par une source de presse indépendante pendant cette session (recherches bloquées). Le titre « ingénieur » n'étant pas une profession réglementée en France (contrairement à médecin, pharmacien, avocat…), il n'est pas retenu comme base d'inférence d'un diplôme d'ingénieur bac+5 : le niveau d'études reste inconnu. Aucun détail sur la période d'emploi chez Schneider Electric n'a été trouvé.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Alim_Latr%C3%A8che", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA720342",
+    "nom": "Nicole Le Peih",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Emploi en hôtellerie de luxe (poste non précisé)", "employeur": "inconnu, à Quiberon puis Chartres puis Paris", "secteur": "prive", "periode": "avant 1980"},
+      {"poste": "Assistante commerciale", "employeur": "Lerial (Locminé, Morbihan)", "secteur": "prive", "periode": "jusqu'en 1989"},
+      {"poste": "Co-exploitante agricole (volailles et vaches allaitantes)", "employeur": "Exploitation agricole familiale, Baud", "secteur": "liberal_independant", "periode": "depuis 1989"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Parcours professionnel précis et détaillé dans l'article Wikipedia complet (vérifié) : débuts dans l'hôtellerie de luxe à Quiberon, Chartres puis Paris, puis assistante commerciale chez Lerial à Locminé ; après l'incendie de l'entreprise en 1989, création avec son mari d'une exploitation agricole de volailles et de vaches allaitantes à Baud. Aucune mention de diplôme ou d'établissement de formation dans l'article, malgré une biographie par ailleurs assez fournie ; le niveau d'études reste donc inconnu.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Nicole_Le_Peih", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA795108",
+    "nom": "Élise Leboucher",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [
+      {"institution": "Établissement de formation en travail social (non identifié)", "diplome": "Diplôme d'État d'éducateur spécialisé (DEES)", "domaine": "sociologie"}
+    ],
+    "fields": ["sociologie"],
+    "career": [
+      {"poste": "Éducatrice spécialisée en pédopsychiatrie", "employeur": "Établissement public de santé mentale (EPSM) d'Allonnes", "secteur": "public", "periode": "depuis 2006"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "Éducatrice spécialisée depuis 2006 dans un Établissement public de santé mentale (EPSM) à Allonnes (Wikipedia FR, confirmé par la fiche AN qui reprend la même profession déclarée), engagée syndicalement à la CGT à partir de 2007 avec un mandat de représentante au CHSCT. Le titre d'« éducateur spécialisé » est une profession réglementée en France nécessitant le Diplôme d'État d'éducateur spécialisé (DEES, formation de 3 ans post-bac, reconnu au grade licence), d'où l'inférence bac+3_4 ; confiance ramenée à moyenne car il s'agit d'une inférence à partir du titre professionnel réglementé, l'établissement de formation précis n'ayant pas été identifié faute d'accès aux moteurs de recherche pendant cette session.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/%C3%89lise_Leboucher", "pour": "both"}
+    ]
+  },
+  {
+    "uid": "PA795374",
+    "nom": "Pascal Lecamp",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Cadre administratif et commercial d'entreprise", "employeur": "inconnu", "secteur": "prive", "periode": "inconnue"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "basse",
+    "notes": "Article Wikipedia classé comme ébauche, centré exclusivement sur son parcours politique local (conseiller municipal de Civray depuis 2008, maire de 2020 à 2022, député depuis 2022) et ses fonctions à l'Assemblée (commission des finances puis des affaires économiques). Aucune information sur un employeur nommé, une entreprise ou une formation n'a pu être trouvée, malgré la vérification de l'article Wikipedia complet et de la fiche AN sous ses deux formats. Le secteur privé est retenu par déduction de la catégorie professionnelle déclarée (« cadre administratif et commercial d'entreprise »), sans confirmation indépendante, d'où la confiance basse. Les moteurs de recherche web étaient indisponibles ou bloqués pendant l'essentiel de cette session, empêchant une recherche de presse régionale (Vienne, Nouvelle République) sur son parcours professionnel antérieur.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Pascal_Lecamp", "pour": "carriere"}
+    ]
+  }
+]}

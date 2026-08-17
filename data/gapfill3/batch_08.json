@@ -1,0 +1,365 @@
+{
+ "deputies": [
+  {
+   "uid": "PA794262",
+   "nom": "Patricia Maussion",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [
+    "agriculture"
+   ],
+   "career": [
+    {
+     "poste": "Agricultrice, exploitation laitière en agriculture biologique",
+     "employeur": "Exploitation individuelle, Loiré (Maine-et-Loire)",
+     "secteur": "liberal_independant",
+     "periode": "1993-présent"
+    },
+    {
+     "poste": "Présidente du Pays de l'Anjou Bleu (territoire rural de 26 communes)",
+     "employeur": "Pays de l'Anjou Bleu",
+     "secteur": "politique",
+     "periode": "2020-présent"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Aucune amélioration possible sur le diplôme malgré une nouvelle recherche : pas d'entrée dans l'index HATVP local (élue très récemment, le 27 avril 2026, en remplacement de Philippe Bolo ; déclaration probablement pas encore publiée, comme pour d'autres élus de remplacement très récents du même lot). L'article Wikipédia, désormais beaucoup plus étoffé (texte complet et wikitexte brut), ne mentionne toujours aucune formation. Deux nouveaux articles de presse récupérés et vérifiés par curl+grep (20 Minutes du 3 avril 2026, contenu confirmé en JSON-LD article body ; Ouest-France renvoie une page d'erreur serveur, pas de contenu) confirment le profil d'éleveuse bio issue d'une famille d'agriculteurs (fratrie de quatre enfants) mais n'apportent aucune information de formation ni de nouvel employeur. L'article d'Oxygène Radio, déjà signalé irrécupérable par le premier passage, est confirmé être une page rendue entièrement en JavaScript (seul un blob de configuration du lecteur radio est présent dans le HTML statique, aucun texte d'article). Carrière reprise du premier passage et complétée par la présidence du Pays de l'Anjou Bleu depuis 2020 (mentionnée dans le nouvel article Wikipédia et confirmée par 20 Minutes), une fonction politique locale du même ordre que ses mandats électifs.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Patricia_Maussion",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.20minutes.fr/politique/assemblee_nationale/4216624-20260403-peine-elue-municipales-eleveuse-bio-maine-loire-entre-assemblee-nationale",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841931",
+   "nom": "Laurent Mazaury",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Directeur de l'Offre et du Développement",
+     "employeur": "Cityz Média",
+     "secteur": "prive",
+     "periode": "01/2018-07/2024 (contrat de travail suspendu depuis son élection le 1er août 2024)"
+    },
+    {
+     "poste": "Président",
+     "employeur": "SEM Média de l'Ouest Parisien",
+     "secteur": "prive",
+     "periode": "01/2019-présent (dirigeant déclaré 01/2019-12/2024)"
+    },
+    {
+     "poste": "Dirigeant (mandat social)",
+     "employeur": "SEM Ciné 7",
+     "secteur": "prive",
+     "periode": "01/2018-présent"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Le dossier était extrêmement pauvre lors du premier passage (aucune information de carrière ou de formation, aucun lien HATVP trouvé via Wikipédia). L'index HATVP local (non disponible au premier passage) révèle une carrière nette et datée : directeur de l'offre et du développement chez Cityz Média (groupe audiovisuel/média local, sans doute lié à la chaîne « Cityzen TV » de l'ouest parisien) de janvier 2018 à juillet 2024, puis président de la SEM Média de l'Ouest Parisien et dirigeant de la SEM Ciné 7 (société d'économie mixte gérant des salles de cinéma dans l'agglomération de Saint-Quentin-en-Yvelines), cohérent avec la profession déclarée « Cadre d'entreprise » de l'infobox Wikipédia. Cette carrière media/cinéma via des SEM est traitée comme secteur « prive » par convention du projet (statut de droit privé des SEM, comme pour Philippe Naillet/SEM Sodiac). Aucun diplôme trouvé malgré une recherche élargie : le wikitexte brut Wikipédia laisse le champ « université » vide et ne mentionne que la profession ; une recherche plein texte Wikipédia sur « Laurent Mazaury » + « Cityz » ne retourne aucun résultat ; la fiche AN ne contient aucune information de formation.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Laurent_Mazaury",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA720370",
+   "nom": "Ludovic Mendes",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Responsable commercial",
+     "employeur": "inconnu (plusieurs entreprises, Metz/Lille/Lyon/Paris)",
+     "secteur": "prive",
+     "periode": "avant 2012"
+    },
+    {
+     "poste": "Gérant fondateur",
+     "employeur": "ENIDD (société de nettoyage, Metz-Borny)",
+     "secteur": "prive",
+     "periode": "mai 2012-décembre 2016 (liquidation judiciaire ; interdiction de gérer 2 ans confirmée en appel en 2020 puis rejet du pourvoi en cassation en 2024)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Aucune amélioration possible : l'index HATVP local confirme ce que le premier passage avait déjà trouvé par la déclaration elle-même (section « activités » vide, cohérent avec le « Néant » cité dans les notes précédentes). Le wikitexte brut Wikipédia ne contient aucune information supplémentaire par rapport au texte déjà exploité (même paragraphe « Jeunesse et parcours professionnel », toujours marqué {{refnec}} sur le passage évoquant les études à Metz avant le poste de responsable commercial, sans nom d'établissement ni de diplôme). Carrière reprise à l'identique du premier passage, déjà très bien sourcée par la presse (Le Républicain lorrain, Société.com, BODACC, Cour de cassation).",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Ludovic_Mendes",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.societe.com/societe/enidd-751738089.html",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA719640",
+   "nom": "Sophie Mette",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {
+     "institution": "IUT de Bordeaux",
+     "diplome": "DUT Communication",
+     "domaine": "communication-journalisme"
+    },
+    {
+     "institution": "ISIC Bordeaux (Institut des sciences de l'information et de la communication, Université Bordeaux Montaigne)",
+     "diplome": "diplôme non précisé (poursuite d'études après le DUT)",
+     "domaine": "communication-journalisme"
+    }
+   ],
+   "fields": [
+    "communication-journalisme"
+   ],
+   "career": [
+    {
+     "poste": "Formatrice (formation professionnelle pour adultes)",
+     "employeur": "inconnu",
+     "secteur": "prive",
+     "periode": "vers 1985-1987, à Bordeaux, avant son installation à Bazas en 1987"
+    },
+    {
+     "poste": "Dirigeante (responsable de fédération locale)",
+     "employeur": "Mouvement Démocrate (MoDem)",
+     "secteur": "politique",
+     "periode": "06/2013-09/2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": "Le premier passage concluait à « aucune activité professionnelle » avant l'engagement associatif de 1987, en s'appuyant sur le texte Wikipédia et la déclaration HATVP « Néant ». Une source non exploitée par le premier passage — l'article Sud Ouest « Sophie Mette, un parcours local » (20 juin 2017), déjà cité en référence dans l'article Wikipédia mais jamais récupéré — a été vérifiée par curl+grep (texte réellement présent sur la page, pas de fabrication) : « Elle poursuit ensuite des études à Bordeaux où elle obtient un DUT communication et un diplôme à l'ISIC et travaille dans la formation professionnelle pour adultes. Deux ans plus tard, la voilà à Bazas [...] ». Cela établit un diplôme nommé (DUT communication, puis un second diplôme non précisé à l'ISIC, école bordelaise de communication) et un emploi salarié réel avant son installation à Bazas en 1987, ce qui contredit le « aucune activité professionnelle » retenu précédemment. Niveau retenu à bac+3_4 (le DUT seul est bac+2, mais la poursuite d'études à l'ISIC immédiatement après suggère au moins une licence professionnelle ; le nom exact du diplôme ISIC n'est pas précisé par l'article, donc pas de bac+5 sans confirmation). L'index HATVP local ajoute par ailleurs un mandat non salarié de dirigeante du MoDem (06/2013-09/2024, probablement responsable de la fédération départementale), plus des sièges à LCP et au Comité de bassin Adour-Garonne en 2024-2025 obtenus après son élection (non retenus comme carrière pré-politique). Compte tenu de la brève carrière salariée (~2 ans) suivie de plus de 35 ans d'engagement associatif puis politique continu, le profil de carrière est classé « politique_principalement » malgré le travail privé initial avéré.",
+   "sources": [
+    {
+     "url": "http://www.sudouest.fr/2017/06/20/sophie-mette-un-parcours-local-3547824-2757.php",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841769",
+   "nom": "Éric Michoux",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Président directeur général",
+     "employeur": "GALILE SAS (groupe industriel/énergie ; filiales dont Air Industrie Transition, Armor Energies Services, Stein Energy Boilers, Galile Formation, etc.)",
+     "secteur": "prive",
+     "periode": "janvier 2018/2019-présent"
+    },
+    {
+     "poste": "Maire d'Épervans",
+     "employeur": "Commune d'Épervans",
+     "secteur": "politique",
+     "periode": "21 mars 2008-2 août 2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Aucune amélioration trouvée sur le diplôme. L'index HATVP local confirme intégralement ce que le premier passage avait déjà établi via le même index (PDG de GALILE SAS depuis janvier 2018/2019, dizaines de mandats sociaux non rémunérés dans les filiales du groupe) : pas d'information nouvelle. Le wikitexte brut Wikipédia (récemment enrichi avec une photo de 2026) reste muet sur la formation : le champ « université » de l'infobox est vide et le texte se limite à « Il devient chef d'entreprise » sans nom d'école ni de diplôme, sourcé uniquement par un article France Bleu sur les résultats électoraux 2024. Carrière reprise à l'identique.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Michoux",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA643104",
+   "nom": "Christelle Minard",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [
+    "agriculture",
+    "enseignement"
+   ],
+   "career": [
+    {
+     "poste": "Agricultrice, gérante d'exploitation",
+     "employeur": "Exploitation individuelle puis SCEA, Theuvy-Achères (Tremblay-les-Villages, Eure-et-Loir)",
+     "secteur": "liberal_independant",
+     "periode": "1995-présent (gérante déclarée janvier 2020-présent selon HATVP, gérante depuis juillet 2022 selon la déclaration la plus récente)"
+    },
+    {
+     "poste": "Enseignante",
+     "employeur": "Lycée d'enseignement agricole privé de Nermont, Châteaudun (établissement privé sous contrat avec le ministère de l'Agriculture)",
+     "secteur": "prive",
+     "periode": "inconnu (recrutée après une rencontre personnelle avec la directrice de l'établissement)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Aucune amélioration sur le diplôme. Le wikitexte brut Wikipédia (article très étoffé, photo de 2026) précise enfin comment elle est devenue enseignante : « elle devient enseignante après une rencontre avec la directrice du lycée agricole de Nermont », soit un recrutement par relation personnelle et non par concours ou titre requis - ceci exclut d'inférer un diplôme d'enseignement réglementé (contrairement à un professeur certifié/agrégé recruté par concours). L'index HATVP local confirme les activités agricoles déjà connues (gérante d'exploitation individuelle puis SCEA depuis 2020, gérante depuis 07/2022) mais ne mentionne jamais le poste d'enseignante ni de diplôme ; il liste en revanche une longue série de mandats non rémunérés (« dirigeant ») liés à ses fonctions d'élue locale (CAUE, agence technique départementale, SEM Sempat 28, office du tourisme de Dreux, Sivom et CCAS de Tremblay-les-Villages, association Initiative Eure-et-Loir, agence départementale du tourisme, etc.) — non retenus comme carrière car ce sont des sièges institutionnels attachés à son mandat de conseillère départementale/vice-présidente, pas des emplois. L'article de L'Écho Républicain cité en référence Wikipédia (« Femme et agricultrice : Christelle Minard ») reste bloqué par Cloudflare (« Sorry, you have been blocked »), confirmé par curl.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Christelle_Minard",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA643157",
+   "nom": "Philippe Naillet",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Inspecteur assurance-vie",
+     "employeur": "AG2R La Mondiale",
+     "secteur": "prive",
+     "periode": "avant 2014"
+    },
+    {
+     "poste": "Président-directeur général puis administrateur",
+     "employeur": "SEM Sodiac (société d'économie mixte d'aménagement/logement, statut de droit privé)",
+     "secteur": "prive",
+     "periode": "01/2017-10/2022 (dirigeant), 07/2020-08/2022 (administrateur rémunéré selon HATVP), puis non rémunéré"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Aucune amélioration sur le diplôme malgré une nouvelle recherche ciblée : le wikitexte brut Wikipédia confirme seulement « a étudié à l'université de La Réunion » (champ infobox « université » renseigné mais pas de filière ni de niveau) ; le JSON nosdeputes.fr ne fournit que la même profession déclarée « Inspecteur assurance-vie » sans détail supplémentaire ; l'article imazpress.com tenté à nouveau renvoie une erreur 406 (contenu non accessible en curl simple, cohérent avec le blocage déjà signalé par le premier passage pour ce domaine). L'index HATVP local confirme et précise les dates de la carrière déjà connue à la SEM Sodiac (dirigeant 01/2017-10/2022, administrateur rémunéré 07/2020-08/2022 puis mandats jusqu'en 2024) ; aucune nouvelle activité n'apparaît pour l'emploi antérieur chez AG2R La Mondiale (la déclaration HATVP locale ne remonte pas jusqu'à cette période). Carrière reprise à l'identique avec dates HATVP affinées.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Philippe_Naillet",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841191",
+   "nom": "Sandrine Nosbé",
+   "highest_degree_level": "inconnu",
+   "degrees": [
+    {
+     "institution": "inconnu",
+     "diplome": "études en langues étrangères (niveau non précisé, obtention d'un diplôme non confirmée)",
+     "domaine": "lettres-langues"
+    }
+   ],
+   "fields": [
+    "lettres-langues"
+   ],
+   "career": [
+    {
+     "poste": "RRH (Responsable Ressources Humaines)",
+     "employeur": "Manutan",
+     "secteur": "prive",
+     "periode": "03/2020-12/2020"
+    },
+    {
+     "poste": "RRH (Responsable Ressources Humaines)",
+     "employeur": "Lucien Georgelin",
+     "secteur": "prive",
+     "periode": "03/2021-10/2021"
+    },
+    {
+     "poste": "Gestionnaire de paie",
+     "employeur": "XPPER",
+     "secteur": "prive",
+     "periode": "10/2022-07/2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Dossier totalement transformé par rapport au premier passage, qui n'avait retrouvé ni employeur ni diplôme. L'index HATVP local (non disponible au premier passage) donne une carrière nette et datée : RRH chez Manutan (03/2020-12/2020), RRH au cabinet Lucien Georgelin (03/2021-10/2021), gestionnaire de paie chez XPPER (10/2022-07/2024), avec des périodes de demandeur d'emploi entre chaque poste (Pôle emploi, non retenues comme « carrière »). Par ailleurs, le site personnel qu'elle avait refondu en WordPress (dont la page « qui suis-je » renvoyait une erreur 404 selon le premier passage) a pu être récupéré dans son ancienne version via l'index CDX de web.archive.org (capture du 8 juillet 2024, hors norme WebSearch car c'est une requête d'API déterministe sur une URL connue) : elle y écrit « Après des études en Langues Étrangères, je suis tombée par hasard dans les Ressources humaines ». Ceci confirme un domaine d'études (langues étrangères) cohérent avec sa trajectoire professionnelle en RH, mais sans préciser le diplôme obtenu ni son niveau (licence, master, étude interrompue) — le niveau de diplôme est donc laissé à « inconnu » par prudence, conformément à la consigne de ne pas inventer un niveau à partir d'un poste (RRH/gestionnaire de paie ne figurent pas dans la liste des professions réglementées permettant une inférence de diplôme).",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://web.archive.org/web/20240708183752/https://www.sandrinenosbe.fr/qui_suis_je.html",
+     "pour": "diplome"
+    }
+   ]
+  },
+  {
+   "uid": "PA841993",
+   "nom": "Dominique Paillat",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Responsable d'usine",
+     "employeur": "inconnu",
+     "secteur": "prive",
+     "periode": "inconnu (aujourd'hui retraité, selon l'infobox Wikipédia « Cadre retraité »)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Aucune amélioration possible malgré une recherche élargie. Pas d'entrée dans l'index HATVP local : Dominique Paillat n'est devenu député que le 25 mai 2026 (succédant à Béatrice Bellamy, décédée), sa déclaration d'intérêts n'est donc probablement pas encore publiée dans le millésime disponible, comme pour Patricia Maussion dans ce même lot. L'article Wikipédia, désormais beaucoup plus riche (plusieurs références de presse), confirme seulement le parcours électoral local (conseiller municipal puis maire de Saint-Germain-de-Prinçay depuis 2020) et donne un nouvel indice indirect : l'infobox le qualifie de « Cadre d'entreprise, Cadre retraité », cohérent avec un poste de cadre du secteur privé (responsable d'usine) aujourd'hui achevé, mais sans nom d'employeur. Les deux articles Ouest-France cités en référence renvoient une page d'erreur serveur générique (« Une erreur est survenue », vérifié par curl, pas de blocage anti-robot mais un contenu réellement absent) ; l'article actu.fr est un rendu JavaScript pur (aucun texte d'article dans le HTML statique, uniquement du code de gestion de bandeau cookies/consentement) ; le site de la mairie de Saint-Germain-de-Prinçay, déjà tenté par le premier passage, ne contient aucun élément biographique professionnel.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Dominique_Paillat",
+     "pour": "carriere"
+    }
+   ]
+  }
+ ]
+}

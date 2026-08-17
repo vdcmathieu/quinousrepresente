@@ -1,0 +1,270 @@
+{
+  "batch": 35,
+  "deputies": [
+    {
+      "uid": "PA841729",
+      "nom": "Abdelkader Lahmar",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "IUT (non précisé)", "diplome": "DUT", "domaine": "techniques de commercialisation"},
+        {"institution": "Institut polytechnique de Coventry (Royaume-Uni)", "diplome": "équivalent master (Erasmus)", "domaine": "marketing industriel"},
+        {"institution": "IUFM de Villeurbanne", "diplome": "CAPES économie-gestion", "domaine": "économie-gestion"}
+      ],
+      "fields": ["gestion-commerce", "education"],
+      "career": [
+        {"poste": "professeur d'économie-gestion", "employeur": "lycée professionnel Les Canuts, Vaulx-en-Velin", "secteur": "public", "periode": "1995-2024"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA841737",
+      "nom": "Jonathan Gery",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "gendarme", "employeur": "Gendarmerie nationale", "secteur": "public", "periode": "avant 2016"},
+        {"poste": "agent de police municipale", "employeur": "police municipale d'Ambilly", "secteur": "public", "periode": "depuis 2016"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Bio courte, pas d'information sur les études."
+    },
+    {
+      "uid": "PA841749",
+      "nom": "Tiffany Joncour",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "commerciale", "employeur": "inconnu", "secteur": "prive", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Carrière professionnelle qualifiée de « floue » par la presse, décrite comme commerciale sans emploi au moment de son élection."
+    },
+    {
+      "uid": "PA841761",
+      "nom": "Aurélien Dutremble",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "technicien hospitalier", "employeur": "inconnu", "secteur": "public", "periode": "inconnu"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "Se définit comme « autodidacte » ; carrière professionnelle basée sur la profession déclarée officielle, non détaillée dans la biographie."
+    },
+    {
+      "uid": "PA841769",
+      "nom": "Éric Michoux",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "chef d'entreprise", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Biographie très succincte."
+    },
+    {
+      "uid": "PA841801",
+      "nom": "Danièle Carteron",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "cheffe d'entreprise (assistance à la maîtrise d'ouvrage)", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "avant mandat"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Exerce en parallèle des mandats locaux (adjointe au maire, conseillère communautaire)."
+    },
+    {
+      "uid": "PA841813",
+      "nom": "Florence Herouin-Léautey",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "attachée territoriale", "employeur": "fonction publique territoriale", "secteur": "public", "periode": "avant mandat"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA841825",
+      "nom": "Patrice Martin",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "agriculteur", "employeur": "exploitation agricole (pays de Bray)", "secteur": "liberal_independant", "periode": "avant mandat"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA841837",
+      "nom": "Robert Le Bourgeois",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Sciences Po Paris", "diplome": "diplôme", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "cadre commercial", "employeur": "services financiers (financement des PME et des collectivités locales)", "secteur": "prive", "periode": "après 1992"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA841845",
+      "nom": "Arnaud Saint-Martin",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Université de Rouen", "diplome": "licence", "domaine": "sociologie"},
+        {"institution": "Université Paris-Sorbonne", "diplome": "doctorat (probable, non détaillé dans la bio tronquée)", "domaine": "sociologie"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "chercheur en sociologie des sciences", "employeur": "CNRS", "secteur": "public", "periode": "avant mandat"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie tronquée ; doctorat déduit de son poste de chercheur CNRS et de son titre de sociologue des sciences."
+    },
+    {
+      "uid": "PA841853",
+      "nom": "Céline Hervieu",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-I-Panthéon-Sorbonne", "diplome": "master", "domaine": "droit social"},
+        {"institution": "École de psychologues praticiens", "diplome": "diplôme de psychologue clinicienne", "domaine": "psychologie clinique"},
+        {"institution": "Institut de relations internationales et stratégiques (IRIS)", "diplome": "diplôme", "domaine": "relations internationales"}
+      ],
+      "fields": ["droit", "lettres-sciences humaines", "sciences politiques"],
+      "career": [
+        {"poste": "psychologue clinicienne", "employeur": "hôpitaux", "secteur": "public", "periode": "avant mandat"},
+        {"poste": "chargée de mission", "employeur": "ONG de solidarité internationale", "secteur": "associatif", "periode": "avant mandat"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "A aussi une expérience associative (ONG, Cimade, France Terre d'Asile)."
+    },
+    {
+      "uid": "PA841873",
+      "nom": "Julien Limongi",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Toulouse", "diplome": "diplôme (Sciences Po)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "agent", "employeur": "Ambassade de France au Canada", "secteur": "public", "periode": "avant 2022"},
+        {"poste": "collaborateur parlementaire", "employeur": "Julien Rancoule (député)", "secteur": "politique", "periode": "2022-2024"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Carrière brève avant le mandat, entre poste diplomatique et collaboration parlementaire."
+    },
+    {
+      "uid": "PA841885",
+      "nom": "Arnaud Bonnet",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "professeur certifié de sciences de la vie et de la Terre", "employeur": "Éducation nationale, académie de Créteil (Ivry-sur-Seine puis Pontault-Combault)", "secteur": "public", "periode": "avant mandat"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Aucune précision sur le parcours d'études (établissement, diplôme)."
+    },
+    {
+      "uid": "PA841893",
+      "nom": "Céline Thiébault-Martinez",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-I-Panthéon-Sorbonne", "diplome": "master", "domaine": "économie de la santé"}
+      ],
+      "fields": ["economie"],
+      "career": [
+        {"poste": "cadre (mutuelles et protection sociale)", "employeur": "La Mutuelle des étudiants, Mutuelle nationale territoriale, mutuelle Intériale, Institut de la Protection Sociale Européenne", "secteur": "prive", "periode": "avant 2024"},
+        {"poste": "directrice", "employeur": "Mutuelle des Scop et des Scic", "secteur": "prive", "periode": "jusqu'en 2024"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA841919",
+      "nom": "Dieynaba Diop",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-Nanterre", "diplome": "DEA", "domaine": "linguistique"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "professeure d'histoire-géographie", "employeur": "lycée professionnel, Mantes-la-Jolie", "secteur": "public", "periode": "avant mandat"},
+        {"poste": "adjointe au maire des Mureaux", "employeur": "mairie des Mureaux", "secteur": "politique", "periode": "2008-2024"},
+        {"poste": "conseillère régionale d'Île-de-France", "employeur": "région Île-de-France", "secteur": "politique", "periode": "depuis 2021"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Carrière d'enseignante en parallèle d'un long parcours d'élue locale et de responsable de parti."
+    }
+  ]
+}

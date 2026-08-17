@@ -1,0 +1,47 @@
+{
+  "deputies": [
+    {
+      "uid": "PA795636",
+      "nom": "Benjamin Lucas-Lundy",
+      "highest_degree_level": "inconnu",
+      "fields": ["droit"],
+      "career": [
+        {
+          "poste": "Assistant d'éducation (surveillant) dans un lycée",
+          "employeur": "Éducation nationale (académie d'Amiens)",
+          "secteur": "public",
+          "periode": "pendant ses études, avant 2017"
+        },
+        {
+          "poste": "Permanent salarié du Mouvement des Jeunes Socialistes puis conseiller jeunesse de Benoît Hamon",
+          "employeur": "Parti socialiste / MJS / campagne Hamon 2017",
+          "secteur": "politique",
+          "periode": "2015-2018"
+        }
+      ],
+      "worked_public": true,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Trois années de droit à l'université de Picardie Jules-Verne sans obtention mentionnée d'un diplôme; a travaillé comme assistant d'éducation en parallèle de ses études avant de s'orienter pleinement vers la politique (source: france3-regions.franceinfo.fr, portrait législatives 2022)."
+    },
+    {
+      "uid": "PA795644",
+      "nom": "Nathalie Da Conceicao Carvalho",
+      "highest_degree_level": "inconnu",
+      "career": [
+        {
+          "poste": "Activité dans l'événementiel (détails non précisés)",
+          "employeur": "indépendante / profession libérale",
+          "secteur": "liberal_independant",
+          "periode": "avant 2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "A déclaré travailler dans l'événementiel avant son élection; sa déclaration HATVP 2022-2024 ne mentionne aucune activité professionnelle rémunérée dans les 5 ans précédents (source: france3-regions.franceinfo.fr portrait législatives 2022; hatvp.fr)."
+    }
+  ]
+}

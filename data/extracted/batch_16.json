@@ -1,0 +1,477 @@
+{
+  "batch": 16,
+  "deputies": [
+    {
+      "uid": "PA793508",
+      "nom": "Hubert Brigand",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": null,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "La source ne mentionne que ses mandats de maire, aucune information sur études ou emploi."
+    },
+    {
+      "uid": "PA793520",
+      "nom": "Mickaël Cosson",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Fonctionnaire",
+          "employeur": "Direction départementale des territoires et de la mer (DDTM)",
+          "secteur": "public",
+          "periode": "avant 2014"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Fonction publique confirmée par la biographie, mais formation non précisée."
+    },
+    {
+      "uid": "PA793532",
+      "nom": "Murielle Lepvraud",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {
+          "institution": "inconnu",
+          "diplome": "Formation de libraire (niveau non précisé)",
+          "domaine": "lettres-sciences humaines"
+        }
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {
+          "poste": "Libraire",
+          "employeur": "inconnu",
+          "secteur": "prive",
+          "periode": "avant 2010"
+        },
+        {
+          "poste": "Agente de médiathèque",
+          "employeur": "inconnu",
+          "secteur": "public",
+          "periode": "avant 2010"
+        },
+        {
+          "poste": "Accompagnante d'élèves en situation de handicap (AESH)",
+          "employeur": "Éducation nationale",
+          "secteur": "public",
+          "periode": "inconnue"
+        },
+        {
+          "poste": "Secrétaire",
+          "employeur": "Cabinet d'avocat (Guingamp)",
+          "secteur": "prive",
+          "periode": "avant 2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Chronologie des emplois donnée par la biographie mais sans dates précises ni niveau exact de la formation de libraire."
+    },
+    {
+      "uid": "PA793548",
+      "nom": "Caroline Colombier",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "Barreau de Paris",
+          "diplome": "CAPA (avocate)",
+          "domaine": "droit"
+        }
+      ],
+      "fields": ["droit"],
+      "career": [
+        {
+          "poste": "Avocate",
+          "employeur": "Barreau de Paris",
+          "secteur": "liberal_independant",
+          "periode": "avant"
+        },
+        {
+          "poste": "Secrétaire générale / directrice juridique et RH",
+          "employeur": "Thomson",
+          "secteur": "prive",
+          "periode": "inconnue"
+        },
+        {
+          "poste": "Secrétaire générale / directrice juridique et RH",
+          "employeur": "TNT",
+          "secteur": "prive",
+          "periode": "inconnue"
+        },
+        {
+          "poste": "Secrétaire générale / directrice juridique et RH",
+          "employeur": "Lejaby",
+          "secteur": "prive",
+          "periode": "inconnue"
+        },
+        {
+          "poste": "Secrétaire générale / directrice juridique et RH",
+          "employeur": "Association française de l'aluminium",
+          "secteur": "associatif",
+          "periode": "inconnue"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Carrière d'avocate puis de cadre juridique/RH en entreprise clairement établie."
+    },
+    {
+      "uid": "PA793556",
+      "nom": "Sabine Gervais",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "inconnu",
+          "diplome": "Diplôme d'État d'infirmière puéricultrice",
+          "domaine": "medecine-sante"
+        }
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {
+          "poste": "Infirmière puéricultrice",
+          "employeur": "inconnu",
+          "secteur": "inconnu",
+          "periode": "inconnue"
+        }
+      ],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Profession connue mais employeur et secteur (public ou privé) non précisés dans la source."
+    },
+    {
+      "uid": "PA793572",
+      "nom": "Christophe Plassard",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Chef d'entreprise (entreprise unipersonnelle, publicité)",
+          "employeur": "inconnu",
+          "secteur": "liberal_independant",
+          "periode": "avant 2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Carrière entrepreneuriale bien établie, mais aucune information sur ses études."
+    },
+    {
+      "uid": "PA793592",
+      "nom": "Géraldine Grangier",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "Besançon (université non précisée)",
+          "diplome": "Études de psychologie",
+          "domaine": "lettres-sciences humaines"
+        },
+        {
+          "institution": "Dijon",
+          "diplome": "Diplôme d'État d'assistant de service social (DEASS)",
+          "domaine": "lettres-sciences humaines"
+        }
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {
+          "poste": "Assistante sociale",
+          "employeur": "inconnu",
+          "secteur": "public",
+          "periode": "avant 2019"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Secteur public déduit de la profession déclarée officielle (« fonction publique »), l'employeur précis n'est pas donné."
+    },
+    {
+      "uid": "PA793608",
+      "nom": "Katiana Levavasseur",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [
+        {
+          "institution": "inconnu",
+          "diplome": "BEP sanitaire et social (2000)",
+          "domaine": "medecine-sante"
+        }
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {
+          "poste": "Agente de maintenance et de nettoyage",
+          "employeur": "E.Leclerc",
+          "secteur": "prive",
+          "periode": "avant 2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793616",
+      "nom": "Kévin Mauvieux",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "Université de Rouen",
+          "diplome": "Licence en économie",
+          "domaine": "economie"
+        }
+      ],
+      "fields": ["economie"],
+      "career": [
+        {
+          "poste": "Conseiller en assurance",
+          "employeur": "inconnu",
+          "secteur": "prive",
+          "periode": "avant 2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "La licence en économie est signalée comme non sourcée dans l'article (« réf. nécessaire »)."
+    },
+    {
+      "uid": "PA793624",
+      "nom": "Philippe Brun",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "Institut d'études politiques de Paris",
+          "diplome": "Master Affaires publiques (2014)",
+          "domaine": "sciences politiques"
+        },
+        {
+          "institution": "HEC Paris",
+          "diplome": "Diplôme HEC (2016)",
+          "domaine": "gestion-commerce"
+        },
+        {
+          "institution": "École nationale d'administration",
+          "diplome": "Promotion Georges Clemenceau (2017-2018)",
+          "domaine": "sciences politiques"
+        }
+      ],
+      "fields": ["sciences politiques", "gestion-commerce"],
+      "career": [
+        {
+          "poste": "Assistant parlementaire",
+          "employeur": "Axelle Lemaire (députée)",
+          "secteur": "politique",
+          "periode": "2012-2014"
+        },
+        {
+          "poste": "Chargé de mission, direction stratégique",
+          "employeur": "Groupe Engie",
+          "secteur": "prive",
+          "periode": "avant 2017"
+        },
+        {
+          "poste": "Magistrat administratif (auditeur)",
+          "employeur": "Tribunal administratif de Montreuil",
+          "secteur": "public",
+          "periode": "2019-2022"
+        },
+        {
+          "poste": "Enseignant de droit public",
+          "employeur": "IEP de Paris",
+          "secteur": "public",
+          "periode": "avant 2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793632",
+      "nom": "Timothée Houssin",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "École de commerce de Rouen",
+          "diplome": "Diplôme non précisé",
+          "domaine": "gestion-commerce"
+        }
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {
+          "poste": "Cadre",
+          "employeur": "inconnu",
+          "secteur": "prive",
+          "periode": "avant 2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "L'obtention du diplôme et l'emploi de cadre en entreprise sont déduits d'indices partiels (école de commerce mentionnée, catégorie INSEE « d'entreprise »), sans détail biographique."
+    },
+    {
+      "uid": "PA793656",
+      "nom": "Lisette Pollet",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Femme de ménage",
+          "employeur": "Elior",
+          "secteur": "prive",
+          "periode": "après 1991"
+        },
+        {
+          "poste": "Femme de ménage",
+          "employeur": "Sodexo",
+          "secteur": "prive",
+          "periode": "inconnue"
+        },
+        {
+          "poste": "Chef d'équipe de ménage",
+          "employeur": "École privée Saint-Victor (Valence)",
+          "secteur": "prive",
+          "periode": "avant 2021"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Carrière professionnelle bien détaillée, mais aucune information sur son parcours scolaire."
+    },
+    {
+      "uid": "PA793664",
+      "nom": "Marie Pochon",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "Université Lyon 2",
+          "diplome": "Études supérieures (niveau non précisé)",
+          "domaine": "sciences politiques"
+        },
+        {
+          "institution": "Centre international de formation européenne / IEP de Lyon",
+          "diplome": "Master relations internationales et études européennes",
+          "domaine": "sciences politiques"
+        }
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {
+          "poste": "Responsable associative",
+          "employeur": "mouvement écologiste (non précisé)",
+          "secteur": "associatif",
+          "periode": "avant 2022"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Parcours dominé par le militantisme écologiste et associatif, sans emploi privé ou public identifié avant le mandat."
+    },
+    {
+      "uid": "PA793672",
+      "nom": "Christine Loir",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [
+        {
+          "institution": "Rouen (centre non précisé)",
+          "diplome": "CAP coiffure",
+          "domaine": "autre"
+        }
+      ],
+      "fields": ["autre"],
+      "career": [
+        {
+          "poste": "Coiffeuse",
+          "employeur": "Salon de coiffure (Rouen)",
+          "secteur": "prive",
+          "periode": "inconnue"
+        },
+        {
+          "poste": "Jeune fille au pair",
+          "employeur": "particulier (banlieue parisienne)",
+          "secteur": "prive",
+          "periode": "inconnue"
+        },
+        {
+          "poste": "Assistante maternelle",
+          "employeur": "inconnu",
+          "secteur": "liberal_independant",
+          "periode": "depuis 2001"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793696",
+      "nom": "Serge Muller",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Profession intermédiaire de la santé et du travail social",
+          "employeur": "inconnu",
+          "secteur": "public",
+          "periode": "avant 2022"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "La biographie ne détaille pas son parcours professionnel ; secteur déduit de la catégorie INSEE mentionnant explicitement la fonction publique."
+    }
+  ]
+}

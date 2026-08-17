@@ -1,0 +1,308 @@
+{
+  "batch": 25,
+  "deputies": [
+    {
+      "uid": "PA795454",
+      "nom": "Karim Ben Cheikh",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris I Panthéon-Sorbonne", "diplome": "Maîtrise", "domaine": "administration économique et sociale"},
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme IEP puis DEA de science politique", "domaine": "études politiques comparées sur le monde musulman"}
+      ],
+      "fields": ["sciences politiques", "economie"],
+      "career": [
+        {"poste": "Conseiller des affaires étrangères (concours)", "employeur": "Ministère des Affaires étrangères", "secteur": "public", "periode": "à partir de 2006"},
+        {"poste": "Troisième secrétaire d'ambassade", "employeur": "Ambassade de France au Maroc", "secteur": "public", "periode": "2008-2012"},
+        {"poste": "Conseiller pour l'Afrique", "employeur": "Ambassade de France aux États-Unis", "secteur": "public", "periode": "2012-2014"},
+        {"poste": "Chargé de mission Maghreb-Sahel", "employeur": "Centre d'analyse et de prospective stratégique, ministère des Affaires étrangères", "secteur": "public", "periode": "à partir de 2014"},
+        {"poste": "Consul général de France à Beyrouth", "employeur": "Ministère des Affaires étrangères", "secteur": "public", "periode": "2017-2021"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Carrière de diplomate de carrière au ministère des Affaires étrangères avant son élection."
+    },
+    {
+      "uid": "PA795466",
+      "nom": "Ersilia Soudais",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "non précisé", "diplome": "Licence de lettres", "domaine": "lettres"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Professeure de français", "employeur": "Éducation nationale (Sevran)", "secteur": "public", "periode": "environ 1 an"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Bio peu détaillée sur les dates; engagement syndical au SNES-FSU non compté comme emploi."
+    },
+    {
+      "uid": "PA795482",
+      "nom": "Manon Meunier",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École nationale supérieure d'agronomie et des industries alimentaires (ENSAIA), Vandœuvre-lès-Nancy", "diplome": "Diplôme d'ingénieur agronome", "domaine": "agronomie"}
+      ],
+      "fields": ["agriculture", "ingenierie"],
+      "career": [
+        {"poste": "Chargée de mission développement durable", "employeur": "Collectivités territoriales (notamment en Charente)", "secteur": "public", "periode": "avant 2022"},
+        {"poste": "Aide-soignante", "employeur": "non précisé", "secteur": "public", "periode": "environ 1 an, à partir du début de la pandémie de Covid-19 (2020)"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Secteur de l'emploi d'aide-soignante non précisé dans la source, supposé public par défaut."
+    },
+    {
+      "uid": "PA795516",
+      "nom": "Maxime Laisney",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Concours de professeur des écoles (académie de Créteil)", "diplome": "Concours de professeur des écoles", "domaine": "education"}
+      ],
+      "fields": ["education"],
+      "career": [
+        {"poste": "Enseignant de soutien scolaire aux enfants du voyage", "employeur": "Éducation nationale (Seine-et-Marne)", "secteur": "public", "periode": "7 ans"},
+        {"poste": "Professeur des écoles", "employeur": "Éducation nationale (Chelles)", "secteur": "public", "periode": "avant 2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Niveau d'études déduit de l'obtention du concours de professeur des écoles, non détaillé explicitement."
+    },
+    {
+      "uid": "PA795528",
+      "nom": "Charles Rodwell",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Double master (avec la LSE)", "domaine": "sciences politiques"},
+        {"institution": "London School of Economics", "diplome": "Master", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Stagiaire puis collaborateur parlementaire", "employeur": "Franck Riester (député)", "secteur": "politique", "periode": "à partir de 2014"},
+        {"poste": "Adjoint au maire chargé de la jeunesse", "employeur": "Mairie de Versailles", "secteur": "politique", "periode": "mars 2020-2021"},
+        {"poste": "Mission à la direction de la stratégie", "employeur": "Enedis", "secteur": "public", "periode": "février-juillet 2021"},
+        {"poste": "Conseiller discours et prospective", "employeur": "Cabinet de Bruno Le Maire, ministre de l'Économie et des Finances", "secteur": "politique", "periode": "septembre 2021-juin 2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Carrière dominée par des postes politiques (collaborateur, cabinet ministériel), avec un bref passage chez Enedis (entreprise publique de distribution d'électricité)."
+    },
+    {
+      "uid": "PA795540",
+      "nom": "Daniel Grenon",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Artisan", "employeur": "indépendant (Toucy, Puisaye)", "secteur": "liberal_independant", "periode": "à partir de l'apprentissage à 14 ans"},
+        {"poste": "Commerçant (épicerie fine de produits régionaux)", "employeur": "indépendant (Toucy)", "secteur": "liberal_independant", "periode": "jusqu'à sa retraite en 2010"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": null
+    },
+    {
+      "uid": "PA795552",
+      "nom": "Julien Odoul",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "non précisé", "diplome": "Maîtrise d'histoire", "domaine": "histoire"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Mannequin de charme", "employeur": "indépendant (Têtu, Gab, VirtuaGuy)", "secteur": "liberal_independant", "periode": "pendant ses études, années 2000"},
+        {"poste": "Collaborateur", "employeur": "André Santini, député-maire d'Issy-les-Moulineaux", "secteur": "politique", "periode": "jusqu'en 2011"},
+        {"poste": "Chargé de rédaction", "employeur": "Conseil supérieur de la fonction militaire (ministère de la Défense)", "secteur": "public", "periode": "vers 2012-2013"},
+        {"poste": "Assistant parlementaire", "employeur": "Mylène Troszczynski, députée européenne", "secteur": "politique", "periode": "octobre 2014-juillet 2015"},
+        {"poste": "Conseiller spécial", "employeur": "Marine Le Pen", "secteur": "politique", "periode": "2014-2015"},
+        {"poste": "Conseiller régional", "employeur": "Région Bourgogne-Franche-Comté", "secteur": "politique", "periode": "depuis 2016"},
+        {"poste": "Porte-parole du Rassemblement national", "employeur": "Rassemblement national", "secteur": "politique", "periode": "depuis 2021"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Emploi d'assistant parlementaire jugé fictif et condamné pénalement, mais listé ici comme fait de carrière."
+    },
+    {
+      "uid": "PA795588",
+      "nom": "Farida Amrani",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "non précisé", "diplome": "Baccalauréat professionnel", "domaine": "autre"},
+        {"institution": "non précisé", "diplome": "BTS transport et prestations logistiques", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Fonctionnaire territoriale", "employeur": "Communauté d'agglomération Cœur d'Essonne", "secteur": "public", "periode": "depuis 2003"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Engagement syndical (CGT) mentionné mais non détaillé comme emploi."
+    },
+    {
+      "uid": "PA795596",
+      "nom": "Paul Vannier",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "non précisé", "diplome": "Agrégation de géographie", "domaine": "géographie"}
+      ],
+      "fields": ["lettres-sciences humaines", "education"],
+      "career": [
+        {"poste": "Professeur d'histoire-géographie", "employeur": "Éducation nationale (académie de Créteil)", "secteur": "public", "periode": "avant 2022"},
+        {"poste": "Conseiller régional d'Île-de-France", "employeur": "Région Île-de-France", "secteur": "politique", "periode": "depuis juillet 2021"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": null
+    },
+    {
+      "uid": "PA795616",
+      "nom": "Carlos Martens Bilongo",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Isifa Plus Values Paris Sud (école de commerce)", "diplome": "BTS technico-commercial", "domaine": "gestion-commerce"},
+        {"institution": "Isifa Plus Values Paris Sud", "diplome": "Licence en marketing et négociation", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Apprenti puis technico-commercial puis chargé d'affaires", "employeur": "AZ Metal", "secteur": "prive", "periode": "environ 2012-2019 (6 ans comme chargé d'affaires)"},
+        {"poste": "Enseignant en économie et en droit", "employeur": "Lycée Alexandre-Dumas, Saint-Cloud", "secteur": "public", "periode": "depuis 2019"},
+        {"poste": "Coach sportif / formateur physique", "employeur": "indépendant", "secteur": "liberal_independant", "periode": "en parallèle"},
+        {"poste": "Dirigeant", "employeur": "Koss Niquel Training (KNT) / Espace Code", "secteur": "liberal_independant", "periode": "non précisé"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": null
+    },
+    {
+      "uid": "PA795636",
+      "nom": "Benjamin Lucas-Lundy",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Permanent salarié du Mouvement des Jeunes Socialistes", "employeur": "Parti socialiste / MJS", "secteur": "politique", "periode": "à partir de 2016"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "basse",
+      "notes": "Études de droit à l'université de Picardie mentionnées comme peu assidues, sans mention d'obtention d'un diplôme."
+    },
+    {
+      "uid": "PA795644",
+      "nom": "Nathalie Da Conceicao Carvalho",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Profession libérale (activité non précisée)", "employeur": "indépendante", "secteur": "liberal_independant", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Sa biographie Wikipédia ne traite que de son parcours politique; profession antérieure connue uniquement via la catégorie officielle déclarée (profession libérale)."
+    },
+    {
+      "uid": "PA795664",
+      "nom": "Paul Midy",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École polytechnique", "diplome": "Diplôme d'ingénieur", "domaine": "ingénierie"},
+        {"institution": "Université Columbia", "diplome": "Master de recherche opérationnelle", "domaine": "ingénierie"}
+      ],
+      "fields": ["ingenierie"],
+      "career": [
+        {"poste": "Fondateur", "employeur": "Goondi (services informatiques)", "secteur": "liberal_independant", "periode": "pendant ses études, vers 2003-2007"},
+        {"poste": "Consultant", "employeur": "McKinsey & Company", "secteur": "prive", "periode": "2007-2014"},
+        {"poste": "Enseignant en économie d'entreprise", "employeur": "École polytechnique", "secteur": "public", "periode": "2011-2014"},
+        {"poste": "Directeur (Jumia Travel, Jumia One/Jumia Pay, directeur marketing groupe Jumia)", "employeur": "Jumia", "secteur": "prive", "periode": "2014-2018 environ"},
+        {"poste": "Directeur général", "employeur": "Frichti", "secteur": "prive", "periode": "avril-octobre 2018"},
+        {"poste": "Directeur général", "employeur": "La République en Marche", "secteur": "politique", "periode": "à partir de 2019"},
+        {"poste": "Directeur de campagne", "employeur": "Benjamin Griveaux (municipales de Paris)", "secteur": "politique", "periode": "2020"},
+        {"poste": "Membre de l'équipe de campagne", "employeur": "Emmanuel Macron (présidentielle)", "secteur": "politique", "periode": "2022"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": null
+    },
+    {
+      "uid": "PA795672",
+      "nom": "Arnaud Le Gall",
+      "highest_degree_level": "bac+5",
+      "degrees": [],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Enseignant en sciences politiques", "employeur": "non précisé", "secteur": "public", "periode": "avant 2012"},
+        {"poste": "Employé", "employeur": "Mairie de Paris", "secteur": "public", "periode": "2012-2022"},
+        {"poste": "Conseiller aux questions internationales du groupe parlementaire LFI", "employeur": "La France insoumise (Assemblée nationale)", "secteur": "politique", "periode": "depuis 2021"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Niveau d'études déduit de sa fonction d'enseignant en sciences politiques, aucun diplôme précis mentionné dans la source."
+    },
+    {
+      "uid": "PA795722",
+      "nom": "Karl Olive",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "non précisé (université Paris VIII selon Wikidata)", "diplome": "DEUG de communication", "domaine": "communication-journalisme"}
+      ],
+      "fields": ["communication-journalisme"],
+      "career": [
+        {"poste": "Pigiste", "employeur": "Groupe Hersant", "secteur": "prive", "periode": "à partir de 1989"},
+        {"poste": "Présentateur", "employeur": "Yvelines Première (chaîne câblée locale)", "secteur": "prive", "periode": "années 1990"},
+        {"poste": "Responsable puis directeur du service des sports", "employeur": "Canal+", "secteur": "prive", "periode": "à partir de 2000"},
+        {"poste": "Directeur des sports", "employeur": "I-Télé", "secteur": "prive", "periode": "2005-2007"},
+        {"poste": "Arbitre officiel", "employeur": "Fédération française de football (PSG)", "secteur": "associatif", "periode": "1986-1991"},
+        {"poste": "Président", "employeur": "AS Chatou Football / AS Chatou Omnisport", "secteur": "associatif", "periode": "1998-2004"},
+        {"poste": "Président", "employeur": "AS Poissy Football", "secteur": "associatif", "periode": "2004-2008"},
+        {"poste": "Président-délégué de la section football", "employeur": "Athletic Club de Boulogne-Billancourt (ACBB)", "secteur": "associatif", "periode": "depuis avril 2008"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Nombreuses fonctions bénévoles/associatives dans le sport en complément de sa carrière de journaliste."
+    }
+  ]
+}

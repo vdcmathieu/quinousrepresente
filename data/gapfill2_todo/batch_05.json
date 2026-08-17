@@ -1,0 +1,230 @@
+[
+ {
+  "uid": "PA720154",
+  "num": "720154",
+  "nom": "Nicole Dubré-Chirat",
+  "groupe": "Ensemble pour la République",
+  "dept": "Maine-et-Loire",
+  "circo": "6",
+  "naissance": "1951-12-18",
+  "profession_declaree": "Retraitée de la fonction publique hospitalière et chargée de formation",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Nicole_Dubr%C3%A9-Chirat",
+  "wiki_trimmed": "data/wiki_trimmed/PA720154.txt",
+  "notes_actuelles": "La source ne précise pas son diplôme initial (infirmière/cadre de santé)."
+ },
+ {
+  "uid": "PA841633",
+  "num": "841633",
+  "nom": "Peio Dufau",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Pyrénées-Atlantiques",
+  "circo": "6",
+  "naissance": "1979-05-30",
+  "profession_declaree": "(48) - Contremaître, agent de maîtrise",
+  "insee": "Agents de maîtrise (hors maîtrise administrative)",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Peio_Dufau",
+  "wiki_trimmed": "data/wiki_trimmed/PA841633.txt",
+  "notes_actuelles": "SNCF traitée comme employeur du secteur public (entreprise publique)."
+ },
+ {
+  "uid": "PA870009",
+  "num": "870009",
+  "nom": "Lionel Duparay",
+  "groupe": "Droite Républicaine",
+  "dept": "Saône-et-Loire",
+  "circo": "5",
+  "naissance": "1981-02-07",
+  "profession_declaree": "Ingénieur",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Lionel_Duparay",
+  "wiki_trimmed": "data/wiki_trimmed/PA870009.txt",
+  "notes_actuelles": "Le métier d'ingénieur suppose un diplôme d'ingénieur mais la source ne précise pas la formation suivie."
+ },
+ {
+  "uid": "PA794718",
+  "num": "794718",
+  "nom": "Christine Engrand",
+  "groupe": "Non inscrit",
+  "dept": "Pas-de-Calais",
+  "circo": "6",
+  "naissance": "1955-05-07",
+  "profession_declaree": "Cadre administratif et commercial d'entreprise",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Christine_Engrand",
+  "wiki_trimmed": "data/wiki_trimmed/PA794718.txt",
+  "notes_actuelles": "Plusieurs sources indiquent qu'elle a été professeure d'anglais avant sa reconversion dans le commerce (Kiabi, Eurotunnel, intérim) ; niveau d'études non précisé (source: radio6.fr/article-60999, lechodusud.com/qui-est-christine-engrand)."
+ },
+ {
+  "uid": "PA795844",
+  "num": "795844",
+  "nom": "Karen Erodi",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Tarn",
+  "circo": "2",
+  "naissance": "1977-02-04",
+  "profession_declaree": "Profession libérale",
+  "insee": "Professions libérales",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Karen_Erodi",
+  "wiki_trimmed": "data/wiki_trimmed/PA795844.txt",
+  "notes_actuelles": "HATVP: gérante de SARL Economie et Construction (2019-2024) et secrétaire comptable au Comité régional CGT Occitanie (fev-juil 2022) (source: hatvp.fr, déclaration d'intérêts)."
+ },
+ {
+  "uid": "PA841621",
+  "num": "841621",
+  "nom": "Auguste Evrard",
+  "groupe": "Rassemblement National",
+  "dept": "Pas-de-Calais",
+  "circo": "8",
+  "naissance": "2000-05-04",
+  "profession_declaree": "Collaborateur de cabinet en mairie",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "politique_principalement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Auguste_%C3%89vrard",
+  "wiki_trimmed": "data/wiki_trimmed/PA841621.txt",
+  "notes_actuelles": "A interrompu ses études pour devenir collaborateur politique; le niveau de diplôme atteint n'est pas précisé."
+ },
+ {
+  "uid": "PA794658",
+  "num": "794658",
+  "nom": "Philippe Fait",
+  "groupe": "Horizons & Indépendants",
+  "dept": "Pas-de-Calais",
+  "circo": "4",
+  "naissance": "1969-06-24",
+  "profession_declaree": "Professeur des écoles, instituteur et assimilé",
+  "insee": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Philippe_Fait",
+  "wiki_trimmed": "data/wiki_trimmed/PA794658.txt",
+  "notes_actuelles": "La biographie ne détaille pas le parcours professionnel ; l'information sur son métier d'enseignant provient de la profession déclarée."
+ },
+ {
+  "uid": "PA267042",
+  "num": "267042",
+  "nom": "Yannick Favennec-Bécot",
+  "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+  "dept": "Mayenne",
+  "circo": "3",
+  "naissance": "1958-08-12",
+  "profession_declaree": "Directeur de cabinet",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Yannick_Favennec-B%C3%A9cot",
+  "wiki_trimmed": "data/wiki_trimmed/PA267042.txt",
+  "notes_actuelles": "A occupé plusieurs postes de collaborateur politique avant de rejoindre le secteur privé (Bull France), puis d'y revenir en cabinet."
+ },
+ {
+  "uid": "PA840773",
+  "num": "840773",
+  "nom": "Olivier Fayssat",
+  "groupe": "Union des droites pour la République",
+  "dept": "Bouches-du-Rhône",
+  "circo": "6",
+  "naissance": "1968-03-24",
+  "profession_declaree": "Dirigeant d'entreprise",
+  "insee": "Chefs d'entreprise de plus de 10 personnes",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Olivier_Fayssat",
+  "wiki_trimmed": "data/wiki_trimmed/PA840773.txt",
+  "notes_actuelles": ""
+ },
+ {
+  "uid": "PA841251",
+  "num": "841251",
+  "nom": "Mathilde Feld",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Gironde",
+  "circo": "12",
+  "naissance": "1969-04-28",
+  "profession_declaree": "(33) - Cadre de la fonction publique",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Mathilde_Feld",
+  "wiki_trimmed": "data/wiki_trimmed/PA841251.txt",
+  "notes_actuelles": "Fonctionnaire territoriale, sans information sur sa formation."
+ },
+ {
+  "uid": "PA794786",
+  "num": "794786",
+  "nom": "Emmanuel Fernandes",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Bas-Rhin",
+  "circo": "2",
+  "naissance": "1980-08-10",
+  "profession_declaree": "Profession intermédiaire administrative et commerciale des entreprises",
+  "insee": "Professions intermédiaires administratives et commerciales des entreprises",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Emmanuel_Fernandes",
+  "wiki_trimmed": "data/wiki_trimmed/PA794786.txt",
+  "notes_actuelles": "La biographie ne détaille ni les études ni l'emploi ; information de carrière tirée de la profession déclarée."
+ },
+ {
+  "uid": "PA794870",
+  "num": "794870",
+  "nom": "Sylvie Ferrer",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Hautes-Pyrénées",
+  "circo": "1",
+  "naissance": "1967-11-06",
+  "profession_declaree": "(85) - Personne diverse sans activité professionnelle de moins de 60 ans (sauf r",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Sylvie_Ferrer",
+  "wiki_trimmed": "data/wiki_trimmed/PA794870.txt",
+  "notes_actuelles": ""
+ }
+]

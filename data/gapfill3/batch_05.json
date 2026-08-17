@@ -1,0 +1,556 @@
+{
+ "deputies": [
+  {
+   "uid": "PA840757",
+   "nom": "Monique Griseti",
+   "highest_degree_level": "bac+2",
+   "degrees": [
+    {
+     "institution": "inconnu",
+     "diplome": "Études de secrétariat de direction",
+     "domaine": "commerce"
+    }
+   ],
+   "fields": [
+    "commerce"
+   ],
+   "career": [
+    {
+     "poste": "Assistante commerciale",
+     "employeur": "SG Menuiseries",
+     "secteur": "prive",
+     "periode": "janvier 2019-juillet 2024 (congé sans solde depuis le mandat)"
+    },
+    {
+     "poste": "Présidente (SASU, 100% du capital détenu par elle)",
+     "employeur": "Artisanales",
+     "secteur": "liberal_independant",
+     "periode": "janvier 2019-juillet 2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Nouvelle information trouvée : l'article de La Provence (17 juin 2024, cité dans le wikitext brut) précise, vérifié par curl+grep sur la page réelle : « Après des études de secrétariat de direction, Monique Griseti travaille dans l'export, dans le secrétariat » à la Joliette, avant de créer une entreprise familiale de menuiserie. Aucun établissement n'est nommé et le niveau exact n'est pas précisé par la source ; « secrétariat de direction » correspondait historiquement (fin des années 1970, période de sa scolarité) à un BTS, d'où le niveau bac+2 retenu à titre d'estimation raisonnable mais non certaine — confiance plafonnée à « moyenne » en l'absence d'établissement nommé. Carrière inchangée par rapport au lot précédent, reconfirmée directement dans le JSON HATVP local (assistante commerciale chez SG Menuiseries + présidence de la SASU Artisanales, les deux jusqu'à l'élection).",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.laprovence.com/article/politique/5465527882117915/legislatives-qui-est-monique-griseti-rn-candidate-dans-la-1re-circonscription-des-bouches-du-rhone",
+     "pour": "diplome"
+    }
+   ]
+  },
+  {
+   "uid": "PA841451",
+   "nom": "Julien Guibert",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Commercial en machine agricole",
+     "employeur": "Agriculture robotique de Bourgogne",
+     "secteur": "prive",
+     "periode": "octobre 2023-juillet 2024"
+    },
+    {
+     "poste": "Cadre commercial",
+     "employeur": "STIGA",
+     "secteur": "prive",
+     "periode": "novembre 2022-octobre 2023"
+    },
+    {
+     "poste": "Chargé grands comptes agriculture",
+     "employeur": "Berner",
+     "secteur": "prive",
+     "periode": "mars 2018-novembre 2022"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Aucune nouvelle piste sur le diplôme malgré l'ensemble des sources de ce second passage : JSON HATVP local (aucune mention de formation), wikidata (aucun champ education_institutions/degrees rempli), wikitext brut Wikipédia (biographie quasi vide, juste date/lieu de naissance, pas d'infobox détaillée), recherche plein texte Wikipédia (aucun article annexe exploitable), nosdeputes.fr (réponse serveur vide, comme signalé par le chercheur précédent), aucun site personnel trouvé (julien-guibert.fr et variantes ne résolvent pas). La fiche HATVP révèle en revanche deux mandats de représentation bénévole non salariés (conseil d'administration du lycée Jacques Amyot et de l'Agence régionale de la Biodiversité, 01/2018-06/2021), cohérents avec un mandat de conseiller régional détenu en parallèle de sa carrière commerciale privée — non ajoutés à la liste carrière car il s'agit de mandats électifs représentatifs et non d'un emploi. Carrière commerciale privée dans l'agroéquipement inchangée et reconfirmée par HATVP.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Julien_Guibert",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA794734",
+   "nom": "Michel Guiniot",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Artisan-commerçant",
+     "employeur": "Commerce indépendant (Noyon, Oise)",
+     "secteur": "liberal_independant",
+     "periode": "1975-2001 environ (26 ans)"
+    },
+    {
+     "poste": "Secrétaire départemental de l'Oise, puis secrétaire national aux fédérations et aux élus, conseiller spécial de Marine Le Pen pour la réforme territoriale",
+     "employeur": "Front national puis Rassemblement national",
+     "secteur": "politique",
+     "periode": "1988-2022"
+    },
+    {
+     "poste": "Conseiller régional",
+     "employeur": "Conseil régional de Picardie puis Hauts-de-France",
+     "secteur": "politique",
+     "periode": "2004-2022 (mandats successifs)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": "Diplôme resté inconnu : le JSON HATVP local ne mentionne aucune formation, le wikitext brut Wikipédia (474 lignes, biographie très détaillée sur sa carrière politique) ne comporte pas de section éducation ni de champ « université » dans l'infobox. Carrière confirmée et légèrement précisée par HATVP : un poste salarié de « Cadre » chez « FNUF » (01/2017-12/2019) apparaît dans la déclaration ; recherche sur Wikipédia (article « Rassemblement national ») confirme que FNUF est l'acronyme légal d'origine du parti (Front National — Unité Française, 1972, très vite raccourci en usage à « FN »), donc ce poste correspond à un emploi salarié au sein de l'appareil du parti sur cette période, cohérent avec et renforçant le classement « politique_principalement » déjà retenu. Les nombreux mandats de représentation (collèges, EHPAD, SDIS, chambre régionale des comptes, etc., 2016-2021) découlent de son mandat de conseiller régional et ne sont pas ajoutés comme emplois distincts. Carrière commerciale antérieure (1975-2001) inchangée.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Michel_Guiniot",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Rassemblement_national",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA842013",
+   "nom": "Steevy Gustave",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Danseur et chorégraphe",
+     "employeur": "France Gall (artiste)",
+     "secteur": "liberal_independant",
+     "periode": "1993-2003 environ (une dizaine d'années)"
+    },
+    {
+     "poste": "Producteur et programmateur d'événements artistiques",
+     "employeur": "Activité indépendante",
+     "secteur": "liberal_independant",
+     "periode": "2007-2014"
+    },
+    {
+     "poste": "Chargé de mission pour les personnes placées sous main de justice",
+     "employeur": "Cabinet de la ministre de la Justice Christiane Taubira",
+     "secteur": "politique",
+     "periode": "2015"
+    },
+    {
+     "poste": "Fondateur et président",
+     "employeur": "Labelife Events SAS (entreprise événementielle)",
+     "secteur": "liberal_independant",
+     "periode": "depuis juin 2019 (HATVP)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Diplôme toujours introuvable : JSON HATVP local sans mention de formation, wikitext brut Wikipédia (227 lignes) sans section éducation ni infobox détaillée sur ce point, article TV5 Monde et page LCP déjà consultés au premier passage, nouvel essai de l'article TV5 Monde bloqué par curl (paywall/JS, contenu non exploitable). HATVP confirme la date précise de prise de présidence de Labelife Events SAS (juin 2019, au lieu de « depuis 2019 » approximatif) et révèle deux engagements associatifs/militants non salariés (La Marche pour le Climat Essonne depuis 03/2023, Brétigny Transition depuis 05/2021), non ajoutés comme carrière professionnelle car il s'agit de bénévolat militant local. Reste de la carrière inchangé.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Steevy_Gustave",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794470",
+   "nom": "Félicie Gérard",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Conseiller clients industriels",
+     "employeur": "Enedis",
+     "secteur": "prive",
+     "periode": "2007-2017"
+    },
+    {
+     "poste": "Chargée de projet",
+     "employeur": "Enedis",
+     "secteur": "prive",
+     "periode": "janvier 2019-juin 2022 (activité interrompue par son élection)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Diplôme resté inconnu malgré nouvelle vérification : JSON HATVP local sans champ formation, wikitext brut Wikipédia (infobox sans champ université, section « Éducation et famille » ne traitant que de vie associative comme relevé au premier passage). HATVP précise et corrige légèrement les dates du second poste chez Enedis : « Chargée de Projet » du 01/2019 au 06/2022 (et non simplement « 2022 » comme indiqué précédemment), ce qui comble en partie l'écart 2017-2019 même si l'activité exacte sur cette période reste incertaine. Reste de la carrière inchangé.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/F%C3%A9licie_G%C3%A9rard",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA842263",
+   "nom": "Ayda Hadizadeh",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Cheffe du bureau en charge de l'action éducative, culturelle, sportive et du lien avec les associations",
+     "employeur": "Ministère de l'Éducation nationale - Direction générale de l'enseignement scolaire (DGESCO)",
+     "secteur": "public",
+     "periode": "septembre 2016-août 2020"
+    },
+    {
+     "poste": "Directrice du développement scientifique international",
+     "employeur": "Université CY",
+     "secteur": "public",
+     "periode": "septembre 2020-août 2021"
+    },
+    {
+     "poste": "Directrice générale adjointe",
+     "employeur": "Fondation Mozaïk",
+     "secteur": "associatif",
+     "periode": "septembre 2021-août 2022"
+    },
+    {
+     "poste": "Déléguée générale",
+     "employeur": "Les Oubliés de la République (association)",
+     "secteur": "associatif",
+     "periode": "mars 2023-juillet 2024"
+    },
+    {
+     "poste": "Adjointe au maire chargée de la Culture",
+     "employeur": "Mairie de Saint-Ouen-l'Aumône",
+     "secteur": "politique",
+     "periode": "mai 2020-septembre 2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "Diplôme inconnu, mais inférence de profession réglementée retenue : son poste de « cheffe de bureau » à la DGESCO du ministère de l'Éducation nationale correspond à une fonction de catégorie A de la fonction publique d'État, ce qui justifie un niveau bac+3_4 par analogie avec la règle « attaché territorial / catégorie A », d'où confiance plafonnée à « moyenne » (aucun établissement ni diplôme nommé dans les sources). Un blog personnel de 2015 (commedesreines.wordpress.com, vérifié par curl+grep) décrit son parcours scolaire jusqu'au lycée (classe musicale à Cergy, section européenne, BAFA à 17 ans) mais s'arrête avant l'enseignement supérieur et ne mentionne aucun diplôme précis ; l'article du Point (2025) est bloqué par un paywall (contenu quasi vide au fetch) ; l'article mesinfos.fr est également verrouillé côté contenu (uniquement du texte de navigation récupéré). HATVP local apporte en revanche une précision cruciale sur la carrière : dates exactes du poste DGESCO (09/2016-08/2020, et non « plusieurs années non précisées »), ajout d'un poste inédit de directrice du développement scientifique international à l'Université CY (09/2020-08/2021, secteur public, comblant l'écart avant la Fondation Mozaïk), et titre exact « directrice générale adjointe » (et non « directrice générale ») à la Fondation Mozaïk (09/2021-08/2022). L'adjointe au maire est ajoutée à la carrière avec dates précises (mai 2020-septembre 2024) tirées de l'infobox Wikipédia brute, jusqu'ici absente de la liste carrière. Les activités associatives (Fondation Mozaïk, Les Oubliés de la République) restent comptées comme « worked_private » faute de catégorie dédiée dans le schéma, comme au premier passage.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Ayda_Hadizadeh",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://commedesreines.wordpress.com/2015/11/09/du-sucre-dans-les-yaourts-recit-d-une-rencontre-avec-ayda-hadizadeh/",
+     "pour": "diplome"
+    }
+   ]
+  },
+  {
+   "uid": "PA841813",
+   "nom": "Florence Herouin-Léautey",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Attachée territoriale chargée de projets (mise à disposition de l'Agence Régionale de l'Orientation et des Métiers depuis février 2020)",
+     "employeur": "Région Normandie",
+     "secteur": "public",
+     "periode": "janvier 2015-septembre 2021 (en disponibilité pour mandat électif depuis septembre 2021)"
+    },
+    {
+     "poste": "Conseillère municipale",
+     "employeur": "Mairie de Rouen",
+     "secteur": "politique",
+     "periode": "avant 2020-2024"
+    },
+    {
+     "poste": "Adjointe au maire chargée des Écoles et de la petite enfance",
+     "employeur": "Mairie de Rouen",
+     "secteur": "politique",
+     "periode": "2020-2024"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Diplôme inconnu, mais inférence de profession réglementée retenue cette fois : le grade d'attaché territorial (catégorie A de la fonction publique territoriale) implique en règle générale un niveau licence, d'où bac+3_4 retenu conformément à la grille d'inférence de ce lot, confiance plafonnée à « moyenne ». Le chercheur précédent avait choisi de ne pas faire cette inférence en raison de l'existence d'une voie de concours interne sans prérequis de licence ; ce doute subsiste (aucune source ne précise la voie de recrutement ni un établissement), d'où le maintien à « moyenne » plutôt qu'à « haute ». HATVP local précise la date de début exacte de son poste d'attachée territoriale (janvier 2015, au lieu de « avant 2020 » vague) et la mise à disposition auprès de l'Agence Régionale de l'Orientation et des Métiers depuis février 2020, avec disponibilité pour mandat électif à partir de septembre 2021 — carrière mise à jour avec ces dates précises. Wikitext brut Wikipédia et fiche AN ne contiennent aucune information supplémentaire sur les études.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Florence_H%C3%A9rouin-L%C3%A9autey",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794022",
+   "nom": "Jérémie Iordanoff",
+   "highest_degree_level": "bac_ou_moins",
+   "degrees": [
+    {
+     "institution": "Lycée (arts appliqués, non nommé)",
+     "diplome": "Formation en arts appliqués (niveau lycée)",
+     "domaine": "arts"
+    }
+   ],
+   "fields": [
+    "arts"
+   ],
+   "career": [
+    {
+     "poste": "Attaché parlementaire",
+     "employeur": "Jean-Louis Roumégas, député de l'Hérault",
+     "secteur": "politique",
+     "periode": "2012-2017"
+    },
+    {
+     "poste": "Secrétaire national adjoint",
+     "employeur": "Europe Écologie Les Verts (EELV)",
+     "secteur": "politique",
+     "periode": "décembre 2019-juillet 2022"
+    },
+    {
+     "poste": "Artiste-peintre indépendant",
+     "employeur": "Activité indépendante",
+     "secteur": "liberal_independant",
+     "periode": "2018-2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "Nouvelle information vérifiée par curl+grep sur l'interview petit-bulletin.fr (source déjà citée dans le wikitext brut de son article, non consultée par le chercheur précédent) : « Issu d'un lycée Arts appliqués, Jérémie Iordanoff déroule un parcours en pointillés [...] \"échec cuisant\" en filière mathématiques [...] le peintre bosse dans l'informatique grâce à une formation réussie. » Cela indique une scolarité en lycée technique/professionnel d'arts appliqués (niveau bac), un passage raté en filière mathématiques à l'université (études non menées à terme), puis une « formation » réussie en informatique dont le niveau exact (stage court, titre professionnel, ou diplôme type BTS/DUT) n'est pas précisé par la source. En l'absence de confirmation d'un diplôme post-bac obtenu, le niveau retenu est « bac_ou_moins » par prudence (aucun diplôme d'enseignement supérieur explicitement validé), avec confiance « moyenne » compte tenu de l'ambiguïté sur la formation informatique. Carrière inchangée, HATVP confirmant les revenus d'artiste-peintre (10/2018-06/2024) et le poste de dirigeant à EELV (12/2019-07/2022, dates précises).",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "http://www.petit-bulletin.fr/article-72336-Jeremie+Iordanoff++depute+++++Les+gens+me+disaient+artiste-peintre++mais+vous+ne+serez+jamais+elu+!+++.html",
+     "pour": "diplome"
+    }
+   ]
+  },
+  {
+   "uid": "PA841439",
+   "nom": "Pascal Jenft",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Gendarme motocycliste",
+     "employeur": "Gendarmerie nationale",
+     "secteur": "public",
+     "periode": "environ 1985-2005"
+    },
+    {
+     "poste": "Gérant non salarié puis dirigeant",
+     "employeur": "FERMAP / FERMAP-GEST (menuiserie PVC et aluminium)",
+     "secteur": "prive",
+     "periode": "2005-2024 (gérant non salarié 01/2018-02/2021, puis direction 03/2021-03/2024, assistant chez FERMAP jusqu'en 07/2024)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "Diplôme toujours introuvable : JSON HATVP local sans champ formation, wikitext brut Wikipédia très court sans infobox détaillée. Le métier de gendarme n'est pas retenu pour une inférence de diplôme (le recrutement de sous-officier de gendarmerie ne correspond pas clairement à une des catégories listées dans la grille d'inférence) et « chef d'entreprise » est explicitement exclu par les règles. HATVP précise la structure de son entreprise de menuiserie : gérant non salarié de FERMAP-GEST (01/2018-02/2021), puis passage en direction salariée de la même structure (03/2021-03/2024) et poste d'assistant chez FERMAP (09/2020-07/2024, démission en juillet 2024) — cela affine sans changer le récit global (fondateur-gérant de l'entreprise de menuiserie depuis 2005, carrière antérieure de gendarme motocycliste).",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Pascal_Jenft",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794030",
+   "nom": "Alexis Jolly",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Attaché parlementaire",
+     "employeur": "Steeve Briois, député",
+     "secteur": "politique",
+     "periode": "novembre 2017-mai 2019"
+    },
+    {
+     "poste": "Attaché parlementaire",
+     "employeur": "Aurélia Beigneux, députée européenne",
+     "secteur": "politique",
+     "periode": "septembre 2019-décembre 2019"
+    },
+    {
+     "poste": "Diffuseur de presse/magazines",
+     "employeur": "Les éditions du Serac",
+     "secteur": "liberal_independant",
+     "periode": "janvier 2017-juillet 2021"
+    },
+    {
+     "poste": "Examinateur vacataire (jurys d'examens)",
+     "employeur": "INSEEC",
+     "secteur": "prive",
+     "periode": "août 2021-juin 2022"
+    },
+    {
+     "poste": "Consultant en communication (micro-entreprise AJ Conseil)",
+     "employeur": "Activité indépendante",
+     "secteur": "liberal_independant",
+     "periode": "avril 2021-octobre 2021"
+    },
+    {
+     "poste": "Propriétaire de librairie",
+     "employeur": "SARL Piste Verte",
+     "secteur": "liberal_independant",
+     "periode": "novembre 2021-janvier 2025 (activité conservée)"
+    },
+    {
+     "poste": "Responsable local (non rémunéré)",
+     "employeur": "Rassemblement national",
+     "secteur": "politique",
+     "periode": "2019-2023"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Aucune nouvelle piste sur le diplôme : JSON HATVP local (très détaillé sur la carrière mais sans aucun champ formation), wikitext brut Wikipédia sans infobox détaillée, sans section éducation. La déclaration HATVP relue directement confirme exactement les mêmes postes et dates que celles déjà connues (attaché parlementaire RN à deux reprises, diffuseur de presse, vacations INSEEC, micro-entreprise de conseil, puis librairie Piste Verte) : aucune divergence, carrière laissée inchangée.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Alexis_Jolly",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841749",
+   "nom": "Tiffany Joncour",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Assistante administrative",
+     "employeur": "IHL",
+     "secteur": "prive",
+     "periode": "juin 2018-septembre 2018"
+    },
+    {
+     "poste": "Commerciale",
+     "employeur": "S France",
+     "secteur": "prive",
+     "periode": "septembre 2020-juillet 2023"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Amélioration nette par rapport au premier passage (confiance « basse », employeur totalement inconnu) : le JSON HATVP local, non consulté lors du premier passage, révèle deux employeurs nommés et datés — assistante administrative chez IHL (06/2018-09/2018) et commerciale chez S France (09/2020-07/2023) — ce qui correspond bien à sa profession déclarée officielle (« cadre/profession intermédiaire administrative et commerciale d'entreprise ») et confirme un profil entièrement privé. La confiance est donc relevée à « haute » pour la carrière. Diplôme resté inconnu : le wikitext brut Wikipédia (infobox « université » vide, article axé sur ses accointances identitaires et sa vie politique) et l'article Mediapart cité en référence (payant, non accessible) ne fournissent aucune information sur ses études ; l'article confirme seulement qu'elle était « commerciale sans emploi » au moment de son élection, à la suite d'une carrière professionnelle qualifiée de « floue » par la presse — description désormais partiellement infirmée par les deux emplois retrouvés dans HATVP.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Tiffany_Joncour",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA720038",
+   "nom": "Sandrine Josso",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Coach/consultante en nutrition (cabinet indépendant)",
+     "employeur": "Activité indépendante (cabinets à Vannes, Bruz, Guérande, Pontchâteau)",
+     "secteur": "liberal_independant",
+     "periode": "2007-2015 (procédure de liquidation judiciaire close en 2018)"
+    },
+    {
+     "poste": "Intervenante occasionnelle",
+     "employeur": "IPDD (institut de formation de diététiciens)",
+     "secteur": "prive",
+     "periode": "inconnue"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Diplôme laissé volontairement à « inconnu » malgré l'infobox du wikitext brut Wikipédia qui indique « profession = Diététicienne » : cette mention n'est pas retenue comme preuve d'un diplôme, car l'enquête de presse déjà citée par le chercheur précédent (breizh-info.com, 2019) affirme n'avoir trouvé aucune trace des diplômes qu'elle revendiquait (notamment un titre d'« ingénieur en nutrition »). Appliquer la règle d'inférence des professions réglementées (diététicien → bac+2) serait donc malhonnête ici puisqu'il existe une source contradictoire spécifique mettant en doute ce titre ; conformément à la consigne de ne jamais inventer un diplôme, le niveau reste « inconnu ». Le JSON HATVP local ne comporte aucune activité déclarée (liste « activites » vide), ce qui est cohérent avec l'absence de salariat classique documentée par ailleurs. Recherche complémentaire infructueuse sur le blog personnel WordPress et l'article du Point (tous deux bloqués ou sans contenu exploitable, non liés à Josso). Carrière inchangée par rapport au premier passage.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Sandrine_Josso",
+     "pour": "diplome"
+    }
+   ]
+  }
+ ]
+}

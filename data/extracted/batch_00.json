@@ -1,0 +1,297 @@
+{
+  "batch": 0,
+  "deputies": [
+    {
+      "uid": "PA1008",
+      "nom": "Alain David",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Ingénieur", "employeur": "SAFER Aquitaine Atlantique", "secteur": "prive", "periode": "1970-1998"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "La biographie ne mentionne aucune formation ; seule sa carrière d'ingénieur est documentée."
+    },
+    {
+      "uid": "PA1567",
+      "nom": "Jérôme Guedj",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme de l'IEP", "domaine": "sciences politiques"},
+        {"institution": "École nationale d'administration", "diplome": "Diplôme ENA (promotion Victor Schœlcher)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Assistant parlementaire de Jean-Luc Mélenchon", "employeur": "Jean-Luc Mélenchon", "secteur": "politique", "periode": "1993-1997"},
+        {"poste": "Membre de l'Inspection générale des affaires sociales", "employeur": "IGAS", "secteur": "public", "periode": "à partir de 1996"},
+        {"poste": "Codirecteur d'un executive master sur le handicap", "employeur": "Institut d'études politiques de Paris", "secteur": "public", "periode": "années 2000"},
+        {"poste": "Gérant", "employeur": "J G Conseils (société de conseil)", "secteur": "liberal_independant", "periode": "à partir de 2006"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": "Haut fonctionnaire (IGAS) devenu ensuite chef d'entreprise de conseil, en parallèle de son engagement politique."
+    },
+    {
+      "uid": "PA1592",
+      "nom": "David Habib",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Bordeaux", "diplome": "Diplôme de l'IEP", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": null,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Aucune information sur une carrière professionnelle avant ses mandats locaux."
+    },
+    {
+      "uid": "PA1630",
+      "nom": "Michel Herbillon",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme de l'IEP (section Service Public)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Membre du cabinet municipal du maire René Nectoux", "employeur": "Mairie de Maisons-Alfort", "secteur": "public", "periode": "non précisé"},
+        {"poste": "Cadre dans divers secteurs économiques", "employeur": "non précisé", "secteur": "prive", "periode": "23 ans, avant 1992"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "La biographie reste vague sur les employeurs précis durant ses 23 ans dans le secteur privé."
+    },
+    {
+      "uid": "PA1654",
+      "nom": "François Hollande",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme de l'IEP (section Service Public)", "domaine": "sciences politiques"},
+        {"institution": "Université Panthéon-Assas", "diplome": "Licence en droit", "domaine": "droit"},
+        {"institution": "HEC Paris", "diplome": "Diplôme HEC", "domaine": "gestion-commerce"},
+        {"institution": "École nationale d'administration", "diplome": "Diplôme ENA (promotion Voltaire)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques", "droit", "gestion-commerce"],
+      "career": [
+        {"poste": "Conseiller référendaire", "employeur": "Cour des comptes", "secteur": "public", "periode": "1980-1988"},
+        {"poste": "Chargé de cours d'économie", "employeur": "Institut d'études politiques de Paris", "secteur": "public", "periode": "jusqu'en 1991"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA227089",
+      "nom": "Valérie Létard",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "non précisé", "diplome": "Diplôme d'État d'assistante sociale", "domaine": "autre"},
+        {"institution": "non précisé", "diplome": "DESS de développement local et économie solidaire", "domaine": "economie"}
+      ],
+      "fields": ["economie", "autre"],
+      "career": [
+        {"poste": "Travailleuse sociale (mise en œuvre de dispositifs d'action sociale)", "employeur": "Mairie de Saint-Amand-les-Eaux", "secteur": "public", "periode": "début de carrière"},
+        {"poste": "Directrice du contrat de ville", "employeur": "Ville de Valenciennes", "secteur": "public", "periode": "non précisé"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": ""
+    },
+    {
+      "uid": "PA266793",
+      "nom": "Jean-Yves Bony",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Exploitant agricole", "employeur": "exploitation agricole (non précisé)", "secteur": "liberal_independant", "periode": "avant ses mandats"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Carrière fondée uniquement sur la profession déclarée (exploitant agricole) ; la biographie ne détaille pas son parcours professionnel."
+    },
+    {
+      "uid": "PA266797",
+      "nom": "Philippe Gosselin",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme de l'IEP (section Service Public)", "domaine": "sciences politiques"},
+        {"institution": "non précisé", "diplome": "DEA de droit public", "domaine": "droit"},
+        {"institution": "non précisé", "diplome": "DEA de finances publiques et fiscalité", "domaine": "droit"},
+        {"institution": "non précisé", "diplome": "DEA de sciences administratives", "domaine": "sciences politiques"}
+      ],
+      "fields": ["droit", "sciences politiques"],
+      "career": [
+        {"poste": "Assistant en droit", "employeur": "Universités de Cergy-Pontoise et Paris II-Assas", "secteur": "public", "periode": "1992-1995"},
+        {"poste": "Chargé de cours de droit public en classe préparatoire", "employeur": "Ipesup", "secteur": "prive", "periode": "1995-2011"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA266808",
+      "nom": "Vincent Rolland",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université de Lyon", "diplome": "Maîtrise de sciences économiques", "domaine": "economie"}
+      ],
+      "fields": ["economie"],
+      "career": [
+        {"poste": "Moniteur de ski national", "employeur": "indépendant", "secteur": "liberal_independant", "periode": "non précisé"},
+        {"poste": "Collaborateur d'Hervé Gaymard", "employeur": "Hervé Gaymard", "secteur": "politique", "periode": "après ses études, avant ses mandats"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Exerce comme moniteur de ski indépendant en parallèle d'une collaboration avec Hervé Gaymard."
+    },
+    {
+      "uid": "PA267042",
+      "nom": "Yannick Favennec-Bécot",
+      "highest_degree_level": "inconnu",
+      "degrees": [
+        {"institution": "non précisé", "diplome": "Études de droit (niveau non précisé)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Assistant parlementaire", "employeur": "François Léotard", "secteur": "politique", "periode": "avant 1986"},
+        {"poste": "Membre du cabinet ministériel (Défense puis Culture et Communication)", "employeur": "Cabinet de François Léotard", "secteur": "politique", "periode": "1986-1991"},
+        {"poste": "Directeur des relations extérieures", "employeur": "Bull France", "secteur": "prive", "periode": "à partir de 1991"},
+        {"poste": "Chef de cabinet du secrétaire d'État au commerce extérieur", "employeur": "Secrétariat d'État au commerce extérieur", "secteur": "politique", "periode": "1995"},
+        {"poste": "Directeur de cabinet du maire de Laval", "employeur": "Mairie de Laval (François d'Aubert)", "secteur": "politique", "periode": "1997"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "A occupé plusieurs postes de collaborateur politique avant de rejoindre le secteur privé (Bull France), puis d'y revenir en cabinet."
+    },
+    {
+      "uid": "PA267200",
+      "nom": "Sébastien Huyghe",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Faculté de droit de Villeneuve-d'Ascq", "diplome": "Études de droit (droit de l'urbanisme et droit des affaires)", "domaine": "droit"},
+        {"institution": "IAE Lille", "diplome": "DESS de gestion", "domaine": "gestion-commerce"},
+        {"institution": "Centre de formation professionnelle notariale de Lille", "diplome": "Diplôme de notaire", "domaine": "droit"}
+      ],
+      "fields": ["droit", "gestion-commerce"],
+      "career": [
+        {"poste": "Notaire", "employeur": "non précisé (exercice libéral)", "secteur": "liberal_independant", "periode": "avant 2002"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "La biographie ne précise pas explicitement son activité de notaire avant 2002, mais la profession déclarée l'indique."
+    },
+    {
+      "uid": "PA267285",
+      "nom": "Laurent Wauquiez",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École normale supérieure", "diplome": "Agrégation d'histoire, maîtrise d'histoire", "domaine": "lettres-sciences humaines"},
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme de l'IEP (section Service Public)", "domaine": "sciences politiques"},
+        {"institution": "non précisé", "diplome": "DEA de droit public", "domaine": "droit"},
+        {"institution": "École nationale d'administration", "diplome": "Diplôme ENA (major, promotion Mandela)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques", "droit", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Stagiaire / collaborateur", "employeur": "Ambassade de France au Caire", "secteur": "public", "periode": "début des années 2000"},
+        {"poste": "Auditeur puis maître des requêtes", "employeur": "Conseil d'État", "secteur": "public", "periode": "2001-2004"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Selon Wikidata il a aussi été lié à l'EM Lyon Business School, mais la biographie ne confirme pas la période, possiblement postérieure à son entrée en politique."
+    },
+    {
+      "uid": "PA267318",
+      "nom": "Jean-Carles Grelier",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "non précisé", "domaine": "sciences politiques"},
+        {"institution": "Université du Mans", "diplome": "non précisé", "domaine": "droit"},
+        {"institution": "Université Paris-I-Panthéon-Sorbonne", "diplome": "non précisé (droit, cohérent avec la profession d'avocat)", "domaine": "droit"}
+      ],
+      "fields": ["droit", "sciences politiques"],
+      "career": [
+        {"poste": "Collaborateur au conseil général de la Sarthe", "employeur": "Conseil général de la Sarthe", "secteur": "politique", "periode": "avant ses mandats"},
+        {"poste": "Collaborateur ministériel auprès de François Fillon", "employeur": "Ministère de l'Enseignement supérieur et de la Recherche", "secteur": "politique", "periode": "années 1990"},
+        {"poste": "Avocat", "employeur": "non précisé (exercice libéral)", "secteur": "liberal_independant", "periode": "non précisé"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Avocat de profession, a aussi travaillé comme collaborateur politique (conseil général, cabinet de François Fillon) avant ses mandats ; le niveau d'études est déduit des établissements fréquentés et de la profession."
+    },
+    {
+      "uid": "PA267763",
+      "nom": "Jean-Pierre Bataille",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Pharmacien", "employeur": "non précisé", "secteur": "liberal_independant", "periode": "avant 2024"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Le parcours professionnel repose uniquement sur la profession déclarée à l'Assemblée (pharmacien) ; la biographie ne mentionne que celle de son père, également pharmacien."
+    },
+    {
+      "uid": "PA267780",
+      "nom": "Agnès Firmin Le Bodo",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Université de Rouen-Normandie", "diplome": "Diplôme d'État de docteur en pharmacie", "domaine": "medecine-sante"}
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {"poste": "Pharmacienne d'officine", "employeur": "non précisé (officine)", "secteur": "liberal_independant", "periode": "1994-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,538 @@
+{
+ "deputies": [
+  {
+   "uid": "PA642725",
+   "nom": "Eric Liégeon",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [
+    "agriculture"
+   ],
+   "career": [
+    {
+     "poste": "Agriculteur, associé de GAEC (reprise de l'exploitation familiale à 19 ans)",
+     "employeur": "GAEC familial, Courvières (Doubs)",
+     "secteur": "liberal_independant",
+     "periode": "1980-présent (HATVP: 10/2019-10/2024)"
+    },
+    {
+     "poste": "Secrétaire général",
+     "employeur": "FDSEA du Doubs (syndicat agricole)",
+     "secteur": "associatif",
+     "periode": "2008-2014"
+    },
+    {
+     "poste": "Maire de Courvières",
+     "employeur": "Commune de Courvières",
+     "secteur": "politique",
+     "periode": "30 mars 2014-14 décembre 2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Dossier déjà solide en première passe (L'Est républicain, Les Echos). L'index HATVP local confirme l'activité d'agriculteur (« AGRICULTEUR », associé de GAEC, 10/2019-10/2024) et révèle des mandats de dirigeant non salariés jusque-là inconnus : SAFER Bourgogne-Franche-Comté, syndicat mixte du pays du Haut Doubs Pontarlier, comité de pilotage du contrat de territoire, syndicat mixte de l'abattoir du Haut Doubs (2019-2024, liés à sa fonction de maire). Ces mandats accessoires n'ont pas été ajoutés comme entrées de carrière séparées (rôles de représentation attachés à son mandat de maire, pas un emploi). Aucun diplôme mentionné dans l'infobox Wikipédia (wikitext brut relu en entier) ni ailleurs. Diplôme laissé inconnu.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Li%C3%A9geon",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.lesechos.fr/pme-regions/bourgogne-franche-comte/eric-liegeon-nouveau-depute-de-la-5e-circonscription-du-doubs-2126952",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA721932",
+   "nom": "Marie-France Lorho",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Déléguée médicale",
+     "employeur": "TEVA",
+     "secteur": "prive",
+     "periode": "01/2017-09/2017"
+    },
+    {
+     "poste": "Déléguée médicale",
+     "employeur": "THERAMEX",
+     "secteur": "prive",
+     "periode": "01/2018-10/2022"
+    },
+    {
+     "poste": "Déléguée médicale (employeur(s) antérieur(s) non identifié(s))",
+     "employeur": "inconnu",
+     "secteur": "prive",
+     "periode": "avant 2017, jusqu'à plus de 30 ans d'ancienneté cumulée dans la profession selon son site de campagne"
+    },
+    {
+     "poste": "Conseillère municipale déléguée à l'urbanisme puis première adjointe au maire d'Orange",
+     "employeur": "Commune d'Orange (maire : Jacques Bompard)",
+     "secteur": "politique",
+     "periode": "avant 2017"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "L'index HATVP local (nouvelle source par rapport à la première passe) nomme pour la première fois ses employeurs de déléguée médicale : TEVA (01/2017-09/2017) puis THERAMEX (01/2018-10/2022), deux laboratoires pharmaceutiques, ce qui confirme et précise la carrière déjà établie via son site de campagne (mariefrancelorho.fr, « plus de 30 ans » dans le secteur). L'infobox Wikipédia (wikitext brut) ne mentionne aucun diplôme ; l'essentiel de l'article récent porte sur sa condamnation pour détournement de fonds publics (janvier 2026), sans information biographique antérieure supplémentaire. Diplôme laissé inconnu.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.mariefrancelorho.fr",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Marie-France_Lorho",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA879389",
+   "nom": "Marie-Philippe Lubet",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Fonctionnaire (poste précis non identifié)",
+     "employeur": "Ministère de l'Intérieur",
+     "secteur": "public",
+     "periode": "inconnu, avant sa retraite"
+    },
+    {
+     "poste": "Maire de Saint-Denis-en-Val",
+     "employeur": "Commune de Saint-Denis-en-Val",
+     "secteur": "politique",
+     "periode": "26 mai 2020-26 février 2026"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Aucune entrée dans l'index HATVP local (elle n'est devenue députée que le 27 février 2026, à la suite d'une partielle ; sa déclaration n'est probablement pas encore intégrée au jeu de données local). Le wikitext brut de l'infobox confirme uniquement « Fonctionnaire du ministère de l'Intérieur », sans poste ni dates précises, comme en première passe. Aucun diplôme trouvé. Diplôme laissé inconnu ; confiance maintenue à moyenne faute de détail sur la fonction exacte.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Marie-Philippe_Lubet",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA879389",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841587",
+   "nom": "David Magnier",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Militaire (gendarmerie mobile, gradé maréchal des logis)",
+     "employeur": "Gendarmerie nationale",
+     "secteur": "public",
+     "periode": "avant les années 1990"
+    },
+    {
+     "poste": "Second de cuisine",
+     "employeur": "Restaurant La Toque Blanche (Beauvais) puis Auberge Le Gicourt (Agnetz)",
+     "secteur": "prive",
+     "periode": "années 1990"
+    },
+    {
+     "poste": "Responsable de restauration scolaire (lycée Donation Rothschild puis lycée Jeanne Hachette, chef en 2006)",
+     "employeur": "Conseil régional des Hauts-de-France",
+     "secteur": "public",
+     "periode": "poste occupé dès 2002 selon site de campagne ; confirmé par HATVP 01/2018-07/2024 (mise en disponibilité le 8 juillet 2024)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "Confiance relevée de moyenne à haute : l'index HATVP local nomme désormais explicitement l'employeur de son poste de « Responsable de restauration », le Conseil régional des Hauts-de-France (01/2018-07/2024, mise en disponibilité au 8 juillet 2024), ce qui confirme indépendamment la trajectoire déjà reconstituée à partir de sa biographie de campagne (davidmagnier.fr/bio) : restauration collective en lycée public depuis la régionalisation de la gestion des lycées. Aucun diplôme mentionné dans le wikitext brut de l'infobox Wikipédia (profession = « Contremaître, agent de maîtrise », sans indication de formation). Diplôme laissé inconnu.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.davidmagnier.fr/bio",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/David_Magnier",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841563",
+   "nom": "Claire Marais-Beuil",
+   "highest_degree_level": "doctorat",
+   "degrees": [],
+   "fields": [
+    "medecine-sante"
+   ],
+   "career": [
+    {
+     "poste": "Médecin (spécialité et lieu d'exercice non identifiés, profession libérale)",
+     "employeur": "inconnu",
+     "secteur": "liberal_independant",
+     "periode": "avant 2019, activité apparemment cessée avant sa déclaration HATVP de 2024 (« (0) Néant » pour les activités rémunérées)"
+    },
+    {
+     "poste": "Élue locale (conseillère régionale puis conseillère départementale de l'Oise, RN/FN)",
+     "employeur": "Conseil régional des Hauts-de-France / Conseil départemental de l'Oise",
+     "secteur": "politique",
+     "periode": "2018-2024 (mandats HATVP, dates exactes non détaillées)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Trouvaille de cette deuxième passe : la fiche Wikidata de Claire Marais-Beuil (Q63106704, non consultée en première passe) liste parmi ses occupations « médecin » (Q39631), avec pour référence le Répertoire national des élus (RNE) du 9 avril 2019, un jeu de données officiel du ministère de l'Intérieur sur les élus locaux, où elle apparaît probablement au titre de son mandat de conseillère régionale antérieur à 2019. C'est une source administrative indirecte (déclaration au moment du dépôt de candidature), non recoupée par un article de presse : l'article Oise Hebdo sur son élection de 2024 (vérifié par curl) ne mentionne aucune profession, et sa fiche Wikipédia est une ébauche très succincte. Profession libérale « médecin » cohérente avec la profession déclarée à l'AN (« Profession libérale ») et avec le « Néant » HATVP en 2024 (activité déjà cessée). Par prudence, diplôme fixé à doctorat (profession médicale réglementée) avec confiance plafonnée à moyenne, conformément à la règle sur les professions réglementées ; institution de formation non identifiée, `degrees` laissé vide. Recherches complémentaires infructueuses : nosdeputes.fr/17/depute/claire-marais-beuil/json ne retourne aucune donnée.",
+   "sources": [
+    {
+     "url": "https://www.wikidata.org/wiki/Q63106704",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Claire_Marais-Beuil",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794530",
+   "nom": "Matthieu Marchio",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Serveur",
+     "employeur": "EURL HPB Quai N°5",
+     "secteur": "prive",
+     "periode": "07/2016-09/2016"
+    },
+    {
+     "poste": "Collaborateur du groupe Front National",
+     "employeur": "Conseil régional du Nord-Pas-de-Calais",
+     "secteur": "politique",
+     "periode": "10/2016-01/2018"
+    },
+    {
+     "poste": "Assistant commercial, consultant immobilier",
+     "employeur": "Nexity Conseil et Transaction",
+     "secteur": "prive",
+     "periode": "03/2019-07/2020"
+    },
+    {
+     "poste": "Gestionnaire de copropriété",
+     "employeur": "Foncia Mansart",
+     "secteur": "prive",
+     "periode": "02/2022-05/2022"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Confiance relevée de moyenne à haute : l'index HATVP local remplace le « conseiller en immobilier, employeur non précisé » de la première passe (source : contexte.com) par quatre postes datés et nommés : serveur (EURL HPB Quai N°5, 2016), collaborateur du groupe FN au conseil régional Nord-Pas-de-Calais (2016-2018, déjà confirmé par Wikipédia/Le Monde), puis deux postes réels dans l'immobilier privé, assistant commercial chez Nexity Conseil et Transaction (2019-2020) et gestionnaire de copropriété chez Foncia Mansart (2022), qui correspondent à la profession déclarée « Cadre administratif et commercial d'entreprise ». Aucune information sur ses études (wikitext brut Wikipédia entièrement relu : infobox sans champ université, texte biographique centré sur ses affaires judiciaires prud'homales). Diplôme laissé inconnu.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Matthieu_Marchio",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA840837",
+   "nom": "Pascal Markowsky",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Militaire",
+     "employeur": "non précisé",
+     "secteur": "public",
+     "periode": "avant les années 1980"
+    },
+    {
+     "poste": "Restaurateur",
+     "employeur": "non précisé",
+     "secteur": "liberal_independant",
+     "periode": "inconnu"
+    },
+    {
+     "poste": "Chef d'entreprise (imprimerie)",
+     "employeur": "SARL MPC - Média Publicité Conseil, Saint-Pierre-d'Oléron (île d'Oléron), cogérée avec son épouse Séverine Werbrouck",
+     "secteur": "liberal_independant",
+     "periode": "~1995-2025 (dirigeant confirmé par HATVP 01/2019-05/2025 ; liquidation judiciaire en 2025 après soupçons de surfacturation révélés par Les Jours)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "L'index HATVP local confirme (sans ajouter de nouveauté substantielle) la fonction de dirigeant de la SARL MPC (01/2019-05/2025), déjà établie par Sud Ouest en première passe. Le wikitext brut Wikipédia (entièrement relu) confirme la séquence militaire/restaurateur/chef d'entreprise mais sans dates précises pour les deux premières périodes, d'où le maintien de la confiance à moyenne. Aucune information sur ses études. Diplôme laissé inconnu (chef d'entreprise et restaurateur n'impliquent pas de diplôme particulier).",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.sudouest.fr/charente-maritime/ile-d-oleron/saint-georges-d-oleron/un-couple-de-deputes-rn-de-charente-maritime-accuse-de-surfacturer-des-commandes-d-imprimerie-24080345.php",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Pascal_Markowsky",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841825",
+   "nom": "Patrice Martin",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [
+    "agriculture"
+   ],
+   "career": [
+    {
+     "poste": "Agriculteur, petit exploitant en agriculture laitière",
+     "employeur": "Exploitation agricole personnelle, pays de Bray",
+     "secteur": "liberal_independant",
+     "periode": "confirmé par HATVP 08/2018-07/2024, en cours au moment de son élection (2024)"
+    },
+    {
+     "poste": "Dirigeant d'une organisation professionnelle de la filière laitière",
+     "employeur": "OPLASE (siège à la Maison du Lait, Paris ; SIREN 813241510, code NAF 94.12Z « activités des organisations professionnelles »)",
+     "secteur": "associatif",
+     "periode": "01/2018-07/2024 (HATVP)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "L'index HATVP local confirme l'activité d'exploitant agricole (08/2018-07/2024) et révèle un mandat de dirigeant chez « OPLASE », une entité identifiée via l'API officielle recherche-entreprises.api.gouv.fr comme domiciliée à la Maison du Lait (siège des fédérations laitières françaises) et classée « activités des organisations professionnelles » : cohérent avec son statut d'« agriculteur laitier » revendiqué à France 3 Régions. Aucune information sur ses études trouvée (wikitext brut Wikipédia entièrement relu, essentiellement consacré à ses controverses). Diplôme laissé inconnu.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://recherche-entreprises.api.gouv.fr/search?q=OPLASE",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Patrice_Martin_(homme_politique)",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA793944",
+   "nom": "Alexandra Martin (Gironde)",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Responsable de centre de formation aux métiers de l'industrie",
+     "employeur": "Pôle Formation UIMM Nouvelle-Aquitaine (AFPI/CFAI, Bruges)",
+     "secteur": "prive",
+     "periode": "avant son entrée en fonction (2023)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Aucune amélioration par rapport à la première passe : elle n'a pas d'entrée dans l'index HATVP local (null), et le wikitext brut de l'infobox Wikipédia (entièrement relu) laisse les champs « université » et « profession » vides. Le texte biographique confirme uniquement le poste déjà connu de responsable de centre de formation à Bruges, sourcé à la profession de foi officielle des législatives 2022 (programme-candidats.interieur.gouv.fr). Diplôme laissé inconnu ; carrière inchangée mais reconfirmée par une source supplémentaire (le wikitext lui-même cite la profession de foi officielle).",
+   "sources": [
+    {
+     "url": "https://programme-candidats.interieur.gouv.fr/elections-legislatives-2022/data-pdf-propagandes/1-33-01-5-falc.pdf",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Alexandra_Martin_(1976)",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA795100",
+   "nom": "Éric Martineau",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [
+    "agriculture"
+   ],
+   "career": [
+    {
+     "poste": "Agriculteur, arboriculteur (pommes, agriculture biologique)",
+     "employeur": "Ferme des Quantières (Chenu, Sarthe) / auto-entrepreneur « Martineau Eric »",
+     "secteur": "liberal_independant",
+     "periode": "depuis janvier 1990"
+    },
+    {
+     "poste": "Gîte touristique (activité complémentaire, type Airbnb)",
+     "employeur": "Auto-entrepreneur « Martineau Eric »",
+     "secteur": "liberal_independant",
+     "periode": "depuis 04/2017 (HATVP)"
+    },
+    {
+     "poste": "Dirigeant d'organisations professionnelles pomicoles",
+     "employeur": "OP Renaissance ; ANPP (Association Nationale Pommes-Poires)",
+     "secteur": "associatif",
+     "periode": "2019-2023 (HATVP)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "L'index HATVP local confirme l'activité de producteur de pommes déjà établie (site eric-martineau72.fr) et révèle deux activités complémentaires jusque-là inconnues : un gîte touristique (auto-entreprise, depuis 2017) et des mandats de dirigeant dans des organisations professionnelles de la filière pomicole (OP Renaissance, ANPP), cohérents avec son profil d'arboriculteur engagé dans la structuration de sa filière. Aucune information sur un éventuel diplôme agricole (BTSA, BPREA) trouvée dans le wikitext brut Wikipédia (entièrement relu). Diplôme laissé inconnu.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.eric-martineau72.fr",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Martineau",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794770",
+   "nom": "Michèle Martinez",
+   "highest_degree_level": "bac+2",
+   "degrees": [
+    {
+     "institution": "École Nationale de Procédure (ENP)",
+     "diplome": "Formation de clerc d'huissier de justice (en alternance, établissement paritaire privé ENPEPP)",
+     "domaine": "droit"
+    }
+   ],
+   "fields": [
+    "droit"
+   ],
+   "career": [
+    {
+     "poste": "Clerc d'huissier de justice",
+     "employeur": "SCP Vuillemin Chazel Bouley (étude d'huissiers de justice)",
+     "secteur": "prive",
+     "periode": "01/2018-02/2019 (HATVP)"
+    },
+    {
+     "poste": "Clerc / agent de recouvrement",
+     "employeur": "BRR (cabinet de recouvrement)",
+     "secteur": "prive",
+     "periode": "05/2019-07/2021 (HATVP)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Deux avancées de cette passe. D'abord, l'index HATVP local nomme enfin l'étude d'huissier jusque-là non identifiée (SCP Vuillemin Chazel Bouley, 2018-2019) et révèle un poste ultérieur chez un cabinet de recouvrement (BRR, 2019-2021), ce qui reconstitue une carrière complète et datée. Ensuite, le wikitext brut de l'infobox Wikipédia (non consulté en première passe, qui ne s'était appuyée que sur la profession de foi Barodet) contient un champ « université = [[Clerc d'huissier de justice|ENP]] » : l'article Wikipédia « Clerc d'huissier de justice » (vérifié) explique que l'ENP est l'École Nationale de Procédure (ENPEPP), l'établissement paritaire privé qui forme les clercs en alternance avec l'étude, sur une durée d'un à deux ans selon le niveau de qualification visé (clerc aux procédures, clerc significateur, clerc expert). Le niveau exact obtenu (bac+2 ou moins) reste incertain ; retenu à bac+2 par analogie avec les formations professionnelles courtes de ce type, confiance plafonnée à moyenne car il s'agit d'une inférence à partir du nom de l'établissement et non d'un diplôme explicitement nommé.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Mich%C3%A8le_Martinez",
+     "pour": "both"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Clerc_d%27huissier_de_justice",
+     "pour": "diplome"
+    }
+   ]
+  },
+  {
+   "uid": "PA720976",
+   "nom": "Max Mathiasin",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Directeur",
+     "employeur": "Caisse des écoles de Pointe-à-Pitre",
+     "secteur": "public",
+     "periode": "jusqu'en 2016"
+    },
+    {
+     "poste": "Directeur administratif et financier",
+     "employeur": "Guadeloupe Formation",
+     "secteur": "public",
+     "periode": "septembre 2016-2017"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Le wikitext brut de Wikipédia (entièrement relu, y compris la section « Affaires judiciaires » non consultée en détail en première passe) précise qu'il était « le directeur, jusqu'en 2016, de la caisse des écoles de Pointe-à-Pitre » avant de devenir directeur administratif et financier de Guadeloupe Formation en septembre 2016 : plus précis que la première passe (« Cadre »). L'index HATVP local ne contient aucune activité professionnelle pour lui (seulement des mandats électifs et un bénévolat associatif sportif sans rapport). Un poste de direction d'un établissement public communal correspond typiquement à un cadre de catégorie A de la fonction publique territoriale (assimilable à un attaché territorial) ; sur cette base, le diplôme est inféré à bac+3_4, conformément à la règle sur les emplois de catégorie A, avec confiance plafonnée à moyenne car il s'agit d'une inférence à partir du titre du poste et non d'un diplôme confirmé. Aucune institution nommée, `degrees` laissé vide. Recherches complémentaires infructueuses : la1ere.francetvinfo.fr et tijournal.fr toujours inaccessibles au fetch direct.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Max_Mathiasin",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720976",
+     "pour": "carriere"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+  "deputies": [
+    {
+      "uid": "PA794830",
+      "nom": "Hubert Ott",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Faculté de biologie de Strasbourg (Université de Strasbourg)", "diplome": "Maîtrise en sciences naturelles", "domaine": "sciences"}
+      ],
+      "fields": ["sciences"],
+      "confidence": "moyenne",
+      "notes": "Maîtrise en sciences naturelles a la faculte de biologie de Strasbourg, mentionnee sur son site personnel (source: http://ott-hubert.info/mon-parcours/)."
+    },
+    {
+      "uid": "PA794982",
+      "nom": "Julie Delpech",
+      "career": [
+        {"poste": "collaboratrice du groupe Socialistes et Republicains au conseil regional des Pays de la Loire", "employeur": "Conseil regional des Pays de la Loire", "secteur": "politique", "periode": "2010-2014"},
+        {"poste": "attachee parlementaire", "employeur": "senateur-maire Jean-Claude Boulard", "secteur": "politique", "periode": "2014-2017"},
+        {"poste": "collaboratrice du maire du Mans", "employeur": "Mairie du Mans", "secteur": "politique", "periode": "2017-2018"},
+        {"poste": "chargee de communication", "employeur": "groupe Oui Care (Le Mans)", "secteur": "prive", "periode": "apres 2018, avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": "Parcours detaille sur la fiche assemblee-nationale.fr et repris par la presse locale (source: https://www.assemblee-nationale.fr/dyn/deputes/PA794982)."
+    }
+  ]
+}

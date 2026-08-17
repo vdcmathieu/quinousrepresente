@@ -1,0 +1,58 @@
+{
+  "deputies": [
+    {
+      "uid": "PA342196",
+      "nom": "Claudia Rouaux",
+      "career": [
+        {
+          "poste": "Technicienne qualite et gestionnaire",
+          "employeur": "INRAE",
+          "secteur": "public",
+          "periode": "decembre 2017 - mars 2020"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Declaration HATVP confirme le poste de gestionnaire (technicienne qualite et gestionnaire selon son site) a l'INRAE de decembre 2017 a mars 2020, mise en disponibilite lors de son entree en fonction ; aucune information fiable sur ses etudes (source: https://www.hatvp.fr/pages_nominatives/rouaux-claudia et https://www.claudiarouaux.fr/claudia-rouaux.php)."
+    },
+    {
+      "uid": "PA342240",
+      "nom": "Jean-Luc Bourgeaux",
+      "career": [
+        {
+          "poste": "Exploitant agricole (eleveur de vaches laitieres puis cerealier)",
+          "employeur": "Exploitation individuelle (Bourgeaux Jean-Luc)",
+          "secteur": "liberal_independant",
+          "periode": "avant 2020 (declare jusqu'en decembre 2023)"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Declaration HATVP confirme le statut d'exploitant agricole independant ; presse le decrit comme ancien eleveur de vaches laitieres devenu cerealier ; aucune information fiable trouvee sur ses etudes (source: https://www.hatvp.fr/pages_nominatives/bourgeaux-jean-luc-18806)."
+    },
+    {
+      "uid": "PA342415",
+      "nom": "Marie-Noelle Battistel",
+      "career": [
+        {
+          "poste": "Co-fondatrice et directrice",
+          "employeur": "MNJ Voyages (transport de voyageurs, Isere)",
+          "secteur": "liberal_independant",
+          "periode": "1977 - 2021 (dont avant son premier mandat de deputee en 2010)"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Cofondatrice en 1977 avec Joseph Ivos de l'entreprise de transport MNJ Voyages, dont elle est restee directrice jusqu'a la cession en 2021 ; la declaration HATVP ne documente que la periode 2019-2021 (revenus de directrice), mais l'entreprise existait bien avant son entree a l'Assemblee en 2010 (sources: https://www.mnjvoyages.fr/lentreprise/ et https://www.hatvp.fr/pages_nominatives/battistel-marie-noelle)."
+    }
+  ]
+}

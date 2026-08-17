@@ -1,0 +1,230 @@
+[
+ {
+  "uid": "PA793556",
+  "num": "793556",
+  "nom": "Sabine Gervais",
+  "groupe": "Les Démocrates",
+  "dept": "Charente-Maritime",
+  "circo": "1",
+  "naissance": "1970-05-20",
+  "profession_declaree": "Infirmière puéricultrice",
+  "insee": "Professions intermédiaires de la santé et du travail social",
+  "actuel": {
+   "diplome": "bac+3_4",
+   "profil": "public_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Sabine_Gervais",
+  "wiki_trimmed": "data/wiki_trimmed/PA793556.txt",
+  "notes_actuelles": "Presse locale : coordinatrice des assistants familiaux au service PMI du Département, en disponibilité de la fonction publique territoriale (source : inf-info.fr/dans-la-continuite-dolivier-falorni-qui-est-sabine-gervais-la-nouvelle-deputee-de-la-rochelle-ile-de-re)."
+ },
+ {
+  "uid": "PA796034",
+  "num": "796034",
+  "nom": "Frank Giletti",
+  "groupe": "Rassemblement National",
+  "dept": "Var",
+  "circo": "6",
+  "naissance": "1973-03-01",
+  "profession_declaree": "Fonctionnaire",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "bac+3_4",
+   "profil": "public_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Frank_Giletti",
+  "wiki_trimmed": "data/wiki_trimmed/PA796034.txt",
+  "notes_actuelles": "Poste précis non détaillé dans la biographie; inféré de la formation à l'IRA de Lyon et de la profession déclarée (fonctionnaire)."
+ },
+ {
+  "uid": "PA840939",
+  "num": "840939",
+  "nom": "Océane Godard",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Côte-d'Or",
+  "circo": "1",
+  "naissance": "1982-11-22",
+  "profession_declaree": "Psychologue du travail",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "inconnu",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Oc%C3%A9ane_Godard",
+  "wiki_trimmed": "data/wiki_trimmed/PA840939.txt",
+  "notes_actuelles": "A travaillé dans des associations de formation et d'insertion, secteur non couvert par les catégories privé/public disponibles."
+ },
+ {
+  "uid": "PA331973",
+  "num": "331973",
+  "nom": "Pascale Got",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Gironde",
+  "circo": "5",
+  "naissance": "1961-04-01",
+  "profession_declaree": "Journaliste",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "bac+2",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Pascale_Got",
+  "wiki_trimmed": "data/wiki_trimmed/PA331973.txt",
+  "notes_actuelles": "Peu d'informations disponibles sur l'employeur et les dates exactes de sa carrière de journaliste."
+ },
+ {
+  "uid": "PA721612",
+  "num": "721612",
+  "nom": "Carole Guillerm",
+  "groupe": "Les Démocrates",
+  "dept": "Hauts-de-Seine",
+  "circo": "12",
+  "naissance": "1987-01-08",
+  "profession_declaree": "Conseillère ministérielle",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "politique_principalement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Carole_Guillerm",
+  "wiki_trimmed": "data/wiki_trimmed/PA721612.txt",
+  "notes_actuelles": "Études de droit à Paris 1 Panthéon-Sorbonne, Strasbourg et Helsinki, puis poste au Quai d'Orsay sur le Protocole de Kyoto avant de devenir conseillère ministérielle (source: recoupement Wikipédia/Viadeo/LinkedIn, non confirmé par une source officielle unique)."
+ },
+ {
+  "uid": "PA793218",
+  "num": "793218",
+  "nom": "Jordan Guitton",
+  "groupe": "Rassemblement National",
+  "dept": "Aube",
+  "circo": "1",
+  "naissance": "1995-01-30",
+  "profession_declaree": "Assistant Parlementaire",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "bac+3_4",
+   "profil": "politique_principalement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Jordan_Guitton",
+  "wiki_trimmed": "data/wiki_trimmed/PA793218.txt",
+  "notes_actuelles": "La biographie mentionne des études de droit sans confirmer l'obtention d'un diplôme."
+ },
+ {
+  "uid": "PA1592",
+  "num": "1592",
+  "nom": "David Habib",
+  "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+  "dept": "Pyrénées-Atlantiques",
+  "circo": "3",
+  "naissance": "1961-03-16",
+  "profession_declaree": "Cadre",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "inconnu",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/David_Habib",
+  "wiki_trimmed": "data/wiki_trimmed/PA1592.txt",
+  "notes_actuelles": "Aucune information sur une carrière professionnelle avant ses mandats locaux."
+ },
+ {
+  "uid": "PA793632",
+  "num": "793632",
+  "nom": "Timothée Houssin",
+  "groupe": "Rassemblement National",
+  "dept": "Eure",
+  "circo": "5",
+  "naissance": "1988-07-29",
+  "profession_declaree": "Cadre",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Timoth%C3%A9e_Houssin",
+  "wiki_trimmed": "data/wiki_trimmed/PA793632.txt",
+  "notes_actuelles": "L'obtention du diplôme et l'emploi de cadre en entreprise sont déduits d'indices partiels (école de commerce mentionnée, catégorie INSEE « d'entreprise »), sans détail biographique."
+ },
+ {
+  "uid": "PA794598",
+  "num": "794598",
+  "nom": "Laurent Jacobelli",
+  "groupe": "Rassemblement National",
+  "dept": "Moselle",
+  "circo": "8",
+  "naissance": "1969-10-13",
+  "profession_declaree": "Profession de l'information, des arts et des spectacles",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "mixte_public_prive",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Laurent_Jacobelli",
+  "wiki_trimmed": "data/wiki_trimmed/PA794598.txt",
+  "notes_actuelles": "Employeurs connus uniquement via Wikidata, sans détail biographique sur postes ni dates."
+ },
+ {
+  "uid": "PA643184",
+  "num": "643184",
+  "nom": "Brigitte Klinkert",
+  "groupe": "Ensemble pour la République",
+  "dept": "Haut-Rhin",
+  "circo": "1",
+  "naissance": "1956-07-22",
+  "profession_declaree": "Ancien cadre",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "inconnu",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Brigitte_Klinkert",
+  "wiki_trimmed": "data/wiki_trimmed/PA643184.txt",
+  "notes_actuelles": "La formation à l'IRA suggère un débouché en fonction publique mais aucun poste précis n'est mentionné par la source."
+ },
+ {
+  "uid": "PA842125",
+  "num": "842125",
+  "nom": "Thomas Lam",
+  "groupe": "Horizons & Indépendants",
+  "dept": "Hauts-de-Seine",
+  "circo": "2",
+  "naissance": "1981-10-22",
+  "profession_declaree": "(23) - Chef d'entreprise de 10 salariés ou plus",
+  "insee": "Chefs d'entreprise de plus de 10 personnes",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Thomas_Lam_(homme_politique)",
+  "wiki_trimmed": "data/wiki_trimmed/PA842125.txt",
+  "notes_actuelles": "Carrière professionnelle déduite de la profession déclarée (chef d'entreprise), la biographie ne détaillant que ses mandats locaux."
+ },
+ {
+  "uid": "PA841515",
+  "num": "841515",
+  "nom": "Aurélien Le Coq",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Nord",
+  "circo": "1",
+  "naissance": "1996-09-28",
+  "profession_declaree": "(54) - Employé administratif d'entreprise",
+  "insee": "Employés administratifs d'entreprise",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "politique_principalement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Aur%C3%A9lien_Le_Coq",
+  "wiki_trimmed": "data/wiki_trimmed/PA841515.txt",
+  "notes_actuelles": "Obtention effective du diplôme de Sciences Po Lille non confirmée explicitement ; parcours dominé par le militantisme étudiant et politique dès l'adolescence."
+ }
+]

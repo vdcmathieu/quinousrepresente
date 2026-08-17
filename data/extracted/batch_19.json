@@ -1,0 +1,287 @@
+{
+ "batch": 19,
+ "deputies": [
+  {
+   "uid": "PA794138",
+   "nom": "Ségolène Amiot",
+   "highest_degree_level": "bac_ou_moins",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Emplois précaires divers (intérim en nettoyage industriel, ménages, auxiliaire de vie)", "employeur": "divers employeurs", "secteur": "prive", "periode": "avant 2012"},
+    {"poste": "Chargée d'assistance technique dans un centre d'appels téléphoniques", "employeur": "centre d'appels (non précisé)", "secteur": "prive", "periode": "vers 2012"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "A abandonné des études d'ostéopathie faute de moyens financiers, sans obtenir de diplôme."
+  },
+  {
+   "uid": "PA794146",
+   "nom": "Julie Laernoes",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université d'Utrecht", "diplome": "Licence", "domaine": "droit et science politique"},
+    {"institution": "Institut d'études politiques de Paris", "diplome": "Master (études européennes)", "domaine": "sciences politiques"}
+   ],
+   "fields": ["droit", "sciences politiques"],
+   "career": [
+    {"poste": "Cheffe de cabinet du maire de Montreuil (Dominique Voynet)", "employeur": "Mairie de Montreuil", "secteur": "politique", "periode": "à partir de 2008"},
+    {"poste": "Directrice de campagne électorale (élections régionales 2010)", "employeur": "Jean-Philippe Magnen / EELV", "secteur": "politique", "periode": "2010"},
+    {"poste": "Secrétaire générale du groupe des élus Verts au conseil régional", "employeur": "Conseil régional des Pays de la Loire", "secteur": "politique", "periode": "à partir de 2010"}
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA794154",
+   "nom": "Jean-Claude Raux",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": ["lettres-sciences humaines"],
+   "career": [
+    {"poste": "Professeur de lettres et d'anglais en lycée professionnel", "employeur": "Lycée professionnel de Redon (Éducation nationale)", "secteur": "public", "periode": "non précisée"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Le niveau de diplôme n'est pas précisé par la source."
+  },
+  {
+   "uid": "PA794166",
+   "nom": "Matthias Tavel",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme (Sciences Po)", "domaine": "sciences politiques"}
+   ],
+   "fields": ["sciences politiques"],
+   "career": [
+    {"poste": "Directeur de cabinet adjoint de Jean-Luc Mélenchon", "employeur": "Parti de gauche", "secteur": "politique", "periode": "2011-2017"},
+    {"poste": "Employé à la préfecture de la Sarthe", "employeur": "Préfecture de la Sarthe", "secteur": "public", "periode": "vers 2022"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "A surtout eu une carrière politique (directeur de cabinet adjoint de Mélenchon pendant 6 ans) avant un emploi public bref à la préfecture juste avant son élection."
+  },
+  {
+   "uid": "PA794178",
+   "nom": "Jean-Pierre Taite",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Photographe", "employeur": "Indépendant", "secteur": "liberal_independant", "periode": "avant 2008"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Peu d'informations sur son parcours professionnel avant ses mandats locaux."
+  },
+  {
+   "uid": "PA794198",
+   "nom": "Roger Chudeau",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "non précisée", "diplome": "Agrégation d'allemand", "domaine": "lettres-sciences humaines"}
+   ],
+   "fields": ["lettres-sciences humaines", "education"],
+   "career": [
+    {"poste": "Professeur agrégé d'allemand outre-mer (Côte d'Ivoire, Madagascar)", "employeur": "Éducation nationale", "secteur": "public", "periode": "environ 10 ans"},
+    {"poste": "Principal de collège puis proviseur de lycée", "employeur": "Éducation nationale", "secteur": "public", "periode": "non précisée"},
+    {"poste": "Inspecteur d'académie", "employeur": "Éducation nationale (Manche, Essonne)", "secteur": "public", "periode": "1995-2004"},
+    {"poste": "Inspecteur général de l'Éducation nationale", "employeur": "Ministère de l'Éducation nationale", "secteur": "public", "periode": "non précisée"},
+    {"poste": "Conseiller au cabinet du ministre de l'Éducation nationale Gilles de Robien", "employeur": "Ministère de l'Éducation nationale", "secteur": "politique", "periode": "2005-2007"},
+    {"poste": "Conseiller au cabinet du Premier ministre François Fillon", "employeur": "Matignon", "secteur": "politique", "periode": "2007-2008"},
+    {"poste": "Directeur de l'encadrement du ministère de l'Éducation nationale", "employeur": "Ministère de l'Éducation nationale", "secteur": "public", "periode": "à partir de 2008"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Carrière de haut fonctionnaire de l'Éducation nationale, avec des passages en cabinets ministériels."
+  },
+  {
+   "uid": "PA794206",
+   "nom": "Christophe Marion",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "non précisée", "diplome": "Agrégation d'histoire (1996)", "domaine": "lettres-sciences humaines"}
+   ],
+   "fields": ["lettres-sciences humaines"],
+   "career": [
+    {"poste": "Enseignant dans le second degré (histoire)", "employeur": "Éducation nationale", "secteur": "public", "periode": "avant fin années 1990"},
+    {"poste": "Chercheur à l'Institut européen d'histoire et des cultures de l'alimentation (IEHCA)", "employeur": "Université François-Rabelais de Tours", "secteur": "public", "periode": "non précisée"},
+    {"poste": "Membre du cabinet du président de la région Centre François Bonneau", "employeur": "Conseil régional du Centre", "secteur": "politique", "periode": "non précisée"},
+    {"poste": "Membre du cabinet du président de l'université François-Rabelais Loïc Vaillant", "employeur": "Université François-Rabelais de Tours", "secteur": "public", "periode": "non précisée"},
+    {"poste": "Directeur du département \"Métiers\"", "employeur": "Agence de mutualisation des universités et établissements (AMUE)", "secteur": "public", "periode": "non précisée"},
+    {"poste": "Délégué général du Comité des travaux historiques et scientifiques (CTHS)", "employeur": "École nationale des chartes", "secteur": "public", "periode": "à partir de 2017"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Carrière dans l'enseignement supérieur public, avec un passage en cabinet politique régional."
+  },
+  {
+   "uid": "PA794234",
+   "nom": "François Gernigon",
+   "highest_degree_level": "bac_ou_moins",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Agent-comptable aux Ponts et Chaussées", "employeur": "Administration des Ponts et Chaussées", "secteur": "public", "periode": "à partir de 17 ans"},
+    {"poste": "Collaborateur puis directeur de missions", "employeur": "Cabinet d'expertise-comptable", "secteur": "prive", "periode": "avant 2022"}
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "A commencé à travailler à 17 ans, sans mention d'études supérieures."
+  },
+  {
+   "uid": "PA794262",
+   "nom": "Patricia Maussion",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Agricultrice (exploitation laitière biologique)", "employeur": "Exploitation individuelle, Loiré", "secteur": "liberal_independant", "periode": "depuis 1993"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": ""
+  },
+  {
+   "uid": "PA794270",
+   "nom": "Anna Pic",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "non précisée", "diplome": "Études de philosophie", "domaine": "lettres-sciences humaines"},
+    {"institution": "non précisée", "diplome": "Master", "domaine": "socio-anthropologie"}
+   ],
+   "fields": ["lettres-sciences humaines"],
+   "career": [
+    {"poste": "Surveillante en collège", "employeur": "Éducation nationale", "secteur": "public", "periode": "7 ans"},
+    {"poste": "Conseillère principale d'éducation (CPE)", "employeur": "Lycée Victor-Grignard, Cherbourg (Éducation nationale)", "secteur": "public", "periode": "non précisée"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA794278",
+   "nom": "Xavier Albertini",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "non précisée", "diplome": "CAPA (avocat)", "domaine": "droit"}
+   ],
+   "fields": ["droit"],
+   "career": [
+    {"poste": "Assistant parlementaire de Jean-Claude Étienne", "employeur": "Parlement", "secteur": "politique", "periode": "à partir de 1995"},
+    {"poste": "Avocat d'affaires", "employeur": "Cabinet d'avocats (indépendant)", "secteur": "liberal_independant", "periode": "non précisée"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Diplôme d'avocat inféré de sa profession déclarée (non détaillé explicitement dans la source); a aussi été assistant parlementaire au début de sa carrière."
+  },
+  {
+   "uid": "PA794322",
+   "nom": "Thomas Ménagé",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université de Tours", "diplome": "Licence", "domaine": "droit"},
+    {"institution": "Université Panthéon-Sorbonne", "diplome": "Master", "domaine": "droit public"}
+   ],
+   "fields": ["droit"],
+   "career": [
+    {"poste": "Chef de cabinet de Nicolas Dupont-Aignan", "employeur": "Debout la France", "secteur": "politique", "periode": "2015-2017"},
+    {"poste": "Directeur général de Debout la France", "employeur": "Debout la France", "secteur": "politique", "periode": "2017-2019"},
+    {"poste": "Cadre dans l'immobilier et la construction", "employeur": "non précisé", "secteur": "prive", "periode": "2019-2022"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": "A d'abord eu une carrière politique (parti Debout la France) avant un emploi privé dans l'immobilier juste avant son élection."
+  },
+  {
+   "uid": "PA794330",
+   "nom": "Anthony Brosse",
+   "highest_degree_level": "bac+2",
+   "degrees": [
+    {"institution": "Tours", "diplome": "non précisé (études en environnement)", "domaine": "sciences"}
+   ],
+   "fields": ["sciences"],
+   "career": [
+    {"poste": "Technicien assainissement", "employeur": "Communauté de communes du Pithiverais", "secteur": "public", "periode": "à partir de 2004"},
+    {"poste": "Directeur-adjoint d'un établissement pour personnes âgées souffrant de handicap mental", "employeur": "établissement médico-social (région parisienne, non précisé)", "secteur": "associatif", "periode": "jusqu'en 2020"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "basse",
+   "notes": "Le niveau exact du diplôme et le statut (associatif ou public) du second employeur ne sont pas précisés."
+  },
+  {
+   "uid": "PA794354",
+   "nom": "Hélène Laporte",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université de Bordeaux", "diplome": "Master 2", "domaine": "droit et économie"}
+   ],
+   "fields": ["droit", "economie"],
+   "career": [
+    {"poste": "Analyste bancaire et conseillère en gestion de patrimoine", "employeur": "secteur bancaire (non précisé)", "secteur": "prive", "periode": "non précisée"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": ""
+  },
+  {
+   "uid": "PA794418",
+   "nom": "Florence Goulet",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Attachée parlementaire d'élus de droite (dont Henri Guaino)", "employeur": "Assemblée nationale", "secteur": "politique", "periode": "24 ans, jusqu'en 2017"}
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": ""
+  }
+ ]
+}

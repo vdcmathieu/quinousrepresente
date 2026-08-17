@@ -1,0 +1,271 @@
+{
+  "batch": 22,
+  "deputies": [
+    {
+      "uid": "PA794810",
+      "nom": "Louise Morel",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Strasbourg", "diplome": "Diplôme de l'IEP de Strasbourg", "domaine": "sciences politiques"},
+        {"institution": "ESSEC (École supérieure des sciences économiques et commerciales)", "diplome": "Diplôme de grande école de commerce", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["sciences politiques", "gestion-commerce"],
+      "career": [
+        {"poste": "consultante", "employeur": "cabinet de conseil parisien (secteur agroalimentaire)", "secteur": "prive", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": ""
+    },
+    {
+      "uid": "PA794830",
+      "nom": "Hubert Ott",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "professeur de sciences de la vie et de la terre", "employeur": "Institution Champagnat d'Issenheim", "secteur": "public", "periode": "avant 2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "Formation non précisée dans la biographie."
+    },
+    {
+      "uid": "PA794838",
+      "nom": "Didier Lemaire",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "sapeur-pompier professionnel puis adjudant-chef", "employeur": "SDIS du Haut-Rhin", "secteur": "public", "periode": "2003-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA794854",
+      "nom": "Iñaki Echaniz",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Master (requis pour le concours de conseiller principal d'éducation)", "domaine": "education"}
+      ],
+      "fields": ["education"],
+      "career": [
+        {"poste": "conseiller principal d'éducation", "employeur": "Éducation nationale (Seine-Saint-Denis puis Pyrénées-Atlantiques)", "secteur": "public", "periode": "avant 2022"},
+        {"poste": "moniteur de ski", "employeur": "station de Gourette", "secteur": "prive", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Niveau de diplôme déduit de la profession de CPE, non détaillé explicitement dans la biographie."
+    },
+    {
+      "uid": "PA794870",
+      "nom": "Sylvie Ferrer",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "agent de maintenance en aéronautique", "employeur": "inconnu", "secteur": "prive", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": ""
+    },
+    {
+      "uid": "PA794886",
+      "nom": "Sophie Blanc",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "CAPA (certificat d'aptitude à la profession d'avocat)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "avocate", "employeur": "cabinet indépendant (Perpignan)", "secteur": "liberal_independant", "periode": "avant 2021"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Niveau de diplôme déduit de la profession d'avocate, formation non détaillée dans la biographie."
+    },
+    {
+      "uid": "PA794894",
+      "nom": "Anaïs Sabatini",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "CAPA (certificat d'aptitude à la profession d'avocat)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "avocate en droit de la construction, droit de la famille et droit des enfants", "employeur": "cabinet indépendant (Perpignan)", "secteur": "liberal_independant", "periode": "avant 2020"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Niveau de diplôme déduit de la profession d'avocate, formation non détaillée dans la biographie."
+    },
+    {
+      "uid": "PA794906",
+      "nom": "Gabriel Amard",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "directeur", "employeur": "Le Formateur des collectivités (FDC)", "secteur": "prive", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Statut exact de l'employeur (FDC) et formation non précisés dans la biographie."
+    },
+    {
+      "uid": "PA794938",
+      "nom": "Idir Boumertit",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "conseiller en insertion professionnelle", "employeur": "inconnu", "secteur": "associatif", "periode": "avant 2022"},
+        {"poste": "entraîneur de taekwondo", "employeur": "club sportif (inconnu)", "secteur": "associatif", "periode": "avant 2022"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Employeurs et statut exacts non précisés dans la biographie."
+    },
+    {
+      "uid": "PA794946",
+      "nom": "Antoine Villedieu",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "BTS professions immobilières", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "boxeur professionnel (boxe anglaise et MMA)", "employeur": "indépendant", "secteur": "liberal_independant", "periode": "avant d'être policier"},
+        {"poste": "policier", "employeur": "Police nationale (Seine-Saint-Denis puis Besançon)", "secteur": "public", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA794954",
+      "nom": "Émeric Salmon",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École d'ingénieur à Rennes (non précisée)", "diplome": "Diplôme d'ingénieur informatique", "domaine": "informatique"}
+      ],
+      "fields": ["informatique"],
+      "career": [
+        {"poste": "ingénieur informatique", "employeur": "inconnu", "secteur": "prive", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Emploi d'ingénieur informatique mentionné dans le descriptif biographique mais employeur et dates non précisés."
+    },
+    {
+      "uid": "PA794982",
+      "nom": "Julie Delpech",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "chargée de communication", "employeur": "inconnu", "secteur": "prive", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Information tirée uniquement de la profession déclarée, la biographie ne détaille pas son parcours."
+    },
+    {
+      "uid": "PA794994",
+      "nom": "Alexandre Portier",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut catholique de Paris", "diplome": "Licence de philosophie", "domaine": "lettres-sciences humaines"},
+        {"institution": "École normale supérieure", "diplome": "Diplôme de l'ENS", "domaine": "lettres-sciences humaines"},
+        {"institution": "Sciences Po Paris", "diplome": "Diplôme", "domaine": "sciences politiques"}
+      ],
+      "fields": ["lettres-sciences humaines", "sciences politiques"],
+      "career": [
+        {"poste": "professeur de philosophie", "employeur": "lycée Claude-Bernard de Villefranche-sur-Saône", "secteur": "public", "periode": "2021-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "A aussi étudié à l'EHESS sans diplôme mentionné."
+    },
+    {
+      "uid": "PA795010",
+      "nom": "Marie-Charlotte Garin",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Master en développement international", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "chargée de projet Genre et handicap", "employeur": "Handicap International", "secteur": "associatif", "periode": "2018-2020"},
+        {"poste": "collaboratrice", "employeur": "groupe Les Écologistes au conseil municipal de Lyon", "secteur": "politique", "periode": "2020"},
+        {"poste": "directrice de cabinet", "employeur": "mairie du 5e arrondissement de Lyon", "secteur": "politique", "periode": "2021-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Parcours dominé par des postes politiques après un premier emploi associatif."
+    },
+    {
+      "uid": "PA795026",
+      "nom": "Anne-Cécile Violland",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Chambéry", "diplome": "Master en psychologie (requis pour le titre de psychologue)", "domaine": "medecine-sante"}
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {"poste": "psychologue clinicienne", "employeur": "Hôpitaux du Léman - équipe mobile de soins palliatifs", "secteur": "public", "periode": "avant 2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Niveau de diplôme déduit du titre de psychologue, non détaillé explicitement dans la biographie."
+    }
+  ]
+}

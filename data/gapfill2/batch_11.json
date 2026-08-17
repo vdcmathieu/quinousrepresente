@@ -1,0 +1,255 @@
+{"deputies": [
+  {
+    "uid": "PA720976",
+    "nom": "Max Mathiasin",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Cadre, caisse des écoles de Pointe-à-Pitre", "employeur": "Caisse des écoles de Pointe-à-Pitre", "secteur": "public", "periode": "avant 2016"},
+      {"poste": "Directeur administratif et financier", "employeur": "Guadeloupe Formation", "secteur": "public", "periode": "septembre 2016-2017"}
+    ],
+    "fields_note": "",
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "Aucun diplôme retrouvé malgré recherche large (fiche AN, Wikipédia complète avec notes/liens externes, HATVP, presse - la1ere.francetvinfo.fr et tijournal.fr bloqués au fetch). Carrière avant 2017 reconstituée via Wikipédia : nomination à la caisse des écoles de Pointe-à-Pitre puis directeur administratif et financier de Guadeloupe Formation (organisme de formation professionnelle rattaché à la Région), les deux dans la sphère publique/parapublique territoriale, cohérent avec la profession déclarée « Fonction publique territoriale ». La déclaration HATVP (mandat 2022-2024) ne mentionne aucune activité professionnelle rémunérée hors mandat (« Néant »), ce qui ne documente pas la période antérieure à 2017.",
+    "sources": [
+      {"url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720976", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Max_Mathiasin", "pour": "carriere"},
+      {"url": "http://www.hatvp.fr/fiche-nominative/?declarant=mathiasin-max", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA794262",
+    "nom": "Patricia Maussion",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Agricultrice, exploitation laitière en agriculture biologique", "employeur": "Exploitation individuelle, Loiré (Maine-et-Loire)", "secteur": "liberal_independant", "periode": "1993-présent"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Aucun diplôme (agricole ou autre) retrouvé. Vérifié : Wikipédia (texte complet + wikitexte brut, aucune mention de formation), fiche AN, absence de lien HATVP sur la page Wikipédia (élue très récemment, avril 2026, en remplacement de Philippe Bolo - déclaration probablement pas encore publiée ou non requise). Un article d'Oxygène Radio est cité en source Wikipédia mais n'a pas pu être récupéré. Carrière d'agricultrice indépendante bien établie depuis 1993 (source Wikipédia).",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Patricia_Maussion", "pour": "carriere"},
+      {"url": "https://www.assemblee-nationale.fr/dyn/deputes/PA794262", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841931",
+    "nom": "Laurent Mazaury",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Cadre administratif et commercial d'entreprise", "employeur": "inconnu", "secteur": "prive", "periode": "inconnu"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "basse",
+    "notes": "Dossier extrêmement pauvre en source : la biographie Wikipédia (texte intégral et wikitexte brut) ne contient que la date/lieu de naissance, aucune information de carrière ou de formation. La fiche AN ne donne que la catégorie socioprofessionnelle auto-déclarée « Cadre administratif et commercial d'entreprise » (identique à la catégorie INSEE), sans nom d'employeur. Aucun lien HATVP présent sur la page Wikipédia ; une tentative d'URL HATVP devinée (hatvp.fr/fiche-nominative/?declarant=mazaury-laurent) redirige vers la page d'accueil, donc non valide. Les identifiants Wikidata ne comportent aucune propriété employeur/formation. Le secteur privé est retenu uniquement sur la base de la catégorie socioprofessionnelle auto-déclarée.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Laurent_Mazaury", "pour": "carriere"},
+      {"url": "https://www.assemblee-nationale.fr/dyn/deputes/PA841931", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA720370",
+    "nom": "Ludovic Mendes",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Responsable commercial", "employeur": "inconnu (plusieurs entreprises, Metz/Lille/Lyon/Paris)", "secteur": "prive", "periode": "avant 2012"},
+      {"poste": "Gérant fondateur", "employeur": "ENIDD (société de nettoyage, Metz-Borny)", "secteur": "prive", "periode": "mai 2012-décembre 2016 (liquidation judiciaire)"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Carrière privée bien documentée par Wikipédia (issu d'une famille d'ouvriers, responsable commercial puis créateur/gérant de la société de nettoyage ENIDD, liquidée judiciairement en 2016 avec interdiction de gérer confirmée en appel puis en cassation) et confirmée par de nombreuses sources de presse citées (Le Républicain lorrain, Société.com, BODACC). Aucune information de formation/diplôme trouvée : la déclaration HATVP ne détaille aucune activité professionnelle (« Néant »), et les articles de presse évoquant possiblement sa formation (Le Point « les non-dits d'un candidat », Nouvel Obs/Rue89, 20 Minutes) n'ont pas pu être récupérés (accès bloqué).",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Ludovic_Mendes", "pour": "carriere"},
+      {"url": "http://www.hatvp.fr/fiche-nominative/?declarant=mendes-ludovic", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA719640",
+    "nom": "Sophie Mette",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [],
+    "worked_private": false,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "inconnu",
+    "confidence": "basse",
+    "notes": "Profession déclarée « Sans profession déclarée » à l'AN, confirmé par la déclaration HATVP qui indique « Néant » pour toute activité professionnelle rémunérée à la date de l'élection ou dans les cinq années précédentes. La biographie Wikipédia (texte intégral) ne mentionne aucune activité professionnelle avant son engagement associatif bénévole à Bazas à partir de 1987 puis politique à partir de 2001 ; aucune formation ou diplôme cité. Aucune autre source n'a pu être identifiée.",
+    "sources": [
+      {"url": "https://www.assemblee-nationale.fr/dyn/deputes/PA719640", "pour": "carriere"},
+      {"url": "http://www.hatvp.fr/fiche-nominative/?declarant=mette-sophie", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Sophie_Mette", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841769",
+    "nom": "Éric Michoux",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Président directeur général", "employeur": "GALILE SAS (groupe industriel/énergie ; filiales dont Air Industrie Transition, Armor Energies Services, Stein Energy Boilers, Galile Formation)", "secteur": "prive", "periode": "janvier 2019-présent"},
+      {"poste": "Maire d'Épervans", "employeur": "Commune d'Épervans", "secteur": "politique", "periode": "2008-2024"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "La déclaration HATVP (URL trouvée via le modèle {{Liens}} de la page Wikipédia) donne un employeur nommé et vérifiable : président directeur général de GALILE SAS depuis janvier 2019 (rémunération déclarée : 76 241 € en 2024), avec de très nombreux mandats sociaux non rémunérés dans des filiales du groupe (secteur énergie industrielle/chaudières). Cohérent avec la profession déclarée « Chef d'entreprise de 10 salariés ou plus ». Wikipédia ne précise ni école ni diplôme (« Il devient chef d'entreprise » sans autre détail) ; aucune biographie/portrait détaillé n'a pu être trouvé (site GALILE et Pappers inaccessibles, presse locale lejsl.com/francebleu.fr limitée aux résultats électoraux). Éducation reste non documentée.",
+    "sources": [
+      {"url": "http://www.hatvp.fr/fiche-nominative/?declarant=michoux-eric-27505", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/%C3%89ric_Michoux", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA643104",
+    "nom": "Christelle Minard",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Agricultrice, gérante d'exploitation", "employeur": "Exploitation individuelle puis SCEA, Theuvy-Achères (Tremblay-les-Villages, Eure-et-Loir)", "secteur": "liberal_independant", "periode": "1995-présent (gérante déclarée janvier 2020-présent selon HATVP)"},
+      {"poste": "Enseignante", "employeur": "Lycée d'enseignement agricole privé de Nermont, Châteaudun (établissement privé sous contrat avec le ministère de l'Agriculture)", "secteur": "prive", "periode": "inconnu"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Correction par rapport à l'hypothèse précédente (« public par défaut ») : l'annuaire officiel de l'éducation (data.education.gouv.fr, dataset fr-en-annuaire-education) confirme que le « Lycée d'enseignement agricole privé de Nermont » a le statut « Privé », sous contrat avec l'État (tutelle : ministère de l'Agriculture), et n'est donc pas un établissement public. La déclaration HATVP (URL trouvée dans le HTML rendu de la page Wikipédia : minard-christelle-21338) ne mentionne que ses activités agricoles (gérante d'exploitation puis de SCEA), pas le poste d'enseignante, dont les dates restent donc inconnues. Aucun diplôme (agricole, universitaire ou d'enseignement) retrouvé ; l'article de presse le plus détaillé (lechorepublicain.fr) est bloqué par un pare-feu anti-robot.",
+    "sources": [
+      {"url": "https://data.education.gouv.fr/explore/dataset/fr-en-annuaire-education/", "pour": "carriere"},
+      {"url": "http://www.hatvp.fr/fiche-nominative/?declarant=minard-christelle-21338", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Christelle_Minard", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA793696",
+    "nom": "Serge Muller",
+    "highest_degree_level": "bac_ou_moins",
+    "degrees": [{"institution": "inconnu", "diplome": "Diplôme d'État d'aide-soignant (DEAS)", "domaine": "medecine-sante"}],
+    "fields": ["medecine-sante"],
+    "career": [
+      {"poste": "Aide-soignant (dont poste de nuit en EHPAD)", "employeur": "Centre hospitalier de Saint-Astier (Dordogne) ; précédemment en psychiatrie à Toulon selon Wikipédia", "secteur": "public", "periode": "janvier 2019-juin 2022 (Saint-Astier) ; avant 2014 à Toulon"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "Aide-soignant est une profession réglementée nécessitant le diplôme d'État d'aide-soignant (DEAS, niveau infra-baccalauréat/CAP-BEP, classé ici bac_ou_moins) : inférence explicite, confiance maintenue à moyenne conformément à la règle sur les inférences de profession réglementée. Carrière confirmée par la déclaration HATVP (poste salarié en hôpital public, janvier 2019-juin 2022, montants nets précis) et par Wikipédia (poste antérieur en psychiatrie à Toulon avant son installation en Dordogne en 2014, non daté précisément). Secteur hospitalier = fonction publique hospitalière.",
+    "sources": [
+      {"url": "http://www.hatvp.fr/fiche-nominative/?declarant=muller-serge-24188", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Serge_Muller", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA643157",
+    "nom": "Philippe Naillet",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Inspecteur assurance-vie", "employeur": "AG2R La Mondiale", "secteur": "prive", "periode": "avant 2014"},
+      {"poste": "Président-directeur général puis administrateur", "employeur": "SEM Sodiac (société d'économie mixte d'aménagement/logement, statut de droit privé)", "secteur": "prive", "periode": "2014-2020 (PDG), 2020-présent (administrateur, non rémunéré après 2020)"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Wikipédia indique qu'il « a étudié à l'université de La Réunion » sans préciser ni la filière ni le niveau atteint (licence, master, abandon en cours de route) - impossible d'en déduire un niveau de diplôme sans inventer, donc laissé à inconnu malgré plusieurs passes de recherche ciblées sur la formation (articles imazpress.com accessible mais sans détail, lequotidien.re/linfo.re/outremers360.com/ledauphine.com bloqués au fetch). Carrière bien documentée : inspecteur assurance-vie chez AG2R La Mondiale (employeur privé nommé par Wikipédia), puis PDG de la SEM Sodiac de 2014 à 2020 (rémunération confirmée par HATVP), poste à statut de droit privé malgré la présence de capitaux publics dans une SEM.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Philippe_Naillet", "pour": "carriere"},
+      {"url": "http://www.hatvp.fr/fiche-nominative/?declarant=naillet-philippe", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841191",
+    "nom": "Sandrine Nosbé",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Employée administrative d'entreprise", "employeur": "inconnu", "secteur": "prive", "periode": "inconnu"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "basse",
+    "notes": "Aucun employeur ni diplôme retrouvé malgré recherche étendue : Wikipédia (texte intégral, ne documente que le bac obtenu à La Réunion puis des séjours au Royaume-Uni à 21 ans et en Allemagne à 24-29 ans, sans mention de métier), fiche AN, absence de lien HATVP sur la page Wikipédia (aucune déclaration retrouvée), site personnel refondu en WordPress dont l'ancienne page « qui suis-je » renvoie une erreur 404 et dont l'API ne liste plus qu'une page de mentions légales, profil LinkedIn inaccessible (blocage anti-robot), articles de presse (Le Dauphiné, imazpress) bloqués ou sans détail biographique. Secteur privé retenu uniquement sur la base de la catégorie socioprofessionnelle auto-déclarée « Employé administratif d'entreprise ».",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Sandrine_Nosb%C3%A9", "pour": "carriere"},
+      {"url": "https://www.assemblee-nationale.fr/dyn/deputes/PA841191", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841107",
+    "nom": "Jacques Oberti",
+    "highest_degree_level": "bac+5",
+    "degrees": [
+      {"institution": "inconnu", "diplome": "Diplôme d'ingénieur agronome", "domaine": "agriculture"},
+      {"institution": "inconnu", "diplome": "DESS informatique appliquée aux sciences expérimentales et à l'agriculture", "domaine": "informatique"}
+    ],
+    "fields": ["agriculture", "informatique"],
+    "career": [
+      {"poste": "Ingénieur agronome / cadre technique d'entreprise", "employeur": "inconnu", "secteur": "prive", "periode": "avant 1995"},
+      {"poste": "Adjoint au maire puis maire d'Ayguesvives", "employeur": "Commune d'Ayguesvives", "secteur": "politique", "periode": "1995-2008 (adjoint), 2008-2024 (maire)"},
+      {"poste": "Président du Sicoval", "employeur": "Sicoval (communauté d'agglomération du Sud-Est toulousain)", "secteur": "politique", "periode": "2015-2024"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "politique_principalement",
+    "confidence": "moyenne",
+    "notes": "Formation confirmée par sa page de portrait personnelle (oberti-jacques.fr) : « ingénieur agronome de formation initiale » titulaire d'un DESS en informatique appliquée aux sciences expérimentales et à l'agriculture - source nommant les diplômes mais pas les écoles, donc confiance limitée à moyenne (règle : « haute » exige un établissement ou employeur nommé). Il a exercé comme agronome/cadre technique d'entreprise avant son entrée en politique à 35 ans (1995, cohérent avec la profession déclarée « Ingénieur et cadre technique d'entreprise »), mais aucun employeur n'est nommé. Depuis 1995, sa carrière est presque entièrement occupée par des mandats exécutifs locaux à temps plein (adjoint puis maire d'Ayguesvives, président du Sicoval jusqu'en 2024), d'où le classement politique_principalement malgré une expérience professionnelle privée réelle en amont. La déclaration HATVP ne liste aucune activité professionnelle rémunérée dans les cinq ans précédant son élection de 2024 (uniquement des mandats).",
+    "sources": [
+      {"url": "https://oberti-jacques.fr/jacques-oberti-portrait/", "pour": "both"},
+      {"url": "http://www.hatvp.fr/fiche-nominative/?declarant=oberti-jacques", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Jacques_Oberti", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841993",
+    "nom": "Dominique Paillat",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Responsable d'usine", "employeur": "inconnu", "secteur": "prive", "periode": "inconnu"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "basse",
+    "notes": "Aucune information de carrière au-delà de la profession auto-déclarée « responsable d'usine » (nom de l'entreprise, secteur d'activité et dates tous inconnus). Wikipédia (texte intégral et wikitexte brut) ne traite que de son parcours électoral local. L'article actu.fr cité en référence n'a pas pu être exploité (contenu chargé en JavaScript, non présent dans le HTML statique récupéré) ; le site de la mairie de Saint-Germain-de-Prinçay ne donne aucun élément biographique professionnel ; la page Ouest-France a renvoyé une erreur d'accès (403).",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Dominique_Paillat", "pour": "carriere"},
+      {"url": "https://www.assemblee-nationale.fr/dyn/deputes/PA795278", "pour": "carriere"}
+    ]
+  }
+]}

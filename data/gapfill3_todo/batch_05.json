@@ -1,0 +1,290 @@
+[
+ {
+  "uid": "PA840757",
+  "num": "840757",
+  "nom": "Monique Griseti",
+  "groupe": "Rassemblement National",
+  "dept": "Bouches-du-Rhône",
+  "circo": "1",
+  "naissance": "1960-07-23",
+  "profession_declaree": "(22) - Commerçant et assimilé",
+  "insee": "Commerçants et assimilés",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Assistante commerciale @ SG Menuiseries [prive] janvier 2019-juillet 2024 (congé sans solde depuis le mandat)",
+   "Présidente @ Artisanales (SASU, 100% du capital détenu par elle) [liberal_independant] janvier 2019-juillet 2024"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Monique_Griseti",
+  "wiki_trimmed": "data/wiki_trimmed/PA840757.txt",
+  "notes_actuelles": "Déclaration HATVP consultée directement : emploi salarié chez SG Menuiseries (assistante commerciale) et présidence d'une SASU personnelle (Artisanales), les deux activités étant maintenues jusqu'à son élection. Confirme le profil 'commerçante/artisane' de la profession déclarée officielle. Engagement au Front national dès 18 ans (1978) mentionné par Wikipédia mais il s'agit de militantisme, pas d'un emploi rémunéré, donc non classé en carrière politique. Diplôme resté inconnu malgré vérification de : fr.wikipedia (biographie quasi inexistante), HATVP, pappers.fr (bloqué), sycomore (base de l'"
+ },
+ {
+  "uid": "PA841451",
+  "num": "841451",
+  "nom": "Julien Guibert",
+  "groupe": "Rassemblement National",
+  "dept": "Nièvre",
+  "circo": "2",
+  "naissance": "1984-05-11",
+  "profession_declaree": "(46) - Profession intermédiaire administrative et commerciale des entreprises",
+  "insee": "Professions intermédiaires administratives et commerciales des entreprises",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Commercial matériel agricole @ Agriculture robotique de Bourgogne [prive] octobre 2023-juillet 2024",
+   "Responsable commercial @ STIGA [prive] novembre 2022-octobre 2023",
+   "Responsable grands comptes agriculture @ Berner [prive] mars 2018-novembre 2022"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Julien_Guibert",
+  "wiki_trimmed": "data/wiki_trimmed/PA841451.txt",
+  "notes_actuelles": "Déclaration HATVP consultée directement : succession de postes commerciaux dans l'agroéquipement (Berner, STIGA, Agriculture robotique de Bourgogne), confirmant une carrière entièrement privée jusqu'à l'élection. Diplôme resté inconnu : la biographie Wikipédia est quasi vide (seulement date et lieu de naissance), la déclaration HATVP ne mentionne aucune formation, et la recherche web générale n'a rien trouvé de plus."
+ },
+ {
+  "uid": "PA794734",
+  "num": "794734",
+  "nom": "Michel Guiniot",
+  "groupe": "Rassemblement National",
+  "dept": "Oise",
+  "circo": "6",
+  "naissance": "1954-11-29",
+  "profession_declaree": "Ancien cadre",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "politique_principalement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Artisan-commerçant @ Commerce indépendant (Noyon, Oise) [liberal_independant] 1975-2001 environ (26 ans)",
+   "Secrétaire départemental de l'Oise, puis secrétaire national aux fédérations et aux élus, conseiller spécial de Marine Le Pen pour la réforme territoriale @ Front national puis Rassemblement national [politique] 1988-2022",
+   "Conseiller régional @ Conseil régional de Picardie puis Hauts-de-France [politique] 2004-2022 (mandats successifs)"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Michel_Guiniot",
+  "wiki_trimmed": "data/wiki_trimmed/PA794734.txt",
+  "notes_actuelles": "Carrière bien documentée par Wikipédia (biographie détaillée) : artisan-commerçant pendant 26 ans à Noyon puis, à partir de 1988, cadre à plein temps du FN/RN (secrétaire départemental de l'Oise 1992-2017, secrétaire national aux fédérations puis aux élus, conseiller spécial de Marine Le Pen en 2012, direction de campagnes nationales) cumulé avec des mandats de conseiller régional. Les décennies précédant immédiatement son élection relèvent presque exclusivement de l'appareil partisan, d'où le classement politique_principalement malgré la carrière commerciale antérieure. Diplôme resté inconnu "
+ },
+ {
+  "uid": "PA842013",
+  "num": "842013",
+  "nom": "Steevy Gustave",
+  "groupe": "Écologiste et Social",
+  "dept": "Essonne",
+  "circo": "3",
+  "naissance": "1970-02-05",
+  "profession_declaree": "(35) - Profession de l'information, des arts et des spectacles",
+  "insee": "Chefs d'entreprise de plus de 10 personnes",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Danseur et chorégraphe @ France Gall (artiste) [liberal_independant] 1993-2003 environ (une dizaine d'années)",
+   "Producteur et programmateur d'événements artistiques @ Activité indépendante [liberal_independant] 2007-2014",
+   "Chargé de mission pour les personnes placées sous main de justice @ Cabinet de la ministre de la Justice Christiane Taubira [politique] 2015",
+   "Fondateur et dirigeant @ Labelife Events SAS (entreprise événementielle) [liberal_independant] depuis 2019"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Steevy_Gustave",
+  "wiki_trimmed": "data/wiki_trimmed/PA842013.txt",
+  "notes_actuelles": "Carrière artistique et entrepreneuriale bien documentée (fr.wikipedia, en.wikipedia, article LCP, article de presse locale mesinfos.fr) : danseur hip-hop puis chorégraphe de France Gall, producteur d'événements, puis fondateur de sa propre société événementielle (Labelife Events SAS), cohérent avec sa catégorie INSEE ('chef d'entreprise de plus de 10 personnes'). Bref passage en cabinet ministériel en 2015 (chargé de mission Justice) sans que cela devienne le cœur de carrière. Diplôme resté inconnu malgré vérification de : fr.wikipedia, en.wikipedia, page LCP 'La politique et moi', article mes"
+ },
+ {
+  "uid": "PA794470",
+  "num": "794470",
+  "nom": "Félicie Gérard",
+  "groupe": "Horizons & Indépendants",
+  "dept": "Nord",
+  "circo": "7",
+  "naissance": "1974-01-28",
+  "profession_declaree": "Chef de projet",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Conseiller clients industriels @ Enedis [prive] 2007-2017",
+   "Chef de projet @ Enedis [prive] 2022 (activité interrompue par son élection)"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/F%C3%A9licie_G%C3%A9rard",
+  "wiki_trimmed": "data/wiki_trimmed/PA794470.txt",
+  "notes_actuelles": "Wikipédia confirme un parcours entièrement salarié chez Enedis (conseiller clients industriels 2007-2017 puis chef de projet en 2022), en cohérence avec sa profession déclarée ('chef de projet') ; parcours politique local (adjointe au maire de Wasquehal) mené en parallèle, non professionnel. Diplôme resté inconnu malgré vérification de : fr.wikipedia (section 'Éducation et famille' ne traite que de vie associative, pas d'études), HATVP (aucune fiche trouvée), pappers.fr (bloqué 403), nosdeputes.fr (erreur serveur), recherche web générale."
+ },
+ {
+  "uid": "PA842263",
+  "num": "842263",
+  "nom": "Ayda Hadizadeh",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Val-d'Oise",
+  "circo": "2",
+  "naissance": "1982-02-12",
+  "profession_declaree": "(37) - Cadre administratif et commercial d'entreprise",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "mixte_public_prive",
+   "confiance": "moyenne"
+  },
+  "carriere_connue": [
+   "Cadre (plusieurs années) @ Direction générale de l'enseignement scolaire (DGESCO), ministère de l'Éducation nationale [public] non précisé, avant 2021",
+   "Directrice générale @ Fondation Mozaïk [associatif] 2021-2022",
+   "Déléguée générale @ Les Oubliés de la République (association) [associatif] depuis mars 2023",
+   "Adjointe au maire chargée de la Culture @ Mairie de Saint-Ouen-l'Aumône [politique] jusqu'en septembre 2024"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Ayda_Hadizadeh",
+  "wiki_trimmed": "data/wiki_trimmed/PA842263.txt",
+  "notes_actuelles": "Carrière confirmée par fr.wikipedia, en.wikipedia et un article de presse locale (mesinfos.fr) : plusieurs années au ministère de l'Éducation nationale (direction générale de l'enseignement scolaire, dates précises non données), puis direction générale de la Fondation Mozaïk (2021-2022, insertion professionnelle des publics discriminés) et délégation générale de l'association 'Les Oubliés de la République' depuis 2023 ; ces deux dernières activités associatives sont classées ici comme 'worked_private' faute de catégorie dédiée dans le schéma, distinctes de la fonction publique. Diplôme resté t"
+ },
+ {
+  "uid": "PA841813",
+  "num": "841813",
+  "nom": "Florence Herouin-Léautey",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Seine-Maritime",
+  "circo": "1",
+  "naissance": "1972-12-28",
+  "profession_declaree": "(33) - Cadre de la fonction publique",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Attachée territoriale @ Fonction publique territoriale (collectivité non précisée) [public] avant 2020",
+   "Conseillère municipale @ Mairie de Rouen [politique] avant 2020-2024",
+   "Adjointe au maire chargée des Écoles et de la petite enfance @ Mairie de Rouen [politique] 2020-2024"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Florence_H%C3%A9rouin-L%C3%A9autey",
+  "wiki_trimmed": "data/wiki_trimmed/PA841813.txt",
+  "notes_actuelles": "Wikipédia confirme qu'elle était attachée territoriale (fonction publique territoriale, catégorie A) avant de devenir élue locale à Rouen puis adjointe au maire chargée des écoles. Fille de Pierre Léautey, ancien maire de Mont-Saint-Aignan et ancien député. Le grade d'attaché territorial s'obtient généralement par un concours externe qui exige a minima une licence, mais il existe aussi des voies de concours interne sans ce prérequis ; en l'absence de source nommant un établissement ou un diplôme précis, le niveau est resté 'inconnu' plutôt que déduit. Vérifié : fr.wikipedia, article ici.fr (au"
+ },
+ {
+  "uid": "PA794022",
+  "num": "794022",
+  "nom": "Jérémie Iordanoff",
+  "groupe": "Écologiste et Social",
+  "dept": "Isère",
+  "circo": "5",
+  "naissance": "1983-02-02",
+  "profession_declaree": "Artiste-peintre",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "politique_principalement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Attaché parlementaire @ Jean-Louis Roumégas, député de l'Hérault [politique] 2012-2017",
+   "Secrétaire national adjoint @ Europe Écologie Les Verts (EELV) [politique] 2019-2022",
+   "Artiste-peintre indépendant @ Activité indépendante [liberal_independant] 2018-2024"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%A9mie_Iordanoff",
+  "wiki_trimmed": "data/wiki_trimmed/PA794022.txt",
+  "notes_actuelles": "Carrière bien documentée par la déclaration HATVP (dépôt du 16/07/2025) : attaché parlementaire de Jean-Louis Roumégas (2012-2017), secrétaire national adjoint d'EELV rémunéré (2019-2022), et activité d'artiste-peintre indépendant aux revenus modestes et irréguliers (0 à 8 174 €/an entre 2018 et 2024). L'essentiel de la vie active semble s'être déroulé dans des fonctions politiques (attaché parlementaire à temps plein puis cadre de parti rémunéré), d'où le profil « politique_principalement », mais l'activité artistique indépendante réelle empêche de cocher political_career_only. Niveau d'étude"
+ },
+ {
+  "uid": "PA841439",
+  "num": "841439",
+  "nom": "Pascal Jenft",
+  "groupe": "Rassemblement National",
+  "dept": "Moselle",
+  "circo": "5",
+  "naissance": "1966-11-29",
+  "profession_declaree": "(21) - Artisan",
+  "insee": "Artisans",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "mixte_public_prive",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Gendarme motocycliste @ Gendarmerie nationale [public] environ 1985-2005",
+   "Fondateur-gérant @ FERMAP (menuiserie PVC et aluminium) [prive] 2005-présent"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Pascal_Jenft",
+  "wiki_trimmed": "data/wiki_trimmed/PA841439.txt",
+  "notes_actuelles": "Carrière de gendarme motocycliste pendant une vingtaine d'années (Wikipedia), suivie de la fondation en mars 2005 de l'entreprise de menuiserie FERMAP à Forbach/Sarreguemines, confirmée par le site de l'entreprise (« Créée en Mars 2005 par Pascal JENFT ») et par sa fiche dirigeant Infonet (gérant de FERMAP GEST). Aucun diplôme n'a été trouvé malgré plusieurs recherches ciblées. Sources consultées : Wikipedia FR, fermap.fr, infonet.fr. Les moteurs de recherche web étaient indisponibles/bloqués (WebSearch quota épuisé, DuckDuckGo et Brave anti-bot, Bing renvoyant des résultats non pertinents) pe"
+ },
+ {
+  "uid": "PA794030",
+  "num": "794030",
+  "nom": "Alexis Jolly",
+  "groupe": "Rassemblement National",
+  "dept": "Isère",
+  "circo": "6",
+  "naissance": "1990-12-22",
+  "profession_declaree": "Commerçant et assimilé",
+  "insee": "Commerçants et assimilés",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Attaché parlementaire @ Steeve Briois, député [politique] 11/2017-05/2019",
+   "Attaché parlementaire @ Aurélia Beigneux, députée européenne [politique] 09/2019-12/2019",
+   "Diffuseur de presse/magazines @ Les éditions du Serac [liberal_independant] 01/2017-07/2021",
+   "Examinateur vacataire (jurys d'examens) @ INSEEC [prive] 08/2021-06/2022",
+   "Consultant en communication (micro-entreprise AJ Conseil) @ Activité indépendante [liberal_independant] 04/2021-10/2021",
+   "Propriétaire de librairie @ SARL Piste Verte [liberal_independant] 11/2021-01/2025 (activité conservée)",
+   "Responsable local (non rémunéré) @ Rassemblement national [politique] 2019-2023"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Alexis_Jolly",
+  "wiki_trimmed": "data/wiki_trimmed/PA794030.txt",
+  "notes_actuelles": "Déclaration HATVP (dépôt du 23/01/2025) très détaillée, consultée directement : deux passages comme attaché parlementaire RN (2017-2019 puis 2019), en parallèle d'une activité continue et durable de diffuseur de presse indépendant (2017-2021) puis de libraire (SARL Piste Verte, 2021-2025, activité toujours en cours au dépôt de la déclaration), plus une activité ponctuelle d'examinateur vacataire à l'INSEEC et de consultant en micro-entreprise. L'activité économique privée/indépendante est la plus continue et la plus longue, d'où le classement « prive_uniquement » malgré les deux mandats d'atta"
+ },
+ {
+  "uid": "PA841749",
+  "num": "841749",
+  "nom": "Tiffany Joncour",
+  "groupe": "Rassemblement National",
+  "dept": "Rhône",
+  "circo": "13",
+  "naissance": "1989-09-02",
+  "profession_declaree": "(37) - Cadre administratif et commercial d'entreprise",
+  "insee": "Professions intermédiaires administratives et commerciales des entreprises",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "carriere_connue": [
+   "Cadre administratif et commercial d'entreprise @ inconnu [prive] inconnue"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Tiffany_Joncour",
+  "wiki_trimmed": "data/wiki_trimmed/PA841749.txt",
+  "notes_actuelles": "Sa carrière professionnelle est qualifiée de « floue » par la presse (Wikipedia FR) et son profil « discret, loin des estrades et des plateaux de télévision » (lemalpensant.fr). Elle est décrite comme « commerciale sans emploi » au moment de son élection en 2024. Aucun employeur nommé n'a pu être identifié malgré plusieurs recherches, y compris un article de presse consacré spécifiquement à sa biographie. Aucune information sur sa formation n'a été trouvée. Le secteur « privé » est retenu par déduction de la catégorie INSEE (« cadre administratif et commercial d'entreprise », qui exclut la fon"
+ },
+ {
+  "uid": "PA720038",
+  "num": "720038",
+  "nom": "Sandrine Josso",
+  "groupe": "Les Démocrates",
+  "dept": "Loire-Atlantique",
+  "circo": "7",
+  "naissance": "1975-09-19",
+  "profession_declaree": "Autre profession libérale",
+  "insee": "Professions libérales",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "carriere_connue": [
+   "Coach/consultante en nutrition (cabinet indépendant) @ Activité indépendante (cabinets à Vannes, Bruz, Guérande, Pontchâteau) [liberal_independant] 2007-2015 (procédure de liquidation judiciaire close en 2018)",
+   "Intervenante occasionnelle @ IPDD (institut de formation de diététiciens) [prive] inconnue"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Sandrine_Josso",
+  "wiki_trimmed": "data/wiki_trimmed/PA720038.txt",
+  "notes_actuelles": "Une enquête de presse (breizh-info.com, 2019) documente en détail son activité professionnelle réelle : ouverture d'un cabinet de coaching/consultation en nutrition à Vannes en mars 2007, avec des antennes à Bruz, Guérande et Pontchâteau, vente de consultations et de compléments alimentaires, quelques interventions à l'IPDD ; la société a connu une procédure de redressement judiciaire (cessation des paiements au 01/02/2014, jugement du 07/08/2015) puis une liquidation close le 29/01/2018. La même enquête affirme n'avoir trouvé aucune trace des diplômes qu'elle revendiquait (« ingénieur en nutr"
+ }
+]

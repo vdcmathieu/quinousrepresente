@@ -1,0 +1,258 @@
+{"deputies": [
+  {
+    "uid": "PA841801",
+    "nom": "Danièle Carteron",
+    "highest_degree_level": "bac+5",
+    "degrees": [{"institution": "Université Savoie Mont-Blanc (Chambéry)", "diplome": "Diplôme universitaire en droit public, droit de l'urbanisme et de la construction", "domaine": "droit"}],
+    "fields": ["droit"],
+    "career": [
+      {"poste": "Cheffe d'entreprise - assistance à maîtrise d'ouvrage", "employeur": "Entreprise individuelle (AMO), Saint-Jean-de-Sixt", "secteur": "liberal_independant", "periode": "inconnu, avant 2024"},
+      {"poste": "Formatrice en droit de la construction, de la copropriété et de l'urbanisme", "employeur": "CCI Haute-Savoie", "secteur": "prive", "periode": "inconnu"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "France 3 Auvergne-Rhône-Alpes (article du 28/04/2026) précise: \"Diplômée en droit public, droit de l'urbanisme et construction à l'Université Savoie Mont-Blanc de Chambéry, elle a créé une petite entreprise d'assistance à maîtrise d'ouvrage\", et qu'elle a été \"formatrice en droit de la construction, droit de la copropriété et droit de l'urbanisme à la CCI Haute-Savoie\". Mandats locaux (première adjointe au maire, conseillère communautaire) exercés en parallèle de son activité professionnelle, non comptés comme carrière séparée. Fiche HATVP consultée mais déclaration non encore publiée à ce jour.",
+    "sources": [
+      {"url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/haute-savoie/annecy/specialiste-de-promotion-immobiliere-cheffe-d-entreprise-battue-aux-municipales-qui-est-daniele-carteron-nouvelle-deputee-de-la-haute-savoie-3333209.html", "pour": "both"},
+      {"url": "https://fr.wikipedia.org/wiki/Dani%C3%A8le_Carteron", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA840075",
+    "nom": "Eddy Casterman",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Collaborateur parlementaire", "employeur": "Vincent Segouin, sénateur de l'Orne", "secteur": "politique", "periode": "12/2019-11/2023"},
+      {"poste": "Collaborateur de cabinet", "employeur": "AFEMM", "secteur": "politique", "periode": "01/2024-06/2024"},
+      {"poste": "Maire-adjoint aux affaires scolaires", "employeur": "Commune d'Englos", "secteur": "politique", "periode": "06/2020-07/2024"}
+    ],
+    "worked_private": false,
+    "worked_public": false,
+    "political_career_only": true,
+    "career_profile": "politique_principalement",
+    "confidence": "haute",
+    "notes": "La déclaration d'intérêts HATVP (consultée en PDF) ne recense aucune activité professionnelle en dehors de postes de collaborateur parlementaire et de collaborateur de cabinet, plus un mandat local d'adjoint au maire. La profession déclarée officiellement à l'Assemblée (\"cadre administratif et commercial d'entreprise\") ne correspond à aucun emploi identifié dans ces sources. Aucun diplôme trouvé malgré recherche (HATVP, fiche AN, Datan, LinkedIn non accessible en détail).",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/dossiers/casterman-eddy-diam31267-depute-02.pdf", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Eddy_Casterman", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA719922",
+    "nom": "Lionel Causse",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Cadre dans l'économie sociale et solidaire", "employeur": "inconnu", "secteur": "associatif", "periode": "avant 2008 (début de carrière, selon Wikipedia)"},
+      {"poste": "Président puis vice-président (bénévole)", "employeur": "CPIE Seignanx et Adour", "secteur": "associatif", "periode": "jusqu'en 2024"}
+    ],
+    "worked_private": false,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "inconnu",
+    "confidence": "basse",
+    "notes": "Wikipedia et L'Écho du Sud mentionnent seulement qu'il \"a occupé des fonctions de cadre dans le secteur de l'économie sociale et solidaire au début de sa carrière\", sans nommer l'employeur. Sa déclaration HATVP (fenêtre des 5 ans précédant 2022) indique \"Néant\" pour les activités professionnelles rémunérées - il était déjà maire/conseiller général à plein temps depuis 2008-2014, donc cette déclaration ne couvre pas son emploi ESS antérieur. Présidence du CPIE Seignanx et Adour confirmée mais non rémunérée. Sources consultées: Wikipedia, France3, L'Écho du Sud, nosdeputes.fr, HATVP - aucune ne nomme l'employeur ni le niveau d'études.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/fiche-nominative/?declarant=causse-lionel", "pour": "carriere"},
+      {"url": "https://www.lechodusud.com/qui-est-lionel-causse/", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841047",
+    "nom": "François-Xavier Ceccoli",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Gérant puis directeur", "employeur": "Fruticor (station de conditionnement et négoce de clémentines et agrumes, San-Nicolao, Corse)", "secteur": "liberal_independant", "periode": "2018-présent (gérant 2018-2021, directeur depuis 2022)"},
+      {"poste": "Président", "employeur": "GIE Corsica Comptoir", "secteur": "liberal_independant", "periode": "depuis 2018"},
+      {"poste": "Agriculteur (activité secondaire)", "employeur": "Exploitation personnelle", "secteur": "liberal_independant", "periode": "depuis 2018"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Chef d'entreprise dans la filière agroalimentaire corse (négoce de clémentines), confirmé avec dates et rémunérations précises par sa déclaration HATVP, et par la presse locale (Corse Net Infos, Visit Corsica) qui décrit Fruticor comme une station de conditionnement de 8000 m² employant jusqu'à 60 personnes en pic de saison. Aucune information sur ses études trouvée malgré recherches (HATVP, Facebook, presse corse, annuaires de maires).",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/ceccoli-francois-xavier-27454", "pour": "carriere"},
+      {"url": "https://www.corsenetinfos.corsica/Francois-Xavier-Ceccoli-L-image-de-la-Corse-en-matiere-de-produits-alimentaires-est-tres-bonne_a37522.html", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA842037",
+    "nom": "Bérenger Cernon",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Conducteur de train (RER D puis R)", "employeur": "SNCF", "secteur": "public", "periode": "2008-présent"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "haute",
+    "notes": "Employé de la SNCF (établissement public) comme conducteur depuis 2008, confirmé par Wikipedia et l'article de La Vie Ouvrière (NVO, 2024) qui précise \"il rejoint la SNCF en 2008 comme conducteur sur les lignes D et R\". Engagement syndical CGT (délégué du personnel, secrétaire de CHSCT) exercé dans le cadre de cet emploi, non compté comme carrière séparée. Un profil LinkedIn indique une scolarité à l'Université de Bourgogne, mais sans précision de filière ni de diplôme obtenu - non retenu comme preuve d'un diplôme malgré recherches complémentaires.",
+    "sources": [
+      {"url": "https://nvo.fr/berenger-cernon-un-syndicaliste-a-lassemblee-nationale/", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/B%C3%A9renger_Cernon", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA840701",
+    "nom": "Bernard Chaix",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Gérant majoritaire, commerce de tapis et moquettes", "employeur": "Chaix Décoration (entreprise familiale fondée en 1936 sous le nom de comptoir textile du Sud-Est, puis Tapichaix)", "secteur": "liberal_independant", "periode": "gérance formelle depuis 06/2021; entreprise familiale reprise sur plusieurs générations"},
+      {"poste": "Président", "employeur": "CGPME Alpes-Maritimes", "secteur": "associatif", "periode": "depuis 2007"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Commerçant, gérant de l'entreprise familiale de vente de tapis et moquettes Chaix Décoration à Nice (fondée en 1936, reprise sur trois générations), confirmé par sa déclaration HATVP (dates et employeur nommés) et par la presse (Nice Presse, RCF Nice Côte d'Azur, WebSearch synthétisant Kompass/Société.com). Aucune information sur ses études trouvée malgré recherches multiples.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/chaix-bernard-22632", "pour": "carriere"},
+      {"url": "https://nicepresse.com/a-nice-portrait-de-bernard-chaix-lr-rn-nouveau-depute-des-quartiers-nord-chef-dentreprise-pourfendeur-de-la-fraude-sociale/", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA840107",
+    "nom": "Bernard Chaumeil",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Directeur de cabinet puis cadre dirigeant", "employeur": "Bouygues Telecom", "secteur": "prive", "periode": "inconnu (carrière privée avec missions à l'international)"},
+      {"poste": "Cadre dirigeant, relations institutionnelles", "employeur": "Engie", "secteur": "prive", "periode": "inconnu"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Dans un entretien à Hérault Tribune (Echo des Tribunes), Bernard Chaumeil (né en 1958) déclare avoir \"construit une carrière dense dans le secteur privé\", ayant \"occupé des postes à responsabilités au sein de grands groupes comme Bouygues Telecom ou Engie\" (directeur de cabinet puis cadre dirigeant, missions à l'international); il insiste: \"Je n'ai jamais voulu dépendre de la politique. J'ai toujours travaillé à côté dans le privé.\" Cela est distinct de ses 20 ans d'engagement politique local bénévole (Plessis-Robinson, RPR de Pasqua, Parti radical de Borloo, UDI) évoqués dans le même article. L'Agathois confirme des \"responsabilités en relations institutionnelles au sein du groupe Engie\". Aucun diplôme mentionné dans les sources consultées.",
+    "sources": [
+      {"url": "https://echo-des-tribunes.com/herault-tribune/articles/lopezliguori-elu-a-la-mairie-dagde-qui-est-bernard-chaumeil-le-nouveau-depute-rn-de-lherault", "pour": "carriere"},
+      {"url": "https://www.lagathois.fr/articles/51292/un-nouvel-elu-a-l-assemblee-bernard-chaumeil-appele-a-remplacer-aurelien-lopez-liguori", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA840721",
+    "nom": "Marc Chavent",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Assistant parlementaire", "employeur": "Sylvie Goy-Chavent, sénatrice de l'Ain (sa sœur)", "secteur": "politique", "periode": "01/2018-07/2024 (selon HATVP; Wikipedia indique qu'il fut \"un temps\" son assistant, sans date de début précise)"}
+    ],
+    "worked_private": false,
+    "worked_public": false,
+    "political_career_only": true,
+    "career_profile": "politique_principalement",
+    "confidence": "moyenne",
+    "notes": "La seule activité professionnelle documentée par sa déclaration HATVP est celle d'assistant parlementaire de sa sœur, la sénatrice Sylvie Goy-Chavent. La profession déclarée officiellement (\"cadre de la fonction publique\") ne correspond à aucun poste identifié dans la fonction publique proprement dite - possible classification INSEE approximative du statut de collaborateur parlementaire (qui est un contrat de droit privé, non un poste de fonctionnaire), d'où le classement en \"politique\" plutôt qu'en \"public\". Fils d'agriculteur (Bourg-en-Bresse); aucune activité professionnelle antérieure à 2018 trouvée malgré recherches. Diplôme inconnu.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/fiche-nominative/?declarant=chavent-marc-27459", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Marc_Chavent", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841595",
+    "nom": "Cendrine Chazé",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Secrétaire de mairie", "employeur": "Commune de Gouffern en Auge et communes déléguées", "secteur": "public", "periode": "inconnu"},
+      {"poste": "Secrétaire de mairie", "employeur": "Communauté de communes du Pays du Haras du Pin", "secteur": "public", "periode": "inconnu"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "Poste de secrétaire de mairie (fonction publique territoriale) confirmé par Wikipedia, cohérent avec la profession déclarée officiellement à l'Assemblée. Aucune information trouvée sur sa formation ou son diplôme malgré recherches (Wikipedia, fiche AN, Conseil départemental de l'Orne, nosdeputes). Le métier de secrétaire de mairie n'impose pas de diplôme unique standardisé (niveaux très variables selon la taille des communes), donc aucun niveau n'a été inféré par prudence.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Cendrine_Chaz%C3%A9", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA840903",
+    "nom": "Paul Christophle",
+    "highest_degree_level": "bac+5",
+    "degrees": [
+      {"institution": "Institut d'études politiques de Strasbourg (Sciences Po Strasbourg)", "diplome": "Diplôme de l'IEP", "domaine": "sciences-politiques"},
+      {"institution": "HEC Paris", "diplome": "Diplôme HEC", "domaine": "commerce"}
+    ],
+    "fields": ["sciences-politiques", "commerce"],
+    "career": [
+      {"poste": "Chargé de mission", "employeur": "Cabinet de Fleur Pellerin, ministre de la Culture et de la Communication", "secteur": "politique", "periode": "2015-2016"},
+      {"poste": "Conseiller chargé du numérique et de l'engagement des jeunes", "employeur": "Cabinet de Patrick Kanner, ministre de la Ville, de la Jeunesse et des Sports", "secteur": "politique", "periode": "2016"},
+      {"poste": "Poste non précisé", "employeur": "Korelya Capital (société de gestion fondée par Fleur Pellerin)", "secteur": "prive", "periode": "vers 2018"},
+      {"poste": "Directeur", "employeur": "Coopérative d'activité et d'emploi (accompagnement d'entrepreneurs)", "secteur": "prive", "periode": "avant son élection de 2024, poursuivi en parallèle selon Contexte.com"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "mixte_public_prive",
+    "confidence": "haute",
+    "notes": "Sa bio Contexte.com (rédigée par la rédaction de Contexte) indique: \"Diplômé de l'Institut d'études politiques de Strasbourg et de HEC, Paul Christophle a notamment été chargé de mission de 2015 à 2016 au cabinet de Fleur Pellerin [...] puis conseiller numérique de Patrick Kanner [...] en 2016. Il dirige actuellement une coopérative d'activité et d'emploi qui accompagne les entrepreneurs.\" Le passage chez Korelya Capital et le conseil bénévole à Mounir Mahjoubi sont mentionnés par Wikipedia. Le libellé \"mixte_public_prive\" est utilisé par défaut faute de catégorie dédiée dans le schéma: sa carrière réelle mélange des postes en cabinets ministériels (secteur \"politique\") et des emplois privés (Korelya Capital, coopérative d'activité et d'emploi), et non un mélange public/privé au sens strict.",
+    "sources": [
+      {"url": "https://www.contexte.com/ressources/acteurs/paul-christophle/", "pour": "both"},
+      {"url": "https://fr.wikipedia.org/wiki/Paul_Christophle", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA840159",
+    "nom": "Bruno Clavet",
+    "highest_degree_level": "bac+5",
+    "degrees": [{"institution": "École non précisée (formation suivie en partie à New York)", "diplome": "Master communication et stratégie des affaires publiques", "domaine": "communication-journalisme"}],
+    "fields": ["communication-journalisme", "sciences-politiques"],
+    "career": [
+      {"poste": "Mannequin lingerie (sous le nom de Bruno May)", "employeur": "Indépendant (marques dont Armani Underwear)", "secteur": "liberal_independant", "periode": "2012, pour financer une année d'études à New York"},
+      {"poste": "Chargé de communication", "employeur": "Mairie d'Hénin-Beaumont (Pas-de-Calais)", "secteur": "politique", "periode": "depuis ~2018-2020, sous la majorité RN de Steeve Briois"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "politique_principalement",
+    "confidence": "haute",
+    "notes": "CNews (02/07/2024) confirme: pour financer son année scolaire à New York, il a été mannequin de lingerie en 2012, puis \"ces études ont ensuite permis au député [...] de décrocher un master en communication et stratégie des affaires publiques\". Franceinfo (article municipales de Lens) confirme qu'il \"travaille comme chargé de communication à la mairie d'Hénin-Beaumont [...] dont la majorité est dirigée par Steeve Briois, lui aussi au Rassemblement national\" - poste classé en secteur \"politique\" plutôt que \"public\" car ce type de poste de communication pour un maire est généralement pourvu en tant que collaborateur de cabinet, non par concours de la fonction publique territoriale (nuance non confirmée avec certitude absolue). Engagement politique élu (conseiller municipal Paris 2014, conseiller régional Hauts-de-France, conseiller/candidat municipal à Lens) continu depuis 2007.",
+    "sources": [
+      {"url": "https://www.cnews.fr/france/2024-07-02/elections-legislatives-2024-qui-est-bruno-clavet-ancien-mannequin-lingerie-et", "pour": "diplome"},
+      {"url": "https://www.franceinfo.fr/politique/front-national/municipales-a-lens-qui-est-bruno-clavet-candidat-rn-passe-de-la-telerealite-aux-municipales_3851823.html", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA721202",
+    "nom": "Éric Coquerel",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": ["histoire-geographie"],
+    "career": [
+      {"poste": "Fondateur et dirigeant", "employeur": "Effets Mer (agence de communication)", "secteur": "liberal_independant", "periode": "fin années 1980 - début années 2000"},
+      {"poste": "Permanent politique (secrétaire national du MRC, puis fondateur du MARS, coordinateur du Parti de Gauche)", "employeur": "Mouvement républicain et citoyen, MARS, Parti de Gauche", "secteur": "politique", "periode": "2003-2021"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "mixte_public_prive",
+    "confidence": "moyenne",
+    "notes": "Wikipedia indique qu'il \"entreprend des études d'histoire à l'université Paris-Diderot [...] avec pour objectif le CAPES qu'il n'obtient pas\" - le CAPES est un concours et non un diplôme, et sa réussite suppose déjà une licence, mais aucune source ne confirme explicitement qu'il ait obtenu une licence d'histoire; par prudence le niveau de diplôme reste \"inconnu\" plutôt que d'inférer une licence non confirmée. Il crée et dirige l'agence de communication indépendante Effets Mer (liée à la voile sportive, création du Vendée Globe, communication d'Isabelle Autissier et Michel Desjoyeaux), puis devient permanent politique quasi-continu à partir de 2003 (MRC, MARS, Parti de Gauche) avant son élection comme député en 2017. Sa déclaration HATVP actuelle (fenêtre 2022-2024) indique \"Néant\" pour toute activité professionnelle rémunérée, cohérent avec une carrière de député/permanent politique à temps plein. Le libellé \"mixte_public_prive\" est utilisé par défaut faute de catégorie dédiée: le mélange réel est entre activité privée indépendante (Effets Mer) et activité politique (partis), pas public/privé au sens strict.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/%C3%89ric_Coquerel", "pour": "both"},
+      {"url": "https://www.hatvp.fr/livraison/dossiers/coquerel-eric-diam30912-depute-93.pdf", "pour": "carriere"}
+    ]
+  }
+]}

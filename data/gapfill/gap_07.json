@@ -1,0 +1,50 @@
+{
+  "deputies": [
+    {
+      "uid": "PA719968",
+      "nom": "Sylvie Bonnet",
+      "highest_degree_level": "inconnu",
+      "fields": ["sante"],
+      "career": [
+        {
+          "poste": "ergonome de formation, cadre médico-social, gestionnaire des risques professionnels, formatrice PRAPS",
+          "employeur": "Maison de retraite de la Loire (MRL), Saint-Just-Saint-Rambert",
+          "secteur": "public",
+          "periode": "avant 2017"
+        },
+        {
+          "poste": "collaboratrice parlementaire de Dino Cinieri",
+          "employeur": "Dino Cinieri, député",
+          "secteur": "politique",
+          "periode": "2017-2023"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Confirmée comme ergonome de formation, sans précision d'établissement ni de niveau de diplôme (source: https://www.lechodusud.com/post/qui-est-sylvie-bonnet)."
+    },
+    {
+      "uid": "PA720038",
+      "nom": "Sandrine Josso",
+      "highest_degree_level": "inconnu",
+      "fields": ["medecine-sante"],
+      "career": [
+        {
+          "poste": "diététicienne / conseils en nutrition, exploitante d'un cabinet de nutrition (activité libérale)",
+          "employeur": "indépendante, cabinets en Bretagne (dont La Baule)",
+          "secteur": "liberal_independant",
+          "periode": "avant 2017, société en redressement judiciaire en 2015 puis liquidée en 2018"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Une enquête de presse locale affirme qu'elle n'a jamais obtenu les diplômes qu'elle revendiquait (dont un 'master' anglais inachevé) ; à traiter comme non vérifié (source: https://www.breizh-info.com/2019/10/20/129033/la-baule-sandrine-josso-lrem-sest-elle-attribuee-de-faux-diplomes/)."
+    }
+  ]
+}

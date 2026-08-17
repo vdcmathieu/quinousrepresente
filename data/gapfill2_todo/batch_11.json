@@ -1,0 +1,230 @@
+[
+ {
+  "uid": "PA720976",
+  "num": "720976",
+  "nom": "Max Mathiasin",
+  "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+  "dept": "Guadeloupe",
+  "circo": "3",
+  "naissance": "1956-02-24",
+  "profession_declaree": "Fonction publique territoriale",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Max_Mathiasin",
+  "wiki_trimmed": "data/wiki_trimmed/PA720976.txt",
+  "notes_actuelles": "Formation non documentée ; nominations décrites comme liées à des relations politiques locales."
+ },
+ {
+  "uid": "PA794262",
+  "num": "794262",
+  "nom": "Patricia Maussion",
+  "groupe": "Les Démocrates",
+  "dept": "Maine-et-Loire",
+  "circo": "7",
+  "naissance": "1968-09-23",
+  "profession_declaree": "Agricultrice",
+  "insee": "Agriculteurs exploitants",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Patricia_Maussion",
+  "wiki_trimmed": "data/wiki_trimmed/PA794262.txt",
+  "notes_actuelles": ""
+ },
+ {
+  "uid": "PA841931",
+  "num": "841931",
+  "nom": "Laurent Mazaury",
+  "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+  "dept": "Yvelines",
+  "circo": "11",
+  "naissance": "1965-08-23",
+  "profession_declaree": "(37) - Cadre administratif et commercial d'entreprise",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "inconnu",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Laurent_Mazaury",
+  "wiki_trimmed": "data/wiki_trimmed/PA841931.txt",
+  "notes_actuelles": "Biographie limitée aux informations de naissance et de mandat, sans détail sur formation ou carrière."
+ },
+ {
+  "uid": "PA720370",
+  "num": "720370",
+  "nom": "Ludovic Mendes",
+  "groupe": "Ensemble pour la République",
+  "dept": "Moselle",
+  "circo": "2",
+  "naissance": "1987-04-11",
+  "profession_declaree": "Cadre supérieur (secteur privé)",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Ludovic_Mendes",
+  "wiki_trimmed": "data/wiki_trimmed/PA720370.txt",
+  "notes_actuelles": "La société ENIDD qu'il dirigeait a fait l'objet d'une liquidation judiciaire en 2016."
+ },
+ {
+  "uid": "PA719640",
+  "num": "719640",
+  "nom": "Sophie Mette",
+  "groupe": "Les Démocrates",
+  "dept": "Gironde",
+  "circo": "9",
+  "naissance": "1959-09-13",
+  "profession_declaree": "Sans profession déclarée",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "inconnu",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Sophie_Mette",
+  "wiki_trimmed": "data/wiki_trimmed/PA719640.txt",
+  "notes_actuelles": "La biographie ne mentionne aucune activité professionnelle avant son engagement bénévole puis politique."
+ },
+ {
+  "uid": "PA841769",
+  "num": "841769",
+  "nom": "Éric Michoux",
+  "groupe": "Union des droites pour la République",
+  "dept": "Saône-et-Loire",
+  "circo": "4",
+  "naissance": "1959-06-17",
+  "profession_declaree": "(23) - Chef d'entreprise de 10 salariés ou plus",
+  "insee": "Chefs d'entreprise de plus de 10 personnes",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/%C3%89ric_Michoux",
+  "wiki_trimmed": "data/wiki_trimmed/PA841769.txt",
+  "notes_actuelles": "Biographie très succincte."
+ },
+ {
+  "uid": "PA643104",
+  "num": "643104",
+  "nom": "Christelle Minard",
+  "groupe": "Droite Républicaine",
+  "dept": "Eure-et-Loir",
+  "circo": "2",
+  "naissance": "1970-10-04",
+  "profession_declaree": "Agricultrice",
+  "insee": "Agriculteurs exploitants",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "mixte_public_prive",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Christelle_Minard",
+  "wiki_trimmed": "data/wiki_trimmed/PA643104.txt",
+  "notes_actuelles": "Statut public ou privé sous contrat du lycée agricole non précisé par la source, supposé public par défaut."
+ },
+ {
+  "uid": "PA793696",
+  "num": "793696",
+  "nom": "Serge Muller",
+  "groupe": "Rassemblement National",
+  "dept": "Dordogne",
+  "circo": "2",
+  "naissance": "1976-02-26",
+  "profession_declaree": "Profession intermédiaire de la santé et du travail social",
+  "insee": "Employés administratifs de la fonction publique, agents de service et auxiliaires de santé",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Serge_Muller",
+  "wiki_trimmed": "data/wiki_trimmed/PA793696.txt",
+  "notes_actuelles": "Déclaration HATVP : aide-soignant en hôpital de janvier 2019 à juin 2022 (source : hatvp.fr/pages_nominatives/muller-serge-24188)."
+ },
+ {
+  "uid": "PA643157",
+  "num": "643157",
+  "nom": "Philippe Naillet",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Réunion",
+  "circo": "1",
+  "naissance": "1960-08-14",
+  "profession_declaree": "Inspecteur assurance-vie",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Philippe_Naillet",
+  "wiki_trimmed": "data/wiki_trimmed/PA643157.txt",
+  "notes_actuelles": "HATVP mentionne un mandat de PDG (2014-2020) puis administrateur de la SEM Sodiac, société d'aménagement/logement social à statut de droit privé bien que capital public (source: hatvp.fr/pages_nominatives/naillet-philippe) ; niveau et diplôme obtenus à l'université de La Réunion toujours non précisés."
+ },
+ {
+  "uid": "PA841191",
+  "num": "841191",
+  "nom": "Sandrine Nosbé",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Isère",
+  "circo": "9",
+  "naissance": "1972-10-29",
+  "profession_declaree": "(54) - Employé administratif d'entreprise",
+  "insee": "Employés administratifs d'entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Sandrine_Nosb%C3%A9",
+  "wiki_trimmed": "data/wiki_trimmed/PA841191.txt",
+  "notes_actuelles": "Parcours avant l'engagement politique peu documenté (séjours au Royaume-Uni et en Allemagne); activité professionnelle déduite de la profession déclarée."
+ },
+ {
+  "uid": "PA841107",
+  "num": "841107",
+  "nom": "Jacques Oberti",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Haute-Garonne",
+  "circo": "10",
+  "naissance": "1960-11-26",
+  "profession_declaree": "(38) - Ingénieur et cadre technique d'entreprise",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Jacques_Oberti",
+  "wiki_trimmed": "data/wiki_trimmed/PA841107.txt",
+  "notes_actuelles": "Biographie centrée sur les mandats locaux; activité professionnelle déduite de la profession déclarée."
+ },
+ {
+  "uid": "PA841993",
+  "num": "841993",
+  "nom": "Dominique Paillat",
+  "groupe": "Horizons & Indépendants",
+  "dept": "Vendée",
+  "circo": "2",
+  "naissance": "1958-06-11",
+  "profession_declaree": "responsable d'usine",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Dominique_Paillat",
+  "wiki_trimmed": "data/wiki_trimmed/PA841993.txt",
+  "notes_actuelles": "Carrière professionnelle connue uniquement via la profession déclarée (responsable d'usine), la biographie ne traitant que de son parcours électoral."
+ }
+]

@@ -1,0 +1,77 @@
+{
+  "deputies": [
+    {
+      "uid": "PA793520",
+      "nom": "Mickaël Cosson",
+      "career": [
+        {
+          "poste": "Chargé d'opérations urbanisme",
+          "employeur": "Direction départementale des territoires et de la mer des Côtes-d'Armor (DDTM22)",
+          "secteur": "public",
+          "periode": "janvier 2019 - juin 2022"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Déclaration HATVP : chargé d'opérations à la DDTM22, mise en disponibilité automatique à son élection (source : hatvp.fr/pages_nominatives/cosson-mickael-18183)."
+    },
+    {
+      "uid": "PA793556",
+      "nom": "Sabine Gervais",
+      "career": [
+        {
+          "poste": "Infirmière puéricultrice, coordinatrice des assistants familiaux",
+          "employeur": "Service PMI (Protection maternelle et infantile) du Département de la Charente-Maritime",
+          "secteur": "public",
+          "periode": "avant 2026"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Presse locale : coordinatrice des assistants familiaux au service PMI du Département, en disponibilité de la fonction publique territoriale (source : inf-info.fr/dans-la-continuite-dolivier-falorni-qui-est-sabine-gervais-la-nouvelle-deputee-de-la-rochelle-ile-de-re)."
+    },
+    {
+      "uid": "PA793572",
+      "nom": "Christophe Plassard",
+      "highest_degree_level": "bac_ou_moins",
+      "career": [
+        {
+          "poste": "Chef d'entreprise (communication/publicité d'entreprise)",
+          "employeur": "Bord de Mer Communication / Cordouan Impression",
+          "secteur": "liberal_independant",
+          "periode": "avant 2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Plusieurs sources (site de campagne, presse) le décrivent comme autodidacte issu de la société civile, sans mention de diplôme d'études supérieures (source : christopheplassard.fr/christophe-plassard)."
+    },
+    {
+      "uid": "PA793696",
+      "nom": "Serge Muller",
+      "career": [
+        {
+          "poste": "Aide-soignant",
+          "employeur": "Hôpital (Dordogne)",
+          "secteur": "public",
+          "periode": "janvier 2019 - juin 2022"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Déclaration HATVP : aide-soignant en hôpital de janvier 2019 à juin 2022 (source : hatvp.fr/pages_nominatives/muller-serge-24188)."
+    }
+  ]
+}

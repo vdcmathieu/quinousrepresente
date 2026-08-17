@@ -1,0 +1,296 @@
+{
+  "batch": 9,
+  "deputies": [
+    {
+      "uid": "PA720468",
+      "nom": "Sébastien Chenu",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École des hautes études internationales et politiques (HEI)", "diplome": "inconnu", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques", "communication-journalisme"],
+      "career": [
+        {"poste": "directeur de cabinet du maire d'Eaubonne", "employeur": "Mairie d'Eaubonne", "secteur": "politique", "periode": "1997-1999"},
+        {"poste": "attaché parlementaire d'Anne-Christine Poisson", "employeur": "Parlement européen", "secteur": "politique", "periode": "1997"},
+        {"poste": "directeur de cabinet du maire de L'Isle-Adam (Axel Poniatowski)", "employeur": "Mairie de L'Isle-Adam", "secteur": "politique", "periode": "1999-2001"},
+        {"poste": "chef-adjoint de cabinet du président du conseil général du Val-d'Oise", "employeur": "Conseil général du Val-d'Oise", "secteur": "politique", "periode": "2001-2002"},
+        {"poste": "assistant parlementaire d'Axel Poniatowski", "employeur": "Assemblée nationale", "secteur": "politique", "periode": "2002-2004"},
+        {"poste": "conseiller de la secrétaire d'État Nicole Guedj", "employeur": "Ministère de la Justice", "secteur": "politique", "periode": "2004-2005"},
+        {"poste": "chargé de mission auprès du PDG", "employeur": "Société des autoroutes Paris-Normandie", "secteur": "prive", "periode": "2004"},
+        {"poste": "chef adjoint de cabinet de Christine Lagarde", "employeur": "Ministère du Commerce extérieur", "secteur": "politique", "periode": "2005-2007"},
+        {"poste": "directeur adjoint de la communication", "employeur": "France 24", "secteur": "public", "periode": "2007-2008"},
+        {"poste": "conseiller et directeur du Service d'information du gouvernement (SIG)", "employeur": "Gouvernement français", "secteur": "public", "periode": "2008-2012"},
+        {"poste": "fondateur", "employeur": "SCConseils (agence-conseil en communication)", "secteur": "liberal_independant", "periode": "à partir de 2013"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Diplôme précis à HEI non détaillé dans la source ; carrière très majoritairement faite de postes de collaborateur/cabinet politique."
+    },
+    {
+      "uid": "PA720480",
+      "nom": "Charlotte Parmentier-Lecocq",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "DUT Techniques de commercialisation", "domaine": "gestion-commerce"},
+        {"institution": "IAE de Lille", "diplome": "Master en sciences sociales et de gestion", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "fondatrice, cabinet de conseil aux TPE-PME et associations", "employeur": "L-conseil", "secteur": "liberal_independant", "periode": "à partir de 2009"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA720552",
+      "nom": "Isabelle Rauch",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Strasbourg / Université de Metz", "diplome": "cursus en histoire (niveau non précisé)", "domaine": "lettres-sciences humaines"},
+        {"institution": "École de visiteuse médicale", "diplome": "diplôme de visiteuse médicale", "domaine": "medecine-sante"},
+        {"institution": "IAE de Metz", "diplome": "DESS marketing et innovation", "domaine": "gestion-commerce"},
+        {"institution": "ICN Business School Nancy", "diplome": "diplôme de coach", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["lettres-sciences humaines", "medecine-sante", "gestion-commerce"],
+      "career": [
+        {"poste": "cheffe de secteur (grande distribution)", "employeur": "grand groupe (non précisé)", "secteur": "prive", "periode": "avant 2005"},
+        {"poste": "chargée de communication et de politique touristique", "employeur": "Communauté de communes de l'Arc mosellan", "secteur": "public", "periode": "à partir de 2005"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA720560",
+      "nom": "Perrine Goulet",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "CS2I", "diplome": "Master concepteur de systèmes d'information", "domaine": "informatique"}
+      ],
+      "fields": ["informatique"],
+      "career": [
+        {"poste": "conseillère clientèle", "employeur": "EDF Gaz de France Distribution", "secteur": "public", "periode": "1999-2008"},
+        {"poste": "responsable système d'information", "employeur": "Centre nucléaire de Belleville (EDF)", "secteur": "public", "periode": "à partir de 2008"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "EDF-GDF, entreprise publique/parapublique de l'énergie, classée ici en secteur public."
+    },
+    {
+      "uid": "PA720614",
+      "nom": "Marine Le Pen",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris II Panthéon-Assas", "diplome": "Maîtrise en droit (mention carrières judiciaires)", "domaine": "droit"},
+        {"institution": "Université Paris II Panthéon-Assas", "diplome": "DEA de droit pénal", "domaine": "droit"},
+        {"institution": "École de formation professionnelle des barreaux de la cour d'appel de Paris (EFB)", "diplome": "CAPA (certificat d'aptitude à la profession d'avocat)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "avocate collaboratrice", "employeur": "Cabinet de Georges-Paul Wagner", "secteur": "liberal_independant", "periode": "1992-1994"},
+        {"poste": "avocate indépendante", "employeur": "cabinet personnel, rue de Logelbach", "secteur": "liberal_independant", "periode": "1994-1998"},
+        {"poste": "chargée du service juridique", "employeur": "Front national", "secteur": "politique", "periode": "à partir de 1998"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Carrière d'avocate brève (1992-1998) avant une carrière politique de plusieurs décennies au FN/RN."
+    },
+    {
+      "uid": "PA720668",
+      "nom": "Emmanuel Blairy",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "fonctionnaire territorial", "employeur": "Communauté d'agglomération de Lens-Liévin", "secteur": "public", "periode": "à partir de 2006"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Formation non documentée ; information professionnelle elle-même signalée comme non sourcée dans la biographie."
+    },
+    {
+      "uid": "PA720720",
+      "nom": "Josy Poueyto",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "agent de la fonction publique (poste non précisé)", "employeur": "inconnu", "secteur": "public", "periode": "avant 1998"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie très sommaire ; secteur d'activité déduit de la profession déclarée officielle (retraitée de la fonction publique hors enseignement)."
+    },
+    {
+      "uid": "PA720728",
+      "nom": "Jean-Paul Mattei",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "notaire", "employeur": "office notarial (non précisé)", "secteur": "liberal_independant", "periode": "avant 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie centrée sur le parcours politique ; carrière de notaire déduite de la profession déclarée officielle, sans détail biographique."
+    },
+    {
+      "uid": "PA720822",
+      "nom": "Bruno Bilde",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université d'Artois", "diplome": "Maîtrise en droit", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "juriste", "employeur": "inconnu", "secteur": "prive", "periode": "avant 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Diplôme signalé par une référence non confirmée ; carrière de juriste peu détaillée, parcours essentiellement militant et politique local dès 1991."
+    },
+    {
+      "uid": "PA720838",
+      "nom": "Soumya Bourouaha",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "modéliste", "employeur": "inconnu", "secteur": "prive", "periode": "avant intégration à l'éducation nationale"},
+        {"poste": "enseignante en SEGPA", "employeur": "Éducation nationale", "secteur": "public", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Aucun diplôme précisé dans la source malgré une double carrière professionnelle documentée."
+    },
+    {
+      "uid": "PA720846",
+      "nom": "Bastien Lachaud",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Panthéon-Sorbonne", "diplome": "Licence d'histoire", "domaine": "lettres-sciences humaines"},
+        {"institution": "Université Panthéon-Sorbonne", "diplome": "Master d'histoire", "domaine": "lettres-sciences humaines"},
+        {"institution": "concours du CAPES", "diplome": "CAPES externe d'histoire-géographie", "domaine": "education"}
+      ],
+      "fields": ["lettres-sciences humaines", "education"],
+      "career": [
+        {"poste": "professeur d'histoire-géographie", "employeur": "Éducation nationale (Val-de-Marne)", "secteur": "public", "periode": "2004-2014 environ"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA720892",
+      "nom": "Mathilde Panot",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "IEP campus franco-allemand de Nancy / Sciences Po Paris", "diplome": "Master en relations internationales", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "responsable d'équipe", "employeur": "association VoisinMalin", "secteur": "associatif", "periode": "jusqu'en 2016"},
+        {"poste": "membre de l'équipe de campagne municipale de Danielle Simonnet", "employeur": "Front de gauche", "secteur": "politique", "periode": "2014"},
+        {"poste": "secrétaire de l'association", "employeur": "L'Ère du peuple", "secteur": "politique", "periode": "à partir de 2015"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Parcours principalement associatif et militant avant le mandat, sans emploi identifié dans le secteur privé ou public."
+    },
+    {
+      "uid": "PA720952",
+      "nom": "Aurélien Taché",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université de Limoges", "diplome": "Licence en droit public (via capacité en droit)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "collaborateur chargé des déplacements de Jean-Paul Huchon", "employeur": "Conseil régional d'Île-de-France", "secteur": "politique", "periode": "avant 2014"},
+        {"poste": "chargé de mission à la lutte contre les exclusions", "employeur": "Conseil régional d'Île-de-France", "secteur": "public", "periode": "2014"},
+        {"poste": "conseiller technique puis conseiller (logement)", "employeur": "Ministère du Logement (cabinets Pinel puis Cosse)", "secteur": "politique", "periode": "2014-2016"},
+        {"poste": "délégué régional Île-de-France", "employeur": "Groupe SOS", "secteur": "associatif", "periode": "novembre 2016-2017"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Parcours d'études en droit atypique (capacité en droit) ; carrière dominée par des postes de cabinet politique et de collectivité."
+    },
+    {
+      "uid": "PA720960",
+      "nom": "Olivier Serva",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Diplôme d'expertise comptable (DEC)", "domaine": "gestion-commerce"},
+        {"institution": "inconnu", "diplome": "Agrégation d'économie et gestion", "domaine": "economie"}
+      ],
+      "fields": ["gestion-commerce", "economie"],
+      "career": [
+        {"poste": "expert-comptable, commissaire aux comptes, fondateur du cabinet OSE", "employeur": "Olivier Serva Expertises", "secteur": "liberal_independant", "periode": "à partir de 2003"},
+        {"poste": "enseignant en classe préparatoire (expertise comptable)", "employeur": "Lycée Baimbridge (Les Abymes)", "secteur": "public", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA720976",
+      "nom": "Max Mathiasin",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "poste non précisé", "employeur": "Caisse des écoles de Pointe-à-Pitre", "secteur": "public", "periode": "vers 2015"},
+        {"poste": "directeur administratif et financier", "employeur": "Guadeloupe Formation", "secteur": "public", "periode": "septembre 2016-2017"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Formation non documentée ; nominations décrites comme liées à des relations politiques locales."
+    }
+  ]
+}

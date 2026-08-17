@@ -1,0 +1,513 @@
+{
+  "batch": 20,
+  "deputies": [
+    {
+      "uid": "PA794430",
+      "nom": "Michel Criaud",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Artisan menuisier, chef d'entreprise",
+          "employeur": "Entreprise artisanale de menuiserie",
+          "secteur": "liberal_independant",
+          "periode": "1987-2025"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Aucune information sur ses études ; carrière d'artisan chef d'entreprise avant le mandat."
+    },
+    {
+      "uid": "PA794434",
+      "nom": "Christophe Bentz",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Conseiller technique de cabinet",
+          "employeur": "Cabinet du président du conseil départemental de la Charente",
+          "secteur": "politique",
+          "periode": "avant 2012"
+        },
+        {
+          "poste": "Délégué général",
+          "employeur": "Parti chrétien-démocrate",
+          "secteur": "politique",
+          "periode": "inconnu"
+        },
+        {
+          "poste": "Secrétaire général, directeur du pôle recherche, professeur d'analyse électorale",
+          "employeur": "Institut des sciences sociales, économiques et politiques (ISSEP) de Lyon",
+          "secteur": "prive",
+          "periode": "depuis la cofondation (2018)"
+        },
+        {
+          "poste": "Directeur",
+          "employeur": "CAP (think tank de Marion Maréchal)",
+          "secteur": "associatif",
+          "periode": "inconnu"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Carrière essentiellement liée à des structures politiques et à l'ISSEP, école privée cofondée par lui."
+    },
+    {
+      "uid": "PA794442",
+      "nom": "Laurence Robert-Dehault",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Hypnothérapeute",
+          "employeur": "Cabinet libéral",
+          "secteur": "liberal_independant",
+          "periode": "inconnu"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie très succincte, sans détail sur ses études ni sur les dates de sa carrière."
+    },
+    {
+      "uid": "PA794470",
+      "nom": "Félicie Gérard",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Conseillère clients industriels",
+          "employeur": "Enedis",
+          "secteur": "prive",
+          "periode": "2007-2017"
+        },
+        {
+          "poste": "Chef de projet",
+          "employeur": "Enedis",
+          "secteur": "prive",
+          "periode": "2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Aucune mention de ses études dans la biographie."
+    },
+    {
+      "uid": "PA794486",
+      "nom": "Violette Spillebout",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "inconnu",
+          "diplome": "Études de biologie",
+          "domaine": "sciences"
+        },
+        {
+          "institution": "inconnu",
+          "diplome": "DESS management des entreprises",
+          "domaine": "gestion-commerce"
+        }
+      ],
+      "fields": [
+        "sciences",
+        "gestion-commerce"
+      ],
+      "career": [
+        {
+          "poste": "Consultante",
+          "employeur": "Caisse des dépôts et consignations",
+          "secteur": "public",
+          "periode": "avant 1997"
+        },
+        {
+          "poste": "Chargée de mission auprès du maire Pierre Mauroy",
+          "employeur": "Mairie de Lille",
+          "secteur": "politique",
+          "periode": "1997-2008"
+        },
+        {
+          "poste": "Directrice de cabinet de Martine Aubry",
+          "employeur": "Mairie de Lille",
+          "secteur": "politique",
+          "periode": "2008-2012"
+        },
+        {
+          "poste": "Directrice de la relation client et des situations sensibles",
+          "employeur": "Groupe SNCF",
+          "secteur": "prive",
+          "periode": "2013-2018"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": "Alterne emplois publics/privés (CDC, SNCF) et postes politiques de cabinet à la mairie de Lille."
+    },
+    {
+      "uid": "PA794494",
+      "nom": "Roger Vicot",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": null,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Biographie quasi vide, aucune information exploitable sur études ou carrière."
+    },
+    {
+      "uid": "PA794502",
+      "nom": "Michaël Taverne",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "inconnu",
+          "diplome": "Études STAPS",
+          "domaine": "sport"
+        }
+      ],
+      "fields": [
+        "sport"
+      ],
+      "career": [
+        {
+          "poste": "Policier, instructeur",
+          "employeur": "Commissariat central de Lille (Police nationale)",
+          "secteur": "public",
+          "periode": "à partir de 2011 (32 ans)"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Niveau exact du diplôme STAPS non précisé dans la source."
+    },
+    {
+      "uid": "PA794518",
+      "nom": "Pierre Marle",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Directeur d'école primaire",
+          "employeur": "Éducation nationale",
+          "secteur": "public",
+          "periode": "avant la retraite (avant 2014)"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Carrière issue de la profession déclarée (directeur d'école retraité) ; non détaillée dans la biographie Wikipédia, centrée sur ses mandats locaux."
+    },
+    {
+      "uid": "PA794530",
+      "nom": "Matthieu Marchio",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Collaborateur du groupe Front National",
+          "employeur": "Conseil régional du Nord-Pas-de-Calais",
+          "secteur": "politique",
+          "periode": "2016-2018"
+        },
+        {
+          "poste": "Cadre administratif et commercial d'entreprise",
+          "employeur": "inconnu",
+          "secteur": "prive",
+          "periode": "inconnu"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "basse",
+      "notes": "Emploi de cadre d'entreprise connu seulement via la profession déclarée, sans détail biographique."
+    },
+    {
+      "uid": "PA794562",
+      "nom": "Philippe Ballard",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "École de publicité, presse et relations publiques (EPPREP)",
+          "diplome": "Diplôme (1981)",
+          "domaine": "communication-journalisme"
+        }
+      ],
+      "fields": [
+        "communication-journalisme"
+      ],
+      "career": [
+        {
+          "poste": "Journaliste",
+          "employeur": "Sud Radio",
+          "secteur": "prive",
+          "periode": "1986-1987"
+        },
+        {
+          "poste": "Journaliste",
+          "employeur": "France Info (Radio France)",
+          "secteur": "public",
+          "periode": "1987-1990"
+        },
+        {
+          "poste": "Journaliste",
+          "employeur": "RTL",
+          "secteur": "prive",
+          "periode": "1990-1994"
+        },
+        {
+          "poste": "Présentateur, journaliste",
+          "employeur": "LCI",
+          "secteur": "prive",
+          "periode": "1994-2020"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA794570",
+      "nom": "Alexandre Sabatou",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "inconnu",
+          "diplome": "Diplôme d'ingénieur (corps des ingénieurs de l'industrie et des mines)",
+          "domaine": "ingenierie"
+        }
+      ],
+      "fields": [
+        "ingenierie",
+        "informatique"
+      ],
+      "career": [
+        {
+          "poste": "Ingénieur de l'industrie et des mines",
+          "employeur": "État (fonction publique)",
+          "secteur": "public",
+          "periode": "2021"
+        },
+        {
+          "poste": "Chef de projet des systèmes d'information",
+          "employeur": "Douane (Direction générale des douanes et droits indirects)",
+          "secteur": "public",
+          "periode": "2021-2022"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Niveau bac+5 déduit du titre d'ingénieur, école non précisée par la source."
+    },
+    {
+      "uid": "PA794578",
+      "nom": "Véronique Ludmann",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Enseignante",
+          "employeur": "Éducation nationale",
+          "secteur": "public",
+          "periode": "avant la retraite"
+        },
+        {
+          "poste": "Directrice d'école",
+          "employeur": "Éducation nationale",
+          "secteur": "public",
+          "periode": "jusqu'à la retraite"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Carrière connue mais aucune information sur ses études."
+    },
+    {
+      "uid": "PA794582",
+      "nom": "Kévin Pfeffer",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "inconnu",
+          "diplome": "DUT génie biologique",
+          "domaine": "sciences"
+        },
+        {
+          "institution": "inconnu",
+          "diplome": "Licence de management",
+          "domaine": "gestion-commerce"
+        }
+      ],
+      "fields": [
+        "sciences",
+        "gestion-commerce"
+      ],
+      "career": [
+        {
+          "poste": "Attaché parlementaire",
+          "employeur": "Sophie Montel, députée",
+          "secteur": "politique",
+          "periode": "inconnu"
+        },
+        {
+          "poste": "Trésorier national",
+          "employeur": "Rassemblement national",
+          "secteur": "politique",
+          "periode": "2021-2022"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Aucun emploi hors parti politique mentionné avant son élection."
+    },
+    {
+      "uid": "PA794590",
+      "nom": "Alexandre Loubet",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "Institut d'études politiques de Paris (Sciences Po)",
+          "diplome": "Diplôme de Sciences Po",
+          "domaine": "sciences politiques"
+        }
+      ],
+      "fields": [
+        "sciences politiques"
+      ],
+      "career": [
+        {
+          "poste": "Expérience professionnelle non précisée",
+          "employeur": "Groupe industriel français de l'énergie",
+          "secteur": "prive",
+          "periode": "avant 2018"
+        },
+        {
+          "poste": "Président de Debout les jeunes",
+          "employeur": "Debout la France",
+          "secteur": "politique",
+          "periode": "2015-2017"
+        },
+        {
+          "poste": "Directeur de la communication",
+          "employeur": "Nicolas Dupont-Aignan / Debout la France",
+          "secteur": "politique",
+          "periode": "2018-2020"
+        },
+        {
+          "poste": "Directeur de la communication",
+          "employeur": "Rassemblement national / campagne présidentielle de Marine Le Pen",
+          "secteur": "politique",
+          "periode": "2020-2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Brève expérience dans l'industrie de l'énergie avant une carrière presque exclusivement politique."
+    },
+    {
+      "uid": "PA794598",
+      "nom": "Laurent Jacobelli",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "ESSEC Business School",
+          "diplome": "Diplôme ESSEC (1992)",
+          "domaine": "gestion-commerce"
+        },
+        {
+          "institution": "École supérieure de commerce de Paris (ESCP)",
+          "diplome": "Diplôme ESCP (1993)",
+          "domaine": "gestion-commerce"
+        }
+      ],
+      "fields": [
+        "gestion-commerce"
+      ],
+      "career": [
+        {
+          "poste": "Cadre du secteur audiovisuel",
+          "employeur": "Coyote",
+          "secteur": "prive",
+          "periode": "inconnu"
+        },
+        {
+          "poste": "Cadre du secteur audiovisuel",
+          "employeur": "Fremantle",
+          "secteur": "prive",
+          "periode": "inconnu"
+        },
+        {
+          "poste": "Cadre du secteur audiovisuel",
+          "employeur": "Marathon Média",
+          "secteur": "prive",
+          "periode": "inconnu"
+        },
+        {
+          "poste": "Cadre du secteur audiovisuel",
+          "employeur": "TF1",
+          "secteur": "prive",
+          "periode": "inconnu"
+        },
+        {
+          "poste": "Cadre du secteur audiovisuel",
+          "employeur": "TV5 Monde",
+          "secteur": "public",
+          "periode": "inconnu"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "basse",
+      "notes": "Employeurs connus uniquement via Wikidata, sans détail biographique sur postes ni dates."
+    }
+  ]
+}

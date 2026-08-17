@@ -1,0 +1,37 @@
+{
+  "deputies": [
+    {
+      "uid": "PA720728",
+      "nom": "Jean-Paul Mattei",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Universite de Pau et des Pays de l'Adour", "diplome": "DESS droit notarial", "domaine": "droit"},
+        {"institution": "Universite de Toulouse", "diplome": "Diplome superieur de notariat", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "notaire, associe fondateur SEL Mattei & Associes", "employeur": "Etude notariale Mattei & Associes (Pau)", "secteur": "liberal_independant", "periode": "depuis 1993"},
+        {"poste": "charge de cours associe, faculte de droit", "employeur": "Universite de Pau et des Pays de l'Adour", "secteur": "public", "periode": "non precise"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Bac economique puis droit a Pau, DESS de droit notarial et diplome superieur de notariat a Toulouse ; notaire installe a Pau depuis 1993 (source: https://bap-europe.com/qui-sont-les-six-deputes-des-pyrenees-atlantiques/ et https://www.mattei-associes.notaires.fr/jean-paul-mattei/)."
+    },
+    {
+      "uid": "PA720720",
+      "nom": "Josy Poueyto",
+      "career": [
+        {"poste": "agent", "employeur": "Direction departementale de l'equipement (DDE)", "secteur": "public", "periode": "a partir de 1972"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Entree a la Direction departementale de l'equipement en 1972 avant de s'engager en politique (source: https://bap-europe.com/qui-sont-les-six-deputes-des-pyrenees-atlantiques/)."
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "deputies": [
+    {
+      "uid": "PA793146",
+      "nom": "Nicolas Dragon",
+      "career": [
+        {
+          "poste": "consultant en relations publiques et communication",
+          "employeur": "independant (profession liberale)",
+          "secteur": "liberal_independant",
+          "periode": "2019-2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Declaration HATVP : consultant independant en communication de 2019 a 2022, avant son election (source: https://www.hatvp.fr/pages_nominatives/dragon-nicolas-24250)."
+    },
+    {
+      "uid": "PA793166",
+      "nom": "Jocelyn Dessigny",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {
+          "institution": "inconnu",
+          "diplome": "BTS Force de vente",
+          "domaine": "gestion-commerce"
+        }
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {
+          "poste": "consultant en recrutement independant",
+          "employeur": "independant",
+          "secteur": "liberal_independant",
+          "periode": "avant Manpower"
+        },
+        {
+          "poste": "responsable de compte (account manager)",
+          "employeur": "Manpower, Soissons",
+          "secteur": "prive",
+          "periode": "avant 2022"
+        },
+        {
+          "poste": "repreneur puis gerant d'agence",
+          "employeur": "agence Synergie, Soissons",
+          "secteur": "prive",
+          "periode": "avant 2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "BTS Force de vente puis carriere dans le recrutement/interim (Manpower puis reprise de l'agence Synergie a Soissons) (source: recherche web croisant Wikipedia et presse locale)."
+    },
+    {
+      "uid": "PA793182",
+      "nom": "Jorys Bovet",
+      "career": [
+        {
+          "poste": "chauffeur-livreur",
+          "employeur": "DRS Transport",
+          "secteur": "prive",
+          "periode": "2017-2019"
+        },
+        {
+          "poste": "chauffeur-livreur",
+          "employeur": "SARL SLM Freres Transports",
+          "secteur": "prive",
+          "periode": "2019"
+        },
+        {
+          "poste": "chauffeur-livreur",
+          "employeur": "Trans Territoire Service",
+          "secteur": "prive",
+          "periode": "2019-2020"
+        },
+        {
+          "poste": "chauffeur-livreur",
+          "employeur": "Transport Conan",
+          "secteur": "prive",
+          "periode": "2019-2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Declaration HATVP detaillant plusieurs employeurs successifs comme chauffeur-livreur de 2017 a 2022 (source: https://www.hatvp.fr/pages_nominatives/bovet-jorys-24137)."
+    },
+    {
+      "uid": "PA793246",
+      "nom": "Frederic Falcon",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "universite (non precisee)",
+          "diplome": "cursus universitaire",
+          "domaine": "geographie et amenagement du territoire"
+        },
+        {
+          "institution": "ecole de commerce (non precisee)",
+          "diplome": "diplome d'ecole de commerce",
+          "domaine": "gestion-commerce"
+        },
+        {
+          "institution": "universite (non precisee)",
+          "diplome": "cursus complementaire en geopolitique et en droit/gestion privee",
+          "domaine": "droit"
+        }
+      ],
+      "fields": ["geographie", "gestion-commerce", "droit"],
+      "career": [
+        {
+          "poste": "consultant en systemes d'information et organisation",
+          "employeur": "societe de conseil (non precisee)",
+          "secteur": "prive",
+          "periode": "avant 2015"
+        },
+        {
+          "poste": "createur/gerant d'une societe de conseil en investissement immobilier",
+          "employeur": "sa propre societe",
+          "secteur": "liberal_independant",
+          "periode": "depuis 2015"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Biographie de campagne : etudes en geographie/amenagement puis ecole de commerce, plus cursus complementaires en geopolitique et droit; carriere de consultant SI puis creation d'une societe de conseil en immobilier en 2015 (source: https://falcondepute.fr/biographie/)."
+    },
+    {
+      "uid": "PA793254",
+      "nom": "Julien Rancoule",
+      "career": [
+        {
+          "poste": "agent de securite (vigile)",
+          "employeur": "diverses societes",
+          "secteur": "prive",
+          "periode": "2014-2020"
+        },
+        {
+          "poste": "sapeur-pompier volontaire",
+          "employeur": "SDIS (service departemental d'incendie et de secours)",
+          "secteur": "public",
+          "periode": "depuis 2010"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Sapeur-pompier volontaire depuis 2010 (activite reconnue comme relevant du service public) en parallele de son emploi d'agent de securite dans le prive (source: recherche web, LCP/AEF, pas de precision sur ses etudes)."
+    }
+  ]
+}

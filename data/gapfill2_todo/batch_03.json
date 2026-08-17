@@ -1,0 +1,230 @@
+[
+ {
+  "uid": "PA841801",
+  "num": "841801",
+  "nom": "Danièle Carteron",
+  "groupe": "Ensemble pour la République",
+  "dept": "Haute-Savoie",
+  "circo": "2",
+  "naissance": "1984-10-31",
+  "profession_declaree": "Cheffe d'entreprise",
+  "insee": "Cadres d'entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Dani%C3%A8le_Carteron",
+  "wiki_trimmed": "data/wiki_trimmed/PA841801.txt",
+  "notes_actuelles": "Exerce en parallèle des mandats locaux (adjointe au maire, conseillère communautaire)."
+ },
+ {
+  "uid": "PA840075",
+  "num": "840075",
+  "nom": "Eddy Casterman",
+  "groupe": "Rassemblement National",
+  "dept": "Aisne",
+  "circo": "3",
+  "naissance": "1996-07-28",
+  "profession_declaree": "(37) - Cadre administratif et commercial d'entreprise",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "politique_principalement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Eddy_Casterman",
+  "wiki_trimmed": "data/wiki_trimmed/PA840075.txt",
+  "notes_actuelles": "Profession déclarée officiellement en entreprise mais sans détail dans la biographie disponible."
+ },
+ {
+  "uid": "PA719922",
+  "num": "719922",
+  "nom": "Lionel Causse",
+  "groupe": "Ensemble pour la République",
+  "dept": "Landes",
+  "circo": "2",
+  "naissance": "1971-05-06",
+  "profession_declaree": "Autre cadre (secteur privé)",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "inconnu",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Lionel_Causse",
+  "wiki_trimmed": "data/wiki_trimmed/PA719922.txt",
+  "notes_actuelles": "Seule une mention générale d'un poste de cadre dans l'économie sociale et solidaire est donnée, sans employeur ni études précisés."
+ },
+ {
+  "uid": "PA841047",
+  "num": "841047",
+  "nom": "François-Xavier Ceccoli",
+  "groupe": "Droite Républicaine",
+  "dept": "Haute-Corse",
+  "circo": "2",
+  "naissance": "1968-10-27",
+  "profession_declaree": "(23) - Chef d'entreprise de 10 salariés ou plus",
+  "insee": "Chefs d'entreprise de plus de 10 personnes",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Xavier_Ceccoli",
+  "wiki_trimmed": "data/wiki_trimmed/PA841047.txt",
+  "notes_actuelles": "Biographie disponible limitée au parcours politique local; activité professionnelle déduite de la profession déclarée."
+ },
+ {
+  "uid": "PA842037",
+  "num": "842037",
+  "nom": "Bérenger Cernon",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Essonne",
+  "circo": "8",
+  "naissance": "1988-05-02",
+  "profession_declaree": "(65) - Ouvrier qualifié de la manutention, du magasinage et du transport",
+  "insee": "Ouvriers qualifiés de type industriel",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/B%C3%A9renger_Cernon",
+  "wiki_trimmed": "data/wiki_trimmed/PA842037.txt",
+  "notes_actuelles": "Également délégué syndical CGT au sein de la SNCF, fonction exercée dans le cadre de son emploi."
+ },
+ {
+  "uid": "PA840701",
+  "num": "840701",
+  "nom": "Bernard Chaix",
+  "groupe": "Union des droites pour la République",
+  "dept": "Alpes-Maritimes",
+  "circo": "3",
+  "naissance": "1965-01-06",
+  "profession_declaree": "(22) - Commerçant et assimilé",
+  "insee": "Commerçants et assimilés",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Bernard_Chaix",
+  "wiki_trimmed": "data/wiki_trimmed/PA840701.txt",
+  "notes_actuelles": ""
+ },
+ {
+  "uid": "PA840107",
+  "num": "840107",
+  "nom": "Bernard Chaumeil",
+  "groupe": "Rassemblement National",
+  "dept": "Hérault",
+  "circo": "7",
+  "naissance": "1958-09-30",
+  "profession_declaree": "Directeur des relations institutionnelles",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Bernard_Chaumeil",
+  "wiki_trimmed": "data/wiki_trimmed/PA840107.txt",
+  "notes_actuelles": "Biographie très succincte ; poste connu uniquement via la profession déclarée officielle."
+ },
+ {
+  "uid": "PA840721",
+  "num": "840721",
+  "nom": "Marc Chavent",
+  "groupe": "Union des droites pour la République",
+  "dept": "Ain",
+  "circo": "5",
+  "naissance": "1968-06-28",
+  "profession_declaree": "(33) - Cadre de la fonction publique",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Marc_Chavent",
+  "wiki_trimmed": "data/wiki_trimmed/PA840721.txt",
+  "notes_actuelles": "La biographie ne détaille pas son emploi de cadre de la fonction publique; a aussi été assistant parlementaire de sa sœur."
+ },
+ {
+  "uid": "PA841595",
+  "num": "841595",
+  "nom": "Cendrine Chazé",
+  "groupe": "Droite Républicaine",
+  "dept": "Orne",
+  "circo": "3",
+  "naissance": "1977-10-14",
+  "profession_declaree": "Secrétaire de mairie",
+  "insee": "Employés administratifs de la fonction publique, agents de service et auxiliaires de santé",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Cendrine_Chaz%C3%A9",
+  "wiki_trimmed": "data/wiki_trimmed/PA841595.txt",
+  "notes_actuelles": ""
+ },
+ {
+  "uid": "PA840903",
+  "num": "840903",
+  "nom": "Paul Christophle",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Drôme",
+  "circo": "1",
+  "naissance": "1987-02-03",
+  "profession_declaree": "(37) - Cadre administratif et commercial d'entreprise",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "politique_principalement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Paul_Christophle",
+  "wiki_trimmed": "data/wiki_trimmed/PA840903.txt",
+  "notes_actuelles": "Carrière essentiellement en cabinets ministériels, avec un passage dans le privé chez Korelya Capital; études supérieures non mentionnées."
+ },
+ {
+  "uid": "PA840159",
+  "num": "840159",
+  "nom": "Bruno Clavet",
+  "groupe": "Rassemblement National",
+  "dept": "Pas-de-Calais",
+  "circo": "3",
+  "naissance": "1989-05-06",
+  "profession_declaree": "(45) - Profession intermédiaire administrative de la fonction publique",
+  "insee": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "mixte_public_prive",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Bruno_Clavet",
+  "wiki_trimmed": "data/wiki_trimmed/PA840159.txt",
+  "notes_actuelles": "Biographie centrée sur le parcours politique; le seul emploi décrit (mannequinat) est anecdotique et la profession déclarée n'est pas détaillée."
+ },
+ {
+  "uid": "PA721202",
+  "num": "721202",
+  "nom": "Éric Coquerel",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Seine-Saint-Denis",
+  "circo": "1",
+  "naissance": "1958-12-30",
+  "profession_declaree": "Industriel-Chef d'entreprise",
+  "insee": "Professions libérales",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "politique_principalement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/%C3%89ric_Coquerel",
+  "wiki_trimmed": "data/wiki_trimmed/PA721202.txt",
+  "notes_actuelles": "A entrepris des études d'histoire sans obtenir le CAPES visé; a aussi dirigé une agence de communication avant de devenir permanent politique."
+ }
+]

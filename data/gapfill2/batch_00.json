@@ -1,0 +1,266 @@
+{"deputies": [
+  {
+    "uid": "PA793992",
+    "nom": "Henri Alfandari",
+    "highest_degree_level": "bac_ou_moins",
+    "degrees": [
+      {"institution": "non précisée (études entreprises à Paris)", "diplome": "Études d'économie et de gestion entamées mais non achevées", "domaine": "economie-gestion"}
+    ],
+    "fields": ["economie-gestion"],
+    "career": [
+      {"poste": "Divers postes dans l'audiovisuel (assistant de production, assistant décorateur, réalisation/régie)", "employeur": "Secteur du cinéma documentaire (employeurs précis non identifiés)", "secteur": "prive", "periode": "années 2000-2010, dates précises inconnues"},
+      {"poste": "Directeur de la communication", "employeur": "Groupe / Holding Saint-Gatien (clinique privée fondée par son père)", "secteur": "prive", "periode": "2016-février 2021"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Selon Mag'Centre, il part étudier l'économie-gestion à Paris à 18 ans mais n'achève pas ce cursus (aucun diplôme obtenu, d'où bac_ou_moins) avant de bifurquer vers le cinéma documentaire (assistanat de production/décoration, réalisation). Sa déclaration HATVP confirme ensuite un poste salarié de directeur de la communication du Groupe/Holding Saint-Gatien (clinique privée familiale) de janvier 2016 à février 2021, avec rémunérations déclarées. Carrière donc intégralement privée. Institution précise des études non retrouvée.",
+    "sources": [
+      {"url": "https://www.magcentre.fr/277953-henri-alfandari-le-petit-jeune-qui-monte-en-touraine/", "pour": "both"},
+      {"url": "https://www.hatvp.fr/livraison/dossiers/alfandari-henri-dia30992-depute-37.pdf", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Henri_Alfandari", "pour": "both"}
+    ]
+  },
+  {
+    "uid": "PA840665",
+    "nom": "Marie-José Allemand",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Conjointe collaboratrice puis co-exploitante, éleveuse de brebis", "employeur": "GAEC familial (Gap, Hautes-Alpes)", "secteur": "liberal_independant", "periode": "jusqu'en mai 2021 en tant que conjointe collaboratrice, puis installée officiellement"},
+      {"poste": "Présidente bénévole", "employeur": "Association Ciel d'Azur (groupement d'éleveurs ovins Alpes-de-Haute-Provence/Hautes-Alpes)", "secteur": "associatif", "periode": "plus de 20 ans"},
+      {"poste": "Membre du bureau", "employeur": "FRSEA Provence-Alpes-Côte d'Azur", "secteur": "associatif", "periode": "depuis 2023"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Aucune information sur son parcours d'études trouvée malgré plusieurs recherches ciblées (formation agricole, BTSA, lycée agricole). Carrière agricole en revanche bien documentée : conjointe collaboratrice puis exploitante dans le GAEC familial (élevage ovin), présidente de longue date de l'association Ciel d'Azur. Profession agricole = liberal_independant, compte comme privé selon la convention du schéma.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Marie-Jos%C3%A9_Allemand", "pour": "carriere"},
+      {"url": "https://mprovence.com/marie-jose-allemand-nouvelle-presidente-de-ciel-dazur/", "pour": "carriere"},
+      {"url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/hautes-alpes/gap/c-est-un-changement-radical-une-eleveuse-de-brebis-devenue-deputee-du-nouveau-front-populaire-dans-les-haute-alpes-3000956.html", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA794906",
+    "nom": "Gabriel Amard",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Directeur de formation", "employeur": "Le Formateur des collectivités (FDC)", "secteur": "prive", "periode": "janvier 2019-juin 2022"},
+      {"poste": "Formateur (intervention ponctuelle sur la gestion publique de l'eau)", "employeur": "CNFPT", "secteur": "public", "periode": "septembre-octobre 2019"}
+    ],
+    "worked_private": true,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "mixte_public_prive",
+    "confidence": "haute",
+    "notes": "Aucun diplôme ou établissement d'études retrouvé malgré plusieurs recherches (site personnel gabrielamard.fr, presse, biographies en ligne) ; son site 'Qui suis-je' ne mentionne aucune formation. La déclaration HATVP documente en revanche précisément son activité salariée de directeur de formation au FDC (société privée de formation des élus locaux) de 2019 à 2022, complétée par une mission ponctuelle rémunérée pour le CNFPT (organisme public) en 2019. Avant cela, longue carrière élective locale (maire de Viry-Châtillon 1995-2006, président d'agglomération 2004-2014) non comptée comme 'carrière professionnelle' au sens du schéma.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/dossiers/amard-gabriel-diam31641-depute-69.pdf", "pour": "carriere"},
+      {"url": "https://www.hatvp.fr/pages_nominatives/amard-gabriel-516", "pour": "carriere"},
+      {"url": "https://www.gabrielamard.fr/qui-suis-je.html", "pour": "diplome"}
+    ]
+  },
+  {
+    "uid": "PA842105",
+    "nom": "Raphaël Arnault",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [
+      {"institution": "Université Lumière Lyon 2", "diplome": "Licence de sciences politiques", "domaine": "sciences-politiques"}
+    ],
+    "fields": ["sciences-politiques"],
+    "career": [
+      {"poste": "Assistant d'éducation", "employeur": "Lycée Albert-Camus, Rillieux-la-Pape", "secteur": "public", "periode": "mai 2019-août 2020"},
+      {"poste": "Assistant d'éducation", "employeur": "Lycée La Martinière-Duchère, Lyon", "secteur": "public", "periode": "septembre 2020-juillet 2024"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "haute",
+    "notes": "StreetPress confirme qu'il a obtenu une licence de sciences politiques à l'université Lumière Lyon 2 (débutée en 2014). Sa carrière professionnelle avant le mandat est celle d'assistant d'éducation (fonction publique) dans deux lycées lyonnais, confirmée par sa déclaration HATVP avec dates et rémunérations précises. Son activité militante (Jeune Garde antifasciste) n'est pas un emploi salarié.",
+    "sources": [
+      {"url": "https://www.streetpress.com/sujet/1720200475-raphael-arnault-depute-antifasciste-assemblee-nouveau-front-populaire-jeune-garde-avignon", "pour": "both"},
+      {"url": "https://www.hatvp.fr/pages_nominatives/arnault-raphael-27446", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Arnault", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA796118",
+    "nom": "Bénédicte Auzanot",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Assistante juridique", "employeur": "Cabinet juridique (nom de l'employeur non identifié)", "secteur": "prive", "periode": "avant son installation dans le Luberon en 2009-2018, dates précises inconnues"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Ni sa fiche HATVP (aucune activité professionnelle antérieure déclarée, uniquement mandats électifs depuis 2022) ni l'Assemblée nationale ne détaillent son parcours pré-politique. Un article de France Bleu / ici.fr (2020) la présente comme 'ancienne assistante juridique' ; d'autres agrégateurs évoquent aussi 'conseillère en image'. Nom du cabinet employeur non retrouvé, d'où confiance moyenne malgré une source de presse fiable et directement consultée. Aucune information sur ses études.",
+    "sources": [
+      {"url": "https://www.ici.fr/infos/societe/municipales-2020-a-cavaillon-benedicte-auzanot-conduira-la-liste-du-rassemblement-national-1568650722", "pour": "carriere"},
+      {"url": "https://www.hatvp.fr/pages_nominatives/auzanot-benedicte-24225", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA842279",
+    "nom": "Anchya Bamana",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [
+      {"institution": "non identifié avec certitude (formation d'infirmière)", "diplome": "Diplôme d'État d'infirmier (inféré à partir de sa profession d'infirmière)", "domaine": "medecine-sante"}
+    ],
+    "fields": ["medecine-sante"],
+    "career": [
+      {"poste": "Inspectrice de l'action sanitaire et sociale", "employeur": "Agence régionale de santé (ARS) de Mayotte", "secteur": "public", "periode": "janvier 2019-juillet 2024"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "Sa fiche HATVP documente précisément son poste rémunéré d'inspectrice de l'action sanitaire et sociale à l'ARS Mayotte (2019-2024, fonction publique), cohérent avec la profession déclarée 'cadre de la fonction publique'. Wikipédia (en) confirme qu'elle est infirmière de formation ('trained as a nurse') sans préciser l'établissement. Des sources secondaires (non vérifiées via fetch direct) évoquent un diplôme en santé publique à l'université Henri Poincaré de Nancy, information que je n'ai pas pu confirmer par une source primaire — je m'en tiens donc à l'inférence réglementée standard (infirmière = diplôme d'État, bac+3_4), d'où confiance plafonnée à moyenne conformément à la règle sur les inférences de profession réglementée.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/bamana-anchya-27450", "pour": "carriere"},
+      {"url": "https://en.wikipedia.org/wiki/Anchya_Bamana", "pour": "diplome"}
+    ]
+  },
+  {
+    "uid": "PA840829",
+    "nom": "Fabrice Barusseau",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [
+      {"institution": "non identifié (formation initiale non précisée)", "diplome": "Concours de l'enseignement (CAPES/CAPLP technologie), inféré à partir de son poste titulaire de professeur de technologie", "domaine": "enseignement"}
+    ],
+    "fields": ["enseignement"],
+    "career": [
+      {"poste": "Professeur de technologie", "employeur": "Collège Beauregard, Burie (Éducation nationale)", "secteur": "public", "periode": "au moins depuis 2019 (déclaré à l'HATVP), date de début de carrière antérieure non précisée"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "Sa fiche HATVP le déclare 'enseignant' au sein de l'Éducation nationale depuis janvier 2019 (avec rémunération), et plusieurs sources (Wikipédia, fiche du collège Beauregard de Burie) précisent qu'il enseigne la technologie à ce collège. Un professeur titulaire de technologie en collège suppose la réussite d'un concours (CAPES/CAPLP) impliquant au minimum une licence, d'où l'inférence bac+3_4 ; confiance plafonnée à moyenne car il s'agit d'une inférence de profession réglementée, aucun diplôme nommé n'ayant été trouvé (recherches sur IUFM/ESPÉ, whoswho.fr et Trombinoscope infructueuses ou payantes).",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/barusseau-fabrice-27458", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Fabrice_Barusseau", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA342415",
+    "nom": "Marie-Noëlle Battistel",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Cofondatrice puis directrice", "employeur": "MNJ Voyages (entreprise de transport/voyages)", "secteur": "prive", "periode": "cofondée en 1977 avec Joseph Ivos ; directrice au moins de 2019 à avril 2021 (déclaration HATVP) jusqu'à la cession de l'entreprise"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Aucun diplôme ni établissement d'études retrouvé malgré plusieurs recherches (whoswho.fr inaccessible en scraping, autres biographies muettes sur ce point). Carrière professionnelle en revanche bien établie et documentée dans le lot précédent : cofondatrice en 1977 et directrice jusqu'en 2021 de MNJ Voyages, confirmée par la déclaration HATVP (poste, dates, rémunérations) qui couvre la fin de cette activité.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/battistel-marie-noelle", "pour": "carriere"},
+      {"url": "https://www.mnjvoyages.fr/lentreprise/", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA793374",
+    "nom": "Romain Baubry",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": ["armee-securite"],
+    "career": [
+      {"poste": "Gendarme adjoint volontaire", "employeur": "Gendarmerie nationale", "secteur": "public", "periode": "à partir de 18 ans, pendant 2 ans"},
+      {"poste": "Surveillant pénitentiaire", "employeur": "Administration pénitentiaire", "secteur": "public", "periode": "après son passage en gendarmerie, plusieurs années"},
+      {"poste": "Policier", "employeur": "Police nationale, Nîmes", "secteur": "public", "periode": "avant son élection en 2022"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "haute",
+    "notes": "Extrait Wikipédia déjà consulté : fils de fleuristes, engagé comme gendarme adjoint volontaire à 18 ans (2 ans), puis surveillant pénitentiaire, puis policier à Nîmes — carrière entièrement dans la fonction publique de sécurité. D'autres sources secondaires (non vérifiées directement) ajoutent des détails (unité PSIG, police municipale de Vitrolles, brigade de nuit de Cavaillon) que je n'ai pas pu confirmer par une source primaire fetchée, donc non repris tels quels dans les entrées 'career' ci-dessus. Aucune information sur le niveau d'études au-delà du fait que ces métiers s'entrent généralement au niveau bac ; pas de diplôme précis trouvé, donc diplôme laissé à inconnu plutôt que de deviner un niveau.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Romain_Baubry", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA718884",
+    "nom": "Valérie Bazin-Malgras",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Directrice des magasins, puis directrice France des magasins d'usine", "employeur": "Villeroy & Boch (Troyes)", "secteur": "prive", "periode": "pendant environ 20 ans ; directrice France à partir de 2003"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Aucune information sur son parcours d'études trouvée malgré plusieurs recherches (BTS, whoswho.fr inaccessible en scraping). Sa carrière professionnelle est en revanche bien documentée et cohérente entre plusieurs sources : elle a dirigé pendant vingt ans les magasins Villeroy & Boch de Troyes, devenant directrice France des magasins d'usine en 2003, avant de présider l'association des commerçants de marques à Troyes.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_Bazin-Malgras", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA720362",
+    "nom": "Belkhir Belhaddad",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Gérant / chef d'entreprise", "employeur": "Gem Energy Services", "secteur": "prive", "periode": "depuis novembre 2012 (activité non rémunérée selon HATVP 2019-2024)"},
+      {"poste": "Enseignant en STAPS et Management de l'immobilier", "employeur": "Université de Lorraine", "secteur": "public", "periode": "depuis janvier 2019"}
+    ],
+    "worked_private": true,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "mixte_public_prive",
+    "confidence": "haute",
+    "notes": "Sa déclaration HATVP documente précisément deux activités : chef d'entreprise (Gem Energy Services, créée en 2012, activité de conseil RSE) et enseignant en STAPS et management de l'immobilier à l'université de Lorraine depuis 2019 (poste public). Wikipédia mentionne un 'passage par l'université de Metz' (Wikidata) mais aucun diplôme précis n'est confirmé par une source vérifiée ; le fait qu'il enseigne à l'université ne prouve pas à lui seul un diplôme spécifique (enseignement possible en tant que vacataire sur la base de l'expérience professionnelle), donc diplôme laissé à inconnu plutôt que déduit.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/belhaddad-belkhir", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Belkhir_Belhaddad", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA842211",
+    "nom": "Béatrice Bellay",
+    "highest_degree_level": "bac+5",
+    "degrees": [
+      {"institution": "Lycée Léonard de Vinci, Tremblay-en-France", "diplome": "Baccalauréat, série sciences économiques et sociales, option économie (1993-1994)", "domaine": "economie-gestion"},
+      {"institution": "Université Paris 1 Panthéon-Sorbonne", "diplome": "Maîtrise (domaine précis non spécifié par la source, 1994-1999)", "domaine": "economie-gestion"},
+      {"institution": "Université des Antilles-Guyane (UAG), Schœlcher, Martinique", "diplome": "DESS Gestion des entreprises et des collectivités territoriales (1999-2000)", "domaine": "economie-gestion"}
+    ],
+    "fields": ["economie-gestion"],
+    "career": [
+      {"poste": "Directrice des ressources humaines", "employeur": "Mairie de Schœlcher", "secteur": "public", "periode": "2001-2006"},
+      {"poste": "Chef de bureau juridique, Direction des transports", "employeur": "Conseil général de la Martinique", "secteur": "public", "periode": "2007-2012"},
+      {"poste": "Directrice des transports et des déplacements, puis directrice de services", "employeur": "Communauté d'agglomération de l'Espace Sud de la Martinique", "secteur": "public", "periode": "2012-2024 (poste de directrice de services confirmé 2019-2024 par HATVP)"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "haute",
+    "notes": "Profil professionnel en ligne (Viadeo) détaillant un parcours cohérent : bac économique (1994), maîtrise à Paris 1 Panthéon-Sorbonne (1994-1999) puis DESS de gestion des entreprises et des collectivités territoriales à l'UAG de Schœlcher (1999-2000, avec un complément 'International Management and Leadership' aux îles Vierges), soit un niveau bac+5. Carrière entièrement publique ensuite : DRH à la mairie de Schœlcher, chef de bureau juridique au Conseil général, puis directrice de services à la Communauté d'agglomération de l'Espace Sud — ce dernier poste confirmé indépendamment par sa déclaration HATVP (dates et rémunérations 2019-2024). Le domaine exact de la maîtrise Paris 1 n'est pas précisé par la source ; classé par prudence dans le même champ 'economie-gestion' que le DESS.",
+    "sources": [
+      {"url": "https://viadeo.journaldunet.com/p/beatrice-bellay-883629", "pour": "both"},
+      {"url": "https://www.hatvp.fr/pages_nominatives/bellay-beatrice-27470", "pour": "carriere"}
+    ]
+  }
+]}

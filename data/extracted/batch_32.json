@@ -1,0 +1,279 @@
+{
+ "batch": 32,
+ "deputies": [
+  {
+   "uid": "PA841199",
+   "nom": "Thierry Perez",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [],
+   "worked_private": null,
+   "worked_public": null,
+   "political_career_only": null,
+   "career_profile": "inconnu",
+   "confidence": "basse",
+   "notes": "La biographie disponible ne mentionne ni formation ni parcours professionnel avant son élection."
+  },
+  {
+   "uid": "PA841207",
+   "nom": "Charles Alloncle",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Institut d'études politiques de Paris (Sciences Po Paris)", "diplome": "cursus IEP (admis en 2011)", "domaine": "sciences politiques"},
+    {"institution": "HEC Paris", "diplome": "diplômé (2017)", "domaine": "gestion-commerce"}
+   ],
+   "fields": ["sciences politiques", "gestion-commerce"],
+   "career": [
+    {"poste": "trésorier de micropartis", "employeur": "micropartis liés à François-Xavier Bellamy", "secteur": "politique", "periode": "jusque fin 2024"}
+   ],
+   "worked_private": null,
+   "worked_public": null,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "La profession déclarée (cadre administratif et commercial d'entreprise) n'est pas détaillée dans la biographie, qui ne mentionne que des engagements politiques et partisans."
+  },
+  {
+   "uid": "PA841215",
+   "nom": "Marie Mesmeur",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Brest (établissement de formation)", "diplome": "diplôme d'État d'éducatrice spécialisée (2017)", "domaine": "autre"},
+    {"institution": "inconnu", "diplome": "master", "domaine": "sociologie"}
+   ],
+   "fields": ["lettres-sciences humaines", "autre"],
+   "career": [
+    {"poste": "doctorante contractuelle en sociologie (protection de l'enfance)", "employeur": "Conseil départemental du Finistère - Direction Enfance et Famille", "secteur": "public", "periode": "à partir d'environ 2022"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Elle a débuté une thèse de doctorat en sociologie, non confirmée comme achevée avant son élection ; le secteur d'exercice comme éducatrice spécialisée n'est pas précisé."
+  },
+  {
+   "uid": "PA841223",
+   "nom": "Tristan Lahais",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {"institution": "Université Rennes-II", "diplome": "licence d'histoire", "domaine": "lettres-sciences humaines"}
+   ],
+   "fields": ["lettres-sciences humaines"],
+   "career": [
+    {"poste": "adjoint au maire (associatif et sport)", "employeur": "Mairie de Rennes", "secteur": "politique", "periode": "2014-2020"},
+    {"poste": "vice-président chargé de la culture et de la jeunesse", "employeur": "Rennes Métropole", "secteur": "politique", "periode": "depuis 2020"}
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "L'achèvement de la licence d'histoire n'est pas explicitement confirmé et aucun emploi hors mandats politiques n'est mentionné."
+  },
+  {
+   "uid": "PA841243",
+   "nom": "Sébastien Saint-Pasteur",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "conseiller départemental, vice-président chargé de l'accès au droit, de la santé, du numérique, des services publics de proximité", "employeur": "Conseil départemental de la Gironde", "secteur": "politique", "periode": "depuis 2015"}
+   ],
+   "worked_private": null,
+   "worked_public": null,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "basse",
+   "notes": "La biographie ne mentionne que des mandats électifs, sans détail sur formation ou emploi professionnel."
+  },
+  {
+   "uid": "PA841251",
+   "nom": "Mathilde Feld",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "directrice générale adjointe", "employeur": "Communauté de communes du Grand Saint-Émilionnais", "secteur": "public", "periode": "avant 2024"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Fonctionnaire territoriale, sans information sur sa formation."
+  },
+  {
+   "uid": "PA841295",
+   "nom": "Pierrick Courbon",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {"institution": "Université Jean-Monnet-Saint-Étienne / Université Lumière-Lyon-II", "diplome": "CAPES d'anglais", "domaine": "lettres-sciences humaines"}
+   ],
+   "fields": ["lettres-sciences humaines", "education"],
+   "career": [
+    {"poste": "professeur d'anglais", "employeur": "Lycée Honoré-d'Urfé, Saint-Étienne", "secteur": "public", "periode": "avant 2010"},
+    {"poste": "attaché parlementaire", "employeur": "Régis Juanico (député)", "secteur": "politique", "periode": "à partir de 2010"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Le niveau exact du CAPES (bac+3/4 ou bac+5 selon l'année d'obtention, non précisée) reste incertain."
+  },
+  {
+   "uid": "PA841315",
+   "nom": "Karim Benbrahim",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "inconnu", "diplome": "diplôme d'ingénieur", "domaine": "ingenierie"},
+    {"institution": "inconnu", "diplome": "master", "domaine": "economie"}
+   ],
+   "fields": ["ingenierie", "economie"],
+   "career": [
+    {"poste": "ingénieur, énergies renouvelables", "employeur": "RTE (Réseau de Transport d'Électricité), Nantes", "secteur": "prive", "periode": "avant 2024"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "L'institution de formation d'ingénieur n'est pas précisée."
+  },
+  {
+   "uid": "PA841327",
+   "nom": "Fabrice Roussel",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {"institution": "Université de Nantes", "diplome": "licence d'administration économique et sociale (1994)", "domaine": "economie"}
+   ],
+   "fields": ["economie", "gestion-commerce"],
+   "career": [
+    {"poste": "professeur d'économie et de commerce", "employeur": "lycée professionnel, Ancenis", "secteur": "public", "periode": "1997-2004"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA841339",
+   "nom": "Jean-Michel Brard",
+   "highest_degree_level": "bac_ou_moins",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "directeur d'un centre d'enseignement technique privé", "employeur": "inconnu", "secteur": "prive", "periode": "avant 2003"},
+    {"poste": "commerçant franchisé (art de la table et équipement de la maison)", "employeur": "Ambiance & Styles, Pornic", "secteur": "liberal_independant", "periode": "2003-2024"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "La biographie enchaîne directement le lycée technique et l'entrée dans la vie professionnelle, sans mention d'études supérieures."
+  },
+  {
+   "uid": "PA841351",
+   "nom": "Emmanuel Duplessy",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université d'Orléans", "diplome": "master", "domaine": "droit et management public territorial"}
+   ],
+   "fields": ["droit", "gestion-commerce"],
+   "career": [
+    {"poste": "cadre territorial (métiers et formation)", "employeur": "Conseil régional du Centre-Val de Loire", "secteur": "public", "periode": "avant 2024"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA841359",
+   "nom": "Constance de Pélichy",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université Paris 1 Panthéon-Sorbonne", "diplome": "licence", "domaine": "droit et histoire de l'art"},
+    {"institution": "Université Paris-Panthéon-Assas", "diplome": "Master 1", "domaine": "droit public économique"},
+    {"institution": "Université Paris-Panthéon-Assas", "diplome": "Master 2", "domaine": "sciences politiques"}
+   ],
+   "fields": ["droit", "sciences politiques", "arts"],
+   "career": [
+    {"poste": "assistante parlementaire", "employeur": "Dominique Baudis, Parlement européen", "secteur": "politique", "periode": "2009"},
+    {"poste": "associée de l'entreprise familiale", "employeur": "Turboself Groupe", "secteur": "liberal_independant", "periode": "inconnu"},
+    {"poste": "secrétaire générale adjointe", "employeur": "Les Républicains", "secteur": "politique", "periode": "depuis 2019"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "Sa carrière combine un rôle dans l'entreprise familiale et une trajectoire essentiellement politique dès 2009."
+  },
+  {
+   "uid": "PA841367",
+   "nom": "Christophe Proença",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "enseignant en sciences de l'ingénieur", "employeur": "inconnu (établissement scolaire)", "secteur": "public", "periode": "avant 2024"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Sa formation n'est pas précisée, seule sa profession d'enseignant est mentionnée."
+  },
+  {
+   "uid": "PA841377",
+   "nom": "Emeline Rey-Rinchet",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "inconnu", "diplome": "diplôme d'ostéopathe (D.O.)", "domaine": "medecine-sante"}
+   ],
+   "fields": ["medecine-sante"],
+   "career": [
+    {"poste": "ostéopathe", "employeur": "cabinet libéral", "secteur": "liberal_independant", "periode": "avant 2024"},
+    {"poste": "viticultrice", "employeur": "exploitation viticole", "secteur": "liberal_independant", "periode": "avant 2024"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "La biographie disponible se limite à mentionner ses professions d'ostéopathe et de viticultrice, sans détail sur sa formation ou son parcours."
+  },
+  {
+   "uid": "PA841381",
+   "nom": "Sophie Pantel",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Aix-en-Provence (université)", "diplome": "DESS de droit", "domaine": "droit"}
+   ],
+   "fields": ["droit"],
+   "career": [
+    {"poste": "juriste", "employeur": "services juridiques d'entreprises privées", "secteur": "prive", "periode": "début de carrière"},
+    {"poste": "agente détachée au tribunal des affaires de sécurité sociale", "employeur": "URSSAF, Marseille", "secteur": "public", "periode": "avant 1998"},
+    {"poste": "assistante parlementaire", "employeur": "Jean-Claude Chazal (député)", "secteur": "politique", "periode": "à partir de 1998"},
+    {"poste": "agente des ministères sociaux (droit des femmes et égalité)", "employeur": "Ministères sociaux", "secteur": "public", "periode": "inconnu"},
+    {"poste": "chef du service inclusion, égalité et vie associative", "employeur": "Direction départementale de la cohésion sociale et protection des populations, Lozère", "secteur": "public", "periode": "inconnu"},
+    {"poste": "mission d'ingénierie éducative et sociale", "employeur": "inconnu (service de l'État)", "secteur": "public", "periode": "depuis 2018"}
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": ""
+  }
+ ]
+}

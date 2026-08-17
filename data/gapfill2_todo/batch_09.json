@@ -1,0 +1,230 @@
+[
+ {
+  "uid": "PA840857",
+  "num": "840857",
+  "nom": "Nadine Lechon",
+  "groupe": "Rassemblement National",
+  "dept": "Dordogne",
+  "circo": "1",
+  "naissance": "1963-04-16",
+  "profession_declaree": "(12) - Agriculteur sur moyenne exploitation",
+  "insee": "Agriculteurs exploitants",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Nadine_Lechon",
+  "wiki_trimmed": "data/wiki_trimmed/PA840857.txt",
+  "notes_actuelles": "Biographie centrée sur le parcours politique, carrière connue uniquement via la profession déclarée."
+ },
+ {
+  "uid": "PA795298",
+  "num": "795298",
+  "nom": "Jérôme Legavre",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Seine-Saint-Denis",
+  "circo": "12",
+  "naissance": "1972-08-20",
+  "profession_declaree": "Professeur de lettres",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Legavre",
+  "wiki_trimmed": "data/wiki_trimmed/PA795298.txt",
+  "notes_actuelles": "Niveau d'études non précisé dans la source malgré la profession de professeur."
+ },
+ {
+  "uid": "PA794838",
+  "num": "794838",
+  "nom": "Didier Lemaire",
+  "groupe": "Horizons & Indépendants",
+  "dept": "Haut-Rhin",
+  "circo": "3",
+  "naissance": "1975-07-23",
+  "profession_declaree": "Employé civil et agent de service de la fonction publique",
+  "insee": "Employés administratifs de la fonction publique, agents de service et auxiliaires de santé",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Didier_Lemaire",
+  "wiki_trimmed": "data/wiki_trimmed/PA794838.txt",
+  "notes_actuelles": ""
+ },
+ {
+  "uid": "PA721632",
+  "num": "721632",
+  "nom": "Patricia Lemoine",
+  "groupe": "Ensemble pour la République",
+  "dept": "Seine-et-Marne",
+  "circo": "5",
+  "naissance": "1961-12-30",
+  "profession_declaree": "retraitée",
+  "insee": "Cadres de la fonction publique, professions intellectuelles et  artistiques",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "politique_principalement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Patricia_Lemoine",
+  "wiki_trimmed": "data/wiki_trimmed/PA721632.txt",
+  "notes_actuelles": "Fiche Who's Who France la présente comme agent immobilier avant sa carrière politique, aucune information trouvée sur ses études (source: https://www.whoswho.fr/biographie/patricia-lemoine_81929)."
+ },
+ {
+  "uid": "PA795244",
+  "num": "795244",
+  "nom": "Stéphane Lenormand",
+  "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+  "dept": "Saint-Pierre-et-Miquelon",
+  "circo": "1",
+  "naissance": "1964-08-13",
+  "profession_declaree": "Ancien cadre",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/St%C3%A9phane_Lenormand",
+  "wiki_trimmed": "data/wiki_trimmed/PA795244.txt",
+  "notes_actuelles": "La biographie ne contient aucune information sur ses études ou son parcours professionnel ; seuls la profession déclarée et le code INSEE (cadre de la fonction publique) sont disponibles."
+ },
+ {
+  "uid": "PA774958",
+  "num": "774958",
+  "nom": "Gérard Leseul",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Seine-Maritime",
+  "circo": "5",
+  "naissance": "1960-08-15",
+  "profession_declaree": "Cadre d'entreprise / enseignant universitaire",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "mixte_public_prive",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/G%C3%A9rard_Leseul",
+  "wiki_trimmed": "data/wiki_trimmed/PA774958.txt",
+  "notes_actuelles": "Declaration HATVP precise les dates et remunerations du poste au Credit Mutuel (janvier 2019-octobre 2020) et de professeur associe a l'Universite de Rouen (janvier 2019-septembre 2020), plus des mandats associatifs (ADIE, ecole de musique de Rouen) (source: https://www.hatvp.fr/pages_nominatives/leseul-gerard-20487)."
+ },
+ {
+  "uid": "PA794750",
+  "num": "794750",
+  "nom": "Thierry Liger",
+  "groupe": "Droite Républicaine",
+  "dept": "Orne",
+  "circo": "2",
+  "naissance": "1970-05-27",
+  "profession_declaree": "Chef d'entreprise",
+  "insee": "Chefs d'entreprise de 10 salariés ou plus",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Thierry_Liger",
+  "wiki_trimmed": "data/wiki_trimmed/PA794750.txt",
+  "notes_actuelles": "La biographie ne mentionne pas le parcours professionnel ; information tirée uniquement de la profession déclarée."
+ },
+ {
+  "uid": "PA840967",
+  "num": "840967",
+  "nom": "René Lioret",
+  "groupe": "Rassemblement National",
+  "dept": "Côte-d'Or",
+  "circo": "5",
+  "naissance": "1952-01-13",
+  "profession_declaree": "(74) - Ancien cadre",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Ren%C3%A9_Lioret",
+  "wiki_trimmed": "data/wiki_trimmed/PA840967.txt",
+  "notes_actuelles": "Biographie détaillée sur la carrière professionnelle mais sans mention des études."
+ },
+ {
+  "uid": "PA720446",
+  "num": "720446",
+  "nom": "Brigitte Liso",
+  "groupe": "Ensemble pour la République",
+  "dept": "Nord",
+  "circo": "4",
+  "naissance": "1959-07-29",
+  "profession_declaree": "Commerçant",
+  "insee": "Commerçants et assimilés",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Brigitte_Liso",
+  "wiki_trimmed": "data/wiki_trimmed/PA720446.txt",
+  "notes_actuelles": ""
+ },
+ {
+  "uid": "PA642725",
+  "num": "642725",
+  "nom": "Eric Liégeon",
+  "groupe": "Droite Républicaine",
+  "dept": "Doubs",
+  "circo": "5",
+  "naissance": "1961-01-24",
+  "profession_declaree": "Exploitant agricole",
+  "insee": "Agriculteurs exploitants",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/%C3%89ric_Li%C3%A9geon",
+  "wiki_trimmed": "data/wiki_trimmed/PA642725.txt",
+  "notes_actuelles": "Biographie centrée sur le parcours politique ; profession issue uniquement de la donnée déclarative officielle."
+ },
+ {
+  "uid": "PA721932",
+  "num": "721932",
+  "nom": "Marie-France Lorho",
+  "groupe": "Rassemblement National",
+  "dept": "Vaucluse",
+  "circo": "4",
+  "naissance": "1964-12-15",
+  "profession_declaree": "Déléguée médicale",
+  "insee": "Professions intermédiaires administratives et commerciales des entreprises",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Marie-France_Lorho",
+  "wiki_trimmed": "data/wiki_trimmed/PA721932.txt",
+  "notes_actuelles": "Biographie très pauvre en détails ; la carrière est déduite de la seule profession déclarée officielle."
+ },
+ {
+  "uid": "PA879389",
+  "num": "879389",
+  "nom": "Marie-Philippe Lubet",
+  "groupe": "Ensemble pour la République",
+  "dept": "Loiret",
+  "circo": "1",
+  "naissance": "1957-09-06",
+  "profession_declaree": "Retraitée",
+  "insee": "{'@xmlns:xsi': 'http://www.w3.org/2001/XMLSchema-instance', '@xsi:nil': 'true'}",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "inconnu",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Marie-Philippe_Lubet",
+  "wiki_trimmed": "data/wiki_trimmed/PA879389.txt",
+  "notes_actuelles": "Biographie très succincte, ne mentionne ni études ni carrière professionnelle."
+ }
+]

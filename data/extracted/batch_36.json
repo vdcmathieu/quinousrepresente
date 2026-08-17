@@ -1,0 +1,274 @@
+{
+  "batch": 36,
+  "deputies": [
+    {
+      "uid": "PA841927",
+      "nom": "Anne-Sophie Ronceret",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Collaboratrice parlementaire", "employeur": "inconnu", "secteur": "politique", "periode": "inconnu"},
+        {"poste": "Cheffe de cabinet adjointe (cabinet de la ministre déléguée chargée de l'égalité femmes-hommes)", "employeur": "Cabinet ministériel", "secteur": "politique", "periode": "à partir de janvier 2024"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "La biographie ne mentionne aucune formation ni emploi hors sphère politique."
+    },
+    {
+      "uid": "PA841931",
+      "nom": "Laurent Mazaury",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Biographie limitée aux informations de naissance et de mandat, sans détail sur formation ou carrière."
+    },
+    {
+      "uid": "PA841947",
+      "nom": "Zahia Hamdane",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Diplôme d'État d'éducateur spécialisé", "domaine": "autre"}
+      ],
+      "fields": ["autre"],
+      "career": [
+        {"poste": "Animatrice en centre de loisirs", "employeur": "inconnu", "secteur": "associatif", "periode": "inconnu"},
+        {"poste": "Éducatrice spécialisée", "employeur": "inconnu", "secteur": "associatif", "periode": "inconnu"},
+        {"poste": "Directrice d'un établissement de protection de l'enfance", "employeur": "inconnu", "secteur": "associatif", "periode": "inconnu"},
+        {"poste": "Directrice", "employeur": "Association pour la sauvegarde de l'enfant à l'adulte (ADSEA) de la Somme", "secteur": "associatif", "periode": "inconnu"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Carrière entièrement associative dans la protection de l'enfance (mission d'intérêt social proche du service public), sans emploi privé ni fonction publique classique identifié."
+    },
+    {
+      "uid": "PA841955",
+      "nom": "Matthias Renault",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Lille", "diplome": "Maîtrise, administration publique", "domaine": "sciences politiques"},
+        {"institution": "Université de Mannheim", "diplome": "non précisé", "domaine": "economie"},
+        {"institution": "École nationale d'administration (ENA)", "diplome": "Diplôme de l'ENA", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques", "economie"],
+      "career": [
+        {"poste": "Magistrat", "employeur": "Chambre régionale des comptes de Midi-Pyrénées", "secteur": "public", "periode": "inconnu"},
+        {"poste": "Collaborateur du groupe RN à la commission des Finances", "employeur": "Assemblée nationale", "secteur": "politique", "periode": "avant 2024"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Énarque et ancien magistrat financier ; occupe brièvement un poste de collaborateur parlementaire avant son élection."
+    },
+    {
+      "uid": "PA841973",
+      "nom": "Pierre-Henri Carbonnel",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": ["agriculture"],
+      "career": [
+        {"poste": "Exploitant agricole (polyculture-élevage)", "employeur": "Exploitation à Saint-Cirq", "secteur": "liberal_independant", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA841981",
+      "nom": "Catherine Rimbert",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Biographie ne fournissant aucune information sur formation ou carrière avant le mandat."
+    },
+    {
+      "uid": "PA841993",
+      "nom": "Dominique Paillat",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Responsable d'usine", "employeur": "inconnu", "secteur": "prive", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Carrière professionnelle connue uniquement via la profession déclarée (responsable d'usine), la biographie ne traitant que de son parcours électoral."
+    },
+    {
+      "uid": "PA842001",
+      "nom": "Guillaume Bigot",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme IEP (1995, section Service public)", "domaine": "sciences politiques"},
+        {"institution": "Université Paris-Panthéon-Assas", "diplome": "non précisé", "domaine": "droit"}
+      ],
+      "fields": ["sciences politiques", "droit"],
+      "career": [
+        {"poste": "Rédacteur en chef adjoint", "employeur": "L'Événement du jeudi", "secteur": "prive", "periode": "1999"},
+        {"poste": "Éditorialiste (presse écrite, radio, télévision)", "employeur": "Valeurs actuelles, BFM Business, Sud Radio, Europe 1, CNews", "secteur": "prive", "periode": "1999-2024"},
+        {"poste": "Professeur de géopolitique", "employeur": "Pôle universitaire Léonard-de-Vinci", "secteur": "prive", "periode": "2000-2005"},
+        {"poste": "Directeur de l'école de management (EMLV)", "employeur": "Pôle universitaire Léonard-de-Vinci", "secteur": "prive", "periode": "2005-2011"},
+        {"poste": "Directeur général", "employeur": "Groupe IPAG Business School", "secteur": "prive", "periode": "2008-2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Le passage par Paris-Panthéon-Assas provient uniquement de Wikidata et n'est pas détaillé dans la biographie."
+    },
+    {
+      "uid": "PA842013",
+      "nom": "Steevy Gustave",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Danseur et chorégraphe", "employeur": "France Gall", "secteur": "liberal_independant", "periode": "1993-2003 environ"},
+        {"poste": "Producteur et programmateur d'événements artistiques", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "2007-2014"},
+        {"poste": "Chargé de mission (accès à la culture pour les personnes détenues)", "employeur": "Cabinet de la ministre de la Justice Christiane Taubira", "secteur": "politique", "periode": "2015"},
+        {"poste": "Fondateur", "employeur": "Labelife Events SAS", "secteur": "liberal_independant", "periode": "à partir de 2019"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Carrière principalement artistique et entrepreneuriale, avec un bref passage en cabinet ministériel en 2015."
+    },
+    {
+      "uid": "PA842029",
+      "nom": "Claire Lejeune",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École normale supérieure de Lyon", "diplome": "Mémoire de philosophie contemporaine (section Lettres)", "domaine": "lettres-sciences humaines"},
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Master Human Rights and Humanitarian Action", "domaine": "sciences politiques"}
+      ],
+      "fields": ["lettres-sciences humaines", "sciences politiques"],
+      "career": [
+        {"poste": "Chargée de cours", "employeur": "Sciences Po (Centre d'études européennes)", "secteur": "public", "periode": "à partir de 2021"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "A entamé un doctorat à Sciences Po en 2021, non présenté comme achevé dans la source ; enseigne en parallèle."
+    },
+    {
+      "uid": "PA842037",
+      "nom": "Bérenger Cernon",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Conducteur de train (RER D)", "employeur": "SNCF", "secteur": "public", "periode": "depuis 2008"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Également délégué syndical CGT au sein de la SNCF, fonction exercée dans le cadre de son emploi."
+    },
+    {
+      "uid": "PA842045",
+      "nom": "Julie Ozenne",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Diplôme d'État d'architecte", "domaine": "arts"}
+      ],
+      "fields": ["arts"],
+      "career": [
+        {"poste": "Fondatrice, architecte", "employeur": "Société d'architecture spécialisée en réhabilitation", "secteur": "liberal_independant", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA842073",
+      "nom": "Gaëtan Dussausaye",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université Paris I Panthéon-Sorbonne", "diplome": "Licence de philosophie et lettres modernes", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Président du Front national de la jeunesse (FNJ)", "employeur": "Front national", "secteur": "politique", "periode": "2014-2018"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "A abandonné son master de philosophie après son accession à la présidence du FNJ, engagement politique précoce et continu."
+    },
+    {
+      "uid": "PA842085",
+      "nom": "Sébastien Humbert",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "CESI Nancy", "diplome": "Formation d'administrateur réseau", "domaine": "informatique"}
+      ],
+      "fields": ["informatique"],
+      "career": [
+        {"poste": "Administrateur réseau", "employeur": "Ministère de la Justice", "secteur": "public", "periode": "avant 2018"},
+        {"poste": "Attaché parlementaire de Virginie Joron", "employeur": "Parlement européen", "secteur": "politique", "periode": "2022-2024"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Parcours passant d'un emploi technique dans la fonction publique à des fonctions de collaborateur politique."
+    },
+    {
+      "uid": "PA842097",
+      "nom": "Sophie-Laurence Roy",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Barreau de Bobigny", "diplome": "CAPA (avocate)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Avocate", "employeur": "Barreau de Bobigny", "secteur": "liberal_independant", "periode": "à partir des années 1980"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    }
+  ]
+}

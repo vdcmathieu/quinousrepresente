@@ -1,0 +1,555 @@
+{
+ "deputies": [
+  {
+   "uid": "PA794870",
+   "nom": "Sylvie Ferrer",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Agent de maintenance en aéronautique",
+     "employeur": "inconnu (secteur aéronautique, Hautes-Pyrénées)",
+     "secteur": "prive",
+     "periode": "inconnu"
+    },
+    {
+     "poste": "Secrétaire d'Attac 65",
+     "employeur": "Attac Hautes-Pyrénées",
+     "secteur": "associatif",
+     "periode": "avril 2016-mai 2022"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Aucune amélioration trouvée. HATVP (activites.json) ne montre, hors mandat, que le poste bénévole de secrétaire d'Attac 65 (04/2016-05/2022) déjà connu, aucune activité professionnelle salariée listée (probablement antérieure à la fenêtre des 5 ans couverte par sa première déclaration de 2022). Le wikitexte brut de Wikipédia (infobox « université » vide) et l'article de La Dépêche déjà cité par le premier passage confirment la profession d'agent de maintenance en aéronautique sans jamais nommer l'employeur ni le niveau d'études. Carrière et diplôme inchangés.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Sylvie_Ferrer",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.ladepeche.fr/2022/06/21/sylvie-ferrer-le-militantisme-comme-socle-politique-10386328.php",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA722134",
+   "nom": "Jean-Marie Fiévet",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Sapeur-pompier professionnel (lieutenant)",
+     "employeur": "SDIS des Deux-Sèvres (SDIS 79)",
+     "secteur": "public",
+     "periode": "1992-2017 (avant le mandat)"
+    },
+    {
+     "poste": "Emploi non précisé",
+     "employeur": "inconnu",
+     "secteur": "prive",
+     "periode": "avant 1992"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "Aucune amélioration trouvée. HATVP (activites.json) ne liste que le mandat de « Député » lui-même (06/2017-06/2022), toute sa carrière de sapeur-pompier (1992-2017) est antérieure à la fenêtre des 5 ans déclarée. Le wikitexte brut confirme qu'il est auditeur de l'IHEDN (Institut des hautes études de défense nationale) pendant son mandat, mais il s'agit d'une activité liée au mandat parlementaire, pas d'un diplôme obtenu. L'article France 3 Nouvelle-Aquitaine déjà cité (re-vérifié en texte brut) confirme son recrutement au SDIS 79 en 1992 à 27 ans sans détailler ni études ni emploi antérieur. L'article de La Gazette des Communes se charge désormais vide (probablement paywall/JS). Carrière et diplôme inchangés.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Jean-Marie_Fi%C3%A9vet",
+     "pour": "both"
+    },
+    {
+     "url": "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/deux-sevres/niort/nord-deux-sevres-jean-marie-fievet-pompier-qui-entre-assemblee-nationale-1282049.html",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA840143",
+   "nom": "Guillaume Florquin",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {
+     "institution": "UFR3S-ILIS (Faculté d'ingénierie et management de la santé de Lille) / École des hautes études en santé publique (EHESP) / Université Paris-Dauphine",
+     "diplome": "Master (management du secteur sanitaire et social)",
+     "domaine": "economie-gestion"
+    }
+   ],
+   "fields": [
+    "economie-gestion",
+    "medecine-sante"
+   ],
+   "career": [
+    {
+     "poste": "Collaborateur d'élus (dossiers santé publique, transports, emploi des jeunes)",
+     "employeur": "Conseil régional des Hauts-de-France (cabinet du président)",
+     "secteur": "politique",
+     "periode": "07/2021-07/2024"
+    },
+    {
+     "poste": "Adjoint de direction EHPAD",
+     "employeur": "Résidence Saint-Maur",
+     "secteur": "prive",
+     "periode": "05/2020-10/2020"
+    },
+    {
+     "poste": "Chargé de mission (CDD)",
+     "employeur": "Association Aide au Quotidien",
+     "secteur": "associatif",
+     "periode": "12/2019"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": "Diplôme trouvé grâce au wikitexte brut (non visible dans l'extrait trimmé) : le champ infobox « université » liste UFR3S-ILIS (faculté d'ingénierie et management de la santé, Lille), l'EHESP et l'Université Paris-Dauphine, corroboré par les catégories « Élève de l'EHESP » et « Étudiant de l'université Paris-Dauphine ». L'article de L'Observateur du Valenciennois (« Saint-Amand : Guillaume Florquin va mener la liste RN », vérifié en texte nettoyé) le cite disant « Avant d'obtenir mon master, j'ai pu travailler comme serveur dans plusieurs restaurants de notre commune », confirmant l'obtention effective d'un master, cohérent avec un parcours ILIS/EHESP/Dauphine en management des établissements sanitaires et sociaux et avec sa carrière déclarée de cadre du secteur médico-social puis politique. Carrière professionnelle inchangée (déjà bien établie par HATVP au premier passage).",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/w/index.php?title=Guillaume_Florquin&action=raw",
+     "pour": "diplome"
+    },
+    {
+     "url": "https://www.lobservateur.fr/saint-amand-municipales-guillaume-florquin-va-mener-la-liste-rn/",
+     "pour": "diplome"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA840801",
+   "nom": "Emmanuel Fouquart",
+   "highest_degree_level": "bac_ou_moins",
+   "degrees": [],
+   "fields": [
+    "armee-securite"
+   ],
+   "career": [
+    {
+     "poste": "Militaire (Marine nationale, École des Mousses puis embarquements sur avisos, dont Nouvelle-Calédonie en 1988)",
+     "employeur": "Marine nationale",
+     "secteur": "public",
+     "periode": "vers 1982-1990 (engagé à 16 ans, 8 ans de service)"
+    },
+    {
+     "poste": "Gendarme, grade adjudant (brigades territoriales de Monsols, Bonneville, puis Cluses)",
+     "employeur": "Gendarmerie nationale",
+     "secteur": "public",
+     "periode": "1990-2006"
+    },
+    {
+     "poste": "Courtier en assurance puis gérant de société de courtage",
+     "employeur": "New Crédit",
+     "secteur": "prive",
+     "periode": "depuis 2006 (activité formalisée en société, gérance 12/2018-02/2021 selon HATVP)"
+    },
+    {
+     "poste": "Officier de réserve",
+     "employeur": "Gendarmerie nationale",
+     "secteur": "public",
+     "periode": "01/2019-12/2022"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "Carrière largement précisée grâce à L'Essor de la Gendarmerie nationale (« Deux anciens gendarmes d'active élus députés du Rassemblement national », texte nettoyé et vérifié) : il intègre la Marine nationale à 16 ans via l'École des Mousses, embarque sur plusieurs avisos (dont en Nouvelle-Calédonie en 1988), rejoint la Gendarmerie en 1990 (brigade territoriale de Monsols, brigade de recherches puis brigade territoriale de Bonneville, puis Cluses) au grade d'adjudant (et non « officier », contrairement à ce que suggérait la fiche précédente — le statut d'« officier de réserve » documenté par HATVP est un grade de réserve postérieur à 2006, distinct de son grade d'active). Il quitte la gendarmerie active en 2006 et devient courtier en assurance, ce qui rejoint vraisemblablement l'activité de gérance de la société « New Crédit » documentée par HATVP (12/2018-02/2021) — donc un vrai second chapitre privé, pas seulement 2019-2021. Diplôme : aucun diplôme n'est nommé ; l'engagement dans la Marine nationale à 16 ans (avant l'âge normal du baccalauréat) rend très probable qu'il n'ait pas poursuivi d'études générales au-delà du collège — inférence raisonnée mais non certaine, d'où confiance plafonnée à « moyenne » pour l'ensemble de la fiche malgré une carrière désormais solidement sourcée.",
+   "sources": [
+    {
+     "url": "https://lessor.org/societe/deux-anciens-gendarmes-dactive-elus-deputes-du-rassemblement-national",
+     "pour": "both"
+    },
+    {
+     "url": "https://fr.wikipedia.org/w/index.php?title=Emmanuel_Fouquart&action=raw",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA822617",
+   "nom": "Martine Froger",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Directrice de structure d'insertion",
+     "employeur": "CASTA BATI (Centre d'accompagnement social aux techniques agropastorales)",
+     "secteur": "associatif",
+     "periode": "2017-2023 (dates variables selon les déclarations HATVP : 01/2017-12/2022 puis 01/2019-05/2023)"
+    },
+    {
+     "poste": "Assistante de direction (temps partiel)",
+     "employeur": "CASTA",
+     "secteur": "associatif",
+     "periode": "06/2023-12/2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Aucune amélioration du diplôme trouvée. Le site officiel martinefroger.fr (page « Martine Froger », texte nettoyé et vérifié) reprend la même biographie que Wikipédia sans mentionner d'études ni de diplôme. Le wikitexte brut de Wikipédia (infobox « université » vide) n'apporte rien de plus. HATVP reconfirme la carrière déjà connue chez CASTA/CASTA BATI, avec une variation mineure de date de début (une déclaration indique 01/2017, une autre 01/2019, pour le même poste de directrice) — non tranchée, signalée. Carrière et diplôme inchangés.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://martinefroger.fr/martine-froger/",
+     "pour": "diplome"
+    },
+    {
+     "url": "https://fr.wikipedia.org/w/index.php?title=Martine_Froger&action=raw",
+     "pour": "diplome"
+    }
+   ]
+  },
+  {
+   "uid": "PA793892",
+   "nom": "Stéphanie Galzy",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Commerçante",
+     "employeur": "inconnu",
+     "secteur": "liberal_independant",
+     "periode": "avant 2017"
+    },
+    {
+     "poste": "Vendeuse",
+     "employeur": "GIVA",
+     "secteur": "prive",
+     "periode": "04/2017-09/2017"
+    },
+    {
+     "poste": "Vendeuse",
+     "employeur": "GIVA",
+     "secteur": "prive",
+     "periode": "04/2018-09/2018"
+    },
+    {
+     "poste": "Vendeuse",
+     "employeur": "INTERSPORT",
+     "secteur": "prive",
+     "periode": "01/2019-09/2019"
+    },
+    {
+     "poste": "Vendeuse",
+     "employeur": "SARL DUGUI",
+     "secteur": "prive",
+     "periode": "10/2021-11/2021"
+    },
+    {
+     "poste": "Chargée de clientèle (intérimaire/contractuelle)",
+     "employeur": "La Poste / La Banque Postale, agence de Béziers",
+     "secteur": "prive",
+     "periode": "11/2021-06/2022"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Carrière très précisée par HATVP : entre la période de commerçante (avant 2017) et le poste de conseillère/chargée de clientèle à La Poste (11/2021-06/2022, déjà connu), elle a enchaîné plusieurs contrats courts de vendeuse (GIVA en 2017 et 2018, Intersport en 2019, SARL Dugui en 2021), un profil d'emploi précaire et saisonnier du commerce de détail cohérent avec la catégorie INSEE « employé administratif d'entreprise ». Diplôme : toujours aucune mention trouvée malgré re-vérification en texte nettoyé de l'article France 3 Occitanie et du portrait France Bleu/ICI « Qui est Stéphanie Galzy » (aucune mention de diplôme, lycée ou formation dans le corps de l'article, y compris les passages biographiques détaillés). Diplôme inchangé, carrière enrichie.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://france3-regions.francetvinfo.fr/occitanie/herault/legislatives-dans-l-herault-interimaire-a-la-poste-francaise-du-peuple-stephanie-galzy-elue-deputee-rn-de-la-5e-circonscription-2566552.html",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.francebleu.fr/infos/politique/qui-est-stephanie-galzy-la-nouvelle-deputee-de-la-5e-circonscription-de-l-herault-1655706651",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841737",
+   "nom": "Jonathan Géry",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Gendarme",
+     "employeur": "Gendarmerie nationale",
+     "secteur": "public",
+     "periode": "avant 2016"
+    },
+    {
+     "poste": "Agent de police municipale",
+     "employeur": "Police municipale d'Ambilly (Haute-Savoie)",
+     "secteur": "public",
+     "periode": "2016-2019/2020 environ"
+    },
+    {
+     "poste": "Conseiller pénitentiaire d'insertion et probation (stagiaire, formation ENAP)",
+     "employeur": "Ministère de la Justice",
+     "secteur": "public",
+     "periode": "01/2019-08/2019"
+    },
+    {
+     "poste": "Policier (police nationale)",
+     "employeur": "Ministère de l'Intérieur",
+     "secteur": "public",
+     "periode": "12/2020-07/2024"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Carrière significativement précisée par HATVP, seule source jamais consultée sur ce point (la page HATVP n'avait pas été localisée au premier passage) : en plus du parcours gendarme puis police municipale d'Ambilly déjà connu par Wikipédia, la déclaration révèle un bref passage de stagiaire conseiller pénitentiaire d'insertion et probation (CPIP) au ministère de la Justice (01/2019-08/2019, 8 mois — vraisemblablement la formation initiale à l'ENAP, non menée à terme), puis un poste de policier (« ministere de l'interieur », donc police nationale et non municipale) de 12/2020 à 07/2024. Diplôme : le concours externe de CPIP exige en principe une licence (bac+3) depuis la réforme statutaire de 2019, mais son entrée en formation en janvier 2019 se situe juste avant/au moment de cette réforme et le passage est resté très bref (8 mois, sans qu'on sache s'il a été recruté sous l'ancien régime catégorie B/niveau bac ou le nouveau) : le doute sur le millésime exact de la réforme et l'absence de certitude sur l'achèvement de la formation m'empêchent d'en tirer une inférence fiable de diplôme. Laissé « inconnu » plutôt que de deviner. Wikipédia (wikitexte brut, infobox « université » vide) ne mentionne ni études ni diplôme.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/w/index.php?title=Jonathan_G%C3%A9ry&action=raw",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA793832",
+   "nom": "Yoann Gillet",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Gérant puis directeur régional de magasins de prêt-à-porter (une quarantaine de magasins, plusieurs enseignes)",
+     "employeur": "non nommé",
+     "secteur": "prive",
+     "periode": "environ 8 ans, avant 2016"
+    },
+    {
+     "poste": "Directeur de cabinet du maire de Beaucaire",
+     "employeur": "Commune de Beaucaire (maire Julien Sanchez)",
+     "secteur": "politique",
+     "periode": "04/2016-08/2022"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "Date de début du poste de directeur de cabinet précisée par HATVP : 04/2016 (et non 01/2019 comme indiqué par la fiche précédente), confirmé par un commentaire de la déclaration (« Fonction quittée le 19 août 2022 »). Sur le diplôme, un nouvel élément trouvé dans le portrait d'Objectif Gard (« FAIT DU JOUR Gillet, Bordes, Meurin, Sala », texte nettoyé et vérifié) : « [il] suit son lycée en Normandie, puis débute ses études et sa vie professionnelle à Paris pendant 10 ans » — confirme qu'il a entamé des études supérieures à Paris mais sans jamais nommer l'établissement, la filière ni un diplôme obtenu ; formulation trop vague pour en tirer un niveau de diplôme sans deviner. Laissé « inconnu ». Rattaché à « mixte_public_prive » comme au premier passage faute de catégorie combinant privé et politique dans le référentiel.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.objectifgard.com/2022/06/21/fait-du-jour-gillet-bordes-meurin-sala-portraits-des-nouveaux-deputes-gardois/",
+     "pour": "diplome"
+    },
+    {
+     "url": "https://fr.wikipedia.org/w/index.php?title=Yoann_Gillet&action=raw",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA793102",
+   "nom": "Christian Girard",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Directeur administratif",
+     "employeur": "Caisse d'Épargne",
+     "secteur": "prive",
+     "periode": "avant 2015 (avant son engagement politique)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Aucune amélioration trouvée. HATVP (activites.json) n'a aucune activité professionnelle enregistrée pour lui : sa carrière à la Caisse d'Épargne s'est terminée avant 2015, hors de la fenêtre des 5 ans couverte par ses déclarations ; seules des fonctions de dirigeant bénévole liées à son mandat de conseiller régional PACA depuis 2021 y figurent (régie régionale des transports, lycée technique, syndicat du parc naturel du Lubéron), qui ne sont pas des emplois. Le wikitexte brut de Wikipédia (infobox « université » vide) ne mentionne aucun diplôme. Carrière et diplôme inchangés.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/w/index.php?title=Christian_Girard_(homme_politique)&action=raw",
+     "pour": "diplome"
+    }
+   ]
+  },
+  {
+   "uid": "PA841605",
+   "nom": "Antoine Golliot",
+   "highest_degree_level": "bac+2",
+   "degrees": [],
+   "fields": [
+    "ingenierie"
+   ],
+   "career": [
+    {
+     "poste": "Technicien",
+     "employeur": "Qualiconsult Exploitation",
+     "secteur": "prive",
+     "periode": "01/2021-07/2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Aucun diplôme nommé n'a été trouvé (Wikipédia wikitexte brut sans infobox université ; les deux articles de La Voix du Nord cités en référence sont vides en accès non abonné, probablement payants). J'applique néanmoins l'inférence de profession réglementée du référentiel : « technicien » → bac+2, à son poste de technicien chez Qualiconsult Exploitation (contrôle technique de la construction, un métier de technicien BTS/DUT bâtiment-génie civil typique dans ce secteur, cohérent avec la catégorie INSEE « Techniciens »). Le premier passage avait explicitement écarté cette inférence en jugeant le métier trop générique ; je la retiens cette fois car elle correspond littéralement à l'entrée du référentiel fourni pour ce lot. Confiance plafonnée à « moyenne » comme l'exige toute inférence de ce type.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/w/index.php?title=Antoine_Golliot&action=raw",
+     "pour": "diplome"
+    }
+   ]
+  },
+  {
+   "uid": "PA793362",
+   "nom": "José Gonzalez",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Employé (bourse aux primeurs)",
+     "employeur": "Port de Marseille",
+     "secteur": "prive",
+     "periode": "à partir de 1962"
+    },
+    {
+     "poste": "Directeur d'auto-école",
+     "employeur": "auto-école non nommée",
+     "secteur": "liberal_independant",
+     "periode": "non précisé"
+    },
+    {
+     "poste": "Employé",
+     "employeur": "Chambre de commerce et d'industrie de Marseille",
+     "secteur": "public",
+     "periode": "jusqu'à la retraite"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "ATTENTION — anomalie détectée dans l'index local HATVP (data/hatvp/activites.json) pour ce uid : l'entrée PA793362 mélange deux personnes homonymes. En vérifiant directement data/hatvp/declarations.xml, le vrai député (né le 28/04/1943, organe « Bouches-du-Rhône (13) », collaborateurs Gabelica/Simond/Rahou — confirmés identiques sur la fiche AN officielle) n'a AUCUNE activité professionnelle déclarée. En revanche, un second déclarant, également nommé José Gonzalez mais né le 19/08/1941, conseiller départemental du canton de Montauban-5 (Tarn-et-Garonne, étiquette PRG, confirmé par la page Wikipédia « Liste des conseillers départementaux de Tarn-et-Garonne ») et apparemment maire d'une commune du 82, a été rattaché par erreur au même uid par le script de matching (probablement via le repli nom+prénom sans correspondance de date de naissance). Les activités « dirigeant » (SMAD 82, ADIL82, HASSO, OPH TGH, SDIS82, ADT 82, AVIR 82, ADOS 82, ACCUEIL DU FORT, PRESENCE VERTE 82, SOLIHA 82, FONDATION OPTEO) et le mandat « Conseiller Départemental »/« maire » visibles dans activites.json pour PA793362 N'APPARTIENNENT PAS au député des Bouches-du-Rhône et ne doivent pas être utilisés — je ne les ai donc pas retenus. Recommande de corriger scripts/09_hatvp.py (le repli by_nom_prenom ne devrait pas s'appliquer quand une date de naissance différente est trouvée par ailleurs). Sur le fond : carrière et diplôme inchangés par rapport au premier passage (Wikipédia reste la seule source fiable : port de Marseille, auto-école, CCI Marseille jusqu'à la retraite ; aucune mention d'études, cohérent avec une arrivée à 19 ans comme réfugié pied-noir en 1962 et une entrée immédiate dans la vie active, mais je ne transforme pas cette cohérence en diplôme « bac_ou_moins » faute de source explicite).",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Jos%C3%A9_Gonzalez",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA793362",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Liste_des_conseillers_d%C3%A9partementaux_de_Tarn-et-Garonne",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794418",
+   "nom": "Florence Goulet",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Attachée parlementaire d'élus de droite, dont Henri Guaino",
+     "employeur": "Henri Guaino (député des Yvelines, 2012-2017) et autres élus de droite",
+     "secteur": "politique",
+     "periode": "environ 1995-2017"
+    },
+    {
+     "poste": "Collaboratrice parlementaire",
+     "employeur": "Assemblée nationale",
+     "secteur": "politique",
+     "periode": "07/2017-06/2021"
+    },
+    {
+     "poste": "Assistante",
+     "employeur": "Association financement électoral (RN)",
+     "secteur": "politique",
+     "periode": "07/2021-04/2022"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": "HATVP précise la date de début de son poste de collaboratrice parlementaire à l'Assemblée nationale : 07/2017 (et non 01/2019 comme indiqué au premier passage), ce qui allonge légèrement la période documentée par rapport aux « 24 ans » cités par Wikipédia pour l'ensemble de sa carrière d'attachée parlementaire — j'ai donc réparti la période en distinguant la partie « attachée d'élus divers » (jusque vers 2017) de la partie « collaboratrice à l'Assemblée nationale » documentée par HATVP (2017-2021). Sur le diplôme : la mention « journaliste, formée au reportage rural » (catégorie Wikipédia anglaise et infobox « occupation = Journalist ») a été re-vérifiée via l'article source cité par en.wikipedia (L'Express, « Policiers, profs, anciens LR... Qui sont les nouveaux députés RN ? ») : le corps de l'article est payant/vide au-delà de la légende de la photo, aucun établissement ni diplôme n'est nommé nulle part. Diplôme laissé « inconnu ».",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://en.wikipedia.org/w/index.php?title=Florence_Goulet&action=raw",
+     "pour": "diplome"
+    },
+    {
+     "url": "https://www.lexpress.fr/actualite/politique/policiers-profs-anciens-lr-qui-sont-les-nouveaux-deputes-rn_2175555.html",
+     "pour": "diplome"
+    }
+   ]
+  }
+ ]
+}

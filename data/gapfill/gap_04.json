@@ -1,0 +1,57 @@
+{
+  "deputies": [
+    {
+      "uid": "PA643143",
+      "nom": "Christian Baptiste",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Licence de lettres modernes (CAPES)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["lettres-sciences humaines", "education"],
+      "career": [
+        {"poste": "Professeur de lettres modernes", "employeur": "Éducation nationale", "secteur": "public", "periode": "avant mandat"},
+        {"poste": "Directeur d'association", "employeur": "inconnu", "secteur": "associatif", "periode": "avant mandat"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Professeur de lettres modernes de formation avant de devenir directeur d'association puis maire de Sainte-Anne (source: recherche web, plusieurs médias guadeloupéens ; niveau de diplôme et établissement non précisés)."
+    },
+    {
+      "uid": "PA643157",
+      "nom": "Philippe Naillet",
+      "career": [
+        {"poste": "Inspecteur assurance-vie", "employeur": "AG2R La Mondiale", "secteur": "prive", "periode": "avant mandat (avant 2016)"},
+        {"poste": "Président-directeur général puis administrateur", "employeur": "SEM Sodiac (société d'économie mixte, La Réunion)", "secteur": "prive", "periode": "2014-2020, puis administrateur"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "HATVP mentionne un mandat de PDG (2014-2020) puis administrateur de la SEM Sodiac, société d'aménagement/logement social à statut de droit privé bien que capital public (source: hatvp.fr/pages_nominatives/naillet-philippe) ; niveau et diplôme obtenus à l'université de La Réunion toujours non précisés."
+    },
+    {
+      "uid": "PA687214",
+      "nom": "Sylvain Berrios",
+      "fields": ["droit", "economie"],
+      "career": [
+        {"poste": "Responsable commercial (division produits publics)", "employeur": "L'Oréal", "secteur": "prive", "periode": "juin 1990-septembre 1994"},
+        {"poste": "Fondateur", "employeur": "Green Project (conseil en marketing opérationnel)", "secteur": "liberal_independant", "periode": "1994"},
+        {"poste": "Fondateur", "employeur": "Verte Campagne (restauration événementielle et livraison de repas aux entreprises)", "secteur": "liberal_independant", "periode": "1995"},
+        {"poste": "Consultant en communication", "employeur": "ATACAMA/SCB Conseil", "secteur": "prive", "periode": "septembre 1994-juin 2002"},
+        {"poste": "Chef de cabinet du secrétaire d'État à la Réforme de l'État", "employeur": "Cabinet ministériel d'Henri Plagnol", "secteur": "politique", "periode": "2002-2004"},
+        {"poste": "Chargé de mission", "employeur": "Services du Premier ministre", "secteur": "public", "periode": "2004-2006"},
+        {"poste": "Chef de la mission de la communication, Direction générale de la modernisation de l'État", "employeur": "Ministère du Budget, des Comptes publics, de la Fonction publique et de la Réforme de l'État", "secteur": "public", "periode": "avant 2012"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Son site de campagne indique des études de droit et d'économie à Paris XII Val-de-Marne (niveau/diplôme non précisé) et deux créations d'entreprise (Green Project 1994, Verte Campagne 1995) avant ATACAMA (source: sylvainberrios.fr/index.php/about/)."
+    }
+  ]
+}

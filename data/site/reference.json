@@ -1,0 +1,586 @@
+{
+ "genere": "2026-08-17",
+ "diplomes": {
+  "buckets": [
+   {
+    "cle": "bac_ou_moins",
+    "libelle": "Bac ou moins",
+    "deputes": {
+     "n": 35,
+     "pct": 7.4
+    },
+    "populationPct": 59.6
+   },
+   {
+    "cle": "bac2",
+    "libelle": "Bac+2",
+    "deputes": {
+     "n": 35,
+     "pct": 7.4
+    },
+    "populationPct": 14.4
+   },
+   {
+    "cle": "bac3_et_plus",
+    "libelle": "Bac+3 et plus",
+    "deputes": {
+     "n": 404,
+     "pct": 85.2
+    },
+    "populationPct": 25.7
+   }
+  ],
+  "denominateurDeputes": {
+   "total": 577,
+   "documentes": 474,
+   "exclus": 103,
+   "note": "Les pourcentages députés sont calculés sur les seuls dossiers documentés, pas sur les 577. Les députés dont la formation reste non documentée sont exclus du calcul."
+  },
+  "correspondance": {
+   "bac_ou_moins": "Insee : sans diplôme ou brevet + CAP-BEP + bac / nous : bac_ou_moins",
+   "bac2": "Insee : bac+2 / nous : bac+2",
+   "bac3_et_plus": "Insee : supérieur à bac+2 / nous : bac+3_4 + bac+5 + doctorat. L'Insee ne sépare pas bac+3/4 de bac+5, la comparaison ne peut donc pas être plus fine."
+  },
+  "methode": "Les taux Insee sont donnés par tranche d'âge. Ils sont ici repondérés par la distribution d'âge des députés eux-mêmes (âges calculés au 2026-08-17 à partir des dates de naissance de l'open data de l'Assemblée), pour comparer la chambre à une population de même structure d'âge et non à l'ensemble des 25-64 ans. Les députés de 65 ans et plus (91, soit 15,8 %) sont rattachés à la tranche 55-64, la table Insee s'arrêtant à 64 ans. L'Insee ne sépare pas bac+3/4 de bac+5 et au-delà, la comparaison ne peut donc pas être plus fine que ces trois niveaux.",
+  "ponderationAge": [
+   {
+    "tranche": "25-34",
+    "nDeputes": 49,
+    "pct": 8.5,
+    "poidsUtilise": 49,
+    "poidsPct": 8.5
+   },
+   {
+    "tranche": "35-44",
+    "nDeputes": 124,
+    "pct": 21.5,
+    "poidsUtilise": 124,
+    "poidsPct": 21.5
+   },
+   {
+    "tranche": "45-54",
+    "nDeputes": 146,
+    "pct": 25.3,
+    "poidsUtilise": 146,
+    "poidsPct": 25.3
+   },
+   {
+    "tranche": "55-64",
+    "nDeputes": 167,
+    "pct": 28.9,
+    "poidsUtilise": 258,
+    "poidsPct": 44.7
+   },
+   {
+    "tranche": "65+",
+    "nDeputes": 91,
+    "pct": 15.8,
+    "poidsUtilise": 0,
+    "poidsPct": 0.0
+   }
+  ],
+  "ageDeputes": {
+   "median": 53,
+   "moyen": 51.7
+  },
+  "inseeBrut": [
+   {
+    "tranche": "25-34",
+    "sans_diplome_ou_brevet": 10.0,
+    "cap_bep": 12.0,
+    "bac": 21.9,
+    "bac2": 11.5,
+    "superieur_a_bac2": 43.9
+   },
+   {
+    "tranche": "35-44",
+    "sans_diplome_ou_brevet": 12.4,
+    "cap_bep": 17.4,
+    "bac": 20.1,
+    "bac2": 15.8,
+    "superieur_a_bac2": 34.0
+   },
+   {
+    "tranche": "45-54",
+    "sans_diplome_ou_brevet": 15.6,
+    "cap_bep": 20.0,
+    "bac": 19.8,
+    "bac2": 17.3,
+    "superieur_a_bac2": 27.0
+   },
+   {
+    "tranche": "55-64",
+    "sans_diplome_ou_brevet": 22.5,
+    "cap_bep": 32.4,
+    "bac": 14.7,
+    "bac2": 12.6,
+    "superieur_a_bac2": 17.5
+   }
+  ],
+  "sources": [
+   "insee_diplome"
+  ],
+  "caveats": [
+   "Les députés dont la formation n'est pas documentée sont exclus du dénominateur. Rien ne garantit qu'ils ressemblent aux autres : un député peu diplômé laisse souvent moins de traces biographiques, donc le taux affiché est probablement un léger majorant.",
+   "Le champ Insee est la population de 25 à 64 ans en ménages ordinaires, pas le corps électoral ni la population active."
+  ]
+ },
+ "carriere": {
+  "deputesAvecExperiencePublique": {
+   "n": 246,
+   "total": 577,
+   "pct": 42.6,
+   "definition": "profil de carrière « public uniquement » ou « public et privé » : a travaillé dans le secteur public à un moment avant son mandat"
+  },
+  "emploiPublicFrance": {
+   "pct": 19.9,
+   "agents": 5851000,
+   "annee": 2024,
+   "versants": {
+    "etat": 2584000,
+    "territoriale": 2018000,
+    "hospitaliere": 1249000
+   },
+   "definition": "part de l'emploi public dans l'emploi total en France fin 2024"
+  },
+  "sources": [
+   "insee_emploi",
+   "insee_fonction_publique"
+  ],
+  "caveats": [
+   "Les deux chiffres ne mesurent pas la même chose : le nôtre est « a déjà travaillé dans le public », celui de l'Insee est « occupe aujourd'hui un emploi public ». Un stock instantané contre un cumul sur toute une carrière : l'écart est réel mais son ampleur est surestimée par la comparaison directe.",
+   "Le dénominateur est ici l'ensemble des 577 députés, y compris ceux dont la carrière n'est pas documentée, qui comptent donc comme sans expérience publique connue."
+  ]
+ },
+ "comparaisons": [
+  {
+   "cle": "diplome",
+   "titre": "Niveau de diplôme",
+   "question": "Quelle part des députés ont fait des études supérieures longues ?",
+   "champDeputes": "Diplôme le plus élevé établi par recherche documentaire, sur les 474 députés dont la formation est documentée",
+   "champPopulation": "France, 25-64 ans en logement ordinaire, taux Insee repondérés par la structure d'âge de l'Assemblée",
+   "note": "Les députés dont la formation n'a pas pu être établie sont exclus du calcul. Rien ne garantit qu'ils ressemblent aux autres : un député peu diplômé laisse en général moins de traces biographiques, donc le taux affiché est probablement un léger majorant. Du côté Insee, 0,2 à 0,6 % des personnes selon la tranche d'âge ont un diplôme « non déterminé » et ne sont donc dans aucun des trois niveaux.",
+   "methode": "Les taux Insee sont donnés par tranche d'âge. Ils sont ici repondérés par la distribution d'âge des députés eux-mêmes (âges calculés au 2026-08-17 à partir des dates de naissance de l'open data de l'Assemblée), pour comparer la chambre à une population de même structure d'âge et non à l'ensemble des 25-64 ans. Les députés de 65 ans et plus (91, soit 15,8 %) sont rattachés à la tranche 55-64, la table Insee s'arrêtant à 64 ans. L'Insee ne sépare pas bac+3/4 de bac+5 et au-delà, la comparaison ne peut donc pas être plus fine que ces trois niveaux.",
+   "sourceCle": "insee_diplome",
+   "denominateur": {
+    "total": 577,
+    "retenus": 474,
+    "exclus": 103,
+    "raison": "formation non documentée à ce jour"
+   },
+   "categories": [
+    {
+     "cle": "bac_ou_moins",
+     "libelle": "Bac ou moins",
+     "deputes": {
+      "n": 35,
+      "pct": 7.4
+     },
+     "population": {
+      "pct": 59.6
+     },
+     "rapport": 0.12
+    },
+    {
+     "cle": "bac2",
+     "libelle": "Bac+2",
+     "deputes": {
+      "n": 35,
+      "pct": 7.4
+     },
+     "population": {
+      "pct": 14.4
+     },
+     "rapport": 0.51
+    },
+    {
+     "cle": "bac3_et_plus",
+     "libelle": "Bac+3 et plus",
+     "deputes": {
+      "n": 404,
+      "pct": 85.2
+     },
+     "population": {
+      "pct": 25.7
+     },
+     "rapport": 3.32
+    }
+   ]
+  },
+  {
+   "cle": "csp",
+   "titre": "Catégorie socioprofessionnelle",
+   "question": "Quelle part des députés sont cadres ou de profession intellectuelle supérieure ?",
+   "champDeputes": "Famille socioprofessionnelle Insee attachée à la profession déclarée à l'Assemblée nationale, sur les députés qui en ont déclaré une",
+   "champPopulation": "Population active occupée, France, 2025. L'Insee intitule ce groupe « Cadres » dans l'enquête Emploi ; c'est le groupe 3 de la nomenclature PCS, « Cadres et professions intellectuelles supérieures »",
+   "note": "Les deux côtés utilisent la même nomenclature, mais pas la même base. L'Insee décrit les personnes en emploi ; les 40 députés qui n'ont déclaré aucune profession (retraite, mandat à plein temps, ou champ laissé vide) n'ont pas d'équivalent dans cette base et sont donc écartés. En les gardant au dénominateur, la part des cadres serait de 66,7 % au lieu de 71,7 %. Autre limite : la profession déclarée à l'Assemblée est celle que le député a inscrite au moment de son élection, pas nécessairement celle qu'il a exercée le plus longtemps. Enfin les six groupes Insee ne totalisent que 99,1 %, 0,9 % des personnes en emploi étant classées « non déterminé ».",
+   "methode": "Comptage direct des familles socioprofessionnelles de l'open data de l'Assemblée nationale, comparé aux taux publiés par l'Insee sans repondération ni redressement.",
+   "sourceCle": "insee_pcs",
+   "denominateur": {
+    "total": 577,
+    "retenus": 534,
+    "exclus": 43,
+    "raison": "40 députés sans profession déclarée, sans équivalent dans une base « personnes en emploi », et 3 députés pour lesquels l'Assemblée nationale ne publie aucune catégorie"
+   },
+   "categories": [
+    {
+     "cle": "agriculteurs",
+     "libelle": "Agriculteurs exploitants",
+     "deputes": {
+      "n": 15,
+      "pct": 2.8
+     },
+     "population": {
+      "pct": 1.3
+     },
+     "rapport": 2.15
+    },
+    {
+     "cle": "artisans",
+     "libelle": "Artisans, commerçants et chefs d'entreprise",
+     "deputes": {
+      "n": 42,
+      "pct": 7.9
+     },
+     "population": {
+      "pct": 6.8
+     },
+     "rapport": 1.16
+    },
+    {
+     "cle": "cadres",
+     "libelle": "Cadres et professions intellectuelles supérieures",
+     "deputes": {
+      "n": 383,
+      "pct": 71.7
+     },
+     "population": {
+      "pct": 23.8
+     },
+     "rapport": 3.01
+    },
+    {
+     "cle": "intermediaires",
+     "libelle": "Professions intermédiaires",
+     "deputes": {
+      "n": 56,
+      "pct": 10.5
+     },
+     "population": {
+      "pct": 25.4
+     },
+     "rapport": 0.41
+    },
+    {
+     "cle": "employes",
+     "libelle": "Employés",
+     "deputes": {
+      "n": 32,
+      "pct": 6.0
+     },
+     "population": {
+      "pct": 24.3
+     },
+     "rapport": 0.25
+    },
+    {
+     "cle": "ouvriers",
+     "libelle": "Ouvriers",
+     "deputes": {
+      "n": 6,
+      "pct": 1.1
+     },
+     "population": {
+      "pct": 17.5
+     },
+     "rapport": 0.06
+    }
+   ]
+  },
+  {
+   "cle": "sexe",
+   "titre": "Sexe",
+   "question": "L'Assemblée compte-t-elle autant de femmes que le pays ?",
+   "champDeputes": "Civilité publiée par l'Assemblée nationale pour les 577 députés",
+   "champPopulation": "France, population de 20 ans ou plus au 1er janvier 2026",
+   "note": "La base retenue est la population adulte, pas la population totale : comparer une assemblée d'élus aux nouveau-nés n'a pas de sens, et le corps électoral est le bon point de référence pour une chambre censée le représenter. L'Insee publiant ses tranches par pas de cinq ans, la base adulte la plus proche de la majorité à 18 ans est celle des 20 ans ou plus. Sur la population totale, la part des femmes serait de 51,4 %, soit un écart de moins d'un point avec les 52,2 % retenus ici : le choix de la base ne change pas le constat.",
+   "methode": "Somme des tranches quinquennales Insee à partir de 20 ans, femmes rapportées au total. Le sexe est ici celui de la civilité administrative.",
+   "sourceCle": "insee_population",
+   "denominateur": {
+    "total": 577,
+    "retenus": 577,
+    "exclus": 0,
+    "raison": "aucune exclusion : la civilité des 577 députés est publiée"
+   },
+   "categories": [
+    {
+     "cle": "femmes",
+     "libelle": "Femmes",
+     "deputes": {
+      "n": 218,
+      "pct": 37.8
+     },
+     "population": {
+      "pct": 52.2
+     },
+     "rapport": 0.72
+    },
+    {
+     "cle": "hommes",
+     "libelle": "Hommes",
+     "deputes": {
+      "n": 359,
+      "pct": 62.2
+     },
+     "population": {
+      "pct": 47.8
+     },
+     "rapport": 1.3
+    }
+   ]
+  },
+  {
+   "cle": "age",
+   "titre": "Âge",
+   "question": "L'Assemblée a-t-elle l'âge du pays ?",
+   "champDeputes": "Âge révolu au 2026-08-17, calculé sur les dates de naissance publiées par l'Assemblée nationale",
+   "champPopulation": "France, population de 20 ans ou plus au 1er janvier 2026",
+   "note": "La population de référence comprend tous les adultes, retraités inclus : une partie de la sous-représentation des 65 ans ou plus tient simplement à ce que la plupart d'entre eux ne travaillent plus. La comparaison reste parlante aux deux extrémités : aucun député n'a moins de 25 ans, alors que les 20-24 ans forment 7,3 % des adultes, et la chambre se concentre sur les tranches 45-64. Comme pour le sexe, l'Insee publie par pas de cinq ans, d'où une base à 20 ans et non à 18.",
+   "methode": "Regroupement des tranches quinquennales Insee en tranches décennales, rapportées à la population de 20 ans ou plus. Côté députés, l'âge est calculé à la date de génération de ces données.",
+   "sourceCle": "insee_population",
+   "denominateur": {
+    "total": 577,
+    "retenus": 577,
+    "exclus": 0,
+    "raison": "aucune exclusion : la date de naissance des 577 députés est publiée"
+   },
+   "categories": [
+    {
+     "cle": "20-24",
+     "libelle": "20-24 ans",
+     "deputes": {
+      "n": 0,
+      "pct": 0.0
+     },
+     "population": {
+      "pct": 7.3
+     },
+     "rapport": 0.0
+    },
+    {
+     "cle": "25-34",
+     "libelle": "25-34 ans",
+     "deputes": {
+      "n": 49,
+      "pct": 8.5
+     },
+     "population": {
+      "pct": 15.1
+     },
+     "rapport": 0.56
+    },
+    {
+     "cle": "35-44",
+     "libelle": "35-44 ans",
+     "deputes": {
+      "n": 124,
+      "pct": 21.5
+     },
+     "population": {
+      "pct": 16.3
+     },
+     "rapport": 1.32
+    },
+    {
+     "cle": "45-54",
+     "libelle": "45-54 ans",
+     "deputes": {
+      "n": 146,
+      "pct": 25.3
+     },
+     "population": {
+      "pct": 16.3
+     },
+     "rapport": 1.55
+    },
+    {
+     "cle": "55-64",
+     "libelle": "55-64 ans",
+     "deputes": {
+      "n": 167,
+      "pct": 28.9
+     },
+     "population": {
+      "pct": 16.4
+     },
+     "rapport": 1.76
+    },
+    {
+     "cle": "65+",
+     "libelle": "65 ans ou plus",
+     "deputes": {
+      "n": 91,
+      "pct": 15.8
+     },
+     "population": {
+      "pct": 28.6
+     },
+     "rapport": 0.55
+    }
+   ]
+  },
+  {
+   "cle": "secteur",
+   "titre": "Secteur d'activité",
+   "question": "Les députés viennent-ils plutôt du public, du privé ou de l'indépendance ?",
+   "champDeputes": "A occupé au moins un poste dans ce secteur avant son mandat, sur les 571 députés dont au moins un poste est documenté",
+   "champPopulation": "France hors Mayotte, répartition de l'emploi total fin 2024 entre salariés du public, salariés du privé et non-salariés",
+   "note": "Les deux mesures ne portent pas sur la même chose et ne peuvent pas être lues comme un écart de représentativité au sens strict. La nôtre est un cumul sur toute une carrière : « a déjà travaillé dans ce secteur ». Celle de l'Insee est un instantané : « occupe aujourd'hui un emploi de ce type ». Un même député compte donc dans plusieurs secteurs, et les parts députés dépassent 100 % à elles trois, alors que les parts Insee totalisent 100 %. Le cumul gonfle mécaniquement nos chiffres, ce qui rend le déficit du privé salarié d'autant plus net. Les carrières purement politiques et le secteur associatif n'ont pas d'équivalent dans la table Insee et ne figurent donc pas ici, bien qu'ils soient documentés dans la base.",
+   "methode": "Côté députés, comptage des députés distincts ayant au moins un poste rattaché au secteur dans la table des carrières. Côté population, parts calculées à partir des effectifs d'une seule et même table Insee (emploi total fin 2024), pour que les trois parts totalisent 100 %.",
+   "sourceCle": "insee_emploi",
+   "denominateur": {
+    "total": 577,
+    "retenus": 571,
+    "exclus": 6,
+    "raison": "aucun poste antérieur au mandat documenté avec un secteur identifié"
+   },
+   "categories": [
+    {
+     "cle": "public",
+     "libelle": "Secteur public",
+     "deputes": {
+      "n": 257,
+      "pct": 45.0
+     },
+     "population": {
+      "pct": 19.9
+     },
+     "rapport": 2.26
+    },
+    {
+     "cle": "prive",
+     "libelle": "Secteur privé (salarié)",
+     "deputes": {
+      "n": 219,
+      "pct": 38.4
+     },
+     "population": {
+      "pct": 68.8
+     },
+     "rapport": 0.56
+    },
+    {
+     "cle": "independant",
+     "libelle": "Indépendant, libéral",
+     "deputes": {
+      "n": 168,
+      "pct": 29.4
+     },
+     "population": {
+      "pct": 11.3
+     },
+     "rapport": 2.6
+    }
+   ]
+  }
+ ],
+ "sources": {
+  "insee_diplome": {
+   "titre": "Diplôme le plus élevé selon l'âge et le sexe",
+   "collection": "Chiffres-clés, enquête Emploi 2025",
+   "editeur": "Insee",
+   "annee": 2026,
+   "publie": "2026-03-25",
+   "url": "https://www.insee.fr/fr/statistiques/2416872",
+   "champ": "France, personnes de 25 à 64 ans vivant en logement ordinaire"
+  },
+  "insee_pcs": {
+   "titre": "Catégorie socioprofessionnelle selon le sexe et l'âge",
+   "collection": "Chiffres-clés, enquête Emploi 2025",
+   "editeur": "Insee",
+   "annee": 2026,
+   "publie": "2026-03-25",
+   "url": "https://www.insee.fr/fr/statistiques/2489546",
+   "champ": "France, personnes vivant en logement ordinaire, en emploi"
+  },
+  "insee_population": {
+   "titre": "Population par sexe et groupe d'âges",
+   "collection": "Chiffres-clés, estimations de population",
+   "editeur": "Insee",
+   "annee": 2026,
+   "publie": "2026-01-13",
+   "url": "https://www.insee.fr/fr/statistiques/2381474",
+   "champ": "France, population au 1er janvier 2026 (données provisoires)"
+  },
+  "insee_emploi": {
+   "titre": "Évolution de l'emploi",
+   "collection": "Insee Références, Emploi, chômage, revenus du travail, édition 2025",
+   "editeur": "Insee",
+   "annee": 2025,
+   "publie": "2025-06-26",
+   "url": "https://www.insee.fr/fr/statistiques/8376822?sommaire=8376908",
+   "champ": "France hors Mayotte, emploi total fin 2024 (estimations d'emploi)"
+  },
+  "insee_fonction_publique": {
+   "titre": "L'emploi dans la fonction publique en 2024",
+   "collection": "Insee Première n°2094",
+   "editeur": "Insee",
+   "annee": 2026,
+   "publie": "2026-02-10",
+   "url": "https://www.insee.fr/fr/statistiques/8732435",
+   "champ": "France hors Mayotte, emploi public (trois versants), fin 2024"
+  }
+ },
+ "citations": [
+  {
+   "cle": "insee_diplome",
+   "titre": "Diplôme le plus élevé selon l'âge et le sexe",
+   "collection": "Chiffres-clés, enquête Emploi 2025",
+   "editeur": "Insee",
+   "annee": 2026,
+   "publie": "2026-03-25",
+   "url": "https://www.insee.fr/fr/statistiques/2416872",
+   "champ": "France, personnes de 25 à 64 ans vivant en logement ordinaire"
+  },
+  {
+   "cle": "insee_pcs",
+   "titre": "Catégorie socioprofessionnelle selon le sexe et l'âge",
+   "collection": "Chiffres-clés, enquête Emploi 2025",
+   "editeur": "Insee",
+   "annee": 2026,
+   "publie": "2026-03-25",
+   "url": "https://www.insee.fr/fr/statistiques/2489546",
+   "champ": "France, personnes vivant en logement ordinaire, en emploi"
+  },
+  {
+   "cle": "insee_population",
+   "titre": "Population par sexe et groupe d'âges",
+   "collection": "Chiffres-clés, estimations de population",
+   "editeur": "Insee",
+   "annee": 2026,
+   "publie": "2026-01-13",
+   "url": "https://www.insee.fr/fr/statistiques/2381474",
+   "champ": "France, population au 1er janvier 2026 (données provisoires)"
+  },
+  {
+   "cle": "insee_emploi",
+   "titre": "Évolution de l'emploi",
+   "collection": "Insee Références, Emploi, chômage, revenus du travail, édition 2025",
+   "editeur": "Insee",
+   "annee": 2025,
+   "publie": "2025-06-26",
+   "url": "https://www.insee.fr/fr/statistiques/8376822?sommaire=8376908",
+   "champ": "France hors Mayotte, emploi total fin 2024 (estimations d'emploi)"
+  },
+  {
+   "cle": "insee_fonction_publique",
+   "titre": "L'emploi dans la fonction publique en 2024",
+   "collection": "Insee Première n°2094",
+   "editeur": "Insee",
+   "annee": 2026,
+   "publie": "2026-02-10",
+   "url": "https://www.insee.fr/fr/statistiques/8732435",
+   "champ": "France hors Mayotte, emploi public (trois versants), fin 2024"
+  }
+ ]
+}

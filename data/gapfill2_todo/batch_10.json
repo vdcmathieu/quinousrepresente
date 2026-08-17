@@ -1,0 +1,230 @@
+[
+ {
+  "uid": "PA795636",
+  "num": "795636",
+  "nom": "Benjamin Lucas-Lundy",
+  "groupe": "Écologiste et Social",
+  "dept": "Yvelines",
+  "circo": "8",
+  "naissance": "1990-10-08",
+  "profession_declaree": "(85) - Personne diverse sans activité professionnelle de moins de 60 ans (sauf r",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "politique_principalement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Benjamin_Lucas-Lundy",
+  "wiki_trimmed": "data/wiki_trimmed/PA795636.txt",
+  "notes_actuelles": "Trois années de droit à l'université de Picardie Jules-Verne sans obtention mentionnée d'un diplôme; a travaillé comme assistant d'éducation en parallèle de ses études avant de s'orienter pleinement vers la politique (source: france3-regions.franceinfo.fr, portrait législatives 2022)."
+ },
+ {
+  "uid": "PA794578",
+  "num": "794578",
+  "nom": "Véronique Ludmann",
+  "groupe": "Horizons & Indépendants",
+  "dept": "Oise",
+  "circo": "4",
+  "naissance": "1963-03-17",
+  "profession_declaree": "Directrice d'école",
+  "insee": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/V%C3%A9ronique_Ludmann",
+  "wiki_trimmed": "data/wiki_trimmed/PA794578.txt",
+  "notes_actuelles": "Carrière connue mais aucune information sur ses études."
+ },
+ {
+  "uid": "PA841587",
+  "num": "841587",
+  "nom": "David Magnier",
+  "groupe": "Rassemblement National",
+  "dept": "Oise",
+  "circo": "7",
+  "naissance": "1972-06-05",
+  "profession_declaree": "(48) - Contremaître, agent de maîtrise",
+  "insee": "Agents de maîtrise (hors maîtrise administrative)",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "inconnu",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/David_Magnier",
+  "wiki_trimmed": "data/wiki_trimmed/PA841587.txt",
+  "notes_actuelles": "Biographie centrée sur son engagement militant (Gilets jaunes, RN), sans détail sur son parcours professionnel."
+ },
+ {
+  "uid": "PA841183",
+  "num": "841183",
+  "nom": "Hanane Mansouri",
+  "groupe": "Union des droites pour la République",
+  "dept": "Isère",
+  "circo": "8",
+  "naissance": "2000-11-24",
+  "profession_declaree": "(84) - Elève, étudiant",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "inconnu",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Hanane_Mansouri",
+  "wiki_trimmed": "data/wiki_trimmed/PA841183.txt",
+  "notes_actuelles": "Études de droit et administration publique à Grenoble avant son élection très jeune (23 ans); aucun emploi mentionné."
+ },
+ {
+  "uid": "PA841563",
+  "num": "841563",
+  "nom": "Claire Marais-Beuil",
+  "groupe": "Rassemblement National",
+  "dept": "Oise",
+  "circo": "1",
+  "naissance": "1958-11-04",
+  "profession_declaree": "Profession libérale",
+  "insee": "Professions libérales",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Claire_Marais-Beuil",
+  "wiki_trimmed": "data/wiki_trimmed/PA841563.txt",
+  "notes_actuelles": "Biographie très succincte; seule la mention de profession libérale (source INSEE) est disponible."
+ },
+ {
+  "uid": "PA794530",
+  "num": "794530",
+  "nom": "Matthieu Marchio",
+  "groupe": "Rassemblement National",
+  "dept": "Nord",
+  "circo": "16",
+  "naissance": "1993-06-08",
+  "profession_declaree": "Cadre administratif et commercial d'entreprise",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "politique_principalement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Matthieu_Marchio",
+  "wiki_trimmed": "data/wiki_trimmed/PA794530.txt",
+  "notes_actuelles": "Emploi de cadre d'entreprise connu seulement via la profession déclarée, sans détail biographique."
+ },
+ {
+  "uid": "PA840837",
+  "num": "840837",
+  "nom": "Pascal Markowsky",
+  "groupe": "Rassemblement National",
+  "dept": "Charente-Maritime",
+  "circo": "4",
+  "naissance": "1954-07-22",
+  "profession_declaree": "(72) - Ancien artisan, commerçant, chef d'entreprise",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "mixte_public_prive",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Pascal_Markowsky",
+  "wiki_trimmed": "data/wiki_trimmed/PA840837.txt",
+  "notes_actuelles": "Séquence de carrière connue mais sans dates précises."
+ },
+ {
+  "uid": "PA794518",
+  "num": "794518",
+  "nom": "Pierre Marle",
+  "groupe": "Horizons & Indépendants",
+  "dept": "Nord",
+  "circo": "14",
+  "naissance": "1954-02-19",
+  "profession_declaree": "Directeur d'école primaire (retraité)",
+  "insee": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Pierre_Marle",
+  "wiki_trimmed": "data/wiki_trimmed/PA794518.txt",
+  "notes_actuelles": "Carrière issue de la profession déclarée (directeur d'école retraité) ; non détaillée dans la biographie Wikipédia, centrée sur ses mandats locaux."
+ },
+ {
+  "uid": "PA841825",
+  "num": "841825",
+  "nom": "Patrice Martin",
+  "groupe": "Rassemblement National",
+  "dept": "Seine-Maritime",
+  "circo": "6",
+  "naissance": "1963-09-13",
+  "profession_declaree": "(11) - Agriculteur sur petite exploitation",
+  "insee": "Agriculteurs exploitants",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Patrice_Martin_(homme_politique)",
+  "wiki_trimmed": "data/wiki_trimmed/PA841825.txt",
+  "notes_actuelles": ""
+ },
+ {
+  "uid": "PA793944",
+  "num": "793944",
+  "nom": "Alexandra Martin (Gironde)",
+  "groupe": "Ensemble pour la République",
+  "dept": "Gironde",
+  "circo": "1",
+  "naissance": "1976-07-28",
+  "profession_declaree": "Sans profession déclarée",
+  "insee": "Cadres d'entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Alexandra_Martin_(1976)",
+  "wiki_trimmed": "data/wiki_trimmed/PA793944.txt",
+  "notes_actuelles": "Le centre de formation identifié (AFPI/CFAI, Pôle Formation UIMM) est une structure de formation professionnelle privée liée au patronat de l'industrie (source: https://www.lechodusud.com/qui-est-alexandra-martin-gironde/, https://www.ici.fr/infos/politique/qui-est-alexandra-martin-la-nouvelle-deputee-de-la-1ere-circonscription-de-gironde-9756018). Aucune information trouvée sur ses études."
+ },
+ {
+  "uid": "PA795100",
+  "num": "795100",
+  "nom": "Éric Martineau",
+  "groupe": "Les Démocrates",
+  "dept": "Sarthe",
+  "circo": "3",
+  "naissance": "1968-05-08",
+  "profession_declaree": "Agriculteur sur moyenne exploitation",
+  "insee": "Agriculteurs exploitants",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/%C3%89ric_Martineau",
+  "wiki_trimmed": "data/wiki_trimmed/PA795100.txt",
+  "notes_actuelles": "La biographie ne détaille ni ses études ni son parcours professionnel ; l'information provient de la profession déclarée."
+ },
+ {
+  "uid": "PA794770",
+  "num": "794770",
+  "nom": "Michèle Martinez",
+  "groupe": "Rassemblement National",
+  "dept": "Pyrénées-Orientales",
+  "circo": "4",
+  "naissance": "1968-06-06",
+  "profession_declaree": "Clerc d'huissier",
+  "insee": "Professions intermédiaires administratives et commerciales des entreprises",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Mich%C3%A8le_Martinez",
+  "wiki_trimmed": "data/wiki_trimmed/PA794770.txt",
+  "notes_actuelles": "La biographie ne détaille pas le parcours professionnel au-delà de la profession déclarée."
+ }
+]

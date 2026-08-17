@@ -1,0 +1,295 @@
+{
+ "batch": 2,
+ "deputies": [
+  {
+   "uid": "PA340343",
+   "nom": "Hervé Saulignac",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {"institution": "Université Jean-Moulin Lyon III", "diplome": "études d'histoire (niveau précis non confirmé)", "domaine": "histoire"}
+   ],
+   "fields": ["lettres-sciences humaines"],
+   "career": [
+    {"poste": "Assistant parlementaire", "employeur": "Pascal Terrasse, député de l'Ardèche", "secteur": "politique", "periode": "1997-2001"},
+    {"poste": "Conseiller municipal puis premier adjoint de Privas", "employeur": "Ville de Privas", "secteur": "politique", "periode": "2001-2017"},
+    {"poste": "Conseiller régional puis vice-président de Rhône-Alpes", "employeur": "Conseil régional de Rhône-Alpes", "secteur": "politique", "periode": "2004-2017"},
+    {"poste": "Conseiller général puis président du conseil général de l'Ardèche", "employeur": "Conseil général/départemental de l'Ardèche", "secteur": "politique", "periode": "2009-2017"}
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "Études d'histoire mentionnées sans précision du diplôme obtenu ; carrière avant 2017 exclusivement politique (mandats locaux et collaboration parlementaire)."
+  },
+  {
+   "uid": "PA341981",
+   "nom": "Marie Récalde",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Institut d'études politiques de Bordeaux", "diplome": "diplôme IEP", "domaine": "sciences politiques"},
+    {"institution": "inconnu", "diplome": "CAPA (avocat)", "domaine": "droit"}
+   ],
+   "fields": ["sciences politiques", "droit"],
+   "career": [
+    {"poste": "Avocate", "employeur": "inconnu (profession libérale)", "secteur": "liberal_independant", "periode": "avant 2012"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Profession d'avocate confirmée par la profession déclarée ; diplôme d'avocat déduit, non détaillé dans la biographie."
+  },
+  {
+   "uid": "PA342196",
+   "nom": "Claudia Rouaux",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Gestionnaire", "employeur": "INRAE", "secteur": "public", "periode": "avant 2020"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Aucune information sur les études ; poste de gestionnaire à l'INRAE (établissement public) confirmé."
+  },
+  {
+   "uid": "PA342240",
+   "nom": "Jean-Luc Bourgeaux",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": ["agriculture"],
+   "career": [
+    {"poste": "Agriculteur", "employeur": "exploitation agricole (indépendant)", "secteur": "liberal_independant", "periode": "avant 2020"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Profession d'agriculteur connue seulement via la profession déclarée, biographie centrée sur les mandats locaux."
+  },
+  {
+   "uid": "PA342384",
+   "nom": "Élisa Martin",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {"institution": "inconnu", "diplome": "études de philosophie (licence probable)", "domaine": "philosophie"}
+   ],
+   "fields": ["lettres-sciences humaines"],
+   "career": [
+    {"poste": "Professeur de français", "employeur": "Éducation nationale (collèges de Grenoble)", "secteur": "public", "periode": "avant 2022"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Niveau exact du diplôme de philosophie non précisé dans la source."
+  },
+  {
+   "uid": "PA342415",
+   "nom": "Marie-Noëlle Battistel",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Cadre", "employeur": "inconnu (secteur privé)", "secteur": "prive", "periode": "avant 2010"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Biographie centrée uniquement sur les mandats politiques ; emploi de cadre privé connu seulement via la profession déclarée."
+  },
+  {
+   "uid": "PA345722",
+   "nom": "Constance Le Grip",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Institut d'études politiques de Strasbourg", "diplome": "diplôme IEP", "domaine": "sciences politiques"},
+    {"institution": "Institut d'études politiques de Paris", "diplome": "DEA d'études politiques", "domaine": "sciences politiques"}
+   ],
+   "fields": ["sciences politiques"],
+   "career": [
+    {"poste": "Attachée parlementaire", "employeur": "Alain Lamassoure (Assemblée nationale et Parlement européen)", "secteur": "politique", "periode": "1984-1993"},
+    {"poste": "Collaboratrice ministérielle", "employeur": "Cabinets d'Alain Lamassoure (Affaires européennes puis Budget)", "secteur": "politique", "periode": "1993-1997"},
+    {"poste": "Conseillère parlementaire puis technique", "employeur": "Nicolas Sarkozy (ministère de l'Intérieur, de l'Économie, présidence de la République)", "secteur": "politique", "periode": "2002-2010"}
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA346782",
+   "nom": "Philippe Juvin",
+   "highest_degree_level": "doctorat",
+   "degrees": [
+    {"institution": "inconnu (études de médecine)", "diplome": "doctorat en médecine", "domaine": "medecine-sante"},
+    {"institution": "inconnu", "diplome": "doctorat de biologie et physiologie de la circulation et de la respiration", "domaine": "sciences"},
+    {"institution": "inconnu", "diplome": "diplôme de médecine légale", "domaine": "medecine-sante"}
+   ],
+   "fields": ["medecine-sante", "sciences"],
+   "career": [
+    {"poste": "Interne des hôpitaux de Paris", "employeur": "AP-HP", "secteur": "public", "periode": "après ses études"},
+    {"poste": "Professeur de médecine, chef de service des urgences", "employeur": "Hôpital européen Georges-Pompidou (AP-HP)", "secteur": "public", "periode": "2012-2022"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA368",
+   "nom": "Michel Barnier",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "ESCP (École supérieure de commerce de Paris)", "diplome": "diplôme ESCP", "domaine": "gestion-commerce"},
+    {"institution": "Institut d'études politiques de Paris", "diplome": "études (diplôme non confirmé)", "domaine": "sciences politiques"}
+   ],
+   "fields": ["gestion-commerce", "sciences politiques"],
+   "career": [
+    {"poste": "Chargé de mission", "employeur": "Cabinet de Robert Poujade, ministre de l'Environnement", "secteur": "politique", "periode": "1973-1974"},
+    {"poste": "Chargé de mission", "employeur": "Cabinet de Pierre Mazeaud, secrétaire d'État à la Jeunesse et aux Sports", "secteur": "politique", "periode": "1974-1976"},
+    {"poste": "Conseiller technique", "employeur": "Cabinet d'Antoine Rufenacht, secrétaire d'État auprès du Premier ministre", "secteur": "politique", "periode": "1976-1977"},
+    {"poste": "Secrétaire d'État au Commerce et à l'Artisanat", "employeur": "Gouvernement français", "secteur": "politique", "periode": "1977-1978"}
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA569",
+   "nom": "Philippe Bonnecarrère",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "inconnu", "diplome": "CAPA (avocat) / maîtrise en droit", "domaine": "droit"}
+   ],
+   "fields": ["droit"],
+   "career": [
+    {"poste": "Avocat", "employeur": "inconnu (profession libérale)", "secteur": "liberal_independant", "periode": "avant 1985"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Profession d'avocat explicitement mentionnée dans la biographie ; diplôme précis non détaillé."
+  },
+  {
+   "uid": "PA588884",
+   "nom": "Clémentine Autain",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université Paris-VIII", "diplome": "maîtrise d'histoire", "domaine": "histoire"},
+    {"institution": "Université Paris-VIII / Université de Paris", "diplome": "DEA (mouvement social, féminisme et législation)", "domaine": "lettres-sciences humaines"}
+   ],
+   "fields": ["lettres-sciences humaines"],
+   "career": [
+    {"poste": "Collaboratrice parlementaire", "employeur": "Georges Mazars, sénateur socialiste du Tarn", "secteur": "politique", "periode": "fin années 1990"},
+    {"poste": "Collaboratrice", "employeur": "Cécile Silhouette, conseillère de Paris", "secteur": "politique", "periode": "fin années 1990-2001"},
+    {"poste": "Adjointe au maire chargée de la jeunesse", "employeur": "Ville de Paris", "secteur": "politique", "periode": "2001-2008"},
+    {"poste": "Journaliste / écrivaine", "employeur": "inconnu (médias)", "secteur": "prive", "periode": "inconnue"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "Activité de journaliste/écrivaine connue via la profession déclarée, non détaillée dans la biographie qui insiste sur son parcours de collaboratrice politique."
+  },
+  {
+   "uid": "PA605745",
+   "nom": "Nicolas Sansu",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "inconnu", "diplome": "DEA en sciences économiques", "domaine": "economie"}
+   ],
+   "fields": ["economie"],
+   "career": [
+    {"poste": "Collaborateur parlementaire", "employeur": "Groupe communiste et apparenté du Sénat", "secteur": "politique", "periode": "1992-1997"},
+    {"poste": "Directeur de cabinet", "employeur": "Jacques Rimbault, député-maire (PCF) de Bourges", "secteur": "politique", "periode": "vers 1993"},
+    {"poste": "Attaché parlementaire", "employeur": "Jean-Claude Sandrier, député (PCF) du Cher", "secteur": "politique", "periode": "1997-2012"}
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA605782",
+   "nom": "Laurent Marcangeli",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {"institution": "Université de Corse Pascal-Paoli", "diplome": "maîtrise d'histoire", "domaine": "histoire"},
+    {"institution": "Université de Corse Pascal-Paoli", "diplome": "maîtrise de droit public", "domaine": "droit"}
+   ],
+   "fields": ["lettres-sciences humaines", "droit"],
+   "career": [
+    {"poste": "Avocat", "employeur": "inconnu (profession libérale)", "secteur": "liberal_independant", "periode": "avant 2012"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Profession d'avocat connue via la profession déclarée, non développée dans la biographie centrée sur les mandats."
+  },
+  {
+   "uid": "PA606507",
+   "nom": "Florent Boudié",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Institut d'études politiques de Bordeaux", "diplome": "diplôme IEP", "domaine": "sciences politiques"},
+    {"institution": "Université de Bordeaux", "diplome": "maîtrise en droit européen", "domaine": "droit"},
+    {"institution": "Université Panthéon-Assas", "diplome": "DEA de droit européen", "domaine": "droit"}
+   ],
+   "fields": ["sciences politiques", "droit"],
+   "career": [
+    {"poste": "Enseignant de droit public", "employeur": "Université Panthéon-Assas puis Université Bordeaux-Montesquieu", "secteur": "public", "periode": "après 1997"},
+    {"poste": "Conseiller aux transports et à la décentralisation puis chargé des travaux rédactionnels", "employeur": "Alain Rousset, président du Conseil régional d'Aquitaine", "secteur": "politique", "periode": "2003-2007"},
+    {"poste": "Directeur de cabinet", "employeur": "Gilbert Mitterrand, maire de Libourne", "secteur": "politique", "periode": "2007-2011"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA606545",
+   "nom": "Jean-Louis Roumégas",
+   "highest_degree_level": "bac+2",
+   "degrees": [
+    {"institution": "Université Paul-Valéry Montpellier", "diplome": "études de philosophie et lettres (niveau exact non précisé)", "domaine": "philosophie"}
+   ],
+   "fields": ["lettres-sciences humaines", "education"],
+   "career": [
+    {"poste": "Instituteur", "employeur": "Éducation nationale", "secteur": "public", "periode": "avant 2012"},
+    {"poste": "Responsable du Centre de ressources prévention-santé", "employeur": "Epidaure, Institut du cancer de Montpellier / Éducation nationale", "secteur": "public", "periode": "avant 2012"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Niveau de diplôme universitaire non confirmé avant son passage à l'enseignement primaire."
+  }
+ ]
+}

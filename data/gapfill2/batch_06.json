@@ -1,0 +1,263 @@
+{"deputies": [
+  {
+   "uid": "PA722134",
+   "nom": "Jean-Marie Fiévet",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Sapeur-pompier professionnel (lieutenant)", "employeur": "SDIS des Deux-Sèvres (SDIS 79)", "secteur": "public", "periode": "1992-2017 (avant le mandat)"},
+    {"poste": "Emploi non précisé", "employeur": "inconnu", "secteur": "prive", "periode": "avant 1992"}
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "Sapeur-pompier professionnel de formation, entré au SDIS des Deux-Sèvres vers 1992 à l'âge de 27 ans, gradé lieutenant ; premier sapeur-pompier de France élu député (source déjà vérifiée : L'Écho du Sud, 'qui est Jean-Marie Fiévet'). A travaillé dans le secteur privé avant 1992 mais l'emploi exact n'est pas précisé. Niveau d'études non trouvé malgré vérifications supplémentaires : Wikipédia (biographie très courte, aucune mention d'études), déclaration HATVP (aucune activité professionnelle hors mandat déclarée, la fenêtre de 5 ans ne couvre pas sa carrière de pompier), France3 Régions Nouvelle-Aquitaine. Recherches web complémentaires (DuckDuckGo, Bing, Ecosia, Mojeek) bloquées par captcha anti-robot pendant la session.",
+   "sources": [
+    {"url": "https://fr.wikipedia.org/wiki/Jean-Marie_Fi%C3%A9vet", "pour": "both"},
+    {"url": "https://www.hatvp.fr/pages_nominatives/fievet-jean-marie", "pour": "carriere"},
+    {"url": "https://www.lechodusud.com/post/qui-est-jean-marie-fi%C3%A9vet", "pour": "carriere"}
+   ]
+  },
+  {
+   "uid": "PA840143",
+   "nom": "Guillaume Florquin",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Collaborateur d'élus (dossiers santé publique, transports, emploi des jeunes)", "employeur": "Conseil régional des Hauts-de-France (cabinet du président)", "secteur": "politique", "periode": "07/2021-07/2024"},
+    {"poste": "Adjoint de direction EHPAD", "employeur": "Résidence Saint-Maur", "secteur": "prive", "periode": "05/2020-10/2020"},
+    {"poste": "Chargé de mission (CDD)", "employeur": "Association Aide au Quotidien", "secteur": "associatif", "periode": "12/2019"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": "Déclaration d'intérêts HATVP consultée directement (PDF) : l'essentiel de la carrière rémunérée documentée (2019-2024) est un poste de collaborateur d'élus au conseil régional des Hauts-de-France (3 ans), précédé de courts passages en EHPAD privé (5 mois) et dans une association d'aide à domicile (1 mois). Profession déclarée officiellement 'cadre de la fonction publique', mais aucun emploi de fonctionnaire titulaire n'apparaît dans la déclaration ; il est aussi administrateur bénévole du CCAS de Saint-Amand-les-Eaux et trésorier bénévole de la fédération RN du Nord. Niveau d'études inconnu : des sites peu identifiables (frenchhub.fr, lejournaltech.fr) affirment un master en économie et gestion de la santé (Paris-Dauphine) et un master EHESP, mais aucune de ces deux sources n'a pu être vérifiée (l'une a renvoyé une erreur 403 lors de la nouvelle tentative), ni corroborée par la fiche Assemblée nationale, HATVP ou Wikipédia — écarté par prudence, retenu comme inconnu.",
+   "sources": [
+    {"url": "https://www.hatvp.fr/livraison/dossiers/florquin-guillaume-diam31117-depute-59.pdf", "pour": "carriere"},
+    {"url": "https://www.assemblee-nationale.fr/dyn/deputes/PA840143", "pour": "carriere"},
+    {"url": "https://fr.wikipedia.org/wiki/Guillaume_Florquin", "pour": "carriere"}
+   ]
+  },
+  {
+   "uid": "PA840801",
+   "nom": "Emmanuel Fouquart",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Marine nationale puis officier de la Gendarmerie nationale (carrière militaire)", "employeur": "Marine nationale / Gendarmerie nationale", "secteur": "public", "periode": "à partir de 1990 environ, jusqu'à la retraite militaire"},
+    {"poste": "Officier de réserve", "employeur": "Gendarmerie nationale", "secteur": "public", "periode": "01/2019-12/2022"},
+    {"poste": "Gérant de société", "employeur": "New Crédit", "secteur": "prive", "periode": "01/2019-02/2021"}
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "Déclaration d'intérêts HATVP consultée directement (PDF) : officier de réserve à la Gendarmerie nationale (01/2019-12/2022) et gérant de la société New Crédit (01/2019-02/2021) en parallèle. Carrière militaire antérieure confirmée par Wikipédia (marine nationale dès l'âge de 16 ans, puis officier de gendarmerie à partir de 1990, jusqu'à sa retraite militaire), mais grade exact et dates précises non détaillés. Est aussi membre du conseil d'administration (non rémunéré) de la société publique AREA depuis son élection au conseil régional PACA. Niveau d'études inconnu : aucune mention de diplôme ou d'école d'officier dans les sources consultées ; recherches web complémentaires bloquées par captcha.",
+   "sources": [
+    {"url": "https://www.hatvp.fr/livraison/dossiers/fouquart-emmanuel-diam31120-depute-13.pdf", "pour": "carriere"},
+    {"url": "https://fr.wikipedia.org/wiki/Emmanuel_Fouquart", "pour": "carriere"}
+   ]
+  },
+  {
+   "uid": "PA822617",
+   "nom": "Martine Froger",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Directrice de structure d'insertion", "employeur": "CASTA BATI (Centre d'accompagnement social aux techniques agropastorales)", "secteur": "associatif", "periode": "01/2019-05/2023"},
+    {"poste": "Assistante de direction (temps partiel)", "employeur": "CASTA", "secteur": "associatif", "periode": "06/2023-12/2024"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Déclaration d'intérêts HATVP consultée directement : carrière entièrement effectuée au sein d'une association d'insertion par l'activité économique (CASTA, Ariège), comme directrice salariée (2019-2023) puis assistante de direction à temps partiel (2023-2024). Classée 'prive_uniquement' faute de catégorie associative dédiée dans le référentiel (aucun emploi public identifié). Mise en examen en mars 2026 pour gestion frauduleuse d'associations d'insertion, sans lien avec le niveau d'études. Niveau d'études inconnu malgré recherches (Wikipédia, HATVP, presse Ariège/Toulouse) : aucune mention de diplôme, lycée ou université.",
+   "sources": [
+    {"url": "https://www.hatvp.fr/fiche-nominative/?declarant=froger-martine-25400", "pour": "carriere"},
+    {"url": "https://fr.wikipedia.org/wiki/Martine_Froger", "pour": "carriere"}
+   ]
+  },
+  {
+   "uid": "PA841665",
+   "nom": "Denis Fégné",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {"institution": "inconnue", "diplome": "Diplôme d'État d'éducateur spécialisé (DEES, inféré du métier exercé)", "domaine": "travail social"}
+   ],
+   "fields": ["sociologie"],
+   "career": [
+    {"poste": "Éducateur spécialisé", "employeur": "ADSEA 65 (Association départementale de sauvegarde de l'enfant à l'adulte, Hautes-Pyrénées)", "secteur": "associatif", "periode": "01/2019-12/2020 (période documentée ; carrière probablement plus longue)"},
+    {"poste": "Maire d'Ibos", "employeur": "Commune d'Ibos", "secteur": "politique", "periode": "depuis 2013"},
+    {"poste": "Président du centre de gestion de la fonction publique territoriale (CDG 65)", "employeur": "CDG 65", "secteur": "politique", "periode": "depuis 2014"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Déclaration d'intérêts HATVP consultée directement : activité rémunérée documentée = éducateur spécialisé à l'ADSEA 65 (association de protection de l'enfance et de l'adolescence), 2019-2020, secteur associatif classé 'prive_uniquement' faute de catégorie dédiée dans le référentiel. Niveau d'études inféré à partir du métier : l'exercice de la profession d'éducateur spécialisé suppose le diplôme d'État d'éducateur spécialisé (DEES), formation de 3 ans post-bac, d'où bac+3_4 — inférence à confiance moyenne, établissement de formation non identifié (donc confidence globale ramenée à 'moyenne' conformément à la règle sur les inférences de profession réglementée). Profession déclarée officielle 'ancien cadre' sans précision de secteur. Également maire d'Ibos depuis 2013 et président du CDG65 (fonctions électives/politiques, non comptées comme emploi professionnel).",
+   "sources": [
+    {"url": "https://www.hatvp.fr/pages_nominatives/fegne-denis", "pour": "carriere"},
+    {"url": "https://fr.wikipedia.org/wiki/Denis_F%C3%A9gn%C3%A9", "pour": "carriere"}
+   ]
+  },
+  {
+   "uid": "PA796070",
+   "nom": "Perceval Gaillard",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {"institution": "inconnue", "diplome": "Diplôme d'État d'éducateur spécialisé (DEES)", "domaine": "travail social"},
+    {"institution": "inconnue", "diplome": "Formation en sciences de l'éducation (niveau non précisé)", "domaine": "sciences de l'éducation"}
+   ],
+   "fields": ["sociologie"],
+   "career": [
+    {"poste": "Manœuvre, maçon, manutentionnaire (dépotage de conteneurs)", "employeur": "chantiers du BTP et du port de La Réunion (employeurs non nommés)", "secteur": "prive", "periode": "2004-vers 2007"},
+    {"poste": "Travailleur social (foyer, champ social et médico-social)", "employeur": "associations non nommées", "secteur": "associatif", "periode": "vers 2007-2013"},
+    {"poste": "Éducateur de rue / médiateur (prévention spécialisée)", "employeur": "associations, hauts de Saint-Paul (La Réunion)", "secteur": "associatif", "periode": "2013-2020"},
+    {"poste": "Adjoint au maire de Saint-Paul, chargé de la politique de la ville", "employeur": "Commune de Saint-Paul (La Réunion)", "secteur": "politique", "periode": "depuis 2020"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Interview de première main (zinfos974.com, juin 2022) où le député décrit lui-même son parcours : « Moi en formation j'ai un bac ES, une formation de sciences de l'éducation et mon diplôme d'éducateur spécialisé » et « Ça fait quinze ans que je suis travailleur social [...] j'ai travaillé en foyer [...] et depuis 7 ans éducateur de rue, de 2013 à 2020 ». Avant cela, manœuvre/maçon/manutentionnaire sur les chantiers réunionnais dès son arrivée en 2004 (moins de 20 ans). A démissionné de son poste d'éducateur de rue en 2020, incompatible avec sa délégation d'adjoint au maire de Saint-Paul. Carrière classée 'prive_uniquement' (privé + associatif, aucun emploi public identifié). Aucun établissement de formation nommé, d'où le maintien à 'haute' fondé sur le diplôme et le métier auto-déclarés dans une interview directement consultée plutôt que sur une institution nommée.",
+   "sources": [
+    {"url": "https://www.zinfos974.com/legislatives-2022-perceval-gaillard-qui-etes-vous/", "pour": "both"},
+    {"url": "https://fr.wikipedia.org/wiki/Perceval_Gaillard", "pour": "carriere"}
+   ]
+  },
+  {
+   "uid": "PA793892",
+   "nom": "Stéphanie Galzy",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Commerçante", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "avant 2014"},
+    {"poste": "Conseillère bancaire (intérimaire/contractuelle)", "employeur": "La Banque Postale, agence de Béziers", "secteur": "prive", "periode": "vers 2021-2022"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Carrière confirmée par Wikipédia et un article ICI (ex-France Bleu, 'Qui est Stéphanie Galzy') : commerçante puis conseillère bancaire intérimaire à La Banque Postale de Béziers. Secteur classé 'prive' (La Banque Postale est une société anonyme de droit privé malgré un actionnariat public via le groupe La Poste). Niveau d'études inconnu malgré recherches (Wikipédia, article ICI, fiche Assemblée nationale) : aucune mention de diplôme, lycée ou formation.",
+   "sources": [
+    {"url": "https://www.ici.fr/infos/politique/qui-est-stephanie-galzy-la-nouvelle-deputee-de-la-5e-circonscription-de-l-herault-1655706651", "pour": "both"},
+    {"url": "https://fr.wikipedia.org/wiki/St%C3%A9phanie_Galzy", "pour": "carriere"}
+   ]
+  },
+  {
+   "uid": "PA841737",
+   "nom": "Jonathan Géry",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Gendarme", "employeur": "Gendarmerie nationale", "secteur": "public", "periode": "avant 2016"},
+    {"poste": "Agent de police municipale", "employeur": "Police municipale d'Ambilly (Haute-Savoie)", "secteur": "public", "periode": "depuis 2016"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "D'après Wikipédia : ancien gendarme, intègre la police municipale d'Ambilly en 2016. Carrière entièrement dans la fonction publique (gendarmerie puis police municipale). Niveau d'études inconnu : aucune mention de diplôme ou de formation initiale ; page HATVP non localisée (URL devinées sans succès) ; recherches web complémentaires (DuckDuckGo, Bing) bloquées par captcha ou renvoyant des résultats hors sujet.",
+   "sources": [
+    {"url": "https://fr.wikipedia.org/wiki/Jonathan_G%C3%A9ry", "pour": "carriere"}
+   ]
+  },
+  {
+   "uid": "PA793832",
+   "nom": "Yoann Gillet",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Gérant puis directeur régional de magasins de prêt-à-porter (une quarantaine de magasins, plusieurs enseignes)", "employeur": "non nommé", "secteur": "prive", "periode": "environ 8 ans, avant 2019"},
+    {"poste": "Directeur de cabinet du maire de Beaucaire", "employeur": "Commune de Beaucaire (maire Julien Sanchez)", "secteur": "politique", "periode": "01/2019-08/2022"}
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "Déclaration d'intérêts HATVP consultée directement : directeur de cabinet du maire de Beaucaire, rémunéré par la commune, de janvier 2019 à août 2022 — fonction de collaborateur d'élu (secteur 'politique') rattachée ici à 'mixte_public_prive' faute de catégorie combinant privé et politique dans le référentiel. Avant cela, environ 8 ans dans le prêt-à-porter comme gérant puis directeur régional d'une quarantaine de magasins à l'échelle nationale (secteur privé, employeur non identifié, source : linsoumission.fr portrait 2022 déjà vérifié). Niveau d'études inconnu malgré recherches (Wikipédia, HATVP, casierpolitique.com bloqué en 403, L'Écho du Sud introuvable pour ce nom, recherches web bloquées par captcha).",
+   "sources": [
+    {"url": "https://www.hatvp.fr/pages_nominatives/gillet-yoann", "pour": "carriere"},
+    {"url": "https://fr.wikipedia.org/wiki/Yoann_Gillet", "pour": "carriere"}
+   ]
+  },
+  {
+   "uid": "PA793102",
+   "nom": "Christian Girard",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Directeur administratif", "employeur": "Caisse d'Épargne", "secteur": "prive", "periode": "avant 2015 (avant son engagement politique)"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Selon L'Écho du Sud (portrait 'Qui est Christian Girard ?', consulté directement), il a été directeur administratif à la Caisse d'Épargne avant de se lancer en politique — cohérent avec la profession déclarée officielle ('Ancien cadre', catégorie INSEE cadres administratifs et commerciaux d'entreprise). Niveau d'études inconnu malgré recherches multiples (L'Écho du Sud, Wikipédia, DuckDuckGo, Bing, Ecosia, Mojeek — toutes bloquées par captcha ou sans résultat pertinent) : aucune mention de diplôme, lycée ou formation.",
+   "sources": [
+    {"url": "https://www.lechodusud.com/qui-est-christian-girard/", "pour": "carriere"},
+    {"url": "https://fr.wikipedia.org/wiki/Christian_Girard_(homme_politique)", "pour": "carriere"}
+   ]
+  },
+  {
+   "uid": "PA841605",
+   "nom": "Antoine Golliot",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Technicien", "employeur": "Qualiconsult Exploitation", "secteur": "prive", "periode": "01/2021-07/2024"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Déclaration d'intérêts HATVP consultée directement : technicien chez Qualiconsult Exploitation (groupe privé de contrôle technique de la construction) de janvier 2021 à juillet 2024. Niveau d'études inconnu : le métier de technicien de contrôle ne présuppose pas un diplôme unique identifiable ; aucune mention de diplôme dans les sources consultées (HATVP, Wikipédia, Assemblée nationale) ; recherches web complémentaires bloquées par captcha.",
+   "sources": [
+    {"url": "https://www.hatvp.fr/pages_nominatives/golliot-antoine-27428", "pour": "carriere"},
+    {"url": "https://fr.wikipedia.org/wiki/Antoine_Golliot", "pour": "carriere"}
+   ]
+  },
+  {
+   "uid": "PA793362",
+   "nom": "José Gonzalez",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Employé (bourse aux primeurs)", "employeur": "Port de Marseille", "secteur": "prive", "periode": "à partir de 1962"},
+    {"poste": "Directeur d'auto-école", "employeur": "auto-école non nommée", "secteur": "liberal_independant", "periode": "non précisé"},
+    {"poste": "Employé", "employeur": "Chambre de commerce et d'industrie de Marseille", "secteur": "public", "periode": "jusqu'à la retraite"}
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "D'après Wikipédia : pied-noir arrivé à Marseille en 1962 après les accords d'Évian, il travaille d'abord sur le port (bourse aux primeurs), devient directeur d'une auto-école, puis intègre la chambre de commerce et d'industrie de Marseille (établissement public administratif) où il effectue le reste de sa carrière jusqu'à la retraite. Niveau d'études inconnu malgré recherches (Wikipédia, HATVP — page non localisée par URL devinée, recherches web bloquées par captcha) : aucune mention d'études dans la biographie.",
+   "sources": [
+    {"url": "https://fr.wikipedia.org/wiki/Jos%C3%A9_Gonzalez", "pour": "carriere"}
+   ]
+  }
+ ]}

@@ -1,0 +1,290 @@
+{
+  "batch": 26,
+  "deputies": [
+    {
+      "uid": "PA795730",
+      "nom": "Bastien Marchive",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Bordeaux", "diplome": "Licence", "domaine": "droit et sciences politiques"},
+        {"institution": "Université de Bordeaux", "diplome": "Master", "domaine": "droit public des affaires"},
+        {"institution": "Université Paris 1 Panthéon-Sorbonne", "diplome": "Master 2", "domaine": "construction et urbanisme"}
+      ],
+      "fields": ["droit", "autre"],
+      "career": [
+        {"poste": "Juriste", "employeur": "Cabinets d'avocats", "secteur": "prive", "periode": "avant 2014"},
+        {"poste": "Chargé de mission", "employeur": "Cabinet du maire de Niort", "secteur": "politique", "periode": "2014-2019"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "A exercé comme juriste en cabinets d'avocats avant de rejoindre un cabinet politique en 2014, où il a passé la majorité de sa carrière pré-mandat."
+    },
+    {
+      "uid": "PA795746",
+      "nom": "Antoine Léaument",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Poitiers", "diplome": "Licence Lettres, voie Sciences-Po", "domaine": "lettres"},
+        {"institution": "Université Paris 1 Panthéon-Sorbonne", "diplome": "Master Affaires publiques, mention administration du politique", "domaine": "sciences politiques"}
+      ],
+      "fields": ["lettres-sciences humaines", "sciences politiques"],
+      "career": [
+        {"poste": "Stagiaire", "employeur": "Cabinet de la députée Martine Billard", "secteur": "politique", "periode": "2012"},
+        {"poste": "Stagiaire", "employeur": "Conseil régional d'Île-de-France (groupe Front de gauche)", "secteur": "politique", "periode": "2013"},
+        {"poste": "Attaché parlementaire et responsable de la communication numérique", "employeur": "Jean-Luc Mélenchon", "secteur": "politique", "periode": "2013-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA795762",
+      "nom": "Élie Califer",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": null,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Biographie très succincte, ne mentionnant que son mandat de maire."
+    },
+    {
+      "uid": "PA795778",
+      "nom": "Jean-Philippe Tanguy",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "ESSEC", "diplome": "Diplômé (promotion 2011)", "domaine": "gestion-commerce"},
+        {"institution": "Sciences Po Paris", "diplome": "Master Affaires publiques (promotion 2012)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["gestion-commerce", "sciences politiques"],
+      "career": [
+        {"poste": "Alternant", "employeur": "General Electric France (cabinet de Clara Gaymard)", "secteur": "prive", "periode": "à partir de 2011"},
+        {"poste": "Cadre, collaborateur de Nicolas Dupont-Aignan", "employeur": "Debout la France", "secteur": "politique", "periode": "2012-2020"},
+        {"poste": "Directeur de campagne adjoint de Marine Le Pen", "employeur": "Rassemblement national", "secteur": "politique", "periode": "2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Bref passage en alternance dans le privé pendant ses études, puis carrière longue et principalement politique."
+    },
+    {
+      "uid": "PA795786",
+      "nom": "Yaël Ménaché",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université de Lille 2", "diplome": "Licence", "domaine": "philosophie"},
+        {"institution": "Université catholique de Lille", "diplome": "Licence", "domaine": "droit"}
+      ],
+      "fields": ["lettres-sciences humaines", "droit"],
+      "career": [
+        {"poste": "Associée-gérante", "employeur": "Entreprise dans le secteur du diamant", "secteur": "liberal_independant", "periode": "inconnue"},
+        {"poste": "Chargée d'affaires", "employeur": "Secteur de l'informatique", "secteur": "prive", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA795808",
+      "nom": "Sabrina Sebaihi",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-Diderot", "diplome": "Maîtrise", "domaine": "santé publique"},
+        {"institution": "inconnue", "diplome": "Master", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences", "medecine-sante", "sciences politiques"],
+      "career": [
+        {"poste": "Caissière", "employeur": "Carrefour (Ivry-sur-Seine)", "secteur": "prive", "periode": "jusqu'en 2009"},
+        {"poste": "Travailleuse administrative", "employeur": "Mairie de Vitry-sur-Seine", "secteur": "public", "periode": "après 2009"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA795820",
+      "nom": "Marcellin Nadeau",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Grenoble", "diplome": "Maîtrise", "domaine": "droit public"},
+        {"institution": "Université de Grenoble", "diplome": "DEA", "domaine": "sciences administratives"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Gestionnaire comptable", "employeur": "Éducation nationale", "secteur": "public", "periode": "inconnue"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA795844",
+      "nom": "Karen Erodi",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Chef d'entreprise", "employeur": "Entreprise du secteur du bâtiment (économie de la construction)", "secteur": "liberal_independant", "periode": "depuis 2010"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie très succincte, aucune information sur les études ni sur un éventuel parcours antérieur à 2010."
+    },
+    {
+      "uid": "PA795864",
+      "nom": "Pierre Cazeneuve",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Master Corporate and Public Management (2019)", "domaine": "sciences politiques"},
+        {"institution": "HEC Paris", "diplome": "Diplômé (2019)", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["sciences politiques", "gestion-commerce"],
+      "career": [
+        {"poste": "Collaborateur", "employeur": "Cabinet du président de la République française", "secteur": "politique", "periode": "inconnue"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Emploi au cabinet de la présidence de la République mentionné via Wikidata, non détaillé dans le texte de la biographie."
+    },
+    {
+      "uid": "PA795868",
+      "nom": "Jean-Victor Castor",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "inconnue", "diplome": "Diplôme de technicien projeteur", "domaine": "génie climatique"}
+      ],
+      "fields": ["ingenierie"],
+      "career": [
+        {"poste": "Employé", "employeur": "EDF", "secteur": "prive", "periode": "avant licenciement, avant 2019"},
+        {"poste": "Chargé d'affaires", "employeur": "Eiffage (groupe de travaux publics)", "secteur": "prive", "periode": "2019-2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA795876",
+      "nom": "Davy Rimane",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Technicien d'exploitation", "employeur": "EDF Guyane", "secteur": "prive", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Biographie succincte, aucune information sur les études."
+    },
+    {
+      "uid": "PA795884",
+      "nom": "Marc Ferracci",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "HEC Paris", "diplome": "Diplômé", "domaine": "gestion-commerce"},
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplômé", "domaine": "sciences politiques"},
+        {"institution": "Université Panthéon-Sorbonne", "diplome": "Doctorat en sciences économiques", "domaine": "economie"},
+        {"institution": "inconnue", "diplome": "Agrégation de l'enseignement supérieur (2012)", "domaine": "economie"}
+      ],
+      "fields": ["economie", "sciences politiques", "gestion-commerce"],
+      "career": [
+        {"poste": "Maître de conférences", "employeur": "Université Paris-Est-Marne-la-Vallée", "secteur": "public", "periode": "avant 2012"},
+        {"poste": "Professeur des universités", "employeur": "Université de Nantes", "secteur": "public", "periode": "à partir de 2012"},
+        {"poste": "Enseignant", "employeur": "Institut d'études politiques de Paris (Sciences Po)", "secteur": "prive", "periode": "depuis 2016"},
+        {"poste": "Professeur", "employeur": "Université Paris-Panthéon-Assas", "secteur": "public", "periode": "inconnue"},
+        {"poste": "Conseiller économique de campagne", "employeur": "Emmanuel Macron", "secteur": "politique", "periode": "2017"},
+        {"poste": "Conseiller spécial", "employeur": "Ministre du Travail Muriel Pénicaud", "secteur": "politique", "periode": "2017"},
+        {"poste": "Conseiller", "employeur": "Premier ministre Jean Castex", "secteur": "politique", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": "A aussi occupé plusieurs postes de conseiller politique (campagne Macron, cabinets ministériels) avant son mandat."
+    },
+    {
+      "uid": "PA795900",
+      "nom": "Marine Hamelet",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "inconnue", "diplome": "DEUG", "domaine": "droit"},
+        {"institution": "inconnue", "diplome": "BTS Commerce international", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["droit", "gestion-commerce"],
+      "career": [
+        {"poste": "Commerciale", "employeur": "inconnu", "secteur": "prive", "periode": "inconnue"},
+        {"poste": "Assistante maternelle", "employeur": "particuliers employeurs", "secteur": "prive", "periode": "2017-2020"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA795908",
+      "nom": "Yannick Chenevard",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Personnel militaire", "employeur": "Service de santé des armées", "secteur": "public", "periode": "1983-1998"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Aucune information sur les études ; poste précis au sein du service de santé des armées non détaillé."
+    },
+    {
+      "uid": "PA795912",
+      "nom": "Laure Lavalette",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Bordeaux (université non précisée)", "diplome": "Master", "domaine": "droit de la vigne et du vin"}
+      ],
+      "fields": ["droit"],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Déclarée sans activité professionnelle ; seule une activité politique/militante est documentée avant le mandat."
+    }
+  ]
+}

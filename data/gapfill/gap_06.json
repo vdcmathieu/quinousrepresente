@@ -1,0 +1,18 @@
+{
+  "deputies": [
+    {
+      "uid": "PA719388",
+      "nom": "Annaïg Le Meur",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Diplôme d'État de masseur-kinésithérapeute", "domaine": "medecine-sante"},
+        {"institution": "Université Paris-Nanterre", "diplome": "Licence puis maîtrise de sciences de l'éducation", "domaine": "education"},
+        {"institution": "Université de Montpellier", "diplome": "Master 2 de sciences de l'éducation", "domaine": "education"},
+        {"institution": "inconnu", "diplome": "Diplôme d'orthopédiste-orthésiste (2003)", "domaine": "medecine-sante"}
+      ],
+      "fields": ["medecine-sante", "education"],
+      "confidence": "moyenne",
+      "notes": "Diplôme d'Etat masso-kinésithérapie (1995), licence/maîtrise puis master 2 sciences de l'éducation, puis diplôme d'orthopédiste-orthésiste (2003) ; détail absent de la page Wikipedia FR actuelle mais repris par un miroir Wikipedia (source: https://www.wikidata.fr-fr.nina.az/Anna%C3%AFg_Le_Meur.html), non confirmé par une source officielle."
+    }
+  ]
+}

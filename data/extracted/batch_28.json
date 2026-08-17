@@ -1,0 +1,289 @@
+{
+  "batch": 28,
+  "deputies": [
+    {
+      "uid": "PA796078",
+      "nom": "Estelle Youssouffa",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "IUT de Tours", "diplome": "DUT", "domaine": "journalisme"},
+        {"institution": "Université du Québec à Montréal (UQAM)", "diplome": "non précisé", "domaine": "sciences politiques"}
+      ],
+      "fields": ["communication-journalisme", "sciences politiques"],
+      "career": [
+        {"poste": "Journaliste/animatrice", "employeur": "LCI", "secteur": "prive", "periode": "avant 2022"},
+        {"poste": "Journaliste", "employeur": "Al Jazeera English", "secteur": "prive", "periode": "avant 2022"},
+        {"poste": "Journaliste", "employeur": "BFM TV", "secteur": "prive", "periode": "avant 2022"},
+        {"poste": "Chargée d'enseignement", "employeur": "Institut pratique du journalisme, Université Paris-Dauphine", "secteur": "public", "periode": "avant 2022"},
+        {"poste": "Chercheuse (questions militaires et stratégiques)", "employeur": "UQAM", "secteur": "public", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Le diplôme obtenu à l'UQAM n'est pas précisé mais son poste de chercheuse suggère un niveau avancé."
+    },
+    {
+      "uid": "PA796090",
+      "nom": "Aymeric Caron",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Lille III", "diplome": "Licence", "domaine": "lettres modernes"},
+        {"institution": "Université d'Amsterdam (préparation)", "diplome": "Maîtrise", "domaine": "lettres-sciences humaines"},
+        {"institution": "École supérieure de journalisme de Lille", "diplome": "Diplôme de journalisme", "domaine": "journalisme"},
+        {"institution": "Université de Lille III", "diplome": "DEA", "domaine": "lettres"}
+      ],
+      "fields": ["lettres-sciences humaines", "communication-journalisme"],
+      "career": [
+        {"poste": "Producteur/animateur radio", "employeur": "Studio radiophonique du consulat de France", "secteur": "public", "periode": "1995-1997 (Shanghai)"},
+        {"poste": "Enseignant de littérature française", "employeur": "Université SISU de Shanghai", "secteur": "public", "periode": "1995-1997"},
+        {"poste": "Journaliste", "employeur": "TF1 / LCI / CAPA / France 3", "secteur": "prive", "periode": "à partir de 1997"},
+        {"poste": "Grand reporter puis présentateur", "employeur": "Groupe Canal+", "secteur": "prive", "periode": "10 ans"},
+        {"poste": "Animateur", "employeur": "Europe 1", "secteur": "prive", "periode": "2 saisons"},
+        {"poste": "Animateur (On n'est pas couché)", "employeur": "France 2", "secteur": "prive", "periode": "2012-2015"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA796106",
+      "nom": "Édouard Bénard",
+      "highest_degree_level": "inconnu",
+      "degrees": [
+        {"institution": "Apprentissage boucherie", "diplome": "CAP", "domaine": "autre"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Apprenti/ouvrier boucher", "employeur": "inconnu", "secteur": "prive", "periode": "dès 15 ans"},
+        {"poste": "Employé en boulangerie", "employeur": "inconnu", "secteur": "prive", "periode": "pendant ses études"},
+        {"poste": "Agent de la fonction publique territoriale", "employeur": "collectivité territoriale", "secteur": "public", "periode": "avant 2024"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "A suivi des études de philosophie à La Sorbonne mais aucun diplôme universitaire n'est mentionné."
+    },
+    {
+      "uid": "PA796118",
+      "nom": "Bénédicte Auzanot",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": null,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Biographie centrée uniquement sur le parcours politique, sans information sur études ou emploi."
+    },
+    {
+      "uid": "PA805166",
+      "nom": "Anne Bergantz",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Lycée Pontus de Tyard, Chalon-sur-Saône", "diplome": "Baccalauréat scientifique", "domaine": "sciences"},
+        {"institution": "École supérieure de gestion (ESG), Paris", "diplome": "non précisé", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Travailleuse sociale (cellule des mineurs non-accompagnés)", "employeur": "Département des Yvelines", "secteur": "public", "periode": "avant 2018"},
+        {"poste": "Cheffe du service social", "employeur": "Hôpital Necker-Enfants malades (AP-HP)", "secteur": "public", "periode": "2018-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le diplôme précis obtenu à l'École supérieure de gestion n'est pas précisé."
+    },
+    {
+      "uid": "PA817203",
+      "nom": "Laure Miller",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "non précisé", "diplome": "Master en droit / CAPA", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Secrétaire adjointe UMP Marne", "employeur": "UMP", "secteur": "politique", "periode": "plusieurs années"},
+        {"poste": "Auto-entrepreneuse, vente de champagne", "employeur": "indépendante", "secteur": "liberal_independant", "periode": "avant 2022"},
+        {"poste": "Avocate", "employeur": "cabinet non précisé", "secteur": "liberal_independant", "periode": "quelques mois, avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le diplôme de droit n'est pas explicitement mentionné mais est requis pour exercer la profession d'avocate qu'elle a brièvement exercée."
+    },
+    {
+      "uid": "PA817211",
+      "nom": "René Pilato",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Salarié de l'industrie spatiale", "employeur": "inconnu", "secteur": "prive", "periode": "avant d'être professeur"},
+        {"poste": "Professeur de mathématiques", "employeur": "Lycée de l'image et du son, Angoulême", "secteur": "public", "periode": "avant 2023"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "basse",
+      "notes": "Aucune information sur son parcours d'études n'est donnée dans la biographie."
+    },
+    {
+      "uid": "PA822617",
+      "nom": "Martine Froger",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Directrice", "employeur": "Centre d'accompagnement social aux techniques agropastorales (CASTA)", "secteur": "associatif", "periode": "avant/pendant mandat"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "moyenne",
+      "notes": "Son seul emploi connu est la direction d'une association d'insertion, secteur non couvert par les catégories prive/public standard."
+    },
+    {
+      "uid": "PA826635",
+      "nom": "Aurélien Rousseau",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Khâgne", "diplome": "Classe préparatoire littéraire", "domaine": "lettres-sciences humaines"},
+        {"institution": "Université (non précisée)", "diplome": "Maîtrise d'histoire", "domaine": "lettres-sciences humaines"},
+        {"institution": "École nationale d'administration (ENA)", "diplome": "Diplôme ENA", "domaine": "sciences politiques"}
+      ],
+      "fields": ["lettres-sciences humaines", "sciences politiques"],
+      "career": [
+        {"poste": "Professeur d'histoire-géographie", "employeur": "Lycée Jean-Renoir, Bondy", "secteur": "public", "periode": "à partir de 1999"},
+        {"poste": "Membre du cabinet du maire de Paris", "employeur": "Ville de Paris (Bertrand Delanoë)", "secteur": "politique", "periode": "années 2000-2010"},
+        {"poste": "Directeur adjoint de cabinet et conseiller social", "employeur": "Matignon (Manuel Valls puis Bernard Cazeneuve)", "secteur": "politique", "periode": "2015-2017"},
+        {"poste": "Enseignant vacataire", "employeur": "École urbaine de Sciences Po", "secteur": "public", "periode": "2017-2020"},
+        {"poste": "Directeur général", "employeur": "Agence régionale de santé Île-de-France", "secteur": "public", "periode": "2018-2021"},
+        {"poste": "Directeur de cabinet", "employeur": "Première ministre Élisabeth Borne", "secteur": "politique", "periode": "2022-2023"},
+        {"poste": "Ministre de la Santé et de la Prévention", "employeur": "Gouvernement français", "secteur": "politique", "periode": "juillet-décembre 2023"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Carrière de haut fonctionnaire alternant postes administratifs publics (ARS, enseignement) et fonctions politiques de cabinet et ministérielles."
+    },
+    {
+      "uid": "PA840067",
+      "nom": "Gabriel Tomatis",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université Côte d'Azur", "diplome": "Master 1", "domaine": "histoire politique"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Engagement militant dès 16 ans, aucun emploi hors politique mentionné avant son entrée à l'Assemblée."
+    },
+    {
+      "uid": "PA840075",
+      "nom": "Eddy Casterman",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Cadre administratif et commercial d'entreprise", "employeur": "inconnu", "secteur": "prive", "periode": "inconnue"},
+        {"poste": "Attaché parlementaire", "employeur": "Sénateur Vincent Segouin", "secteur": "politique", "periode": "jusqu'en décembre 2021"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "basse",
+      "notes": "Profession déclarée officiellement en entreprise mais sans détail dans la biographie disponible."
+    },
+    {
+      "uid": "PA840107",
+      "nom": "Bernard Chaumeil",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Directeur des relations institutionnelles", "employeur": "inconnu", "secteur": "prive", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie très succincte ; poste connu uniquement via la profession déclarée officielle."
+    },
+    {
+      "uid": "PA840119",
+      "nom": "Sandra Delannoy",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Artisan", "employeur": "indépendante", "secteur": "liberal_independant", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie très succincte ; activité professionnelle connue uniquement via la profession déclarée officielle (artisan)."
+    },
+    {
+      "uid": "PA840135",
+      "nom": "Alexandre Dufosset",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "Maison familiale rurale de Haussy", "diplome": "Formation agricole (non achevée dans cette voie)", "domaine": "agriculture"},
+        {"institution": "non précisé", "diplome": "Baccalauréat relation clients", "domaine": "gestion-commerce"},
+        {"institution": "SNCF (alternance)", "diplome": "BTS management", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce", "agriculture"],
+      "career": [
+        {"poste": "Alternant en BTS management", "employeur": "SNCF", "secteur": "public", "periode": "vers 2018-2020"},
+        {"poste": "Collaborateur puis chef de cabinet", "employeur": "Sébastien Chenu (député RN)", "secteur": "politique", "periode": "à partir de 2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Dernier emploi avant le mandat est un poste politique (chef de cabinet)."
+    },
+    {
+      "uid": "PA840143",
+      "nom": "Guillaume Florquin",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Cadre de la fonction publique", "employeur": "inconnu", "secteur": "public", "periode": "inconnue"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie centrée sur le parcours militant ; emploi connu uniquement via la profession déclarée officielle."
+    }
+  ]
+}

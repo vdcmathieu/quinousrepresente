@@ -1,0 +1,230 @@
+[
+ {
+  "uid": "PA719388",
+  "num": "719388",
+  "nom": "Annaïg Le Meur",
+  "groupe": "Ensemble pour la République",
+  "dept": "Finistère",
+  "circo": "1",
+  "naissance": "1973-04-29",
+  "profession_declaree": "Autre profession libérale",
+  "insee": "Artisans",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "mixte_public_prive",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Anna%C3%AFg_Le_Meur",
+  "wiki_trimmed": "data/wiki_trimmed/PA719388.txt",
+  "notes_actuelles": "Diplôme d'Etat masso-kinésithérapie (1995), licence/maîtrise puis master 2 sciences de l'éducation, puis diplôme d'orthopédiste-orthésiste (2003) ; détail absent de la page Wikipedia FR actuelle mais repris par un miroir Wikipedia (source: https://www.wikidata.fr-fr.nina.az/Anna%C3%AFg_Le_Meur.html), non confirmé par une source officielle."
+ },
+ {
+  "uid": "PA719756",
+  "num": "719756",
+  "nom": "Christine Le Nabour",
+  "groupe": "Ensemble pour la République",
+  "dept": "Ille-et-Vilaine",
+  "circo": "5",
+  "naissance": "1964-10-28",
+  "profession_declaree": "Employée (secteur privé)",
+  "insee": "Personnels des services directs aux particuliers",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Christine_Le_Nabour",
+  "wiki_trimmed": "data/wiki_trimmed/PA719756.txt",
+  "notes_actuelles": "Les secteurs d'activité (insertion sociale, cours de danse) sont déduits du contexte, non explicitement qualifiés dans la biographie."
+ },
+ {
+  "uid": "PA720728",
+  "num": "720728",
+  "nom": "Jean-Paul Mattei",
+  "groupe": "Les Démocrates",
+  "dept": "Pyrénées-Atlantiques",
+  "circo": "2",
+  "naissance": "1954-03-21",
+  "profession_declaree": "Notaire",
+  "insee": "Professions libérales",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Jean-Paul_Matte%C3%AF",
+  "wiki_trimmed": "data/wiki_trimmed/PA720728.txt",
+  "notes_actuelles": "Bac economique puis droit a Pau, DESS de droit notarial et diplome superieur de notariat a Toulouse ; notaire installe a Pau depuis 1993 (source: https://bap-europe.com/qui-sont-les-six-deputes-des-pyrenees-atlantiques/ et https://www.mattei-associes.notaires.fr/jean-paul-mattei/)."
+ },
+ {
+  "uid": "PA719436",
+  "num": "719436",
+  "nom": "Nicolas Meizonnet",
+  "groupe": "Rassemblement National",
+  "dept": "Gard",
+  "circo": "2",
+  "naissance": "1983-12-22",
+  "profession_declaree": "Ingénieur en informatique",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "bac+3_4",
+   "profil": "politique_principalement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Nicolas_Meizonnet",
+  "wiki_trimmed": "data/wiki_trimmed/PA719436.txt",
+  "notes_actuelles": "La profession déclarée (ingénieur en informatique) n'est pas confirmée par un emploi décrit dans la biographie, qui ne mentionne qu'un parcours politique."
+ },
+ {
+  "uid": "PA795176",
+  "num": "795176",
+  "nom": "Nicolas Metzdorf",
+  "groupe": "Ensemble pour la République",
+  "dept": "Nouvelle-Calédonie",
+  "circo": "1",
+  "naissance": "1988-05-20",
+  "profession_declaree": "Ingénieur et cadre technique d'entreprise",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Nicolas_Metzdorf",
+  "wiki_trimmed": "data/wiki_trimmed/PA795176.txt",
+  "notes_actuelles": "Cursus précisé par Wikipédia français (source: https://fr.wikipedia.org/wiki/Nicolas_Metzdorf)."
+ },
+ {
+  "uid": "PA795962",
+  "num": "795962",
+  "nom": "Joséphine Missoffe",
+  "groupe": "Ensemble pour la République",
+  "dept": "Paris",
+  "circo": "14",
+  "naissance": "1973-09-24",
+  "profession_declaree": "Infirmière-Puéricultrice",
+  "insee": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "actuel": {
+   "diplome": "bac+3_4",
+   "profil": "public_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Jos%C3%A9phine_Missoffe",
+  "wiki_trimmed": "data/wiki_trimmed/PA795962.txt",
+  "notes_actuelles": "Employeurs et secteur exact (public/privé) des postes d'infirmière et de directrice de crèche non précisés dans la biographie."
+ },
+ {
+  "uid": "PA794830",
+  "num": "794830",
+  "nom": "Hubert Ott",
+  "groupe": "Les Démocrates",
+  "dept": "Haut-Rhin",
+  "circo": "2",
+  "naissance": "1964-06-06",
+  "profession_declaree": "Professeur, profession scientifique",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "bac+3_4",
+   "profil": "public_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Hubert_Ott",
+  "wiki_trimmed": "data/wiki_trimmed/PA794830.txt",
+  "notes_actuelles": "Maîtrise en sciences naturelles a la faculte de biologie de Strasbourg, mentionnee sur son site personnel (source: http://ott-hubert.info/mon-parcours/)."
+ },
+ {
+  "uid": "PA795124",
+  "num": "795124",
+  "nom": "Didier Padey",
+  "groupe": "Les Démocrates",
+  "dept": "Savoie",
+  "circo": "1",
+  "naissance": "1965-11-09",
+  "profession_declaree": "cadre commercial",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Didier_Padey",
+  "wiki_trimmed": "data/wiki_trimmed/PA795124.txt",
+  "notes_actuelles": "Diplôme et parcours professionnel trouvés via LinkedIn/Viadeo/The Org (Victrex), non confirmés par une source officielle (source: https://theorg.com/org/victrex-plc/org-chart/didier-padey et https://www.linkedin.com/in/didier-padey-058963/)."
+ },
+ {
+  "uid": "PA794778",
+  "num": "794778",
+  "nom": "Sandra Regol",
+  "groupe": "Écologiste et Social",
+  "dept": "Bas-Rhin",
+  "circo": "1",
+  "naissance": "1978-04-13",
+  "profession_declaree": "(85) - Personne diverse sans activité professionnelle de moins de 60 ans (sauf r",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "politique_principalement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Sandra_Regol",
+  "wiki_trimmed": "data/wiki_trimmed/PA794778.txt",
+  "notes_actuelles": "Études à Paris VIII puis Dijon, puis responsable communication d'EM Strasbourg puis de Sciences Po Strasbourg (établissements publics d'enseignement supérieur) avant son engagement politique à temps plein (source: fr.wikipedia.org/wiki/Sandra_Regol, franceinfo grand-est 2022)."
+ },
+ {
+  "uid": "PA841377",
+  "num": "841377",
+  "nom": "Emeline Rey-Rinchet",
+  "groupe": "Droite Républicaine",
+  "dept": "Lot-et-Garonne",
+  "circo": "3",
+  "naissance": "1988-03-29",
+  "profession_declaree": "Ostéopathe",
+  "insee": "Professions libérales",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/%C3%89meline_Rey-Rinchet",
+  "wiki_trimmed": "data/wiki_trimmed/PA841377.txt",
+  "notes_actuelles": "La biographie disponible se limite à mentionner ses professions d'ostéopathe et de viticultrice, sans détail sur sa formation ou son parcours."
+ },
+ {
+  "uid": "PA841845",
+  "num": "841845",
+  "nom": "Arnaud Saint-Martin",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Seine-et-Marne",
+  "circo": "1",
+  "naissance": "1979-01-25",
+  "profession_declaree": "(34) - Professeur, profession scientifique",
+  "insee": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "actuel": {
+   "diplome": "doctorat",
+   "profil": "public_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Arnaud_Saint-Martin",
+  "wiki_trimmed": "data/wiki_trimmed/PA841845.txt",
+  "notes_actuelles": "Biographie tronquée ; doctorat déduit de son poste de chercheur CNRS et de son titre de sociologue des sciences."
+ },
+ {
+  "uid": "PA793334",
+  "num": "793334",
+  "nom": "Cyril Tribuiani",
+  "groupe": "Rassemblement National",
+  "dept": "Alpes-Maritimes",
+  "circo": "6",
+  "naissance": "1981-07-25",
+  "profession_declaree": "Agent d'assurances",
+  "insee": "Agents de maîtrise (hors maîtrise administrative)",
+  "actuel": {
+   "diplome": "bac_ou_moins",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Cyril_Tribuiani",
+  "wiki_trimmed": "data/wiki_trimmed/PA793334.txt",
+  "notes_actuelles": "Bac pro comptabilite a 18 ans puis 10 ans chez Carrefour, ensuite agent d'assurances chez Axa avant de devenir collaborateur de Bryan Masson (source: https://nicepresse.com/pres-de-nice-a-cagnes-sur-mer-le-depart-du-depute-vers-la-mairie-propulse-son-suppleant-a-lassemblee-ce-quil-faut-savoir-de-cyril-tribuiani/)."
+ }
+]

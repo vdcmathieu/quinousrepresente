@@ -1,0 +1,288 @@
+{
+  "batch": 13,
+  "deputies": [
+    {
+      "uid": "PA722366",
+      "nom": "Jean-Luc Fugit",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "École nationale supérieure des ingénieurs en arts chimiques et technologiques (ENSIACET)", "diplome": "Diplôme d'ingénieur chimiste", "domaine": "ingenierie"},
+        {"institution": "Université (doctorat)", "diplome": "Doctorat en pollution de l'air (chimie)", "domaine": "sciences"}
+      ],
+      "fields": ["sciences", "ingenierie"],
+      "career": [
+        {"poste": "Enseignant-chercheur en chimie", "employeur": "Université Jean-Monnet-Saint-Étienne", "secteur": "public", "periode": "avant 2017"},
+        {"poste": "Vice-président chargé de l'insertion professionnelle, de l'orientation et de la réussite des étudiants", "employeur": "Université Jean-Monnet-Saint-Étienne", "secteur": "public", "periode": "2011-2017"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA722374",
+      "nom": "Cyrille Isaac-Sibille",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Université Claude-Bernard-Lyon-I", "diplome": "Doctorat en médecine (ORL)", "domaine": "medecine-sante"}
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {"poste": "Médecin oto-rhino-laryngologiste (ORL)", "employeur": null, "secteur": "liberal_independant", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le détail de l'exercice (cabinet libéral vs hôpital) n'est pas précisé, mais profession libérale déclarée."
+    },
+    {
+      "uid": "PA722382",
+      "nom": "Benjamin Dirx",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Chef d'entreprise (industriel)", "employeur": null, "secteur": "liberal_independant", "periode": "avant 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie très succincte, ne détaille ni études ni carrière avant le mandat."
+    },
+    {
+      "uid": "PA722390",
+      "nom": "Josiane Corneloup",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Faculté de pharmacie de Clermont-Ferrand", "diplome": "Doctorat en pharmacie", "domaine": "medecine-sante"}
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {"poste": "Pharmacienne, propriétaire de pharmacie", "employeur": "Pharmacie de Saint-Bonnet-de-Joux", "secteur": "liberal_independant", "periode": "avant 2017"},
+        {"poste": "Présidente et directrice générale", "employeur": "SEMPAT Bourgogne Sud (société d'économie mixte publique locale)", "secteur": "public", "periode": "2012-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA736201",
+      "nom": "Sophie Taillé-Polian",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Nanterre", "diplome": "Maîtrise d'histoire", "domaine": "lettres-sciences humaines"},
+        {"institution": "Université de Nanterre", "diplome": "Troisième cycle professionnel (politiques culturelles)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Cadre de la fonction publique", "employeur": null, "secteur": "public", "periode": "inconnu"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Profession de cadre de la fonction publique tirée des données officielles, sans détail biographique du poste."
+    },
+    {
+      "uid": "PA757225",
+      "nom": "Mikaele Seo",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Agent d'entretien", "employeur": "Collège de Wallis", "secteur": "public", "periode": "avant 2017"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": ""
+    },
+    {
+      "uid": "PA759832",
+      "nom": "Agnès Pannier-Runacher",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "HEC Paris", "diplome": "Diplôme HEC (cursus Grande École)", "domaine": "gestion-commerce"},
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme Sciences Po", "domaine": "sciences politiques"},
+        {"institution": "École nationale d'administration (ENA)", "diplome": "Diplôme ENA, promotion Averroès", "domaine": "sciences politiques"}
+      ],
+      "fields": ["gestion-commerce", "sciences politiques"],
+      "career": [
+        {"poste": "Inspectrice des finances", "employeur": "Inspection générale des finances", "secteur": "public", "periode": "2000-2011"},
+        {"poste": "Postes de direction dans l'administration d'organismes publics", "employeur": "organismes publics", "secteur": "public", "periode": "2000-2011"},
+        {"poste": "Cadre dirigeante d'entreprise", "employeur": "secteur privé", "secteur": "prive", "periode": "2011-2018"},
+        {"poste": "Ministre (Économie, Transition énergétique, Agriculture)", "employeur": "Gouvernements Philippe et Macron", "secteur": "politique", "periode": "2018-2024"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA774954",
+      "nom": "Anne-Laure Blin",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Nancy-II", "diplome": "Études de droit (niveau non précisé)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Collaboratrice parlementaire", "employeur": "Michèle Tabarot, députée", "secteur": "politique", "periode": "avant 2008"},
+        {"poste": "Collaboratrice parlementaire", "employeur": "Jean-Charles Taugourdeau, député", "secteur": "politique", "periode": "~2008-2020"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Niveau exact du diplôme de droit non précisé; profession déclarée de juriste, mais carrière connue uniquement de collaboratrice parlementaire."
+    },
+    {
+      "uid": "PA774958",
+      "nom": "Gérard Leseul",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Professeur remplaçant", "employeur": "Collèges (Éducation nationale)", "secteur": "public", "periode": "avant 1985"},
+        {"poste": "Stagiaire puis attaché de presse", "employeur": "Cabinet ministériel de Jean-Marie Bockel", "secteur": "politique", "periode": "1985"},
+        {"poste": "Collaborateur parlementaire", "employeur": "Jean-Marie Bockel puis Jean Beaufils", "secteur": "politique", "periode": "après 1985"},
+        {"poste": "Professeur associé en éco-gestion", "employeur": "Université de Rouen (Faculté de Lettres)", "secteur": "public", "periode": "1994-2020"},
+        {"poste": "Chef d'entreprise (PME imprimerie)", "employeur": "PME d'imprimerie", "secteur": "liberal_independant", "periode": "inconnu"},
+        {"poste": "Chargé des affaires publiques et de la RSE", "employeur": "Crédit Mutuel", "secteur": "prive", "periode": "inconnu-2020"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": "Parcours diversifié: enseignement, cabinet ministériel, entrepreneuriat puis secteur bancaire coopératif."
+    },
+    {
+      "uid": "PA774960",
+      "nom": "Isabelle Santiago",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Cadre territorial", "employeur": null, "secteur": "public", "periode": "inconnu"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "La biographie ne détaille que les mandats électifs locaux, sans préciser le poste professionnel de cadre territorial."
+    },
+    {
+      "uid": "PA774962",
+      "nom": "Karine Lebon",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Professeure des écoles", "employeur": "Éducation nationale", "secteur": "public", "periode": "avant 2020"},
+        {"poste": "Secrétaire générale", "employeur": "Union des femmes de La Réunion (UFR)", "secteur": "associatif", "periode": "avant 2020"},
+        {"poste": "Actrice (série Cut!)", "employeur": "France Ô", "secteur": "prive", "periode": "2017-2019"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": ""
+    },
+    {
+      "uid": "PA791812",
+      "nom": "Sophia Chikirou",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Grenoble", "diplome": "DESS communication politique et sociale", "domaine": "communication-journalisme"},
+        {"institution": "IAE Paris (Université Paris-I-Panthéon-Sorbonne)", "diplome": "Master 2 ressources humaines et responsabilité sociale de l'entreprise", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["communication-journalisme", "gestion-commerce"],
+      "career": [
+        {"poste": "Assistante parlementaire", "employeur": "Michel Charzat, député", "secteur": "politique", "periode": "2002-2007"},
+        {"poste": "Fondatrice et dirigeante", "employeur": "Médiascop (cabinet de communication)", "secteur": "liberal_independant", "periode": "2011-2017"},
+        {"poste": "Conseillère de campagne", "employeur": "Jean-Luc Mélenchon", "secteur": "politique", "periode": "2011-2017"},
+        {"poste": "Directrice", "employeur": "Le Média", "secteur": "prive", "periode": "2017-2018"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Carrière mêlant conseil politique et activités professionnelles en communication (Médiascop, Le Média)."
+    },
+    {
+      "uid": "PA791824",
+      "nom": "Sarah Legrain",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École normale supérieure", "diplome": "Normalienne, promotion 2006", "domaine": "lettres-sciences humaines"},
+        {"institution": "Concours de l'agrégation", "diplome": "Agrégation de lettres modernes", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Enseignante de français et culture générale", "employeur": "Lycée Voillaume, Aulnay-sous-Bois", "secteur": "public", "periode": "avant 2022"},
+        {"poste": "Secrétaire nationale", "employeur": "Parti de gauche", "secteur": "politique", "periode": "2015-2021"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793094",
+      "nom": "Nicolas Ray",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme IEP Paris (spécialisation économie et droit public)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques", "droit", "economie"],
+      "career": [
+        {"poste": "Inspecteur principal des finances publiques", "employeur": "DGFIP de l'Allier", "secteur": "public", "periode": "avant 2022"},
+        {"poste": "Agent comptable", "employeur": "Chambre d'agriculture de l'Allier", "secteur": "public", "periode": "avant 2022"},
+        {"poste": "Agent", "employeur": "Trésorerie de Vic-sur-Cère (Cantal)", "secteur": "public", "periode": "avant 2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793102",
+      "nom": "Christian Girard",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Directeur administratif", "employeur": "Caisse d'épargne", "secteur": "prive", "periode": "avant 2015"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": ""
+    }
+  ]
+}

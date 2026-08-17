@@ -1,0 +1,230 @@
+[
+ {
+  "uid": "PA841487",
+  "num": "841487",
+  "nom": "Anthony Boulogne",
+  "groupe": "Rassemblement National",
+  "dept": "Meurthe-et-Moselle",
+  "circo": "6",
+  "naissance": "1993-06-08",
+  "profession_declaree": "(37) - Cadre administratif et commercial d'entreprise",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Anthony_Boulogne",
+  "wiki_trimmed": "data/wiki_trimmed/PA841487.txt",
+  "notes_actuelles": "Biographie centrée sur son parcours militant et électoral au RN, peu d'informations professionnelles."
+ },
+ {
+  "uid": "PA794938",
+  "num": "794938",
+  "nom": "Idir Boumertit",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Rhône",
+  "circo": "14",
+  "naissance": "1974-10-04",
+  "profession_declaree": "Employé administratif d'entreprise",
+  "insee": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "inconnu",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Idir_Boumertit",
+  "wiki_trimmed": "data/wiki_trimmed/PA794938.txt",
+  "notes_actuelles": "Employeurs et statut exacts non précisés dans la biographie."
+ },
+ {
+  "uid": "PA841131",
+  "num": "841131",
+  "nom": "Manon Bouquin",
+  "groupe": "Rassemblement National",
+  "dept": "Hérault",
+  "circo": "4",
+  "naissance": "1992-06-02",
+  "profession_declaree": "(33) - Cadre de la fonction publique",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "politique_principalement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Manon_Bouquin",
+  "wiki_trimmed": "data/wiki_trimmed/PA841131.txt",
+  "notes_actuelles": ""
+ },
+ {
+  "uid": "PA342240",
+  "num": "342240",
+  "nom": "Jean-Luc Bourgeaux",
+  "groupe": "Droite Républicaine",
+  "dept": "Ille-et-Vilaine",
+  "circo": "7",
+  "naissance": "1963-04-10",
+  "profession_declaree": "Agriculteur",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Jean-Luc_Bourgeaux",
+  "wiki_trimmed": "data/wiki_trimmed/PA342240.txt",
+  "notes_actuelles": "Declaration HATVP confirme le statut d'exploitant agricole independant ; presse le decrit comme ancien eleveur de vaches laitieres devenu cerealier ; aucune information fiable trouvee sur ses etudes (source: https://www.hatvp.fr/pages_nominatives/bourgeaux-jean-luc-18806)."
+ },
+ {
+  "uid": "PA720838",
+  "num": "720838",
+  "nom": "Soumya Bourouaha",
+  "groupe": "Gauche Démocrate et Républicaine",
+  "dept": "Seine-Saint-Denis",
+  "circo": "4",
+  "naissance": "1964-03-16",
+  "profession_declaree": "Professeure",
+  "insee": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "mixte_public_prive",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Soumya_Bourouaha",
+  "wiki_trimmed": "data/wiki_trimmed/PA720838.txt",
+  "notes_actuelles": "Aucun diplôme précisé dans la source malgré une double carrière professionnelle documentée."
+ },
+ {
+  "uid": "PA793182",
+  "num": "793182",
+  "nom": "Jorys Bovet",
+  "groupe": "Rassemblement National",
+  "dept": "Allier",
+  "circo": "2",
+  "naissance": "1993-03-30",
+  "profession_declaree": "Chauffeur-livreur",
+  "insee": "Ouvriers peu qualifiés de type industriel",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Jorys_Bovet",
+  "wiki_trimmed": "data/wiki_trimmed/PA793182.txt",
+  "notes_actuelles": "Declaration HATVP detaillant plusieurs employeurs successifs comme chauffeur-livreur de 2017 a 2022 (source: https://www.hatvp.fr/pages_nominatives/bovet-jorys-24137)."
+ },
+ {
+  "uid": "PA795318",
+  "num": "795318",
+  "nom": "Louis Boyard",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Val-de-Marne",
+  "circo": "3",
+  "naissance": "2000-08-26",
+  "profession_declaree": "Elève, étudiant",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Louis_Boyard",
+  "wiki_trimmed": "data/wiki_trimmed/PA795318.txt",
+  "notes_actuelles": "Études de droit à Paris-Panthéon-Assas mentionnées par Wikidata mais sans confirmation d'obtention de diplôme; a occupé un poste de chroniqueur média avant son mandat."
+ },
+ {
+  "uid": "PA793508",
+  "num": "793508",
+  "nom": "Hubert Brigand",
+  "groupe": "Droite Républicaine",
+  "dept": "Côte-d'Or",
+  "circo": "4",
+  "naissance": "1952-07-28",
+  "profession_declaree": "Ancienne profession intermédiaire",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "inconnu",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Hubert_Brigand",
+  "wiki_trimmed": "data/wiki_trimmed/PA793508.txt",
+  "notes_actuelles": "La source ne mentionne que ses mandats de maire, aucune information sur études ou emploi."
+ },
+ {
+  "uid": "PA794798",
+  "num": "794798",
+  "nom": "Françoise Buffet",
+  "groupe": "Ensemble pour la République",
+  "dept": "Bas-Rhin",
+  "circo": "4",
+  "naissance": "1953-12-11",
+  "profession_declaree": "Ancien artisan, commerçant, chef d'entreprise",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Buffet",
+  "wiki_trimmed": "data/wiki_trimmed/PA794798.txt",
+  "notes_actuelles": ""
+ },
+ {
+  "uid": "PA796106",
+  "num": "796106",
+  "nom": "Édouard Bénard",
+  "groupe": "Gauche Démocrate et Républicaine",
+  "dept": "Seine-Maritime",
+  "circo": "3",
+  "naissance": "1995-02-18",
+  "profession_declaree": "Collaborateur d'élu",
+  "insee": "Employés administratifs de la fonction publique, agents de service et auxiliaires de santé",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "mixte_public_prive",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/%C3%89douard_B%C3%A9nard",
+  "wiki_trimmed": "data/wiki_trimmed/PA796106.txt",
+  "notes_actuelles": "A suivi des études de philosophie à La Sorbonne mais aucun diplôme universitaire n'est mentionné."
+ },
+ {
+  "uid": "PA795762",
+  "num": "795762",
+  "nom": "Elie Califer",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Guadeloupe",
+  "circo": "4",
+  "naissance": "1954-04-19",
+  "profession_declaree": "Ancien cadre",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/%C3%89lie_Califer",
+  "wiki_trimmed": "data/wiki_trimmed/PA795762.txt",
+  "notes_actuelles": "HATVP: enseignant à l'IME Les Gommiers jusqu'en 2017, retraité depuis septembre 2017 (source: hatvp.fr, déclaration d'intérêts)."
+ },
+ {
+  "uid": "PA841973",
+  "num": "841973",
+  "nom": "Pierre-Henri Carbonnel",
+  "groupe": "Union des droites pour la République",
+  "dept": "Tarn-et-Garonne",
+  "circo": "1",
+  "naissance": "1990-03-23",
+  "profession_declaree": "Agriculteur",
+  "insee": "Agriculteurs exploitants",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Pierre-Henri_Carbonnel",
+  "wiki_trimmed": "data/wiki_trimmed/PA841973.txt",
+  "notes_actuelles": ""
+ }
+]

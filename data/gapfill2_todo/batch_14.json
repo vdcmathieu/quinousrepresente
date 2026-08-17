@@ -1,0 +1,230 @@
+[
+ {
+  "uid": "PA794178",
+  "num": "794178",
+  "nom": "Jean-Pierre Taite",
+  "groupe": "Droite Républicaine",
+  "dept": "Loire",
+  "circo": "6",
+  "naissance": "1962-03-14",
+  "profession_declaree": "Ancien artisan, commerçant, chef d'entreprise",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Jean-Pierre_Taite",
+  "wiki_trimmed": "data/wiki_trimmed/PA794178.txt",
+  "notes_actuelles": "Peu d'informations sur son parcours professionnel avant ses mandats locaux."
+ },
+ {
+  "uid": "PA793298",
+  "num": "793298",
+  "nom": "Lionel Tivoli",
+  "groupe": "Rassemblement National",
+  "dept": "Alpes-Maritimes",
+  "circo": "2",
+  "naissance": "1988-02-29",
+  "profession_declaree": "Chef d'entreprise de 10 salariés ou plus",
+  "insee": "Chefs d'entreprise de plus de 10 personnes",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Lionel_Tivoli",
+  "wiki_trimmed": "data/wiki_trimmed/PA793298.txt",
+  "notes_actuelles": "Declaration HATVP: assistant de groupe salarie par la Ville d'Antibes 2020-2022, en parallele de son entreprise d'e-liquides fondee en 2013 (source: https://www.hatvp.fr/pages_nominatives/tivoli-lionel-24176)."
+ },
+ {
+  "uid": "PA842299",
+  "num": "842299",
+  "nom": "Emmanuel Tjibaou",
+  "groupe": "Gauche Démocrate et Républicaine",
+  "dept": "Nouvelle-Calédonie",
+  "circo": "2",
+  "naissance": "1976-03-17",
+  "profession_declaree": "(33) - Cadre de la fonction publique",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "inconnu",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Emmanuel_Tjibaou",
+  "wiki_trimmed": "data/wiki_trimmed/PA842299.txt",
+  "notes_actuelles": "La source mentionne une carrière professionnelle dans le domaine de la culture mais ne la détaille pas."
+ },
+ {
+  "uid": "PA840781",
+  "num": "840781",
+  "nom": "Romain Tonussi",
+  "groupe": "Rassemblement National",
+  "dept": "Bouches-du-Rhône",
+  "circo": "8",
+  "naissance": "1996-04-09",
+  "profession_declaree": "(45) - Profession intermédiaire administrative de la fonction publique",
+  "insee": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Romain_Tonussi",
+  "wiki_trimmed": "data/wiki_trimmed/PA840781.txt",
+  "notes_actuelles": "Biographie centrée sur les candidatures successives dès 2020, sans détail sur un emploi."
+ },
+ {
+  "uid": "PA840685",
+  "num": "840685",
+  "nom": "Vincent Trébuchet",
+  "groupe": "Union des droites pour la République",
+  "dept": "Ardèche",
+  "circo": "2",
+  "naissance": "1988-07-05",
+  "profession_declaree": "(37) - Cadre administratif et commercial d'entreprise",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Vincent_Tr%C3%A9buchet",
+  "wiki_trimmed": "data/wiki_trimmed/PA840685.txt",
+  "notes_actuelles": "Carrière essentiellement dans le privé (distribution, banque) avant un dernier poste dans une fondation liée à Pierre-Édouard Stérin."
+ },
+ {
+  "uid": "PA840809",
+  "num": "840809",
+  "nom": "Gérault Verny",
+  "groupe": "Union des droites pour la République",
+  "dept": "Bouches-du-Rhône",
+  "circo": "14",
+  "naissance": "1984-12-23",
+  "profession_declaree": "(23) - Chef d'entreprise de 10 salariés ou plus",
+  "insee": "Chefs d'entreprise de plus de 10 personnes",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/G%C3%A9rault_Verny",
+  "wiki_trimmed": "data/wiki_trimmed/PA840809.txt",
+  "notes_actuelles": "La biographie ne mentionne pas son parcours d'études."
+ },
+ {
+  "uid": "PA841479",
+  "num": "841479",
+  "nom": "Frédéric Weber",
+  "groupe": "Rassemblement National",
+  "dept": "Meurthe-et-Moselle",
+  "circo": "3",
+  "naissance": "1973-05-21",
+  "profession_declaree": "(43) - Profession intermédiaire de la santé et du travail social",
+  "insee": "Professions de l’enseignement primaire et professionnel, de la formation continue et du sport",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "inconnu",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Weber",
+  "wiki_trimmed": "data/wiki_trimmed/PA841479.txt",
+  "notes_actuelles": "Biographie quasiment vide et catégories déclarées (profession/INSEE) contradictoires."
+ },
+ {
+  "uid": "PA642764",
+  "num": "642764",
+  "nom": "Joël Aviragnet",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Haute-Garonne",
+  "circo": "8",
+  "naissance": "1956-06-16",
+  "profession_declaree": "Directeur d'un établissement pour l'enfance handicapée",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "inconnu",
+   "confiance": "haute"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Jo%C3%ABl_Aviragnet",
+  "wiki_trimmed": "data/wiki_trimmed/PA642764.txt",
+  "notes_actuelles": "Carrière longue et bien documentée dans des établissements médico-sociaux (ITEP) de statut associatif, non classables en secteur privé ou public au sens strict."
+ },
+ {
+  "uid": "PA643143",
+  "num": "643143",
+  "nom": "Christian Baptiste",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Guadeloupe",
+  "circo": "2",
+  "naissance": "1962-06-18",
+  "profession_declaree": "Directeur d'association",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "bac+3_4",
+   "profil": "public_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Christian_Baptiste",
+  "wiki_trimmed": "data/wiki_trimmed/PA643143.txt",
+  "notes_actuelles": "Professeur de lettres modernes de formation avant de devenir directeur d'association puis maire de Sainte-Anne (source: recherche web, plusieurs médias guadeloupéens ; niveau de diplôme et établissement non précisés)."
+ },
+ {
+  "uid": "PA267763",
+  "num": "267763",
+  "nom": "Jean-Pierre Bataille",
+  "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+  "dept": "Nord",
+  "circo": "15",
+  "naissance": "1963-10-24",
+  "profession_declaree": "Pharmacien",
+  "insee": "Professions libérales",
+  "actuel": {
+   "diplome": "doctorat",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Jean-Pierre_Bataille",
+  "wiki_trimmed": "data/wiki_trimmed/PA267763.txt",
+  "notes_actuelles": "Sa déclaration HATVP confirme qu'il est gérant de la SELARL Pharmacie Bataille (officine reprise à son père) ; le diplôme de docteur en pharmacie est requis légalement pour exercer ce métier mais n'est pas explicitement mentionné dans les sources (source: https://www.hatvp.fr/pages_nominatives/bataille-jean-pierre-9443)."
+ },
+ {
+  "uid": "PA606793",
+  "num": "606793",
+  "nom": "Laurent Baumel",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Indre-et-Loire",
+  "circo": "4",
+  "naissance": "1965-08-13",
+  "profession_declaree": "Cadre supérieur du secteur public",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "bac+5",
+   "profil": "public_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Laurent_Baumel",
+  "wiki_trimmed": "data/wiki_trimmed/PA606793.txt",
+  "notes_actuelles": "La biographie Wikipédia ne détaille ni les études ni la carrière professionnelle; le poste est déduit de la profession déclarée à l'Assemblée nationale et des établissements fréquentés selon Wikidata."
+ },
+ {
+  "uid": "PA720822",
+  "num": "720822",
+  "nom": "Bruno Bilde",
+  "groupe": "Rassemblement National",
+  "dept": "Pas-de-Calais",
+  "circo": "12",
+  "naissance": "1976-09-22",
+  "profession_declaree": "Juriste",
+  "insee": "Professions libérales",
+  "actuel": {
+   "diplome": "bac+3_4",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Bruno_Bilde",
+  "wiki_trimmed": "data/wiki_trimmed/PA720822.txt",
+  "notes_actuelles": "Diplôme signalé par une référence non confirmée ; carrière de juriste peu détaillée, parcours essentiellement militant et politique local dès 1991."
+ }
+]

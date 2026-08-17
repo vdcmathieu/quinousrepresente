@@ -1,0 +1,482 @@
+{
+ "deputies": [
+  {
+   "uid": "PA840119",
+   "nom": "Sandra Delannoy",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Artisan torréfactrice (entreprise individuelle)",
+     "employeur": "Entreprise individuelle",
+     "secteur": "liberal_independant",
+     "periode": "07/2019-06/2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Deuxième passe : le wikitexte brut de l'article Wikipédia (infobox complète) ne comporte aucun champ formation/diplôme et la biographie ne mentionne que l'activité de torréfactrice et les mandats à la CAF du Nord et à la Chambre de métiers (confirmés par le HATVP local, activités non rémunérées de type mandat). Aucune piste supplémentaire trouvée (pas de nouvel article de presse mentionnant des études). Le HATVP confirme exactement la période déjà connue (07/2019-06/2024) pour l'activité d'artisan torréfacteur. Diplôme laissé honnêtement inconnu, comme en première passe.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Sandra_Delannoy",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841059",
+   "nom": "Catherine Dellong Meng",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Cadre territoriale (direction des finances)",
+     "employeur": "Mairie d'Avignon, Communauté d'agglomération du Grand Avignon, Opéra d'Avignon, Ville du Pontet (employeurs successifs)",
+     "secteur": "public",
+     "periode": "jusqu'au 01/01/2026 (retraite)"
+    },
+    {
+     "poste": "Responsable du contrôle de gestion externe",
+     "employeur": "Communauté d'agglomération du Grand Avignon",
+     "secteur": "public",
+     "periode": "2021"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Deuxième passe : le wikitexte brut confirme le même parcours de cadre territoriale (direction des finances puis contrôle de gestion) que la première passe, sans champ « université » renseigné dans l'infobox. Vérifié que sa déclaration HATVP est toujours absente du fichier local declarations.xml (grep sur « Dellong » : 0 résultat), donc pas de nouvelle source sur sa carrière ou son diplôme via cette voie. Sa profession déclarée (« Cadre territoriale de la fonction publique ») et son code INSEE (cadres administratifs et techniques de la fonction publique, catégorie A) correspondent à la règle du projet sur les inférences de diplôme pour un poste de catégorie A / attaché territorial, qui implique en général une licence obtenue par concours externe : diplôme inféré à bac+3_4 avec confiance plafonnée à moyenne, faute de diplôme nommément identifié.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Catherine_Dellong-Meng",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA794982",
+   "nom": "Julie Delpech",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Attachée parlementaire du sénateur Jean-Claude Boulard",
+     "employeur": "Sénat (cabinet du sénateur Boulard, PS)",
+     "secteur": "politique",
+     "periode": "2014-2017"
+    },
+    {
+     "poste": "Collaboratrice de cabinet",
+     "employeur": "Mairie du Mans",
+     "secteur": "politique",
+     "periode": "10/2017-08/2018"
+    },
+    {
+     "poste": "Chargée de communication et déléguée générale du Fonds de solidarité",
+     "employeur": "Oui Care (ex-O2, services à la personne, Le Mans)",
+     "secteur": "prive",
+     "periode": "07/2018-05/2022"
+    },
+    {
+     "poste": "Présidente bénévole",
+     "employeur": "Association Les Simones",
+     "secteur": "associatif",
+     "periode": "10/2021-07/2022"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Deuxième passe : le wikitexte brut ne mentionne aucun diplôme ni établissement d'études, uniquement le parcours politico-professionnel déjà connu. Ajout d'une activité bénévole trouvée dans le HATVP local (présidente de l'association Les Simones, 10/2021-07/2022) qui figurait déjà dans les notes de la première passe mais pas dans la liste structurée de carrière. Tentative de vérification de trois articles de presse (France 3 Pays de la Loire, Ouest-France « portrait », France Bleu) : les trois pages ne renvoient aucun texte d'article exploitable via curl (contenu chargé en JavaScript ou paywall), confirmé par un grep infructueux sur les mots-clés « étude/diplôme/formation ». Diplôme laissé honnêtement inconnu.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Julie_Delpech",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA722382",
+   "nom": "Benjamin Dirx",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Cadre dirigeant",
+     "employeur": "Entreprise familiale (non nommée)",
+     "secteur": "prive",
+     "periode": "non précisée, avant création d'entreprise"
+    },
+    {
+     "poste": "Dirigeant, société de formation professionnelle continue",
+     "employeur": "Financière BD",
+     "secteur": "liberal_independant",
+     "periode": "06/2017-08/2024 (HATVP)"
+    },
+    {
+     "poste": "Président bénévole",
+     "employeur": "Association Avenir et Territoire",
+     "secteur": "associatif",
+     "periode": null
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Deuxième passe : le HATVP local nomme enfin l'entreprise qu'il a créée, « Financière BD », dont il est dirigeant de 06/2017 à 08/2024 (et une autre ligne « dirigeant » depuis 06/2017 sans fin) — cela correspond très probablement à l'« entreprise créée par lui-même » décrite sans nom par Wikipédia dans le secteur de la formation tout au long de la vie, mais son nom (« Financière ») évoque plutôt une structure de portage/holding, donc le lien avec l'activité de formation reste une déduction raisonnable et non une certitude absolue. Le wikitexte brut confirme que le passage biographique (scolarité à Mâcon, études à l'Université de Bourgogne, carrière professionnelle) est balisé {{Référence nécessaire}} depuis septembre 2024 : aucun diplôme n'est nommé. Fiche AN (PA722382) et nosdeputes.fr consultées : aucune ne détaille son cursus. Diplôme laissé honnêtement inconnu.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Benjamin_Dirx",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA793146",
+   "nom": "Nicolas Dragon",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Consultant indépendant en communication et relations publiques",
+     "employeur": "Activité indépendante",
+     "secteur": "liberal_independant",
+     "periode": "01/2019-06/2022"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Deuxième passe : le wikitexte brut de l'article est entièrement consacré à son engagement politique local (RPR puis RN) depuis l'âge de 17 ans, sans aucune section biographie/formation ni champ université dans l'infobox. Le HATVP local reconfirme exactement l'activité déjà connue (conseil en relations publiques, profession libérale, 01/2019-06/2022, avec une deuxième ligne 05/2016-06/2022 pour la même activité). Tentative de lecture de l'article de fond « Qui est Nicolas Dragon » (L'Union, 19/06/2022) cité en référence : page vide après nettoyage HTML (paywall abonné). Diplôme laissé honnêtement inconnu.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Nicolas_Dragon",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841633",
+   "nom": "Peio Dufau",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Agent de maîtrise / surveillant travaux bâtiments ferroviaires",
+     "employeur": "SNCF Gares & Connexions",
+     "secteur": "public",
+     "periode": "1999-2024 (HATVP: 01/2018-07/2024 et 01/2019-07/2024)"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Deuxième passe : le wikitexte brut confirme le même profil (cheminot à la SNCF depuis 1999, agent de maîtrise, syndicaliste CGT, musicien) sans aucune mention de formation ou de diplôme. Le HATVP local précise deux déclarations successives pour le même poste (« Surveillant Travaux Batiments » chez SA SNCF Gares & Connexions, 01/2018-07/2024 et 01/2019-07/2024) ainsi que de nombreux mandats syndicaux et bénévoles (CGT Cheminots Hendaye, syndicats intercommunaux du Pays basque, associations liées au syndrome de Wolfram et au Téléthon) qui n'apportent rien sur le niveau d'études. Les articles France Bleu et Le Monde cités par Wikipédia sont soit rendus en JavaScript (France Bleu, aucun texte récupérable en HTML statique) soit très probablement payants (Le Monde) ; non exploités pour éviter tout risque de résumé fabriqué. Diplôme laissé honnêtement inconnu, le grade d'agent de maîtrise s'obtenant en général par promotion interne.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Peio_Dufau",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794718",
+   "nom": "Christine Engrand",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Professeure d'anglais",
+     "employeur": "inconnu (établissement non précisé)",
+     "secteur": "inconnu",
+     "periode": null
+    },
+    {
+     "poste": "Directrice commerciale",
+     "employeur": "Kiabi (Boulogne, Saint-Martin)",
+     "secteur": "prive",
+     "periode": null
+    },
+    {
+     "poste": "Responsable Duty Free",
+     "employeur": "Eurotunnel",
+     "secteur": "prive",
+     "periode": null
+    },
+    {
+     "poste": "Directrice de neuf agences d'intérim sur la Côte d'Opale",
+     "employeur": "inconnu (réseau d'agences d'intérim)",
+     "secteur": "prive",
+     "periode": null
+    },
+    {
+     "poste": "Cadre commercial",
+     "employeur": "AFPA (Agence nationale pour la formation professionnelle des adultes)",
+     "secteur": "public",
+     "periode": "01/2017-06/2024 (HATVP)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "Deuxième passe, changement significatif : le HATVP local nomme précisément l'« organisme de formation » identifié en première passe : il s'agit de l'AFPA (Agence nationale pour la formation professionnelle des adultes), où elle a été « Cadre commercial » sur deux déclarations successives (01/2017-09/2022 et 01/2019-06/2024). Or l'article Wikipédia consacré à l'AFPA (vérifié directement) indique que cette structure, association loi 1901 jusqu'en 2016, a été transformée en établissement public à caractère industriel et commercial (EPIC) à compter du 1er janvier 2017 — c'est-à-dire précisément avant le début de son activité déclarée. Ce poste doit donc être reclassé du secteur privé vers le secteur public, ce qui fait passer son profil de carrière de « prive_uniquement » à « mixte_public_prive » (elle a aussi travaillé chez Kiabi et Eurotunnel, secteur privé). Le reste de sa carrière (professeure d'anglais, Kiabi, Eurotunnel, agences d'intérim) reste inchangé, aucune nouvelle source trouvée sur ces postes ni sur son niveau de diplôme (le wikitexte brut de sa fiche ne comporte aucun champ université/diplôme). Diplôme laissé honnêtement inconnu.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Agence_nationale_pour_la_formation_professionnelle_des_adultes",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Christine_Engrand",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA795844",
+   "nom": "Karen Erodi",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Gérante",
+     "employeur": "SARL Économie et Construction",
+     "secteur": "liberal_independant",
+     "periode": "2010-2024 (HATVP: 01/2017- et 01/2019-12/2024)"
+    },
+    {
+     "poste": "Secrétaire comptable",
+     "employeur": "Comité régional CGT Occitanie",
+     "secteur": "associatif",
+     "periode": "fev-juil 2022"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Deuxième passe : le wikitexte brut de l'article ne comporte aucune section biographie détaillée ni champ université renseigné (le paramètre est présent mais vide dans l'infobox). Le HATVP local reconfirme exactement les deux activités déjà connues, avec une ligne « dirigeant » supplémentaire pour la SARL Économie et Construction débutant en 01/2017 (avant la ligne 01/2019-12/2024 déjà identifiée). Tentative de lecture de l'article « Karen Erodi, une insoumise à l'Assemblée » (Le Journal d'ici) : page récupérée ne contient que le CSS du site, aucun texte d'article exploitable. La Dépêche (deux articles cités) non tentée séparément, connue pour être généralement payante sur ce type d'article politique long. Le rapprochement entre le nom de l'entreprise « Économie et Construction » et un éventuel BTS Études et Économie de la Construction reste une hypothèse non confirmée, écartée par honnêteté. Diplôme laissé inconnu.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Karen_Erodi",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841621",
+   "nom": "Auguste Evrard",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Serveur (emploi saisonnier)",
+     "employeur": "SAS Comte d'Artois",
+     "secteur": "prive",
+     "periode": "05/2019-09/2019 (HATVP)"
+    },
+    {
+     "poste": "Assistant parlementaire accrédité du député européen Philippe Olivier",
+     "employeur": "Parlement européen",
+     "secteur": "politique",
+     "periode": "08/2021-09/2022 (HATVP, mi-temps)"
+    },
+    {
+     "poste": "Collaborateur de cabinet",
+     "employeur": "Mairie de Bruay-la-Buissière (maire Ludovic Pajot, RN)",
+     "secteur": "politique",
+     "periode": "09/2022-07/2024 (HATVP)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": "Deuxième passe : le HATVP local révèle un emploi saisonnier de serveur (SAS Comte d'Artois, 05/2019-09/2019, avant son adhésion au RN) qui ne figurait pas dans les notes de la première passe, ainsi que les dates précises de ses deux postes politiques déjà connus (assistant parlementaire européen à mi-temps 08/2021-09/2022, puis collaborateur de cabinet en mairie 09/2022-07/2024). Cet emploi saisonnier reste marginal (quatre mois, avant la vingtaine) et ne remet pas en cause le profil « politique_principalement ». Le wikitexte brut confirme qu'il a « interrompu ses études » sans préciser lesquelles ni leur niveau ; tentative de lecture des articles La Voix du Nord et Les Échos cités en référence : aucun texte exploitable récupéré (pages vides après nettoyage HTML, contenu probablement chargé en JavaScript ou payant). Diplôme laissé honnêtement inconnu.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Auguste_%C3%89vrard",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA840773",
+   "nom": "Olivier Fayssat",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Courtier en assurances, co-fondateur et dirigeant",
+     "employeur": "S2C Sud Courtage et Conseil (avec Alain de Gasquet)",
+     "secteur": "liberal_independant",
+     "periode": "01/2018-07/2024 (HATVP)"
+    },
+    {
+     "poste": "Activité tourisme (camping-hôtellerie) et gestion locative immobilière",
+     "employeur": "SAS Bonporteau / SARL Bon'Hôtel",
+     "secteur": "liberal_independant",
+     "periode": "depuis 01/2018 (HATVP)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Deuxième passe : le HATVP local précise les dates exactes des deux activités déjà connues (courtage d'assurances chez S2C Sud Courtage et Conseil, 01/2018-07/2024 ; tourisme/immobilier locatif via SAS Bonporteau, depuis 01/2018) et ajoute une structure liée non mentionnée en première passe (SARL Bon'Hôtel, dirigeant depuis 01/2018, cohérente avec l'activité d'hôtellerie déjà identifiée), ainsi qu'un « Groupement Foncier Rural Champredon » (01/2024) de moindre intérêt. Le wikitexte brut de l'article ne comporte aucun champ université renseigné. L'article « pour Olivier Fayssat, néo-député LR-RN » (La Provence) s'est révélé être un article payant (accès « premium » explicite dans les métadonnées de la page), non exploité. Diplôme laissé honnêtement inconnu.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Olivier_Fayssat",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA841251",
+   "nom": "Mathilde Feld",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Attachée territoriale, directrice générale adjointe",
+     "employeur": "Communauté de communes du Grand Saint-Émilionnais",
+     "secteur": "public",
+     "periode": "01/2019-07/2024 (HATVP)"
+    },
+    {
+     "poste": "Présidente",
+     "employeur": "Communauté de communes du Créonnais",
+     "secteur": "politique",
+     "periode": "2014-2020"
+    },
+    {
+     "poste": "Adjointe au maire de Créon",
+     "employeur": "Mairie de Créon",
+     "secteur": "politique",
+     "periode": "2020-2024"
+    },
+    {
+     "poste": "Membre",
+     "employeur": "Syndicat de rivières SMERE2M",
+     "secteur": "politique",
+     "periode": "06/2020-07/2024 (HATVP)"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Deuxième passe : le HATVP local confirme au mois près la période déjà connue (direction générale adjointe de la communauté de communes du Grand Saint-Émilionnais, 01/2019-07/2024) et ajoute un mandat mineur non rémunéré au syndicat de rivières SMERE2M (06/2020-07/2024). Le wikitexte brut de l'article ne renseigne aucun diplôme. Sa profession déclarée (« Cadre de la fonction publique », catégorie A selon le code INSEE) correspond à la règle du projet sur les inférences pour un poste d'attaché territorial / catégorie A, qui suppose en général une licence obtenue par concours externe (même si une promotion interne sans ce prérequis reste possible) : diplôme inféré à bac+3_4, confiance plafonnée à moyenne faute de diplôme nommément confirmé.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Mathilde_Feld",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA794786",
+   "nom": "Emmanuel Fernandes",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Coordinateur S.I. Métier",
+     "employeur": "Flender",
+     "secteur": "prive",
+     "periode": "06/2019-06/2022 (HATVP)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Deuxième passe : le HATVP local reconfirme exactement le poste déjà connu (coordinateur S.I. Métier chez Flender, 06/2019-06/2022). L'article France 3 Grand Est cité par Wikipédia a pu être récupéré et confirme littéralement (grep positif) qu'il est « arrivé à Strasbourg en 2002, pour ses études », sans nommer l'établissement ni le diplôme obtenu — c'est la même limite déjà identifiée en première passe. Le wikitexte brut de l'infobox ne comporte pas de champ université. La mention d'un article France 3 de 2022 évoquant « 16 ans » de travail à Illkirch-Graffenstaden, déjà signalée en première passe, n'a pas pu être retrouvée ni vérifiée cette fois-ci (URL non identifiée). Diplôme laissé honnêtement inconnu.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Emmanuel_Fernandes",
+     "pour": "both"
+    },
+    {
+     "url": "https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/legislatives-2022-qui-est-emmanuel-fernandes-nupes-elu-depute-de-la-2e-circonscription-du-bas-rhin-2566316.html",
+     "pour": "diplome"
+    }
+   ]
+  }
+ ]
+}

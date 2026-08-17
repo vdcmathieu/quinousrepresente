@@ -1,0 +1,278 @@
+{
+  "batch": 37,
+  "deputies": [
+    {
+      "uid": "PA842105",
+      "nom": "Raphaël Arnault",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Assistant d'éducation", "employeur": "Éducation nationale (Lyon)", "secteur": "public", "periode": "avant 2024"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Étudie à l'université Lyon-II à partir de 2014 mais aucun diplôme obtenu n'est précisé."
+    },
+    {
+      "uid": "PA842121",
+      "nom": "Nicolas Tryzna",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Université Paris 1 Panthéon-Sorbonne", "diplome": "Master 2", "domaine": "communication politique et sociale"},
+        {"institution": "Université Paris 1 Panthéon-Sorbonne", "diplome": "Doctorat", "domaine": "histoire des médias"}
+      ],
+      "fields": ["communication-journalisme", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Formateur", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "basse",
+      "notes": "Profession déclarée 'formateur' (profession libérale) sans détail sur l'employeur ni la période; devient conseiller départemental dès 2017."
+    },
+    {
+      "uid": "PA842125",
+      "nom": "Thomas Lam",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "NEOMA Business School", "diplome": "Diplôme d'école de commerce", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Chef d'entreprise", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "avant 2024"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Carrière professionnelle déduite de la profession déclarée (chef d'entreprise), la biographie ne détaillant que ses mandats locaux."
+    },
+    {
+      "uid": "PA842141",
+      "nom": "Élisabeth de Maistre",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "CAPA (avocate)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Avocate", "employeur": "Barreau de Paris", "secteur": "liberal_independant", "periode": "avant 2025"},
+        {"poste": "Assistante parlementaire", "employeur": "Christine Lavarde, sénatrice", "secteur": "politique", "periode": "2017-2025"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Avocate au Barreau de Paris, en parallèle assistante parlementaire d'une sénatrice de 2017 à 2025."
+    },
+    {
+      "uid": "PA842147",
+      "nom": "Christophe Mongardien",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut national des télécommunications", "diplome": "Diplôme d'ingénieur", "domaine": "ingenierie"}
+      ],
+      "fields": ["ingenierie"],
+      "career": [
+        {"poste": "Ingénieur (responsable support technique grands comptes)", "employeur": "diverses entreprises d'équipements de télécommunication", "secteur": "prive", "periode": "avant 2024"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": null
+    },
+    {
+      "uid": "PA842155",
+      "nom": "Aly Diouara",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Agent puis fonctionnaire territorial", "employeur": "Ville de Bobigny", "secteur": "public", "periode": "jusqu'en 2020"},
+        {"poste": "Fonctionnaire territorial", "employeur": "Ville de Drancy", "secteur": "public", "periode": "à partir de 2020"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "A étudié dans deux universités (Paris-Est-Créteil, Paris-Nord) mais aucun diplôme n'est précisé; également actif dans des associations locales."
+    },
+    {
+      "uid": "PA842183",
+      "nom": "Benoît Blanchard",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Directeur d'un laboratoire de recherche en aérodynamique", "employeur": "inconnu", "secteur": "prive", "periode": "avant sa retraite"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Retraité; ni l'employeur ni la formation ne sont précisés dans la source."
+    },
+    {
+      "uid": "PA842187",
+      "nom": "Gabrielle Cathala",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Diplôme en droit international et droit pénal", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Attachée humanitaire et chargée de mission", "employeur": "Ambassade de France en République du Congo", "secteur": "public", "periode": "à partir de l'automne 2017"},
+        {"poste": "Chargée de mission", "employeur": "ACTED (ONG, Haïti)", "secteur": "associatif", "periode": "avant 2022"},
+        {"poste": "Conseillère parlementaire puis secrétaire générale du groupe", "employeur": "Groupe LFI à l'Assemblée nationale", "secteur": "politique", "periode": "avant 2024"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Carrière mêlant diplomatie, ONG humanitaire et emploi politique parlementaire avant son élection."
+    },
+    {
+      "uid": "PA842195",
+      "nom": "Romain Eskenazi",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Master en science politique", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Créateur d'un café-concert", "employeur": "café-concert (Montmorency)", "secteur": "liberal_independant", "periode": "à partir de 22 ans"},
+        {"poste": "Collaborateur au cabinet du maire", "employeur": "Mairie de Gonesse", "secteur": "politique", "periode": "2014-2020"},
+        {"poste": "Directeur adjoint des hôpitaux", "employeur": "Hôpitaux de Saint-Denis et de Gonesse", "secteur": "public", "periode": "à partir de 2020"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": null
+    },
+    {
+      "uid": "PA842211",
+      "nom": "Béatrice Bellay",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Cadre de la fonction publique", "employeur": "inconnu", "secteur": "public", "periode": "avant 2024"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "La biographie ne détaille que son parcours militant et électoral; carrière professionnelle déduite de la profession déclarée."
+    },
+    {
+      "uid": "PA842227",
+      "nom": "Joseph Rivière",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "inconnu (Le Tampon)", "diplome": "BTS action commerciale", "domaine": "gestion-commerce"},
+        {"institution": "inconnu", "diplome": "Licence de lettres", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["gestion-commerce", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Agent en collectivité", "employeur": "Le Tampon (commune, La Réunion)", "secteur": "public", "periode": "avant 2024"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": null
+    },
+    {
+      "uid": "PA842255",
+      "nom": "Anne Sicard",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Diplôme d'enseignement (professeure certifiée)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["education", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Professeure d'histoire-géographie", "employeur": "Éducation nationale", "secteur": "public", "periode": "avant 2024"},
+        {"poste": "Chargée des formations puis responsable du fonds de dotation", "employeur": "Institut Iliade", "secteur": "associatif", "periode": "avant 2021"},
+        {"poste": "Cheffe de cabinet de Marion Maréchal", "employeur": "Campagne européenne 2024", "secteur": "politique", "periode": "2024"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Niveau de diplôme déduit de sa profession de professeure certifiée, non détaillé par la source; a aussi occupé un poste associatif militant et un poste politique."
+    },
+    {
+      "uid": "PA842263",
+      "nom": "Ayda Hadizadeh",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Chargée de mission, direction de l'enseignement scolaire", "employeur": "Ministère de l'Éducation nationale", "secteur": "public", "periode": "avant 2021"},
+        {"poste": "Déléguée générale", "employeur": "Association Les Oubliés de la République", "secteur": "associatif", "periode": "avant 2021"},
+        {"poste": "Directrice générale", "employeur": "Fondation Mozaïk", "secteur": "associatif", "periode": "2021-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Formation non précisée dans la source; carrière mêlant ministère, association et fondation avant son élection."
+    },
+    {
+      "uid": "PA842271",
+      "nom": "Emmanuel Maurel",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme (section Service Public)", "domaine": "sciences politiques"},
+        {"institution": "Université Paris-Sorbonne", "diplome": "Diplôme en lettres modernes et histoire", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["sciences politiques", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Chargé d'enseignement vacataire", "employeur": "Institut d'études politiques de Paris", "secteur": "public", "periode": "après 1996"},
+        {"poste": "Vice-président du Conseil régional (formation professionnelle)", "employeur": "Conseil régional d'Île-de-France", "secteur": "politique", "periode": "2010-2014"},
+        {"poste": "Député européen", "employeur": "Parlement européen", "secteur": "politique", "periode": "2014-2024"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Bref passage comme enseignant vacataire à Sciences Po, mais carrière ensuite dominée par des fonctions politiques (parti, région, Parlement européen)."
+    },
+    {
+      "uid": "PA842279",
+      "nom": "Anchya Bamana",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Maire de Sada", "employeur": "Commune de Sada", "secteur": "politique", "periode": "2014-2020"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "basse",
+      "notes": "Aucune activité professionnelle en dehors de ses mandats électifs locaux n'est mentionnée dans la source."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "deputies": [
+    {
+      "uid": "PA267763",
+      "nom": "Jean-Pierre Bataille",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {
+          "institution": "non précisé (faculté de pharmacie)",
+          "diplome": "Diplôme d'Etat de docteur en pharmacie",
+          "domaine": "medecine-sante"
+        }
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {
+          "poste": "Pharmacien titulaire (gérant)",
+          "employeur": "SELARL Pharmacie Bataille (Steenvoorde)",
+          "secteur": "liberal_independant",
+          "periode": "avant 2024 (revenus déclarés au moins depuis 2020)"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Sa déclaration HATVP confirme qu'il est gérant de la SELARL Pharmacie Bataille (officine reprise à son père) ; le diplôme de docteur en pharmacie est requis légalement pour exercer ce métier mais n'est pas explicitement mentionné dans les sources (source: https://www.hatvp.fr/pages_nominatives/bataille-jean-pierre-9443)."
+    },
+    {
+      "uid": "PA266793",
+      "nom": "Jean-Yves Bony",
+      "career": [
+        {
+          "poste": "Exploitant agricole",
+          "employeur": "exploitation agricole individuelle (Ally, Cantal)",
+          "secteur": "liberal_independant",
+          "periode": "au moins 2019-2024 (poursuivie en parallèle de ses mandats)"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Déclaration HATVP officielle confirmant des revenus d'exploitant agricole (2019-2023) ; aucune information sur ses études (source: https://www.hatvp.fr/pages_nominatives/bony-jean-yves-1013)."
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+ "deputies": [
+  {
+   "uid": "PA794178",
+   "nom": "Jean-Pierre Taite",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Photographe",
+     "employeur": "indépendant (activité artisanale)",
+     "secteur": "liberal_independant",
+     "periode": "avant 2008 (avant ses mandats locaux)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Wikipédia indique explicitement « Jean-Pierre Taite est photographe de métier » (confirmé dans l'extrait et dans l'infobox du wikitexte brut : profession = Photographe), cohérent avec la profession déclarée officielle « Ancien artisan, commerçant, chef d'entreprise ». Aucune déclaration HATVP trouvée pour cet uid (entrée absente de l'index local). Aucune mention d'études ou de diplôme nulle part dans l'article Wikipédia ; la fiche AN (assemblee-nationale.fr) ne restitue aucun texte en statique (rendu JavaScript). Photographe artisan indépendant n'implique aucun diplôme précis, donc niveau laissé inconnu plutôt que déduit.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Jean-Pierre_Taite",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA793298",
+   "nom": "Lionel Tivoli",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Assistant de groupe (collaborateur du groupe RN au conseil municipal)",
+     "employeur": "Ville d'Antibes",
+     "secteur": "politique",
+     "periode": "06/2020-06/2022"
+    },
+    {
+     "poste": "Conseiller régional de Provence-Alpes-Côte d'Azur",
+     "employeur": "Région Provence-Alpes-Côte d'Azur",
+     "secteur": "politique",
+     "periode": "01/2016-2022"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "Déclaration d'intérêts HATVP consultée directement (déposée le 8 septembre 2024, page fetchée et vérifiée) : seule activité professionnelle rémunérée déclarée = « Assistant de groupe », Ville d'Antibes, 06/2020-06/2022 (4 500 à 9 000 €/an). Les rubriques « participations aux organes dirigeants » et « participations financières directes dans le capital d'une société » y sont explicitement « Néant ». Ceci contredit une note d'un passage de recherche antérieur évoquant une entreprise d'e-liquides fondée en 2013 : je n'ai trouvé aucune trace de cette société ni dans la déclaration HATVP actuelle ni dans Wikipédia (infobox « profession = Chef d'entreprise » sans nom d'entreprise, section biographie muette sur ce point) ; par prudence je ne retiens pas cette information non vérifiable. Seules activités rémunérées confirmées : conseiller régional (25 800 €/an, 2016-2022) et assistant de groupe municipal — carrière donc classée comme essentiellement politique. Aucune information sur ses études (infobox Wikipédia : champ « université » vide).",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/pages_nominatives/tivoli-lionel-24176",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Lionel_Tivoli",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA842299",
+   "nom": "Emmanuel Tjibaou",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {
+     "institution": "INALCO (Institut national des langues et civilisations orientales), centre universitaire Dauphine, Paris",
+     "diplome": "DEA (diplôme d'études approfondies) en ethnolinguistique des langues kanak",
+     "domaine": "lettres-langues"
+    }
+   ],
+   "fields": [
+    "lettres-langues"
+   ],
+   "career": [
+    {
+     "poste": "Instituteur remplaçant (maternelle puis cours moyen)",
+     "employeur": "Éducation nationale, Hienghène",
+     "secteur": "public",
+     "periode": "début de carrière, non daté précisément"
+    },
+    {
+     "poste": "Directeur du Centre culturel Tjibaou (ADCK)",
+     "employeur": "Gouvernement de la Nouvelle-Calédonie",
+     "secteur": "public",
+     "periode": "2018-2022"
+    },
+    {
+     "poste": "Directeur",
+     "employeur": "Province Nord (Nouvelle-Calédonie)",
+     "secteur": "public",
+     "periode": "10/2022-07/2024"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Biographie Wikipédia très détaillée et richement sourcée (interview Mwà Véé, portraits bouturesdeparoles.nc, etc., vérifiée via récupération du wikitexte brut) : études d'anglais puis DEA d'ethnolinguistique des langues kanak à l'INALCO (Paris), mémoire sur les récits traditionnels de la région de Hienghène. Carrière : instituteur remplaçant, puis collecteur du patrimoine kanak, puis directeur de l'ADCK-Centre culturel Tjibaou (Gouvernement de Nouvelle-Calédonie — confirmé par la déclaration HATVP locale : « directeur centre culturel tjibaou », Gouvernement NC, 01/2018-09/2022), puis directeur à la Province Nord (10/2022-07/2024, également confirmé par HATVP). Carrière entièrement dans le secteur public / les institutions calédoniennes.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Emmanuel_Tjibaou",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA840781",
+   "nom": "Romain Tonussi",
+   "highest_degree_level": "bac+2",
+   "degrees": [
+    {
+     "institution": "inconnue",
+     "diplome": "inconnu (niveau inféré de la catégorie B de la fonction publique territoriale)",
+     "domaine": "inconnu"
+    }
+   ],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Gestionnaire RH",
+     "employeur": "Département des Hautes-Alpes",
+     "secteur": "public",
+     "periode": "10/2020-07/2024"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Wikipédia confirme la profession de « gestionnaire RH » (affirmation sourcée à un article de presse locale, mesinfos.fr, cité dans le wikitexte, vérifié directement). La déclaration HATVP (fichier local) confirme le poste précis : Gestionnaire RH, Département des Hautes-Alpes, 10/2020-07/2024, secteur public territorial. La profession déclarée officielle et le code INSEE (« (45) Profession intermédiaire administrative de la fonction publique ») correspondent à la catégorie B de la fonction publique, ce qui suppose usuellement un niveau bac+2 — inférence de catégorie statutaire (pas de diplôme nommé), confiance ramenée à moyenne conformément à la règle sur les inférences de profession réglementée. Aucune information sur l'établissement de formation.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Romain_Tonussi",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA840685",
+   "nom": "Vincent Trébuchet",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Directeur adjoint et financier de magasin",
+     "employeur": "Leroy Merlin (Île-de-France)",
+     "secteur": "prive",
+     "periode": "jusqu'à 01/2019"
+    },
+    {
+     "poste": "Chef de secteur",
+     "employeur": "Leroy Merlin",
+     "secteur": "prive",
+     "periode": "01/2019-09/2019"
+    },
+    {
+     "poste": "Banquier privé (gestion d'un portefeuille de dirigeants actionnaires d'entreprises)",
+     "employeur": "Caisse d'Épargne",
+     "secteur": "prive",
+     "periode": "09/2019-05/2021"
+    },
+    {
+     "poste": "Entrepreneur en résidence",
+     "employeur": "Fonds du Bien Commun (Fondation Bien Commun)",
+     "secteur": "prive",
+     "periode": "01/2023-01/2024"
+    },
+    {
+     "poste": "Directeur du domaine Croissance humaine",
+     "employeur": "Otium Impact France",
+     "secteur": "prive",
+     "periode": "02/2024-07/2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Carrière très bien documentée et convergente entre Wikipédia (sources Le Monde, France Bleu) et sa déclaration HATVP (fichier local) : Leroy Merlin (directeur adjoint et financier puis chef de secteur), Caisse d'Épargne (banquier privé), puis Fonds du Bien Commun et Otium Impact France, structures liées au milliardaire Pierre-Édouard Stérin (« projet Périclès » selon Le Monde), consacrées au montage d'un réseau de collèges/lycées catholiques. Entièrement secteur privé. Aucune information sur ses études : l'infobox Wikipédia ne comporte pas de champ formation/université et aucune biographie ne mentionne son parcours scolaire ; recherche jugée exhaustive (article complet lu en wikitexte brut) plutôt qu'insuffisante.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Vincent_Tr%C3%A9buchet",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA840809",
+   "nom": "Gérault Verny",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Dirigeant industriel (holding personnelle Maji)",
+     "employeur": "Mont Blanc composite (groupe de PME industrielles, Auvergne-Rhône-Alpes)",
+     "secteur": "liberal_independant",
+     "periode": "depuis 2014"
+    },
+    {
+     "poste": "Salarié, enseignant et responsable des partenariats entreprises",
+     "employeur": "ISSEP (Institut des sciences sociales, économiques et politiques, fondé par Marion Maréchal)",
+     "secteur": "prive",
+     "periode": "inconnu"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Carrière professionnelle bien documentée par Le Monde (article cité et vérifié dans le wikitexte de l'article Wikipédia) : industriel lyonnais, dirige depuis 2014 Mont Blanc composite, et salarié de l'ISSEP où il enseigne et gère les partenariats avec les entreprises. La déclaration HATVP locale confirme « gérant, MAJI, depuis 01/2018 » et « dirigeant, Foncière de la tour, depuis 01/2018 » (MAJI identifiée par un article de La Lettre, cité dans Wikipédia, comme sa holding personnelle). Aucune mention d'études, de diplôme ou d'établissement de formation dans l'article Wikipédia (infobox « profession » et « université » toutes deux vides) : recherche jugée exhaustive, diplôme laissé inconnu plutôt que deviné.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/G%C3%A9rault_Verny",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841479",
+   "nom": "Frédéric Weber",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {
+     "institution": "inconnue (IFSI non identifié)",
+     "diplome": "Diplôme d'État d'infirmier (inféré du métier exercé)",
+     "domaine": "medecine-sante"
+    }
+   ],
+   "fields": [
+    "medecine-sante"
+   ],
+   "career": [
+    {
+     "poste": "Infirmier Santé au Travail",
+     "employeur": "ArcelorMittal France",
+     "secteur": "prive",
+     "periode": "01/2018-07/2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Biographie Wikipédia quasiment vide, mais déclaration HATVP (fichier local, 6 déclarations) très documentée : poste « Infirmier Santé au Travail » chez ArcelorMittal France, 01/2018-07/2024 (secteur privé, sidérurgie), avec un mandat syndical FO ArcelorMittal Florange en parallèle (01/2018-04/2023). Cohérent avec la profession déclarée officielle et le code INSEE (« profession intermédiaire de la santé et du travail social »). L'exercice de la profession d'infirmier suppose le diplôme d'État d'infirmier (bac+3, formation en IFSI) — inférence de profession réglementée, confiance ramenée à moyenne. Une activité ultérieure de dirigeant syndical au CH de Briey (hôpital public) apparaît à partir de 03/2026, donc après son mandat de député (élu en 2024) : non retenue dans le profil de carrière pré-mandat.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Weber",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA642764",
+   "nom": "Joël Aviragnet",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {
+     "institution": "École d'éducateurs spécialisés de Dijon",
+     "diplome": "Diplôme d'État d'éducateur spécialisé (DEES)",
+     "domaine": "sociologie"
+    },
+    {
+     "institution": "École nationale de la santé publique (aujourd'hui EHESP)",
+     "diplome": "CAFDES (Certificat d'aptitude aux fonctions de directeur d'établissement social ou médico-social)",
+     "domaine": "sociologie"
+    }
+   ],
+   "fields": [
+    "sociologie"
+   ],
+   "career": [
+    {
+     "poste": "Éducateur spécialisé",
+     "employeur": "ITEP de Saint-Ignan",
+     "secteur": "associatif",
+     "periode": "1980-1986"
+    },
+    {
+     "poste": "Éducateur spécialisé puis chef de service",
+     "employeur": "ITEP pour adolescents, Bordeaux",
+     "secteur": "associatif",
+     "periode": "1986-1999"
+    },
+    {
+     "poste": "Adjoint de direction",
+     "employeur": "ITEP Curvale, Aspet",
+     "secteur": "associatif",
+     "periode": "2000-2006"
+    },
+    {
+     "poste": "Directeur",
+     "employeur": "La Grande Allée (maison d'enfants à caractère social et institut thérapeutique éducatif et pédagogique), Toulouse",
+     "secteur": "associatif",
+     "periode": "2007-2014"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Carrière et formation exceptionnellement bien documentées par l'article Wikipédia (sections « Études » et « Carrière d'éducateur spécialisé » dédiées) : bac B (1974), école d'éducateurs spécialisés à Dijon (diplômé 1979), carrière d'éducateur spécialisé puis chef de service puis adjoint de direction dans des ITEP (établissements médico-sociaux de statut associatif) du Comminges, de Bordeaux et d'Aspet, obtention du CAFDES (diplôme de directeur) après une formation à l'École nationale de la santé publique, puis directeur de La Grande Allée à Toulouse jusqu'à son élection comme député (2014). Secteur associatif classé « prive_uniquement » faute de catégorie dédiée dans le référentiel de synthèse (les ITEP sont des établissements médico-sociaux de statut associatif, non des services de l'État).",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Jo%C3%ABl_Aviragnet",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA643143",
+   "nom": "Christian Baptiste",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Directeur d'association",
+     "employeur": "inconnu (association non nommée)",
+     "secteur": "associatif",
+     "periode": "inconnu"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "inconnu",
+   "confidence": "basse",
+   "notes": "Sources consultées : article Wikipédia (très bref, centré sur sa carrière politique : maire de Sainte-Anne 2014-2022, député depuis 2022) ; déclaration HATVP (fichier local, 3 déclarations) qui ne mentionne aucune activité professionnelle rémunérée nommée (postes/employeurs déclarés « NON »/« NEANT » pour la rubrique activités professionnelles ; seules figurent des fonctions de dirigeant/administrateur non rémunérées dans des structures locales : SPL Sainte Anne 2.00, Syndicat mixte des transports, association « Force d'Action pour le Rassemblement et le Développement de Sainte Anne », probablement liées à son mandat de maire plutôt qu'à un emploi). La fiche AN (assemblee-nationale.fr) et la page HATVP directe n'ont pas restitué de texte exploitable en statique. Une note d'un précédent passage de recherche évoquait un parcours de « professeur de lettres modernes » avant de devenir directeur d'association, attribué à « plusieurs médias guadeloupéens » sans URL fournie : je n'ai pas pu retrouver ni vérifier cette source (moteurs de recherche indisponibles dans cette session), donc je ne la retiens pas comme fait établi. Profession déclarée officielle « Directeur d'association », sans nom d'organisme identifié.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Christian_Baptiste",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA267763",
+   "nom": "Jean-Pierre Bataille",
+   "highest_degree_level": "doctorat",
+   "degrees": [
+    {
+     "institution": "Université Lille II (Droit et Santé) — catégorie Wikipédia « Étudiant de l'université Lille-II »",
+     "diplome": "Doctorat en pharmacie (inféré de la profession réglementée de pharmacien titulaire d'officine)",
+     "domaine": "medecine-sante"
+    }
+   ],
+   "fields": [
+    "medecine-sante"
+   ],
+   "career": [
+    {
+     "poste": "Gérant pharmacien titulaire",
+     "employeur": "SELARL Pharmacie Bataille (Steenvoorde) — officine reprise à son père Jean-Paul Bataille",
+     "secteur": "liberal_independant",
+     "periode": "depuis 09/2016"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Déclaration HATVP (fichier local, 5 déclarations) confirme « GERANT PHARMACIE » à la SELARL Pharmacie Bataille depuis 09/2016, cohérent avec la profession déclarée « Pharmacien ». Wikipédia confirme qu'il a repris l'officine de son père Jean-Paul Bataille (lui-même pharmacien, sénateur et maire de Steenvoorde) ; le wikitexte de l'article le classe dans la catégorie « Étudiant de l'université Lille-II » (qui abrite la faculté de pharmacie régionale), établissement cohérent avec sa région d'origine (Nord). Le diplôme de docteur en pharmacie est requis légalement pour être titulaire d'une officine, mais aucune source ne précise explicitement l'année d'obtention ni l'intitulé exact du diplôme — inférence de profession réglementée, confiance ramenée à moyenne malgré l'établissement identifié.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Jean-Pierre_Bataille",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA606793",
+   "nom": "Laurent Baumel",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {
+     "institution": "École centrale de Lyon",
+     "diplome": "Diplôme d'ingénieur",
+     "domaine": "ingenierie"
+    },
+    {
+     "institution": "Institut d'études politiques de Paris (Sciences Po)",
+     "diplome": "Diplômé de Sciences Po",
+     "domaine": "sciences-politiques"
+    }
+   ],
+   "fields": [
+    "ingenierie",
+    "sciences-politiques"
+   ],
+   "career": [
+    {
+     "poste": "Attaché parlementaire de Roland Carras",
+     "employeur": "Assemblée nationale",
+     "secteur": "politique",
+     "periode": "1992-1993"
+    },
+    {
+     "poste": "Conseiller technique de Pierre Moscovici, ministre des Affaires européennes",
+     "employeur": "Cabinet ministériel",
+     "secteur": "politique",
+     "periode": "fin des années 1990"
+    },
+    {
+     "poste": "Économiste puis directeur adjoint de la balance des paiements",
+     "employeur": "Banque de France",
+     "secteur": "public",
+     "periode": "jusqu'en 2012 (détaché à son élection comme député)"
+    },
+    {
+     "poste": "Secrétaire national adjoint, chargé des affaires internationales et européennes",
+     "employeur": "Parti socialiste",
+     "secteur": "politique",
+     "periode": "à partir de 2003"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Portrait de presse dédié de La Nouvelle République (1er juillet 2012), consulté et vérifié directement (texte réellement présent sur la page, pas un résumé fabriqué) : « Ingénieur centralien formé à Lyon ; diplômé de Sciences Po. Ancien président du syndicat Unef-Id. Attaché parlementaire de Roland Carras (1992-1993). Ancien conseiller technique de Pierre Moscovici alors ministre des Affaires européennes. Économiste à la Banque de France et directeur adjoint de la balance des paiements. Secrétaire national adjoint au Parti socialiste [...] Élu maire de Ballan-Miré en 2008. » L'article précise aussi qu'il est « désormais détaché de la Banque de France » lors de son élection comme député en 2012, confirmant que la Banque de France était son employeur principal jusqu'à son entrée à l'Assemblée. Wikidata corrobore les deux établissements (École centrale de Lyon, IEP Paris). Carrière mêlant secteur public (Banque de France, l'essentiel de sa carrière professionnelle non élective) et rôles politiques (attaché parlementaire, conseiller ministériel, parti) — classée « public_uniquement » conformément à la convention retenue dans ce jeu de données lorsque les secteurs « public » et « politique » coexistent sans secteur privé.",
+   "sources": [
+    {
+     "url": "https://www.lanouvellerepublique.fr/indre-et-loire/la-nouvelle-vie-du-depute-laurent-baumel",
+     "pour": "both"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Laurent_Baumel",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA720822",
+   "nom": "Bruno Bilde",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {
+     "institution": "Université d'Artois",
+     "diplome": "Maîtrise en droit",
+     "domaine": "droit"
+    }
+   ],
+   "fields": [
+    "droit"
+   ],
+   "career": [
+    {
+     "poste": "Juriste (profession déclarée à l'Assemblée nationale)",
+     "employeur": "inconnu (aucun employeur non-politique identifié)",
+     "secteur": "inconnu",
+     "periode": "inconnu"
+    },
+    {
+     "poste": "Conseiller régional (Lorraine, puis Nord-Pas-de-Calais, puis Hauts-de-France)",
+     "employeur": "Conseil régional",
+     "secteur": "politique",
+     "periode": "2004-2017"
+    },
+    {
+     "poste": "Adjoint au maire d'Hénin-Beaumont",
+     "employeur": "Ville d'Hénin-Beaumont",
+     "secteur": "politique",
+     "periode": "2014-2017"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "L'article Wikipédia (vérifié en wikitexte brut) indique « En 2001, il obtient une maîtrise en droit à l'université d'Artois » mais la phrase porte un bandeau [réf. souhaitée] (citation manquante signalée par les contributeurs de Wikipédia eux-mêmes). Wikidata liste indépendamment « université d'Artois » comme établissement fréquenté, ce qui apporte une corroboration partielle (les deux sources appartiennent toutefois à l'écosystème Wikipédia/Wikidata, non pleinement indépendant) — diplôme retenu avec confiance ramenée à moyenne. La déclaration HATVP (fichier local, 2 déclarations) ne comporte aucune activité professionnelle rémunérée (« activites »: []), seulement des mandats électifs non détaillés : cohérent avec un engagement militant très précoce (adhésion au FN dès 1991, à 15 ans) et une carrière quasi ininterrompue d'élu (conseiller régional de Lorraine 2004, du Nord-Pas-de-Calais 2010, adjoint au maire d'Hénin-Beaumont 2014-2017, conseiller régional des Hauts-de-France 2016-2017, député depuis 2017) sans emploi non-politique jamais documenté, malgré la profession déclarée officielle « Juriste ».",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Bruno_Bilde",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  }
+ ]
+}

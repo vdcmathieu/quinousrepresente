@@ -1,0 +1,292 @@
+{
+  "batch": 5,
+  "deputies": [
+    {
+      "uid": "PA712015",
+      "nom": "Julien Dive",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Prytanée national militaire de La Flèche", "diplome": "Préparation au concours de l'ESM Saint-Cyr (non intégrée)", "domaine": "autre"},
+        {"institution": "Université de Valenciennes", "diplome": "Licence d'économie", "domaine": "economie"},
+        {"institution": "IAE de Valenciennes", "diplome": "Master en entrepreneuriat et management des PME (2008)", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["economie", "gestion-commerce"],
+      "career": [
+        {"poste": "Chef de projet dans l'industrie", "employeur": "Pôle de compétitivité i-Trans / secteur automobile", "secteur": "prive", "periode": "2008-2014"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA717161",
+      "nom": "Élisabeth Borne",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École polytechnique", "diplome": "Diplôme de l'École polytechnique (promotion 1981)", "domaine": "ingenierie"},
+        {"institution": "École nationale des ponts et chaussées", "diplome": "Diplôme d'ingénieur (1986)", "domaine": "ingenierie"},
+        {"institution": "Collège des ingénieurs", "diplome": "MBA", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["ingenierie", "gestion-commerce"],
+      "career": [
+        {"poste": "Ingénieure du corps des ponts et chaussées (ingénieur en chef en 1998, ingénieur général en 2007)", "employeur": "État", "secteur": "public", "periode": "1986-2013"},
+        {"poste": "Préfète de la région Poitou-Charentes", "employeur": "État", "secteur": "public", "periode": "2013-2014"},
+        {"poste": "Directrice de cabinet de la ministre de l'Écologie", "employeur": "Ministère de l'Écologie (Ségolène Royal)", "secteur": "politique", "periode": "2014-2015"},
+        {"poste": "Présidente de la RATP", "employeur": "RATP", "secteur": "public", "periode": "2015-2017"},
+        {"poste": "Ministre (Transports, Transition écologique, Travail)", "employeur": "Gouvernement français", "secteur": "politique", "periode": "2017-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Carrière entière dans la haute fonction publique et le gouvernement avant son élection comme députée en 2022."
+    },
+    {
+      "uid": "PA717379",
+      "nom": "Sylvain Maillard",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "ICS Bégué (Paris)", "diplome": "Études de comptabilité et d'audit", "domaine": "gestion-commerce"},
+        {"institution": "École supérieure de commerce de Grenoble", "diplome": "Mastère spécialisé « entrepreneurs-pédagogie HEC entrepreneurs » (1998)", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Fondateur et directeur général", "employeur": "Alantys Technology (distribution de composants électroniques)", "secteur": "liberal_independant", "periode": "2001-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "A également suivi un échange Erasmus en science politique à l'université de Munich, sans diplôme mentionné."
+    },
+    {
+      "uid": "PA718674",
+      "nom": "Olga Givernet",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Pierre-et-Marie-Curie (Polytech Sorbonne)", "diplome": "Diplôme national de master en ingénierie électronique / diplôme d'ingénieur", "domaine": "ingenierie"},
+        {"institution": "École polytechnique", "diplome": "Executive Master", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["ingenierie"],
+      "career": [
+        {"poste": "Ingénieure avionique puis chef de projet", "employeur": "Air New Zealand", "secteur": "prive", "periode": "2004-2007"},
+        {"poste": "Spécialiste en réaménagement intérieur d'avions", "employeur": "Centres de maintenance de jets privés (aéroport de Genève)", "secteur": "prive", "periode": "2007-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA718784",
+      "nom": "Éric Pauget",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Gérant d'entreprise", "employeur": "Entreprise à Biot (non précisée)", "secteur": "liberal_independant", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie très lacunaire sur les études et le détail du parcours professionnel."
+    },
+    {
+      "uid": "PA718820",
+      "nom": "Pauline Cestrières",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": ["agriculture"],
+      "career": [
+        {"poste": "Agricultrice", "employeur": "Exploitation agricole à Saint-Amans-des-Cots", "secteur": "liberal_independant", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie extrêmement courte, aucune information sur les études."
+    },
+    {
+      "uid": "PA718838",
+      "nom": "Fabrice Brun",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "Lycée Olivier de Serres (Aubenas)", "diplome": "Brevet de technicien supérieur agricole (BTSA) Techniques agricoles et gestion d'entreprise", "domaine": "agriculture"},
+        {"institution": "Formation professionnelle", "diplome": "Certificat de spécialisation informatique", "domaine": "informatique"}
+      ],
+      "fields": ["agriculture", "informatique"],
+      "career": [
+        {"poste": "Technicien agricole", "employeur": "Chambre d'agriculture de l'Ardèche", "secteur": "public", "periode": "avant 1995"},
+        {"poste": "Directeur départemental", "employeur": "FDSEA de l'Ardèche", "secteur": "associatif", "periode": "1995-1997"},
+        {"poste": "Assistant parlementaire de Jean-Claude Flory", "employeur": "Assemblée nationale", "secteur": "politique", "periode": "2003-2012"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "La profession déclarée (« Industriel-Chef d'entreprise ») n'est pas détaillée par la biographie, qui ne documente que des emplois publics, associatifs et politiques."
+    },
+    {
+      "uid": "PA718850",
+      "nom": "Pierre Cordier",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "non précisée", "diplome": "Études de droit (diplôme non précisé)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Fonctionnaire de catégorie A", "employeur": "Fonction publique (non précisée)", "secteur": "public", "periode": "inconnue"},
+        {"poste": "Salarié collaborateur du groupe UMP puis LR", "employeur": "Conseil régional", "secteur": "politique", "periode": "2012-2017"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le statut de fonctionnaire de catégorie A provient de la profession déclarée officielle, non détaillé par la source biographique."
+    },
+    {
+      "uid": "PA718884",
+      "nom": "Valérie Bazin-Malgras",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Directrice des magasins puis directrice pour la France des magasins d'usine", "employeur": "Villeroy & Boch", "secteur": "prive", "periode": "environ 1994-2017"},
+        {"poste": "Présidente de l'association des commerçants de marques", "employeur": "Association des commerçants de marques de Troyes", "secteur": "associatif", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Aucune information sur son parcours d'études."
+    },
+    {
+      "uid": "PA719024",
+      "nom": "Christophe Blanchet",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Omnes Éducation (école de commerce)", "diplome": "diplôme non précisé", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Commerçant / entrepreneur", "employeur": "Entreprise personnelle (non précisée)", "secteur": "liberal_independant", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie très lacunaire; niveau d'études et carrière inférés en partie du repère Wikidata et de la profession déclarée."
+    },
+    {
+      "uid": "PA719032",
+      "nom": "Bertrand Bouyx",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Université Paris-Sud", "diplome": "Doctorat en pharmacie (1998)", "domaine": "medecine-sante"}
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {"poste": "Pharmacien salarié", "employeur": "Pharmacie d'Argouges", "secteur": "prive", "periode": "1998-2003"},
+        {"poste": "Pharmacien titulaire d'officine", "employeur": "Pharmacie à Bayeux", "secteur": "liberal_independant", "periode": "2003-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA719052",
+      "nom": "Loïc Kervran",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Master en relations internationales (2007)", "domaine": "sciences politiques"},
+        {"institution": "London School of Economics", "diplome": "Master (2008)", "domaine": "sciences politiques"},
+        {"institution": "non précisée", "diplome": "Licence d'histoire et d'histoire de l'art", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["sciences politiques", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Directeur adjoint de l'audit interne", "employeur": "HSBC France", "secteur": "prive", "periode": "jusqu'en 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA719080",
+      "nom": "Sandra Marsaud",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Bordeaux-Montaigne", "diplome": "Diplôme en géographie et aménagement du territoire (2001)", "domaine": "lettres-sciences humaines"},
+        {"institution": "Université Bordeaux-Montaigne", "diplome": "Diplôme en urbanisme opérationnel (2003)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Responsable d'un bureau d'études en urbanisme et développement local", "employeur": "Bureau d'études (non précisé)", "secteur": "prive", "periode": "environ 2003-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA719118",
+      "nom": "François Cormier-Bouligeon",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Tours", "diplome": "DEA de droit public et de science politique", "domaine": "droit"}
+      ],
+      "fields": ["droit", "sciences politiques"],
+      "career": [
+        {"poste": "Assistant parlementaire du député Gaëtan Gorce", "employeur": "Assemblée nationale", "secteur": "politique", "periode": "1998-2008"},
+        {"poste": "Directeur de cabinet du maire de Cosne-Cours-sur-Loire", "employeur": "Mairie de Cosne-Cours-sur-Loire", "secteur": "politique", "periode": "2008-2014"},
+        {"poste": "Chef-adjoint de cabinet d'Emmanuel Macron", "employeur": "Ministère de l'Économie et des Finances", "secteur": "politique", "periode": "2014-2016"},
+        {"poste": "Conseiller auprès de Patrick Kanner", "employeur": "Ministère de la Ville, de la Jeunesse et des Sports", "secteur": "politique", "periode": "2016-2017"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Parcours entièrement composé de postes de collaborateur politique et de cabinet avant son élection en 2017."
+    },
+    {
+      "uid": "PA719138",
+      "nom": "Michel Castellani",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "non précisée (dirigé par Bernard Fustier)", "diplome": "Doctorat en sciences économiques (1991)", "domaine": "economie"}
+      ],
+      "fields": ["economie"],
+      "career": [
+        {"poste": "Professeur d'économie (professeur des universités)", "employeur": "Université de Corse-Pascal-Paoli", "secteur": "public", "periode": "avant 2017"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    }
+  ]
+}

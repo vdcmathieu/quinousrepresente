@@ -1,0 +1,40 @@
+[
+ {
+  "uid": "PA842121",
+  "num": "842121",
+  "nom": "Nicolas Tryzna",
+  "groupe": "Droite Républicaine",
+  "dept": "Val-de-Marne",
+  "circo": "7",
+  "naissance": "1987-12-15",
+  "profession_declaree": "Formateur",
+  "insee": "Professions libérales",
+  "actuel": {
+   "diplome": "doctorat",
+   "profil": "mixte_public_prive",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Nicolas_Tryzna",
+  "wiki_trimmed": "data/wiki_trimmed/PA842121.txt",
+  "notes_actuelles": "Profession déclarée 'formateur' (profession libérale) sans détail sur l'employeur ni la période; devient conseiller départemental dès 2017."
+ },
+ {
+  "uid": "PA794494",
+  "num": "794494",
+  "nom": "Roger Vicot",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Nord",
+  "circo": "11",
+  "naissance": "1963-06-01",
+  "profession_declaree": "sans profession",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "bac+3_4",
+   "profil": "mixte_public_prive",
+   "confiance": "basse"
+  },
+  "frwiki": "https://fr.wikipedia.org/wiki/Roger_Vicot",
+  "wiki_trimmed": "data/wiki_trimmed/PA794494.txt",
+  "notes_actuelles": "Après un bac B et un DEUG d'anglais, diplômé de l'ESJ Paris ; carrière de journaliste (Le Matin de Paris, Nord Éclair) puis cabinet et services de communication de Pierre Mauroy/Ville de Lille (source: lagazettefrance.fr/article/homme-de-foi-et-de-loi-roger-vicot-se-devoile)."
+ }
+]

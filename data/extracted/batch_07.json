@@ -1,0 +1,286 @@
+{
+ "batch": 7,
+ "deputies": [
+  {
+   "uid": "PA719632",
+   "nom": "Sophie Panonacle",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Bordeaux École de Management (BEM)", "diplome": "non précisé", "domaine": "gestion-commerce"},
+    {"institution": "Université de Bordeaux", "diplome": "non précisé", "domaine": "autre"}
+   ],
+   "fields": ["gestion-commerce"],
+   "career": [
+    {"poste": "employée, agence de communication", "employeur": "Agence Seppa", "secteur": "prive", "periode": "1997-2001"},
+    {"poste": "co-dirigeante d'un établissement hôtelier et de restauration", "employeur": "L'Escale du Bassin (Arcachon)", "secteur": "liberal_independant", "periode": "2001-2017"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Le niveau d'études provient de Wikidata (école de commerce de Bordeaux) et n'est pas détaillé dans la biographie."
+  },
+  {
+   "uid": "PA719640",
+   "nom": "Sophie Mette",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [],
+   "worked_private": null,
+   "worked_public": null,
+   "political_career_only": null,
+   "career_profile": "inconnu",
+   "confidence": "basse",
+   "notes": "La biographie ne mentionne aucune activité professionnelle avant son engagement bénévole puis politique."
+  },
+  {
+   "uid": "PA719756",
+   "nom": "Christine Le Nabour",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université Rennes II", "diplome": "Licence (STAPS, éducation physique)", "domaine": "sport"},
+    {"institution": "Université Nancy I", "diplome": "Master", "domaine": "sport"}
+   ],
+   "fields": ["sport", "education"],
+   "career": [
+    {"poste": "intervenante insertion sociale et professionnelle (jeunes en difficulté, détenus)", "employeur": "non précisé", "secteur": "associatif", "periode": "avant 2008"},
+    {"poste": "professeur de danse", "employeur": "écoles de danse (Balazé, Vitré, Étrelles)", "secteur": "liberal_independant", "periode": "avant 2008"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Les secteurs d'activité (insertion sociale, cours de danse) sont déduits du contexte, non explicitement qualifiés dans la biographie."
+  },
+  {
+   "uid": "PA719778",
+   "nom": "François Jolivet",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Faculté de droit de Poitiers", "diplome": "Maîtrise de droit public", "domaine": "droit"},
+    {"institution": "IAE Poitiers", "diplome": "DESS de gestion", "domaine": "gestion-commerce"},
+    {"institution": "École supérieure de commerce de Bordeaux", "diplome": "Mastère spécialisé management", "domaine": "gestion-commerce"}
+   ],
+   "fields": ["droit", "gestion-commerce"],
+   "career": [
+    {"poste": "assistant parlementaire", "employeur": "Sénateur François Gerbaud", "secteur": "politique", "periode": "1990-1992"},
+    {"poste": "juriste auprès du directeur général des services", "employeur": "Conseil général de l'Indre", "secteur": "public", "periode": "1992-1993"},
+    {"poste": "chargé du contrôle économique des satellites départementaux", "employeur": "Conseil général de l'Indre", "secteur": "public", "periode": "1993-non précisé"},
+    {"poste": "directeur général", "employeur": "OPAC de Châteauroux", "secteur": "public", "periode": "avant 2010"},
+    {"poste": "directeur de la direction clientèle puis directeur général", "employeur": "ICF Habitat / ICF Habitat Atlantique (groupe SNCF)", "secteur": "public", "periode": "2010-2017"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA719798",
+   "nom": "Daniel Labaronne",
+   "highest_degree_level": "doctorat",
+   "degrees": [
+    {"institution": "Université François-Rabelais (Tours)", "diplome": "Doctorat en économie", "domaine": "economie"}
+   ],
+   "fields": ["economie"],
+   "career": [
+    {"poste": "maître de conférences en économie", "employeur": "Université de Bordeaux", "secteur": "public", "periode": "avant 2017"},
+    {"poste": "consultant sur les questions économiques pour les entreprises", "employeur": "indépendant", "secteur": "liberal_independant", "periode": "avant 2017"}
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA719822",
+   "nom": "Sabine Thillaye",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université de Münster", "diplome": "Études supérieures de droit (diplôme non précisé)", "domaine": "droit"}
+   ],
+   "fields": ["droit"],
+   "career": [
+    {"poste": "cofondatrice et dirigeante d'une agence de communication web-design", "employeur": "agence basée à Saint-Cyr-sur-Loire", "secteur": "liberal_independant", "periode": "1987-2017"},
+    {"poste": "chargée de cours en allemand juridique", "employeur": "Université François Rabelais de Tours", "secteur": "public", "periode": "non précisé"}
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "Le diplôme obtenu à Münster n'est pas précisé, seules des études supérieures de droit sont mentionnées."
+  },
+  {
+   "uid": "PA719890",
+   "nom": "Danielle Brulebois",
+   "highest_degree_level": "bac+2",
+   "degrees": [
+    {"institution": "École normale de Lons-le-Saunier", "diplome": "Formation d'instituteur", "domaine": "education"}
+   ],
+   "fields": ["education"],
+   "career": [
+    {"poste": "institutrice puis directrice d'école", "employeur": "Éducation nationale (Jura)", "secteur": "public", "periode": "avant 2017"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Le niveau exact de la formation à l'École normale (équivalence bac+2) est une estimation, non précisée dans la source."
+  },
+  {
+   "uid": "PA719914",
+   "nom": "Geneviève Darrieussecq",
+   "highest_degree_level": "doctorat",
+   "degrees": [
+    {"institution": "Université Bordeaux-Segalen", "diplome": "Doctorat en médecine", "domaine": "medecine-sante"},
+    {"institution": "Université Bordeaux-Segalen", "diplome": "Capacité en allergologie", "domaine": "medecine-sante"}
+   ],
+   "fields": ["medecine-sante"],
+   "career": [
+    {"poste": "médecin libéral allergologue", "employeur": "cabinet libéral, Mont-de-Marsan", "secteur": "liberal_independant", "periode": "1983-2008"},
+    {"poste": "médecin attaché", "employeur": "Hôpital Layné, Mont-de-Marsan", "secteur": "public", "periode": "1984-2008"},
+    {"poste": "médecin du club sportif", "employeur": "Stade montois rugby", "secteur": "associatif", "periode": "1997-2007"}
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA719922",
+   "nom": "Lionel Causse",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "cadre", "employeur": "secteur de l'économie sociale et solidaire (non précisé)", "secteur": "associatif", "periode": "début de carrière, avant 2008"}
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "inconnu",
+   "confidence": "basse",
+   "notes": "Seule une mention générale d'un poste de cadre dans l'économie sociale et solidaire est donnée, sans employeur ni études précisés."
+  },
+  {
+   "uid": "PA719930",
+   "nom": "Boris Vallaud",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Institut d'études politiques de Paris", "diplome": "Maîtrise de droit public, diplômé de Sciences Po (2000)", "domaine": "droit"},
+    {"institution": "École nationale d'administration (ENA)", "diplome": "Diplômé ENA, promotion Léopold Sédar Senghor", "domaine": "sciences politiques"}
+   ],
+   "fields": ["droit", "sciences politiques"],
+   "career": [
+    {"poste": "collaborateur d'Arnaud Montebourg", "employeur": "Conseil général de Saône-et-Loire", "secteur": "politique", "periode": "2008-2012"},
+    {"poste": "collaborateur ministériel", "employeur": "Ministère de l'Économie (cabinet Montebourg)", "secteur": "politique", "periode": "2012-2014"},
+    {"poste": "secrétaire général adjoint de la présidence de la République", "employeur": "Présidence de la République", "secteur": "politique", "periode": "2014-2016"}
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA719938",
+   "nom": "Marc Fesneau",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "non précisé", "diplome": "DEUG sciences de la vie et de la nature", "domaine": "sciences"},
+    {"institution": "Institut d'études politiques de Paris", "diplome": "Diplômé de Sciences Po", "domaine": "sciences politiques"}
+   ],
+   "fields": ["sciences", "sciences politiques"],
+   "career": [
+    {"poste": "chargé du développement local", "employeur": "Chambre d'agriculture du Loir-et-Cher", "secteur": "public", "periode": "1996-2000"},
+    {"poste": "directeur du service développement local et fonds structurels européens", "employeur": "Chambre d'agriculture du Loir-et-Cher", "secteur": "public", "periode": "2000-non précisé"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA719968",
+   "nom": "Sylvie Bonnet",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "cadre médico-social, gestionnaire des risques professionnels, formatrice PRAPS", "employeur": "Maison de retraite de la Loire (MRL), Saint-Just-Saint-Rambert", "secteur": "public", "periode": "avant 2017"},
+    {"poste": "collaboratrice parlementaire", "employeur": "Dino Cinieri, député", "secteur": "politique", "periode": "2017-non précisé"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Le statut de la Maison de retraite (établissement public supposé) et le parcours de formation ne sont pas détaillés."
+  },
+  {
+   "uid": "PA720022",
+   "nom": "Michel Lauzzana",
+   "highest_degree_level": "doctorat",
+   "degrees": [
+    {"institution": "non précisé", "diplome": "Doctorat en médecine", "domaine": "medecine-sante"}
+   ],
+   "fields": ["medecine-sante"],
+   "career": [
+    {"poste": "médecin généraliste", "employeur": "cabinet médical, Bon-Encontre", "secteur": "liberal_independant", "periode": "1984-2017"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Le doctorat en médecine est déduit de la profession de médecin généraliste, la biographie ne détaillant pas le cursus universitaire."
+  },
+  {
+   "uid": "PA720038",
+   "nom": "Sandrine Josso",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "profession libérale (non précisée)", "employeur": "indépendante", "secteur": "liberal_independant", "periode": "avant 2017"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "La biographie ne détaille ni études ni profession ; la profession libérale provient de la déclaration officielle."
+  },
+  {
+   "uid": "PA720092",
+   "nom": "Richard Ramos",
+   "highest_degree_level": "bac_ou_moins",
+   "degrees": [
+    {"institution": "non précisé", "diplome": "Baccalauréat série B", "domaine": "autre"}
+   ],
+   "fields": [],
+   "career": [
+    {"poste": "serveur", "employeur": "café-brasserie La Tocade, Blois", "secteur": "prive", "periode": "après le baccalauréat, avant mandat"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "La biographie indique explicitement l'entrée dans la vie active après le baccalauréat, sans études supérieures."
+  }
+ ]
+}

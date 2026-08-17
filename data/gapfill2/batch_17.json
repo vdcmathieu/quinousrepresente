@@ -1,0 +1,579 @@
+{
+ "deputies": [
+  {
+   "uid": "PA719388",
+   "nom": "Annaïg Le Meur",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {
+     "institution": "Université Grenoble-Alpes (IFMK)",
+     "diplome": "Diplôme d'État de masseur-kinésithérapeute",
+     "domaine": "medecine-sante"
+    }
+   ],
+   "fields": [
+    "medecine-sante"
+   ],
+   "career": [
+    {
+     "poste": "Kinésithérapeute",
+     "employeur": "Cabinet libéral",
+     "secteur": "liberal_independant",
+     "periode": "inconnu-2017"
+    },
+    {
+     "poste": "Formatrice en appareillage, IFMK",
+     "employeur": "Assistance publique - Hôpitaux de Paris",
+     "secteur": "public",
+     "periode": "1999-2003"
+    },
+    {
+     "poste": "Formatrice, IFMK de Brest",
+     "employeur": "IFMK Brest",
+     "secteur": "public",
+     "periode": "2015-2017"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "Le champ « université » de l'infobox Wikipédia (source Wikidata) indique Université Grenoble-Alpes ; le diplôme d'État de masseur-kinésithérapeute est inféré comme profession réglementée (kinésithérapeute → bac+3_4). Les affirmations d'un master 2 sciences de l'éducation et d'un diplôme d'orthopédiste-orthésiste (2003), présentes uniquement sur un site miroir de Wikidata (wikidata.fr-fr.nina.az), n'ont pas pu être confirmées par une source officielle et ne sont donc pas retenues pour le niveau de diplôme. Elle a été formatrice à l'IFMK de l'AP-HP (1999-2003) et de Brest (2015-2017), rôles publics documentés par Wikipédia FR avec citations. La HATVP ne recense aucune activité salariée pour elle (seulement des mandats), donc pas de source HATVP pour la carrière.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Anna%C3%AFg_Le_Meur",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA719756",
+   "nom": "Christine Le Nabour",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {
+     "institution": "Université Rennes-II",
+     "diplome": "Licence",
+     "domaine": "sport"
+    },
+    {
+     "institution": "Université Nancy-I (Université de Lorraine)",
+     "diplome": "Master",
+     "domaine": "sport"
+    }
+   ],
+   "fields": [
+    "sport"
+   ],
+   "career": [
+    {
+     "poste": "Intervenante auprès de jeunes en difficulté d'insertion et de détenus en réinsertion",
+     "employeur": "inconnu",
+     "secteur": "inconnu",
+     "periode": "inconnu"
+    },
+    {
+     "poste": "Professeure de danse",
+     "employeur": "Écoles de danse (Balazé, Vitré, Étrelles)",
+     "secteur": "prive",
+     "periode": "inconnu-2017"
+    },
+    {
+     "poste": "Animatrice en danse",
+     "employeur": "GRYMDA",
+     "secteur": "prive",
+     "periode": "2018-2019"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Wikipédia et Wikidata indiquent des études à Rennes (licence, Université Rennes-II) puis un master à l'Université Nancy-I, entreprises pour devenir professeure d'éducation physique ; le domaine « sport » est déduit de cet objectif d'études, aucun diplôme nommé précisément dans le texte consulté. Elle n'a jamais exercé comme professeure d'EPS (pas de CAPEPS documenté) mais est devenue professeure de danse puis animatrice en danse (secteur privé). La HATVP confirme uniquement l'activité rémunérée « Animatrice en danse » pour GRYMDA (2018-2019) ; ses engagements auprès des missions locales (Pays de Vitré, Bretagne, national) apparaissent en bénévolat, non comme employeurs.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Christine_Le_Nabour",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA720728",
+   "nom": "Jean-Paul Matteï",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {
+     "institution": "Faculté de droit de Pau",
+     "diplome": "DESS de droit notarial",
+     "domaine": "droit"
+    },
+    {
+     "institution": "Toulouse (formation notariale)",
+     "diplome": "Diplôme supérieur de notariat",
+     "domaine": "droit"
+    }
+   ],
+   "fields": [
+    "droit"
+   ],
+   "career": [
+    {
+     "poste": "Notaire gérant associé",
+     "employeur": "SELARL Matteï et Associés",
+     "secteur": "liberal_independant",
+     "periode": "1993-2023"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Bac économique (lycée Barthou, Pau) puis fac de droit à Pau, DESS de droit notarial, puis diplôme supérieur de notariat achevé à Toulouse ; notaire associé fondateur de la SELARL Matteï et Associés à Pau depuis 1993. Confirmé par HATVP (« NOTAIRE GÉRANT ASSOCIE », SELARL MATTEI ET ASSOCIES, 2017-2023) et par bap-europe.com, dont le texte a été vérifié directement par curl+grep (« il obtient un DESS droit notarial avant d'achever sa formation universitaire... maître de conférences associé à la fac de Pau »).",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Jean-Paul_Matte%C3%AF",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://bap-europe.com/qui-sont-les-six-deputes-des-pyrenees-atlantiques/",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA719436",
+   "nom": "Nicolas Meizonnet",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {
+     "institution": "Université Montpellier-II",
+     "diplome": "études en informatique (niveau/obtention non précisés)",
+     "domaine": "informatique"
+    }
+   ],
+   "fields": [
+    "informatique"
+   ],
+   "career": [
+    {
+     "poste": "Assistant parlementaire",
+     "employeur": "Gilbert Collard (député puis eurodéputé)",
+     "secteur": "politique",
+     "periode": "2012-2019"
+    },
+    {
+     "poste": "Président",
+     "employeur": "Aimer le Gard Servir la France ! (parti politique)",
+     "secteur": "politique",
+     "periode": "2023-2024"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "basse",
+   "notes": "La profession déclarée à l'Assemblée (« Ingénieur en informatique ») n'est corroborée par aucun employeur ni diplôme nommé dans sa biographie Wikipédia, qui ne documente qu'un parcours politique — donc pas retenue comme base d'inférence bac+5. Les seules études documentées sont en informatique à l'université Montpellier-II (niveau/obtention non précisés, sourcé à une page de syllabus DEUG MASS du LIRMM et à Midi Libre) puis un « master 1 » de psychologie clinique entamé en 2019 (première année seulement, non confirmé comme achevé). Toute la carrière documentée est politique : assistant parlementaire de Gilbert Collard depuis 2012, puis président de son propre micro-parti. La HATVP ne recense aucune activité salariée (seulement mandats et le parti politique qu'il dirige/dont il est bénévole).",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Nicolas_Meizonnet",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA795176",
+   "nom": "Nicolas Metzdorf",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {
+     "institution": "Université de Strasbourg",
+     "diplome": "Licence d'agronomie",
+     "domaine": "agriculture"
+    },
+    {
+     "institution": "Université Paris-Diderot (Paris 7) / AgroParisTech",
+     "diplome": "Master recherche en agro-géographie",
+     "domaine": "agriculture"
+    }
+   ],
+   "fields": [
+    "agriculture"
+   ],
+   "career": [
+    {
+     "poste": "Adjoint du chef de service de l'agriculture, direction du développement économique et de l'environnement",
+     "employeur": "Province Nord (Nouvelle-Calédonie)",
+     "secteur": "public",
+     "periode": "2012-2014"
+    },
+    {
+     "poste": "Dirigeant",
+     "employeur": "ENERCAL (société d'économie mixte, énergie, Nouvelle-Calédonie)",
+     "secteur": "public",
+     "periode": "2018-2019"
+    },
+    {
+     "poste": "Co-gérant",
+     "employeur": "CYN SARL",
+     "secteur": "prive",
+     "periode": "2019-present"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "Bac ES (2005), BTSA au lycée agricole de Pouembout (2007), licence d'agronomie à l'Université de Strasbourg puis master recherche en agro-géographie (Paris-Diderot / AgroParisTech, 2012), tout confirmé et sourcé dans l'infobox et le corps de l'article Wikipédia. De retour en Nouvelle-Calédonie comme ingénieur agronome, recruté adjoint au chef de service agriculture de la province Nord — confirmé par HATVP (« chef de service », province nord, 11/2012-06/2014, « activité de salariée »). Co-gérant de CYN SARL depuis 2019 (privé, HATVP) et dirigeant d'ENERCAL 2018-2019 (société d'économie mixte majoritairement publique, HATVP), en parallèle de mandats politiques provinciaux puis nationaux.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Nicolas_Metzdorf",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA795962",
+   "nom": "Joséphine Missoffe",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {
+     "institution": "inconnu",
+     "diplome": "Diplôme d'État infirmier et diplôme de puéricultrice",
+     "domaine": "medecine-sante"
+    }
+   ],
+   "fields": [
+    "medecine-sante"
+   ],
+   "career": [
+    {
+     "poste": "Infirmière",
+     "employeur": "inconnu",
+     "secteur": "inconnu",
+     "periode": "inconnu"
+    },
+    {
+     "poste": "Responsable de structure petite enfance (directrice de crèche)",
+     "employeur": "Croix-Rouge Île-de-France",
+     "secteur": "associatif",
+     "periode": "2023-2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Elle étudie à la Maison d'éducation de la Légion d'honneur (un lycée, pas un établissement d'enseignement supérieur), puis obtient un diplôme d'infirmière-puéricultrice — sourcé par Le Monde (2019), cité dans Wikipédia. Niveau bac+3_4 par la règle « infirmier » du référentiel de professions réglementées. Elle travaille ensuite comme infirmière puis directrice de crèche ; seul l'emploi le plus récent est confirmé par la HATVP : « Responsable de structure petite enfance », Croix-Rouge Île-de-France, 06/2023-09/2024 — un employeur associatif, classé ici par convention dans le seau « prive_uniquement » faute de catégorie « associatif » dans l'énumération career_profile. Les employeurs antérieurs (infirmière, première direction de crèche) restent non identifiés.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Jos%C3%A9phine_Missoffe",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794830",
+   "nom": "Hubert Ott",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {
+     "institution": "Faculté de biologie de Strasbourg",
+     "diplome": "Maîtrise en sciences naturelles",
+     "domaine": "sciences"
+    }
+   ],
+   "fields": [
+    "sciences"
+   ],
+   "career": [
+    {
+     "poste": "Enseignant SVT (institution Champagnat d'Issenheim, établissement catholique privé sous contrat)",
+     "employeur": "Rectorat de Strasbourg",
+     "secteur": "public",
+     "periode": "2017-2022"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Maîtrise en sciences naturelles obtenue à la faculté de biologie de Strasbourg : le site personnel ott-hubert.info (cité dans les notes préexistantes) est désormais hors ligne (domaine expiré, NXDOMAIN), mais une capture d'archive Wayback Machine du 18/06/2021 a été récupérée et vérifiée par curl+grep, confirmant mot pour mot : « Titulaire d'une Maitrise en Sciences Naturelles de la Faculté de Biologie de Strasbourg ». Professeur de SVT à l'institution Champagnat d'Issenheim (établissement catholique privé sous contrat d'association) ; la HATVP indique néanmoins l'employeur « Rectorat de Strasbourg » (2017-2022), régime standard des enseignants du privé sous contrat rémunérés par l'État — classé secteur public.",
+   "sources": [
+    {
+     "url": "http://web.archive.org/web/20210618044852/http://ott-hubert.info/mon-parcours/",
+     "pour": "diplome"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Hubert_Ott",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA795124",
+   "nom": "Didier Padey",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Développement de partenariat",
+     "employeur": "Victrex Europa",
+     "secteur": "prive",
+     "periode": "2019-2025"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Aucun diplôme n'a pu être confirmé : la profession déclarée à l'Assemblée (« cadre commercial ») n'implique aucun diplôme particulier selon la grille de référence. Les seules pistes trouvées pour un diplôme (profils LinkedIn/Viadeo et fiche TheOrg.com pour Victrex) sont des pages à rendu JavaScript — le HTML statique récupéré par curl ne contient même pas son nom — donc écartées conformément à la règle anti-fabrication (pas de WebFetch non plus utilisé sur ces pages). L'emploi chez Victrex Europa (groupe chimique privé britannique, « Développement de partenariat ») est en revanche confirmé par la déclaration HATVP (2019-2025).",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Didier_Padey",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794778",
+   "nom": "Sandra Regol",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Chargée de communication",
+     "employeur": "EM Strasbourg (École de management, Université de Strasbourg)",
+     "secteur": "public",
+     "periode": "2004-inconnu"
+    },
+    {
+     "poste": "Chargée de communication",
+     "employeur": "Sciences Po Strasbourg (IEP de Strasbourg)",
+     "secteur": "public",
+     "periode": "inconnu"
+    },
+    {
+     "poste": "Prestation / conseil en stratégie",
+     "employeur": "Nodalys - Webportage",
+     "secteur": "prive",
+     "periode": "2019-2021"
+    },
+    {
+     "poste": "Secrétaire nationale adjointe",
+     "employeur": "Europe Écologie Les Verts",
+     "secteur": "politique",
+     "periode": "2019-2022"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "Études supérieures à l'université Paris-VIII puis à l'université de Bourgogne (Dijon) — confirmé par Wikipédia (catégories) et par France 3 Grand Est — mais aucun diplôme nommé dans les sources consultées : niveau de diplôme laissé « inconnu » plutôt que déduit du seul intitulé de poste. La carrière pré-politique est en revanche bien documentée : chargée de communication de l'EM Strasbourg puis de Sciences Po Strasbourg à partir de 2004 (deux établissements publics d'enseignement supérieur), confirmé texte à l'appui par curl+grep sur France 3 Grand Est (« Après des études à Paris 8 puis à Dijon, Sandra Regol pose ses valises à Strasbourg en 2004 pour devenir chargée de communication de l'EM Strasbourg, puis de Sciences Po »). Puis activité privée via Nodalys-Webportage (distribution de films / conseil, 2019-2021, confirmé HATVP) en parallèle de son engagement croissant chez EELV (secrétaire nationale adjointe 2019-2022, confirmé HATVP).",
+   "sources": [
+    {
+     "url": "https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/legislatives-2022-qui-est-sandra-regol-nupes-elue-deputee-dans-la-premiere-circonscription-du-bas-rhin-2566048.html",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Sandra_Regol",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841377",
+   "nom": "Émeline Rey-Rinchet",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {
+     "institution": "École d'ostéopathie non identifiée",
+     "diplome": "Diplôme d'ostéopathe (D.O.)",
+     "domaine": "medecine-sante"
+    }
+   ],
+   "fields": [
+    "medecine-sante"
+   ],
+   "career": [
+    {
+     "poste": "Ostéopathe",
+     "employeur": "Cabinet libéral (Villeneuve-sur-Lot)",
+     "secteur": "liberal_independant",
+     "periode": "inconnu"
+    },
+    {
+     "poste": "Viticultrice",
+     "employeur": "Exploitation familiale à Dondas",
+     "secteur": "liberal_independant",
+     "periode": "inconnu"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Aucune biographie détaillée disponible : la page Wikipédia et la fiche AN sont très courtes, et la HATVP ne recense aucune déclaration pour elle. Niveau bac+5 déduit par analogie du régime réglementaire de la profession d'ostéopathe (titre protégé depuis 2002, formation en école agréée d'au moins 5 ans depuis la réforme de 2014) — l'ostéopathe n'est pas listée explicitement dans le référentiel de professions réglementées fourni, d'où une confiance cappée à « basse » plutôt que « moyenne ». Le nom de l'école de formation n'a pas été trouvé. Confirmé par curl+grep sur un portrait Sud Ouest (2026) : ostéopathe exerçant en cabinet et viticultrice sur les terres familiales de Dondas ; aucun élément trouvé sur un éventuel salariat public ou privé antérieur.",
+   "sources": [
+    {
+     "url": "https://www.sudouest.fr/elections/municipales/lot-et-garonne/villeneuve-sur-lot/portrait-si-je-dois-reagencer-toute-ma-vie-ce-n-est-pas-juste-pour-faire-acte-de-presence-la-nouvelle-deputee-emeline-rey-se-projette-28458472.php",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/%C3%89meline_Rey-Rinchet",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841845",
+   "nom": "Arnaud Saint-Martin",
+   "highest_degree_level": "doctorat",
+   "degrees": [
+    {
+     "institution": "Université de Rouen",
+     "diplome": "Licence de sociologie",
+     "domaine": "sociologie"
+    },
+    {
+     "institution": "Université Paris-Descartes",
+     "diplome": "Maîtrise de sociologie (mémoire sur l'affaire Sokal)",
+     "domaine": "sociologie"
+    },
+    {
+     "institution": "Université Paris-Sorbonne",
+     "diplome": "Doctorat de sociologie (2008) — thèse « L'office et le télescope : une sociologie historique de l'astronomie française, 1900-1940 », dir. Terry Shinn",
+     "domaine": "sociologie"
+    }
+   ],
+   "fields": [
+    "sociologie"
+   ],
+   "career": [
+    {
+     "poste": "Chargé de recherche",
+     "employeur": "CNRS",
+     "secteur": "public",
+     "periode": "2018-present"
+    },
+    {
+     "poste": "Cogérant, coordination éditoriale",
+     "employeur": "Éditions du Croquant",
+     "secteur": "associatif",
+     "periode": "2019-present"
+    },
+    {
+     "poste": "Membre du conseil scientifique",
+     "employeur": "EHESS",
+     "secteur": "public",
+     "periode": "2021-2022"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "Licence de sociologie à l'université de Rouen, poursuite d'études (maîtrise, mémoire sur l'affaire Sokal) à l'université Paris-Descartes, doctorat de sociologie soutenu en 2008 à l'université Paris-Sorbonne sous la direction de Terry Shinn — thèse référencée sur Sudoc et citée dans Wikipédia. Chargé de recherche au CNRS depuis 2018 (confirmé HATVP) : carrière de recherche publique, en parallèle d'une activité de cogérant/coordinateur éditorial aux Éditions du Croquant (maison d'édition associative, HATVP) et d'un mandat au conseil scientifique de l'EHESS (2021-2022, HATVP). Le secteur « associatif » des Éditions du Croquant est compté ici comme du « worked_private » par convention faute de catégorie dédiée dans career_profile ; l'essentiel de la carrière reste la recherche publique au CNRS.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Arnaud_Saint-Martin",
+     "pour": "diplome"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA793334",
+   "nom": "Cyril Tribuiani",
+   "highest_degree_level": "bac_ou_moins",
+   "degrees": [
+    {
+     "institution": "inconnu",
+     "diplome": "Bac professionnel comptabilité",
+     "domaine": "economie-gestion"
+    }
+   ],
+   "fields": [
+    "economie-gestion"
+   ],
+   "career": [
+    {
+     "poste": "Employé",
+     "employeur": "Carrefour (grande distribution)",
+     "secteur": "prive",
+     "periode": "environ 1999-2009 (10 ans)"
+    },
+    {
+     "poste": "Agent d'assurances",
+     "employeur": "Axa",
+     "secteur": "prive",
+     "periode": "inconnu"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Entré dans la vie active à 18 ans avec un bac professionnel de comptabilité ; dix ans chez Carrefour dans la grande distribution, puis agent d'assurances chez Axa, avant de devenir collaborateur du député Bryan Masson puis son suppléant. Confirmé par nicepresse.com, texte vérifié directement par curl+grep (« Entré dans la vie active à 18 ans avec un bac professionnel de comptabilité, il débute dans la grande distribution, chez Carrefour, où il reste pendant dix ans. Il rejoint ensuite le secteur des assurances au sein d'Axa »), et non un simple résumé WebFetch.",
+   "sources": [
+    {
+     "url": "https://nicepresse.com/pres-de-nice-a-cagnes-sur-mer-le-depart-du-depute-vers-la-mairie-propulse-son-suppleant-a-lassemblee-ce-quil-faut-savoir-de-cyril-tribuiani/",
+     "pour": "both"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Cyril_Tribuiani",
+     "pour": "carriere"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "batch": 38,
+ "deputies": [
+  {
+   "uid": "PA842299",
+   "nom": "Emmanuel Tjibaou",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [],
+   "worked_private": null,
+   "worked_public": null,
+   "political_career_only": false,
+   "career_profile": "inconnu",
+   "confidence": "basse",
+   "notes": "La source mentionne une carrière professionnelle dans le domaine de la culture mais ne la détaille pas."
+  },
+  {
+   "uid": "PA842311",
+   "nom": "Vincent Caure",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Institut d'études politiques de Toulouse", "diplome": "Diplôme IEP (2011-2015)", "domaine": "sciences politiques"},
+    {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme IEP", "domaine": "sciences politiques"}
+   ],
+   "fields": ["sciences politiques"],
+   "career": [
+    {"poste": "Conseiller technique (réseaux sociaux)", "employeur": "Présidence de la République", "secteur": "politique", "periode": "2017-2019"},
+    {"poste": "Chef de cabinet et conseiller spécial", "employeur": "Cabinet de Jean-Baptiste Djebbari (secrétaire d'État puis ministre des Transports)", "secteur": "politique", "periode": "2019-2022"},
+    {"poste": "Chef de cabinet adjoint", "employeur": "Emmanuel Macron, Présidence de la République", "secteur": "politique", "periode": "2022-2024"},
+    {"poste": "Conseiller spécial du ministre", "employeur": "Cabinet de Stéphane Séjourné, ministre de l'Europe et des Affaires étrangères", "secteur": "politique", "periode": "2024"}
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA857021",
+   "nom": "Alim Latrèche",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": ["sport"],
+   "career": [
+    {"poste": "Escrimeur handisport de haut niveau (champion et médaillé paralympique)", "employeur": null, "secteur": "liberal_independant", "periode": "2004-2012"},
+    {"poste": "Ingénieur-cadre", "employeur": "Schneider Electric", "secteur": "prive", "periode": "inconnue"}
+   ],
+   "worked_private": true,
+   "worked_public": null,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Le poste d'ingénieur chez Schneider Electric provient des données Wikidata et de la profession déclarée, non détaillé dans la biographie."
+  },
+  {
+   "uid": "PA870009",
+   "nom": "Lionel Duparay",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": ["ingenierie"],
+   "career": [
+    {"poste": "Chargé d'affaires aux commandes nucléaires", "employeur": "Industeel (groupe ArcelorMittal)", "secteur": "prive", "periode": "2005-2007"},
+    {"poste": "Fonctions en supply chain et achats", "employeur": "Alstom", "secteur": "prive", "periode": "2007-2025"}
+   ],
+   "worked_private": true,
+   "worked_public": null,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Le métier d'ingénieur suppose un diplôme d'ingénieur mais la source ne précise pas la formation suivie."
+  },
+  {
+   "uid": "PA878242",
+   "nom": "Antoine Valentin",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université Savoie Mont Blanc", "diplome": "Licence professionnelle", "domaine": "autre"},
+    {"institution": "École de commerce (non précisée)", "diplome": "Master II", "domaine": "gestion-commerce"}
+   ],
+   "fields": ["gestion-commerce"],
+   "career": [
+    {"poste": "Président d'une station de ski locale", "employeur": "Station de ski de Saint-Jeoire", "secteur": "public", "periode": "en tant que maire"}
+   ],
+   "worked_private": null,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "A suivi un apprentissage en menuiserie avant ses études ; engagement politique et mandat de maire très précoces, peu de carrière professionnelle distincte documentée."
+  },
+  {
+   "uid": "PA879389",
+   "nom": "Marie-Philippe Lubet",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [],
+   "worked_private": null,
+   "worked_public": null,
+   "political_career_only": false,
+   "career_profile": "inconnu",
+   "confidence": "basse",
+   "notes": "Biographie très succincte, ne mentionne ni études ni carrière professionnelle."
+  },
+  {
+   "uid": "PA942",
+   "nom": "Charles de Courson",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "École supérieure des sciences économiques et commerciales (ESSEC)", "diplome": "Diplômé", "domaine": "gestion-commerce"},
+    {"institution": "École nationale d'administration (ENA), promotion Michel de L'Hospital", "diplome": "Diplômé (1977-1979)", "domaine": "sciences politiques"}
+   ],
+   "fields": ["gestion-commerce", "sciences politiques"],
+   "career": [
+    {"poste": "Auditeur", "employeur": "Cour des comptes", "secteur": "public", "periode": "1979-1983"},
+    {"poste": "Conseiller référendaire", "employeur": "Cour des comptes", "secteur": "public", "periode": "1983-1984"},
+    {"poste": "Adjoint au chef du bureau D4", "employeur": "Direction du Budget", "secteur": "public", "periode": "1984-1985"},
+    {"poste": "Conseiller technique puis directeur-adjoint de cabinet", "employeur": "Cabinet du ministre de l'Industrie Alain Madelin", "secteur": "politique", "periode": "1986-1988"},
+    {"poste": "Officier de réserve", "employeur": "Armée de terre", "secteur": "public", "periode": "inconnue"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Carrière de haut fonctionnaire (Cour des comptes, Direction du Budget) avec un passage en cabinet ministériel avant d'entrer en politique élective."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+  "deputies": [
+    {
+      "uid": "PA795124",
+      "nom": "Didier Padey",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École des Mines d'Alès", "diplome": "Diplôme d'ingénieur, sciences des matériaux", "domaine": "ingenierie"}
+      ],
+      "fields": ["ingenierie"],
+      "career": [
+        {"poste": "Directeur général", "employeur": "Compositec (centre technique)", "secteur": "prive", "periode": "2000-2002"},
+        {"poste": "Market Development Manager", "employeur": "Victrex", "secteur": "prive", "periode": "2002-2011"},
+        {"poste": "Key Account Manager Aerospace Europe", "employeur": "Victrex", "secteur": "prive", "periode": "2011-2024"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Diplôme et parcours professionnel trouvés via LinkedIn/Viadeo/The Org (Victrex), non confirmés par une source officielle (source: https://theorg.com/org/victrex-plc/org-chart/didier-padey et https://www.linkedin.com/in/didier-padey-058963/)."
+    },
+    {
+      "uid": "PA795136",
+      "nom": "Jean-François Coulomme",
+      "career": [
+        {"poste": "Ingénieur commercial", "employeur": "Weber (filiale Saint-Gobain)", "secteur": "prive", "periode": "1992-2022 (période globale)"},
+        {"poste": "Ingénieur commercial", "employeur": "Rockwool Isolation", "secteur": "prive", "periode": "1992-2022 (période globale)"},
+        {"poste": "Ingénieur commercial", "employeur": "Hutchinson (filiale Total)", "secteur": "prive", "periode": "1992-2022 (période globale)"},
+        {"poste": "Ingénieur commercial", "employeur": "Schlegel International", "secteur": "prive", "periode": "1992-2022 (période globale)"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Employeurs successifs identifiés (secteurs second-œuvre, plasturgie, énergies renouvelables) mais diplôme/école d'ingénieur non trouvé (source: recherche web, biographie Who's Who non accessible en intégralité)."
+    },
+    {
+      "uid": "PA795176",
+      "nom": "Nicolas Metzdorf",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Strasbourg", "diplome": "Licence, agronomie", "domaine": "agriculture"},
+        {"institution": "Université Paris-Diderot (Paris 7) / AgroParisTech", "diplome": "Master recherche, agro-géographie (2012)", "domaine": "agriculture"}
+      ],
+      "fields": ["agriculture", "sciences"],
+      "notes": "Cursus précisé par Wikipédia français (source: https://fr.wikipedia.org/wiki/Nicolas_Metzdorf)."
+    },
+    {
+      "uid": "PA795240",
+      "nom": "Mereana Reid Arbelot",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École nationale de l'aviation civile (ENAC)", "diplome": "Diplôme d'ingénieur", "domaine": "ingenierie"}
+      ],
+      "fields": ["ingenierie"],
+      "career": [
+        {"poste": "Ingénieur en chef du contrôle de la navigation aérienne, tour de contrôle de l'aéroport de Tahiti-Faa'a", "employeur": "Direction générale de l'aviation civile (DGAC)", "secteur": "public", "periode": "environ 1999-2023 (24 ans)"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Formation ENAC et 24 ans de carrière à la DGAC/tour de contrôle de Tahiti confirmés par portrait de presse (source: https://ladepeche.pf/2023/08/08/portrait-tiarama-les-yeux-du-ciel-polynesien/ et LinkedIn)."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "deputies": [
+    {
+      "uid": "PA794434",
+      "nom": "Christophe Bentz",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "Non précisé (probablement Sorbonne/Paris)",
+          "diplome": "Diplômes en histoire, sciences politiques et communication (niveau précis non communiqué)",
+          "domaine": "lettres-sciences humaines"
+        }
+      ],
+      "fields": ["lettres-sciences humaines", "sciences politiques", "communication-journalisme"],
+      "confidence": "moyenne",
+      "notes": "Diplômé en histoire, sciences politiques et communication (musique et culture française) selon Wikipedia anglais ; niveau exact (licence/master) non précisé (source: en.wikipedia.org/wiki/Christophe_Bentz, whoswho.fr/biographie/christophe-bentz_84945)."
+    },
+    {
+      "uid": "PA794494",
+      "nom": "Roger Vicot",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "École supérieure de journalisme (ESJ) Paris",
+          "diplome": "Diplôme de journalisme",
+          "domaine": "communication-journalisme"
+        }
+      ],
+      "fields": ["communication-journalisme"],
+      "career": [
+        {
+          "poste": "Journaliste",
+          "employeur": "Le Matin de Paris puis Nord Éclair",
+          "secteur": "prive",
+          "periode": "avant 1988"
+        },
+        {
+          "poste": "Membre du cabinet du maire de Lille (Pierre Mauroy)",
+          "employeur": "Ville de Lille",
+          "secteur": "politique",
+          "periode": "a partir de 1988"
+        },
+        {
+          "poste": "Attaché de presse puis directeur de la communication",
+          "employeur": "Communaute urbaine de Lille (CUDL) / Ville de Lille",
+          "secteur": "public",
+          "periode": "1993-1996 environ"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Après un bac B et un DEUG d'anglais, diplômé de l'ESJ Paris ; carrière de journaliste (Le Matin de Paris, Nord Éclair) puis cabinet et services de communication de Pierre Mauroy/Ville de Lille (source: lagazettefrance.fr/article/homme-de-foi-et-de-loi-roger-vicot-se-devoile)."
+    }
+  ]
+}

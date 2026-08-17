@@ -1,0 +1,283 @@
+{
+  "batch": 4,
+  "deputies": [
+    {
+      "uid": "PA642695",
+      "nom": "Éric Bothorel",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "BTS informatique de gestion", "domaine": "informatique"},
+        {"institution": "inconnu", "diplome": "Master qualité", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["informatique", "gestion-commerce"],
+      "career": [
+        {"poste": "Cadre du secteur privé (numérique)", "employeur": "inconnu", "secteur": "prive", "periode": "avant 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Carrière professionnelle décrite de façon très succincte dans la source, sans employeur ni dates précises."
+    },
+    {
+      "uid": "PA642725",
+      "nom": "Eric Liégeon",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": ["agriculture"],
+      "career": [
+        {"poste": "Exploitant agricole", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "avant mandat"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie centrée sur le parcours politique ; profession issue uniquement de la donnée déclarative officielle."
+    },
+    {
+      "uid": "PA642764",
+      "nom": "Joël Aviragnet",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École d'éducateurs spécialisés (Dijon)", "diplome": "Diplôme d'État d'éducateur spécialisé", "domaine": "education"},
+        {"institution": "École nationale de la santé publique", "diplome": "CAFDES (certificat d'aptitude aux fonctions de directeur d'établissement social)", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["education", "gestion-commerce"],
+      "career": [
+        {"poste": "Éducateur spécialisé", "employeur": "ITEP de Saint-Ignan", "secteur": "associatif", "periode": "1980-1986"},
+        {"poste": "Éducateur spécialisé puis chef de service", "employeur": "ITEP (Bordeaux)", "secteur": "associatif", "periode": "1986-1999"},
+        {"poste": "Adjoint de direction", "employeur": "ITEP Curvale (Aspet)", "secteur": "associatif", "periode": "2000-2006"},
+        {"poste": "Directeur", "employeur": "Maison d'enfants à caractère social et institut thérapeutique éducatif et pédagogique La Grande Allée (Toulouse)", "secteur": "associatif", "periode": "2007-2014"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "haute",
+      "notes": "Carrière longue et bien documentée dans des établissements médico-sociaux (ITEP) de statut associatif, non classables en secteur privé ou public au sens strict."
+    },
+    {
+      "uid": "PA642847",
+      "nom": "Thibault Bazin",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Strasbourg", "diplome": "Diplôme IEP (section économie et finance)", "domaine": "sciences politiques"},
+        {"institution": "ESSEC", "diplome": "MBA", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["sciences politiques", "gestion-commerce"],
+      "career": [
+        {"poste": "Urbaniste", "employeur": "inconnu", "secteur": "prive", "periode": "avant 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Employeur et dates de son activité d'urbaniste non précisés par la source."
+    },
+    {
+      "uid": "PA642935",
+      "nom": "Olivier Becht",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Strasbourg", "diplome": "Diplôme IEP (spécialisation service public)", "domaine": "sciences politiques"},
+        {"institution": "Université Paris II Panthéon-Assas", "diplome": "DEA finances publiques et fiscalité", "domaine": "droit"},
+        {"institution": "École nationale d'administration", "diplome": "Diplôme ENA (promotion Léopold-Sédar-Senghor)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques", "droit"],
+      "career": [
+        {"poste": "Conseiller puis premier conseiller", "employeur": "Tribunal administratif de Nancy", "secteur": "public", "periode": "à partir de 2003, avant 2017"},
+        {"poste": "Chargé de cours", "employeur": "Université de Haute-Alsace", "secteur": "public", "periode": "depuis 2008"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA642988",
+      "nom": "Hervé de Lépinau",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "CAPA (certificat d'aptitude à la profession d'avocat)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Avocat", "employeur": "Barreau de Carpentras", "secteur": "liberal_independant", "periode": "avant mandat"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le niveau de diplôme est déduit de sa profession d'avocat (CAPA obligatoire), non détaillé explicitement par la source."
+    },
+    {
+      "uid": "PA643089",
+      "nom": "Jean-Louis Thiériot",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme IEP", "domaine": "sciences politiques"},
+        {"institution": "Université Paris IV - Sorbonne", "diplome": "DEA études soviétiques et est-européennes", "domaine": "sciences politiques"},
+        {"institution": "Université Paris II - Assas", "diplome": "DESS droit communautaire des affaires", "domaine": "droit"}
+      ],
+      "fields": ["sciences politiques", "droit"],
+      "career": [
+        {"poste": "Collaborateur puis associé", "employeur": "Cabinet Lussan & Associés", "secteur": "liberal_independant", "periode": "avant mandat"},
+        {"poste": "Avocat associé", "employeur": "Cabinet d'avocats (barreau de Paris)", "secteur": "liberal_independant", "periode": "avant mandat"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA643104",
+      "nom": "Christelle Minard",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Agricultrice", "employeur": "Exploitation agricole (Theuvy-Achères)", "secteur": "liberal_independant", "periode": "depuis 1995"},
+        {"poste": "Enseignante", "employeur": "Lycée agricole de Nermont", "secteur": "public", "periode": "avant mandat"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Statut public ou privé sous contrat du lycée agricole non précisé par la source, supposé public par défaut."
+    },
+    {
+      "uid": "PA643143",
+      "nom": "Christian Baptiste",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Directeur d'association", "employeur": "inconnu", "secteur": "associatif", "periode": "avant mandat"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Biographie extrêmement succincte, limitée au parcours politique ; profession issue uniquement de la donnée déclarative officielle."
+    },
+    {
+      "uid": "PA643157",
+      "nom": "Philippe Naillet",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Inspecteur assurance-vie", "employeur": "AG2R La Mondiale", "secteur": "prive", "periode": "avant mandat (avant 2016)"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "A étudié à l'université de La Réunion sans que le diplôme obtenu ne soit précisé."
+    },
+    {
+      "uid": "PA643175",
+      "nom": "Stella Dupont",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Diplôme d'études comptables et financières (DECF)", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Comptable", "employeur": "Groupe Cerfrance", "secteur": "associatif", "periode": "depuis 1993"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "moyenne",
+      "notes": "Cerfrance est un réseau associatif (loi 1901) ; source elle-même signalée comme insuffisante sur ce point par Wikipédia."
+    },
+    {
+      "uid": "PA643184",
+      "nom": "Brigitte Klinkert",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "DEUG en droit", "domaine": "droit"},
+        {"institution": "Institut régional d'administration de Metz", "diplome": "Formation IRA (attaché d'administration)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "moyenne",
+      "notes": "La formation à l'IRA suggère un débouché en fonction publique mais aucun poste précis n'est mentionné par la source."
+    },
+    {
+      "uid": "PA643192",
+      "nom": "Chantal Jourdan",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Master en psychologie", "domaine": "medecine-sante"}
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {"poste": "Psychologue clinicienne", "employeur": "inconnu", "secteur": "public", "periode": "avant mandat"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le titre de psychologue implique légalement un master, non détaillé explicitement par la source ; secteur d'exercice déduit de la catégorie INSEE fonction publique."
+    },
+    {
+      "uid": "PA687214",
+      "nom": "Sylvain Berrios",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Responsable commercial (division produits publics)", "employeur": "L'Oréal", "secteur": "prive", "periode": "juin 1990-septembre 1994"},
+        {"poste": "Consultant en communication", "employeur": "ATACAMA/SCB Conseil", "secteur": "prive", "periode": "septembre 1994-juin 2002"},
+        {"poste": "Chef de cabinet du secrétaire d'État à la Réforme de l'État", "employeur": "Cabinet ministériel d'Henri Plagnol", "secteur": "politique", "periode": "2002-2004"},
+        {"poste": "Chargé de mission", "employeur": "Services du Premier ministre", "secteur": "public", "periode": "2004-2006"},
+        {"poste": "Chef de la mission de la communication, Direction générale de la modernisation de l'État", "employeur": "Ministère du Budget, des Comptes publics, de la Fonction publique et de la Réforme de l'État", "secteur": "public", "periode": "avant 2012"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": "Aucune information sur son parcours de formation dans la source."
+    },
+    {
+      "uid": "PA712014",
+      "nom": "Vincent Ledoux",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Charles-de-Gaulle Lille 3", "diplome": "Maîtrise d'histoire médiévale", "domaine": "lettres-sciences humaines"},
+        {"institution": "Université Charles-de-Gaulle Lille 3", "diplome": "DEA histoire contemporaine", "domaine": "lettres-sciences humaines"},
+        {"institution": "Université Lille 2 droit et santé", "diplome": "DEA sciences politiques", "domaine": "sciences politiques"}
+      ],
+      "fields": ["lettres-sciences humaines", "sciences politiques"],
+      "career": [
+        {"poste": "Directeur de cabinet", "employeur": "Christian Vanneste, député du Nord", "secteur": "politique", "periode": "1994-1997"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Formation universitaire très détaillée mais seul un poste de collaborateur politique est documenté avant son mandat."
+    }
+  ]
+}

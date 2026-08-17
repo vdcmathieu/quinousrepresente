@@ -1,0 +1,298 @@
+{
+  "batch": 11,
+  "deputies": [
+    {
+      "uid": "PA721426",
+      "nom": "Véronique Riotton",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "École supérieure de commerce de Chambéry Savoie", "diplome": "licence", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Consultante en développement des ressources humaines", "employeur": "diverses entreprises de Haute-Savoie", "secteur": "prive", "periode": "avant 2017 (~20 ans)"},
+        {"poste": "Consultante indépendante en ressources humaines", "employeur": "à son compte", "secteur": "liberal_independant", "periode": "avant 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA721458",
+      "nom": "Xavier Roseren",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "IUT d'Annecy", "diplome": "maîtrise d'ingénierie commerciale", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Commerçant, gérant de magasin de sport", "employeur": "magasin de sport familial (Les Houches)", "secteur": "liberal_independant", "periode": "1998-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA721474",
+      "nom": "Stéphane Viry",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Nancy-II", "diplome": "maîtrise", "domaine": "droit"},
+        {"institution": "inconnu (CRFPA)", "diplome": "CAPA (avocat)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Avocat", "employeur": "cabinet d'avocats (Épinal)", "secteur": "liberal_independant", "periode": "2001-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le domaine exact de la maîtrise n'est pas précisé mais la profession d'avocat implique une formation en droit et le CAPA."
+    },
+    {
+      "uid": "PA721486",
+      "nom": "Christophe Naegelen",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "ESC Rouen", "diplome": "diplôme d'école de commerce", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Salarié", "employeur": "laboratoire pharmaceutique vétérinaire", "secteur": "prive", "periode": "après 2007-2011"},
+        {"poste": "Chef d'entreprise (magasin d'ameublement familial et diverses sociétés)", "employeur": "entreprise familiale", "secteur": "liberal_independant", "periode": "2011-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA721584",
+      "nom": "Jean Terlier",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "CAPA (avocat), formation juridique", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Avocat associé", "employeur": "cabinet d'avocats (Albi)", "secteur": "liberal_independant", "periode": "avant 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "La bio ne précise pas l'établissement de formation, mais confirme le métier d'avocat spécialisé en droit rural et agro-alimentaire."
+    },
+    {
+      "uid": "PA721612",
+      "nom": "Carole Guillerm",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Conseillère ministérielle", "employeur": "cabinet ministériel", "secteur": "politique", "periode": "avant nomination comme députée"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "basse",
+      "notes": "La bio ne détaille ni études ni parcours professionnel autre que mandats locaux et fonction de conseillère ministérielle."
+    },
+    {
+      "uid": "PA721632",
+      "nom": "Patricia Lemoine",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Maire de Condé-Sainte-Libiaire et présidente de la communauté de communes du Pays Créçois", "employeur": "collectivités locales", "secteur": "politique", "periode": "avant 2018"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "basse",
+      "notes": "Bio très courte, aucune information sur les études ni sur une carrière professionnelle hors mandats locaux."
+    },
+    {
+      "uid": "PA721750",
+      "nom": "Céline Calvez",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Rennes-I", "diplome": "licence", "domaine": "sciences politiques"},
+        {"institution": "CELSA (Sorbonne Université)", "diplome": "diplôme", "domaine": "communication-journalisme"}
+      ],
+      "fields": ["sciences politiques", "communication-journalisme"],
+      "career": [
+        {"poste": "Chargée de mission", "employeur": "ministère de la Ville", "secteur": "public", "periode": "2003-2005"},
+        {"poste": "Chef de projet", "employeur": "Publicis Events / diverses agences", "secteur": "prive", "periode": "2005-2010"},
+        {"poste": "Consultante indépendante", "employeur": "activité de conseil propre", "secteur": "liberal_independant", "periode": "2010-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA721764",
+      "nom": "Olivia Grégoire",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-X (Nanterre)", "diplome": "licence d'histoire", "domaine": "lettres-sciences humaines"},
+        {"institution": "Institut d'études politiques de Paris (Sciences Po)", "diplome": "diplôme (section communication)", "domaine": "communication-journalisme"},
+        {"institution": "ESSEC", "diplome": "master spécialisé en marketing", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["lettres-sciences humaines", "communication-journalisme", "gestion-commerce", "sciences politiques"],
+      "career": [
+        {"poste": "Chargée de mission", "employeur": "cabinet du Premier ministre Jean-Pierre Raffarin", "secteur": "politique", "periode": "2002-2005"},
+        {"poste": "Collaboratrice", "employeur": "cabinet du ministre Xavier Bertrand (Santé et Solidarités)", "secteur": "politique", "periode": "2005-2007"},
+        {"poste": "Directrice du développement durable", "employeur": "DDB France", "secteur": "prive", "periode": "après 2007"},
+        {"poste": "Directrice du développement durable", "employeur": "W&Cie", "secteur": "prive", "periode": "à partir de 2009"},
+        {"poste": "Directrice du développement durable", "employeur": "Saint-Gobain", "secteur": "prive", "periode": "2011"},
+        {"poste": "Chargée de mission", "employeur": "Etalab (institution publique sous l'autorité du Premier ministre)", "secteur": "public", "periode": "jusqu'en 2013"},
+        {"poste": "Directrice associée", "employeur": "iStrat (devenu Avisa Partners)", "secteur": "prive", "periode": "2013-2014"},
+        {"poste": "Fondatrice", "employeur": "Olicare (cabinet de conseil en stratégie et communication)", "secteur": "liberal_independant", "periode": "2014-2017"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA721816",
+      "nom": "Ian Boucard",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École supérieure de commerce de Dijon-Bourgogne", "diplome": "diplôme d'école de commerce", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Assistant parlementaire", "employeur": "Damien Meslot, député", "secteur": "politique", "periode": "2013"},
+        {"poste": "Cadre (secteur privé, fonction non précisée)", "employeur": "non précisé", "secteur": "prive", "periode": "avant 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "La bio ne mentionne pas d'études; l'établissement provient de Wikidata et le détail de la carrière privée n'est pas précisé dans le texte."
+    },
+    {
+      "uid": "PA721844",
+      "nom": "Béatrice Piron",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "EPF (École Polytechnique Féminine)", "diplome": "diplôme d'ingénieur", "domaine": "ingenierie"},
+        {"institution": "ESCP Europe", "diplome": "diplôme", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["ingenierie", "gestion-commerce"],
+      "career": [
+        {"poste": "Membre du comité de direction", "employeur": "grand groupe (non précisé)", "secteur": "prive", "periode": "avant création de son entreprise"},
+        {"poste": "Fondatrice et dirigeante", "employeur": "société de services à la personne (entreprise propre)", "secteur": "liberal_independant", "periode": "avant 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA721852",
+      "nom": "Marie Lebec",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Bordeaux", "diplome": "diplôme (affaires publiques et représentation des intérêts)", "domaine": "sciences politiques"},
+        {"institution": "Université de Cardiff", "diplome": "master (affaires européennes et internationales)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Attachée parlementaire", "employeur": "Christian Franqueville, député", "secteur": "politique", "periode": "environ 18 mois avant 2017"},
+        {"poste": "Lobbyiste", "employeur": "cabinet Euralia", "secteur": "prive", "periode": "jusqu'en 2017"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA721896",
+      "nom": "Elsa Faucillon",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université Panthéon-Sorbonne", "diplome": "études d'histoire de l'art (niveau précis non indiqué)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Chargée de communication", "employeur": "Parti communiste français (PCF)", "secteur": "politique", "periode": "2008-2017"},
+        {"poste": "Membre du comité de rédaction puis co-directrice de la société d'édition", "employeur": "revue Regards", "secteur": "associatif", "periode": "2016-2018"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Le niveau exact du diplôme en histoire de l'art n'est pas précisé."
+    },
+    {
+      "uid": "PA721908",
+      "nom": "Yaël Braun-Pivet",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-Nanterre (Faculté de droit)", "diplome": "études de droit / CAPA (avocate)", "domaine": "droit"},
+        {"institution": "École de droit de Toulouse", "diplome": "master droit des affaires et juriste d'entreprise", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Avocate en droit pénal", "employeur": "cabinet d'Hervé Temime puis cabinet propre (Neuilly-sur-Seine)", "secteur": "liberal_independant", "periode": "avant 2003"},
+        {"poste": "Fondatrice", "employeur": "start-up de location de chambres d'hôtes", "secteur": "liberal_independant", "periode": "à partir de 2012"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA721916",
+      "nom": "Natalia Pouzyreff",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École supérieure d'optique (Institut d'optique Graduate School)", "diplome": "diplôme d'ingénieur", "domaine": "ingenierie"},
+        {"institution": "non précisé", "diplome": "CAPES de physique-chimie", "domaine": "education"}
+      ],
+      "fields": ["ingenierie", "education"],
+      "career": [
+        {"poste": "Ingénieure", "employeur": "Thales", "secteur": "prive", "periode": "environ 1986-2003 (17 ans)"},
+        {"poste": "Ingénieure/cadre", "employeur": "Airbus", "secteur": "prive", "periode": "environ 2003-2011 (8 ans)"},
+        {"poste": "Déléguée générale d'Eurocopter en Chine", "employeur": "Eurocopter", "secteur": "prive", "periode": "2006-2009"},
+        {"poste": "Conseillère au commerce extérieur de la France", "employeur": "État français", "secteur": "public", "periode": "2007-2014"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    }
+  ]
+}

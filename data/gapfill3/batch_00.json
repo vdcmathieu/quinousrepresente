@@ -1,0 +1,491 @@
+{
+ "deputies": [
+  {
+   "uid": "PA840665",
+   "nom": "Marie-José Allemand",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Conjointe collaboratrice puis co-exploitante, éleveuse de brebis",
+     "employeur": "GAEC familial (Gap, Hautes-Alpes)",
+     "secteur": "liberal_independant",
+     "periode": "jusqu'en mai 2021 en tant que conjointe collaboratrice, puis installée officiellement (agricultrice au HATVP depuis 04/2021)"
+    },
+    {
+     "poste": "Présidente bénévole",
+     "employeur": "Association des producteurs d'agneaux Ciel d'Azur (Alpes-de-Haute-Provence/Hautes-Alpes)",
+     "secteur": "associatif",
+     "periode": "plus de 20 ans (dirigeante déclarée au HATVP depuis 01/2018)"
+    },
+    {
+     "poste": "Membre du bureau",
+     "employeur": "FRSEA Provence-Alpes-Côte d'Azur",
+     "secteur": "associatif",
+     "periode": "depuis 2023"
+    },
+    {
+     "poste": "Première secrétaire fédérale (dirigeante déclarée)",
+     "employeur": "Parti socialiste (Hautes-Alpes)",
+     "secteur": "politique",
+     "periode": "depuis 01/2018 (HATVP)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Aucune nouvelle information sur son parcours d'études : la fiche HATVP locale (activités/mandats/dirigeant/bénévole) ne mentionne aucune formation, l'infobox du wikitext brut Wikipédia laisse le champ « université » vide, et la fiche AN se limite à la catégorie socio-professionnelle déclarée. Carrière enrichie par la lecture directe du JSON HATVP local : confirme le statut d'agricultrice depuis 04/2021, ajoute une fonction de dirigeante du Parti socialiste des Hautes-Alpes depuis 01/2018 (non présente dans le lot précédent), et situe le début de son rôle de dirigeante de l'association Ciel d'Azur en 01/2018 (cohérent avec « plus de 20 ans » si elle était déjà impliquée avant sans être déclarante). Diplôme laissé à « inconnu » : aucune profession réglementée ne s'applique (agricultrice = liberal_independant, ne présume aucun niveau de diplôme précis).",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Marie-Jos%C3%A9_Allemand",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA840665",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794906",
+   "nom": "Gabriel Amard",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Directeur de la formation",
+     "employeur": "Le Formateur des collectivités (FDC)",
+     "secteur": "prive",
+     "periode": "janvier 2016-juin 2022 (première déclaration HATVP ; une déclaration ultérieure ne couvre que 2019-2022)"
+    },
+    {
+     "poste": "Formateur (intervention ponctuelle sur la gestion publique de l'eau)",
+     "employeur": "CNFPT (Auvergne)",
+     "secteur": "public",
+     "periode": "septembre-octobre 2019"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "Aucun diplôme ni établissement d'études retrouvé. Le wikitext brut Wikipédia apporte un détail biographique nouveau (père expert-comptable, mère magistrate, scoutisme laïque aux Éclaireuses Éclaireurs de France) mais rien sur son propre parcours scolaire ou universitaire ; le champ infobox « université » n'existe même pas dans son modèle d'infobox. Fiche AN vérifiée : ne donne que la catégorie socio-professionnelle déclarée. Relecture du JSON HATVP local : confirme précisément l'activité de directeur de formation au FDC, avec une déclaration antérieure indiquant un début en janvier 2016 (plus ancien que les janvier 2019 retenus précédemment) et la mission ponctuelle rémunérée au CNFPT en 2019. N'a pas re-testé gabrielamard.fr ni la presse déjà consultée par le chercheur précédent (sources jugées épuisées).",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Gabriel_Amard",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA796118",
+   "nom": "Bénédicte Auzanot",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Assistante juridique",
+     "employeur": "Cabinet juridique (nom de l'employeur non identifié)",
+     "secteur": "prive",
+     "periode": "avant son installation dans le Luberon en 2009-2018, dates précises inconnues"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Fiche HATVP relue en local : la liste « activites » est entièrement vide (aucune activité professionnelle antérieure déclarée), ce qui confirme l'absence de corroboration officielle déjà notée au tour précédent. La fiche AN ne donne que la catégorie socio-professionnelle déclarée. Élément nouveau et non concluant : la page de liste Wikipédia « Femmes à l'Assemblée nationale française » (wikitext brut consulté) classe sa profession en « Consultante en communication » dans le tableau de la XVIIe législature (contre « Sans activité professionnelle » dans un tableau d'une législature antérieure) — cette ligne n'est pas sourcée dans la liste elle-même et n'a pas pu être vérifiée par une source primaire, mais elle recoupe la mention « conseillère en image » déjà relevée par le chercheur précédent auprès d'agrégateurs non vérifiés. Je ne l'intègre donc pas comme fait établi ; la carrière retenue reste celle d'assistante juridique, seule confirmée par une source de presse fiable (France Bleu/ici.fr, déjà consultée au tour précédent). Aucune information sur ses études.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/B%C3%A9n%C3%A9dicte_Auzanot",
+     "pour": "both"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Femmes_%C3%A0_l%27Assembl%C3%A9e_nationale_fran%C3%A7aise",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA342415",
+   "nom": "Marie-Noëlle Battistel",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Cofondatrice puis directrice",
+     "employeur": "MNJ Voyages (entreprise de transport/voyages)",
+     "secteur": "prive",
+     "periode": "cofondée en 1977 avec Joseph Ivos ; activité de directrice déclarée au HATVP de janvier 2011 à avril 2021 (cession de l'entreprise)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Aucun diplôme ni établissement d'études retrouvé (whoswho.fr non re-testé, toujours inaccessible en scraping ; wikitext brut Wikipédia muet sur ce point, fiche AN idem). Relecture du JSON HATVP local : la déclaration la plus ancienne fait remonter l'activité de directrice de MNJ Voyages à janvier 2011 (et non 2019 comme retenu au tour précédent), avec fin en avril 2021, confirmant la cession de l'entreprise à cette date.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Marie-No%C3%ABlle_Battistel",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA342415",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA793374",
+   "nom": "Romain Baubry",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Gendarme adjoint volontaire",
+     "employeur": "Gendarmerie nationale",
+     "secteur": "public",
+     "periode": "à partir de 18 ans, pendant 2 ans (Wikipédia ; période antérieure à la fenêtre couverte par le HATVP)"
+    },
+    {
+     "poste": "Surveillant pénitentiaire",
+     "employeur": "Administration pénitentiaire",
+     "secteur": "public",
+     "periode": "après son passage en gendarmerie, plusieurs années (Wikipédia ; non couvert par le HATVP)"
+    },
+    {
+     "poste": "Policier municipal",
+     "employeur": "Ville de Vitrolles",
+     "secteur": "public",
+     "periode": "janvier 2017-septembre 2019 (HATVP)"
+    },
+    {
+     "poste": "Policier municipal",
+     "employeur": "Ville de Cavaillon",
+     "secteur": "public",
+     "periode": "septembre 2019-octobre 2021 (HATVP)"
+    },
+    {
+     "poste": "Élève gardien de la paix",
+     "employeur": "Ministère de l'Intérieur (police nationale)",
+     "secteur": "public",
+     "periode": "novembre 2021-juin 2022 (HATVP)"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Carrière précisée et corrigée grâce au JSON HATVP local, non consulté lors du tour précédent : elle documente très précisément trois postes successifs (policier municipal à Vitrolles 01/2017-09/2019, puis à Cavaillon 09/2019-10/2021, puis élève gardien de la paix au ministère de l'Intérieur 11/2021-06/2022), ce qui remplace avantageusement la mention vague « policier à Nîmes » de Wikipédia, non datée et non confirmée par le HATVP — je ne la reprends donc plus telle quelle, la donnée HATVP étant plus précise et primaire. En amont, gendarme adjoint volontaire puis surveillant pénitentiaire restent connus uniquement par Wikipédia (période antérieure à la fenêtre HATVP). Toujours aucune information sur son niveau d'études : les métiers occupés (gendarme adjoint volontaire, policier municipal, gardien de la paix) ne figurent pas dans la liste des professions réglementées permettant une inférence de diplôme fiable.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Romain_Baubry",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA718884",
+   "nom": "Valérie Bazin-Malgras",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Directrice des magasins, puis directrice France des magasins d'usine",
+     "employeur": "Villeroy & Boch (Troyes)",
+     "secteur": "prive",
+     "periode": "pendant environ 20 ans ; directrice France à partir de 2003"
+    },
+    {
+     "poste": "Dirigeante (bénévole)",
+     "employeur": "Association « La Maison du Boulanger - Centre Culturel » (Troyes)",
+     "secteur": "associatif",
+     "periode": "depuis juin 2017 (HATVP ; confirmé association déclarée via le Répertoire national des entreprises, SIREN 200026581)"
+    },
+    {
+     "poste": "Dirigeante (bénévole)",
+     "employeur": "Association « Génération Entreprise - Entrepreneurs Associés »",
+     "secteur": "associatif",
+     "periode": "depuis septembre 2021 (HATVP ; confirmé association via le Répertoire national des entreprises)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Aucune information sur son parcours d'études trouvée (BTS non confirmé, whoswho.fr toujours inaccessible en scraping, fiche AN muette). Deux nouveaux éléments de carrière extraits du JSON HATVP local (rubrique « dirigeant », absente du lot précédent) : elle est dirigeante bénévole de l'association « La Maison du Boulanger - Centre Culturel » à Troyes depuis juin 2017, et de l'association « Génération Entreprise - Entrepreneurs Associés » depuis septembre 2021. J'ai vérifié la nature juridique de ces deux structures via l'API officielle recherche-entreprises.api.gouv.fr : toutes deux sont des associations déclarées (et non des sociétés commerciales), d'où le classement en secteur associatif plutôt que privé — il s'agit d'engagements bénévoles parallèles à son mandat local, non de son activité professionnelle principale (qui reste Villeroy & Boch), donc le profil de carrière reste « prive_uniquement ».",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://recherche-entreprises.api.gouv.fr/search?q=La+Maison+du+Boulanger&departement=10",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_Bazin-Malgras",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA720362",
+   "nom": "Belkhir Belhaddad",
+   "highest_degree_level": "inconnu",
+   "degrees": [
+    {
+     "institution": "Université de Metz",
+     "diplome": "inconnu",
+     "domaine": "inconnu"
+    }
+   ],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Gérant / chef d'entreprise (conseil RSE)",
+     "employeur": "Gem Energy Services",
+     "secteur": "prive",
+     "periode": "depuis novembre 2012 (activité non rémunérée selon HATVP 2019-2024)"
+    },
+    {
+     "poste": "Enseignant en STAPS et Management de l'immobilier",
+     "employeur": "Université de Lorraine",
+     "secteur": "public",
+     "periode": "depuis janvier 2019"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "L'infobox du wikitext brut Wikipédia confirme (indépendamment de Wikidata) le champ « université = Université de Metz », donc deux sources convergent sur cet établissement fréquenté, mais ni l'une ni l'autre ne précise le diplôme obtenu ni la filière ; je l'ajoute donc comme établissement fréquenté avec diplôme et domaine « inconnu » plutôt que de risquer une invention. Le fait qu'il enseigne à l'université de Lorraine ne suffit pas à inférer un diplôme précis (vacation possible sur profil professionnel). Carrière confirmée en détail par le JSON HATVP local : Gem Energy Services (conseil RSE aux entreprises et collectivités) depuis 2012, activité non rémunérée selon la dernière déclaration ; enseignement à l'université de Lorraine depuis 2019.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Belkhir_Belhaddad",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA841531",
+   "nom": "Shéhérazade Bentorki",
+   "highest_degree_level": "inconnu",
+   "degrees": [
+    {
+     "institution": "Université Paris II Panthéon-Assas",
+     "diplome": "inconnu (études en sciences politiques suivies en parallèle de l'entraînement à l'INSEP ; aucune mention d'un diplôme obtenu)",
+     "domaine": "sciences-politiques"
+    }
+   ],
+   "fields": [
+    "sciences-politiques",
+    "sport"
+   ],
+   "career": [
+    {
+     "poste": "Lutteuse de haut niveau (championne de France, médaillée internationale)",
+     "employeur": "Fédération française de lutte / INSEP",
+     "secteur": "inconnu",
+     "periode": "~fin des années 2000-2012"
+    },
+    {
+     "poste": "Collaboratrice parlementaire suppléante de David Guiraud",
+     "employeur": "David Guiraud (Assemblée nationale)",
+     "secteur": "politique",
+     "periode": "2022-2026"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "inconnu",
+   "confidence": "moyenne",
+   "notes": "J'ai retrouvé et vérifié directement par curl+grep l'article cité vaguement au tour précédent (« roubaixxl.fr (interview) ») : il s'agit de « 5 questions à Shéhérazade Bentorki », roubaixxl.fr, 15 mai 2026, qui confirme noir sur blanc : « Elle intègre ensuite l'INSEP tout en suivant des études à l'université parisienne ASSAS, en sciences politiques. » Aucune mention d'un diplôme obtenu (licence ou master), donc highest_degree_level reste « inconnu » par prudence, mais j'ajoute l'établissement (Paris II Panthéon-Assas) aux « degrees » avec diplôme inconnu. Le HATVP n'a aucune fiche pour elle (députée depuis avril 2026, déclaration non encore publiée). Le statut d'emploi de sa carrière sportive de haut niveau (fédération, INSEP, sponsor) reste non documenté, d'où secteur « inconnu » sur cette ligne et career_profile global laissé à « inconnu » (impossible de trancher entre un profil principalement sportif/associatif et un profil politique).",
+   "sources": [
+    {
+     "url": "https://www.roubaixxl.fr/5-questions-sheherazade-bentorki-deputee/",
+     "pour": "both"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Sh%C3%A9h%C3%A9razade_Bentorki",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA793772",
+   "nom": "Christophe Bex",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Agent",
+     "employeur": "PTT / La Poste-France Télécom",
+     "secteur": "public",
+     "periode": "environ 16 ans, avant les années 2000"
+    },
+    {
+     "poste": "Attaché d'administration",
+     "employeur": "Université Toulouse Jean-Jaurès",
+     "secteur": "public",
+     "periode": "septembre 2016-juin 2022 (confirmé HATVP, relu ce tour-ci)"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Carrière publique confirmée à l'identique par relecture du HATVP (attaché d'administration à l'université Toulouse Jean-Jaurès, 09/2016-06/2022) ; aucune nouvelle source n'a livré de diplôme ou d'établissement nommé. Application de la règle d'inférence de ce deuxième passage : « attaché d'administration » est un poste de catégorie A de la fonction publique d'État, assimilable à « attaché territorial / catégorie A » dans la liste des professions réglementées fournie — j'infère donc highest_degree_level = bac+3_4, avec confiance plafonnée à « moyenne » comme demandé. Le chercheur précédent avait explicitement refusé cette inférence en notant que le recrutement en interne (concours interne, sans licence obligatoire pour les agents déjà titulaires) rendait l'inférence fragile pour un ancien agent des PTT promu en interne ; je note cette réserve mais applique la catégorie telle qu'elle est listée dans la consigne de ce tour.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Christophe_Bex",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA720668",
+   "nom": "Emmanuel Blairy",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Agent de la fonction publique territoriale",
+     "employeur": "Communauté d'agglomération de Lens-Liévin",
+     "secteur": "public",
+     "periode": "janvier-août 2017 puis septembre 2018-décembre 2021 (HATVP) ; engagement présenté comme continu depuis 2006 par Wikipédia (référence non sourcée sur Wikipédia lui-même, période antérieure à 2017 non confirmée par le HATVP)"
+    },
+    {
+     "poste": "Attaché parlementaire",
+     "employeur": "José Evrard (député)",
+     "secteur": "politique",
+     "periode": "septembre 2017-mai 2018 (HATVP)"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Relecture du JSON HATVP local : révèle un épisode non identifié au tour précédent, un passage comme attaché parlementaire auprès du député José Evrard de septembre 2017 à mai 2018, entre deux périodes comme agent territorial de la Communauté d'agglomération de Lens-Liévin (01-08/2017 puis 09/2018-12/2021). Le corps principal de sa carrière reste la fonction publique territoriale, d'où le maintien de career_profile = « public_uniquement » malgré cet intermède politique bref. Toujours aucune information sur ses études ou son établissement de formation dans la fiche AN, Wikipédia ou le HATVP.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Emmanuel_Blairy",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA842183",
+   "nom": "Benoît Blanchard",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Directeur d'un laboratoire de recherche en aérodynamique",
+     "employeur": "non identifié avec certitude (retraité)",
+     "secteur": "prive",
+     "periode": "retraité, dates exactes non précisées"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Aucune fiche HATVP disponible (déclaration non publiée pour ce député très récent, entré le 13 novembre 2025). J'ai remonté et vérifié par curl+grep l'unique source citée par tout l'article Wikipédia (balise ref « actufr »), actu.fr, 12 novembre 2025 : elle confirme mot pour mot « ce retraité, ancien directeur d'un laboratoire de recherche en aérodynamique », mais ne nomme jamais l'employeur. Le nom « Institut Aérodynamique Eiffel » avancé au tour précédent (via LinkedIn/societe.com, non fetchés) reste donc non confirmé par une source primaire directement consultée ; je ne le reprends pas comme fait établi et laisse l'employeur « non identifié avec certitude », conformément à la règle sur les résumés WebFetch fabriqués. Fiche AN vérifiée : n'ajoute rien. Aucune information sur son diplôme d'ingénieur ou son établissement de formation ; « directeur de laboratoire de recherche » ne figure pas dans la liste des professions réglementées permettant une inférence de diplôme.",
+   "sources": [
+    {
+     "url": "https://actu.fr/ile-de-france/ermont_95219/suppleant-de-la-ministre-naima-moutchou-le-nouveau-depute-benoit-blanchard-entre-a-lassemblee-jeudi_63415663.html",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Beno%C3%AEt_Blanchard",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841543",
+   "nom": "Jean Bodart",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Retraité de la sidérurgie (catégorie déclarée AN, employeur non précisé)",
+     "employeur": "inconnu",
+     "secteur": "prive",
+     "periode": "avant 1995 (début de son engagement politique local)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Aucune amélioration possible ce tour-ci : la déclaration HATVP de ce député très récent (député depuis le 20 avril 2026) reste marquée comme non publiée. Sa page Wikipédia (wikitext brut relu en entier) ne documente toujours que son parcours politique et sportif associatif (adjoint au maire, président des Quatre Jours de Dunkerque, maire) sans nommer d'employeur pour la période sidérurgie, et précise elle-même qu'il existe un homonyme « Jean Bodart » (bandeau {{Voir homonymes}}) — ce qui confirme que la piste « Arbèl » relevée au tour précédent concernait bien une autre personne et a été correctement écartée. La fiche AN, relue, n'ajoute rien de plus que la catégorie déclarée. Tentative de consultation de l'article de Nord Littoral cité par Wikipédia (« Jean Bodart, l'adjoint que le maire attendait ») : page bloquée (HTTP 403, contenu payant), donc pas de nouvelle information exploitable. Je conserve l'enregistrement inchangé, sourcé uniquement par la catégorie socio-professionnelle déclarée à l'Assemblée nationale.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Jean_Bodart_(homme_politique_fran%C3%A7ais)",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA841543",
+     "pour": "carriere"
+    }
+   ]
+  }
+ ]
+}

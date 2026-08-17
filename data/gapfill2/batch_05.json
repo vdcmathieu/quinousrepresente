@@ -1,0 +1,267 @@
+{"deputies": [
+  {
+    "uid": "PA720154",
+    "nom": "Nicole Dubré-Chirat",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [{"institution": "inconnu (institut de formation en soins infirmiers, établissement non identifié)", "diplome": "Diplôme d'État d'infirmière + diplôme de cadre de santé", "domaine": "medecine-sante"}],
+    "fields": ["medecine-sante"],
+    "career": [
+      {"poste": "Infirmière puis cadre supérieure de santé (urgences, SAMU, bloc opératoire)", "employeur": "Fonction publique hospitalière (CHU Angers, non nommé précisément)", "secteur": "public", "periode": "env. 1970s-2014"},
+      {"poste": "Chargée de formation (personnels infirmiers, DPC)", "employeur": "Instituts de formation continue, secteurs public et privé", "secteur": "public", "periode": "inconnu"},
+      {"poste": "Présidente du Conseil interdépartemental de l'Ordre des infirmières (49/53/72)", "employeur": "Ordre national des infirmiers", "secteur": "associatif", "periode": "2008-2017"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "Carrière de cadre supérieure de santé dans la fonction publique hospitalière (14 ans en urgences/SAMU puis bloc opératoire), bien documentée par sa fiche Wikipédia et son activité parlementaire (rapporteure de la loi sur la profession infirmière). Le métier d'infirmière suppose un diplôme d'État d'infirmière (bac+3_4) ; sa fonction de cadre supérieure de santé suppose en plus un diplôme de cadre de santé, ce qui ne change pas le niveau bac+3_4. Aucune source ne précise l'établissement de formation initiale ni la date d'obtention : inférence par profession réglementée, confiance moyenne. Déclaration HATVP consultée (dubre-chirat-nicole-dia31402) mais illisible en PDF et ne contenait de toute façon pas d'information de formation.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Nicole_Dubr%C3%A9-Chirat", "pour": "both"},
+      {"url": "https://www.aefinfo.fr/depeche/726391-la-deputee-nicole-dubre-chirat-est-designee-rapporteure-de-la-proposition-de-loi-sur-la-profession-infirmiere", "pour": "carriere"},
+      {"url": "https://www.hatvp.fr/pages_nominatives/dubre-chirat-nicole", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841633",
+    "nom": "Peio Dufau",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Agent de maîtrise / surveillant travaux bâtiments ferroviaires", "employeur": "SNCF Gares & Connexions", "secteur": "public", "periode": "1999-2024 (HATVP: 2019-2024)"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "haute",
+    "notes": "Cheminot à la SNCF depuis 1999 comme agent de maîtrise sur des chantiers de bâtiments ferroviaires ; la déclaration HATVP confirme le poste précis de « Surveillant Travaux Bâtiments » chez SA SNCF Gares & Connexions de janvier 2019 à juillet 2024, avec rémunération. SNCF traité comme employeur du secteur public (entreprise publique), conformément à la convention du projet. Aucune information trouvée sur son niveau de diplôme (Wikipédia, HATVP, recherches web) : le grade d'agent de maîtrise s'obtient généralement par promotion interne sans diplôme post-bac précis identifié, donc diplôme laissé inconnu.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Peio_Dufau", "pour": "carriere"},
+      {"url": "https://www.hatvp.fr/pages_nominatives/dufau-peio-27497", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA870009",
+    "nom": "Lionel Duparay",
+    "highest_degree_level": "bac+5",
+    "degrees": [{"institution": "Arts et Métiers ParisTech (École nationale supérieure d'arts et métiers, ENSAM)", "diplome": "Diplôme d'ingénieur", "domaine": "ingenierie"}],
+    "fields": ["ingenierie"],
+    "career": [
+      {"poste": "Chargé d'affaires commandes nucléaires", "employeur": "Industeel (groupe ArcelorMittal), Le Creusot", "secteur": "prive", "periode": "2005-2007"},
+      {"poste": "Supply chain / achats", "employeur": "Alstom, Le Creusot", "secteur": "prive", "periode": "2007-2026"},
+      {"poste": "Adjoint au maire, conseiller départemental de Saône-et-Loire, président de l'OPAC de Saône-et-Loire", "employeur": "Montceau-les-Mines / Conseil départemental 71", "secteur": "politique", "periode": "années 2010-2025"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Carrière d'ingénieur bien documentée (Industeel/ArcelorMittal puis Alstom au Creusot, secteur privé) via Wikipédia et Creusot Infos. Un article du magazine des anciens élèves Arts&MétiersMag (mars 2020, n°416) est titré « Ferroviaire : Lionel Duparay (Cl. 202), élu et ingénieur », ce qui indique fortement un diplôme d'ingénieur Arts et Métiers (ENSAM) ; l'accès à l'article complet a échoué (erreur 403), donc cette information n'a pas pu être vérifiée en détail malgré l'URL identifiée. Confiance fixée à moyenne pour cette raison. Mandats locaux (adjoint, conseiller départemental, président OPAC) traités comme activités politiques annexes n'ayant pas remplacé sa carrière d'ingénieur salarié avant son entrée à l'Assemblée en novembre 2025.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Lionel_Duparay", "pour": "carriere"},
+      {"url": "https://www.creusot-infos.com/news/saone-et-loire/saone-et-loire/saone-et-loire-lionel-duparay-va-devenir-depute.html", "pour": "carriere"},
+      {"url": "https://www.nxtbook.fr/newpress/Arts_et_Metiers/Arts_et_MetiersMag-2003-416/index.php?startid=43", "pour": "diplome"}
+    ]
+  },
+  {
+    "uid": "PA794718",
+    "nom": "Christine Engrand",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Professeure d'anglais", "employeur": "inconnu (établissement non précisé)", "secteur": "inconnu", "periode": "inconnu"},
+      {"poste": "Directrice commerciale", "employeur": "Kiabi (Boulogne, Saint-Martin)", "secteur": "prive", "periode": "inconnu"},
+      {"poste": "Responsable Duty Free", "employeur": "Eurotunnel", "secteur": "prive", "periode": "inconnu"},
+      {"poste": "Directrice de neuf agences d'intérim sur la Côte d'Opale", "employeur": "inconnu (réseau d'agences d'intérim)", "secteur": "prive", "periode": "inconnu"},
+      {"poste": "Directrice commerciale", "employeur": "Organisme de formation", "secteur": "prive", "periode": "inconnu"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Carrière privée bien documentée par deux sources de presse régionale distinctes (radio6.fr, lechodusud.com, 75secondes.fr) : professeure d'anglais en début de carrière puis reconversion dans le commerce et la formation (Kiabi, Eurotunnel, agences d'intérim, organisme de formation). Le niveau de diplôme n'est précisé nulle part : le titre de « professeure d'anglais » n'est pas une profession réglementée à titre protégé unique (contrairement à professeur des écoles) et pourrait correspondre à un enseignement privé/associatif sans certification d'État confirmée ; par honnêteté, diplôme et champ disciplinaire laissés inconnus plutôt que déduits.",
+    "sources": [
+      {"url": "https://www.radio6.fr/article-60999-rencontre-avec-christine-engrand-la-nouvelle-deputee-rn-du-pas-de-calais.html", "pour": "carriere"},
+      {"url": "https://www.lechodusud.com/qui-est-christine-engrand/", "pour": "carriere"},
+      {"url": "https://www.75secondes.fr/etudes/parcours/christine-engrand", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA795844",
+    "nom": "Karen Erodi",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Gérante", "employeur": "SARL Économie et Construction", "secteur": "liberal_independant", "periode": "2010-2024 (HATVP: 2019-2024)"},
+      {"poste": "Secrétaire comptable", "employeur": "Comité régional CGT Occitanie", "secteur": "associatif", "periode": "fev-juil 2022"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Cheffe d'entreprise dans le secteur du bâtiment (économie de la construction) depuis 2010, confirmé par Wikipédia et par la déclaration HATVP (gérante à 100% de la SARL Économie et Construction, 2019-2024, avec chiffres de rémunération annuels). Bref épisode salarié associatif (secrétaire comptable au comité régional CGT Occitanie, 5 mois en 2022). Aucune information trouvée sur son niveau d'études malgré recherches ciblées (nom de l'entreprise « Économie et Construction » évoque un possible lien avec un BTS Études et Économie de la Construction, mais ce rapprochement n'est pas confirmé par une source et n'est donc pas retenu).",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Karen_Erodi", "pour": "carriere"},
+      {"url": "https://www.hatvp.fr/pages_nominatives/erodi-karen-24337", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841621",
+    "nom": "Auguste Evrard",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Assistant parlementaire du député européen Philippe Olivier", "employeur": "Parlement européen / Philippe Olivier", "secteur": "politique", "periode": "à partir de 2019"},
+      {"poste": "Collaborateur de cabinet", "employeur": "Mairie de Bruay-la-Buissière (maire Ludovic Pajot, RN)", "secteur": "politique", "periode": "inconnu (avant 2024)"}
+    ],
+    "worked_private": false,
+    "worked_public": false,
+    "political_career_only": true,
+    "career_profile": "politique_principalement",
+    "confidence": "haute",
+    "notes": "Carrière exclusivement politique dès la fin de l'adolescence : il interrompt ses études pour devenir assistant parlementaire de Philippe Olivier (député européen RN, beau-frère de Marine Le Pen), puis collaborateur de cabinet du maire RN de Bruay-la-Buissière Ludovic Pajot. Sources consultées : Wikipédia, fiche Assemblée nationale (PA841621) et recherches web ciblées (Le Monde, presse) : aucune ne précise quel type d'études (BTS, licence, IEP...) a été interrompu ni le niveau atteint avant interruption. Diplôme laissé honnêtement inconnu.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Auguste_%C3%89vrard", "pour": "carriere"},
+      {"url": "https://www.assemblee-nationale.fr/dyn/deputes/PA841621", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA794658",
+    "nom": "Philippe Fait",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [{"institution": "inconnu (IUFM ou équivalent non identifié)", "diplome": "Concours de professeur des écoles (formation initiale, avant réforme MEEF de 2010)", "domaine": "enseignement"}],
+    "fields": ["enseignement"],
+    "career": [
+      {"poste": "Professeur des écoles / instituteur", "employeur": "Éducation nationale", "secteur": "public", "periode": "inconnu, avant 2008"},
+      {"poste": "Maire d'Étaples", "employeur": "Mairie d'Étaples", "secteur": "politique", "periode": "2014-2022"},
+      {"poste": "Conseiller départemental du Pas-de-Calais (canton d'Étaples)", "employeur": "Conseil départemental du Pas-de-Calais", "secteur": "politique", "periode": "2015-présent"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "Profession déclarée « professeur des écoles, instituteur et assimilé » confirmée par le code INSEE et par sa fiche Wikipédia (élu conseiller municipal dès 2008, laissant supposer une carrière d'enseignant commencée avant). Le site officiel (philippefait.fr) ne détaille pas son parcours (page « mon parcours » introuvable, erreur 404) et aucune autre source n'a permis d'identifier l'établissement de formation. Le métier de professeur des écoles étant une profession réglementée, inférence de bac+3_4 (né en 1969, formation probablement antérieure à la réforme MEEF de 2010 qui a porté le niveau à bac+5), confiance fixée à moyenne conformément à la règle sur les inférences par profession réglementée.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Philippe_Fait", "pour": "carriere"},
+      {"url": "https://www.assemblee-nationale.fr/dyn/deputes/PA794658", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA267042",
+    "nom": "Yannick Favennec-Bécot",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [{"institution": "inconnu (université non précisée)", "diplome": "Études de droit (niveau exact non précisé)", "domaine": "droit"}],
+    "fields": ["droit"],
+    "career": [
+      {"poste": "Assistant parlementaire de François Léotard", "employeur": "François Léotard", "secteur": "politique", "periode": "années 1980"},
+      {"poste": "Membre de cabinet (ministère de la Défense puis de la Culture et de la Communication)", "employeur": "Cabinet ministériel de François Léotard", "secteur": "politique", "periode": "jusqu'en 1986-1991"},
+      {"poste": "Directeur des relations extérieures", "employeur": "Bull France", "secteur": "prive", "periode": "1991-1995"},
+      {"poste": "Chef de cabinet du secrétaire d'État au commerce extérieur", "employeur": "Secrétariat d'État au commerce extérieur", "secteur": "politique", "periode": "1995-1997"},
+      {"poste": "Directeur de cabinet (maire de Laval puis ministre de la Recherche)", "employeur": "François d'Aubert", "secteur": "politique", "periode": "1997-2002"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "politique_principalement",
+    "confidence": "moyenne",
+    "notes": "Carrière bien reconstituée par Wikipédia : après des études de droit (niveau exact — licence ou maîtrise — non précisé, d'où l'inférence prudente en bac+3_4, confiance moyenne), il enchaîne des postes politiques (assistant parlementaire de François Léotard, cabinets ministériels de la Défense puis de la Culture, chef de cabinet, directeur de cabinet) sur environ vingt ans, entrecoupés d'un passage de quatre ans dans le privé chez Bull France (1991-1995) comme directeur des relations extérieures. La déclaration HATVP consultée ne mentionne aucune activité professionnelle antérieure ni de diplôme. Étant donné que l'essentiel de la carrière (avant comme après le passage chez Bull France) relève de la sphère politique/cabinet, career_profile classé « politique_principalement » malgré le passage privé documenté.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Yannick_Favennec-B%C3%A9cot", "pour": "both"},
+      {"url": "https://www.hatvp.fr/pages_nominatives/favennec-becot-yannick", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA840773",
+    "nom": "Olivier Fayssat",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Courtier en assurances, co-fondateur et dirigeant", "employeur": "S2C Sud Courtage et Conseil (avec Alain de Gasquet)", "secteur": "liberal_independant", "periode": "env. 2018 (société fondée il y a ~15 ans avant 2024)"},
+      {"poste": "Activité tourisme (camping) et gestion locative immobilière", "employeur": "SAS Bonporteau / SCI diverses", "secteur": "liberal_independant", "periode": "depuis 2018"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Chef d'entreprise dans le courtage d'assurances, co-fondateur de S2C Sud Courtage et Conseil avec Alain de Gasquet, confirmé par la déclaration HATVP (rémunérations 2018-2024) et par la presse (« courtier en assurances », site Eurosud-assurances mentionnant S2C). Diversifié aussi dans l'immobilier locatif et le tourisme (camping, via SAS Bonporteau). Aucune information trouvée sur sa formation ou ses diplômes malgré recherches ciblées (Wikipédia, HATVP, presse) : diplôme laissé inconnu.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/fayssat-olivier-27418", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Olivier_Fayssat", "pour": "carriere"},
+      {"url": "https://www.eurosud-assurances.com/details-eurosud+entre+au+capital+de+s2c-121.html", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841251",
+    "nom": "Mathilde Feld",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Attachée territoriale, directrice générale adjointe", "employeur": "Communauté de communes du Grand Saint-Émilionnais", "secteur": "public", "periode": "2019-2024"},
+      {"poste": "Présidente", "employeur": "Communauté de communes du Créonnais", "secteur": "politique", "periode": "2014-2020"},
+      {"poste": "Adjointe au maire de Créon", "employeur": "Mairie de Créon", "secteur": "politique", "periode": "2020-2024"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "Fonctionnaire territoriale (attachée territoriale), directrice générale adjointe de la communauté de communes du Grand Saint-Émilionnais de 2019 à 2024, confirmé par la déclaration HATVP (rémunérations annuelles détaillées) et son site officiel. A aussi occupé des mandats politiques locaux (présidente de communauté de communes, adjointe au maire). Le grade d'attaché territorial (catégorie A de la fonction publique territoriale) s'obtient en général par concours externe nécessitant une licence, mais peut aussi s'obtenir par promotion interne sans ce prérequis ; en l'absence de confirmation de la voie empruntée, diplôme laissé prudemment inconnu plutôt que déduit.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/feld-mathilde-27420", "pour": "carriere"},
+      {"url": "https://mathildefeld.fr/mathilde-feld/", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA794786",
+    "nom": "Emmanuel Fernandes",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Coordinateur S.I. Métier", "employeur": "Flender", "secteur": "prive", "periode": "2019-2022"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Venu à Strasbourg en 2002 pour ses études (institution et diplôme non identifiés). La déclaration HATVP révèle un emploi salarié précis dans le privé : coordinateur systèmes d'information « métier » chez Flender (groupe industriel d'engrenages) de juin 2019 à juin 2022, avec rémunérations annuelles. Un article de France 3 (2022) mentionne qu'il a « travaillé à Illkirch-Graffenstaden pendant plus de 16 ans » sans préciser l'employeur ni le poste sur cette période plus longue ; son site officiel et les réseaux sociaux ne détaillent pas non plus sa formation. Diplôme laissé inconnu par honnêteté malgré la fonction de coordinateur SI qui suggère une formation supérieure non confirmée.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/fernandes-emmanuel-24316", "pour": "carriere"},
+      {"url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/legislatives-2022-qui-est-emmanuel-fernandes-nupes-elu-depute-de-la-2e-circonscription-du-bas-rhin-2566316.html", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA794870",
+    "nom": "Sylvie Ferrer",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Agent de maintenance en aéronautique", "employeur": "inconnu (secteur aéronautique, Hautes-Pyrénées)", "secteur": "prive", "periode": "inconnu"},
+      {"poste": "Secrétaire d'Attac 65", "employeur": "Attac Hautes-Pyrénées", "secteur": "associatif", "periode": "avril 2016-mai 2022"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Profession d'agent de maintenance en aéronautique confirmée par Wikipédia et plusieurs fiches (nosdeputes.fr, lechodusud.com), mais aucune source ne nomme l'employeur (bassin aéronautique de Tarbes/Hautes-Pyrénées, hypothèse plausible mais non confirmée, donc non retenue). La déclaration HATVP consultée ne détaille curieusement pas cette activité professionnelle (elle ne mentionne que son mandat de secrétaire d'Attac 65, non rémunéré, 2016-2022) : possible qu'elle ait cessé cette activité salariée avant la période couverte par la déclaration. Le métier d'agent de maintenance aéronautique n'étant pas une profession réglementée à diplôme unique (accessible via bac pro, BTS, ou autre formation technique), diplôme laissé inconnu.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Sylvie_Ferrer", "pour": "carriere"},
+      {"url": "https://www.hatvp.fr/pages_nominatives/ferrer-sylvie-24213", "pour": "carriere"},
+      {"url": "https://www.lechodusud.com/post/qui-est-sylvie-ferrer", "pour": "carriere"}
+    ]
+  }
+]}

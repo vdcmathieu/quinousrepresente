@@ -1,0 +1,276 @@
+[
+ {
+  "uid": "PA719922",
+  "num": "719922",
+  "nom": "Lionel Causse",
+  "groupe": "Ensemble pour la République",
+  "dept": "Landes",
+  "circo": "2",
+  "naissance": "1971-05-06",
+  "profession_declaree": "Autre cadre (secteur privé)",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "inconnu",
+   "confiance": "basse"
+  },
+  "carriere_connue": [
+   "Cadre dans l'économie sociale et solidaire @ inconnu [associatif] avant 2008 (début de carrière, selon Wikipedia)",
+   "Président puis vice-président (bénévole) @ CPIE Seignanx et Adour [associatif] jusqu'en 2024"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Lionel_Causse",
+  "wiki_trimmed": "data/wiki_trimmed/PA719922.txt",
+  "notes_actuelles": "Wikipedia et L'Écho du Sud mentionnent seulement qu'il \"a occupé des fonctions de cadre dans le secteur de l'économie sociale et solidaire au début de sa carrière\", sans nommer l'employeur. Sa déclaration HATVP (fenêtre des 5 ans précédant 2022) indique \"Néant\" pour les activités professionnelles rémunérées - il était déjà maire/conseiller général à plein temps depuis 2008-2014, donc cette déclaration ne couvre pas son emploi ESS antérieur. Présidence du CPIE Seignanx et Adour confirmée mais non rémunérée. Sources consultées: Wikipedia, France3, L'Écho du Sud, nosdeputes.fr, HATVP - aucune ne "
+ },
+ {
+  "uid": "PA841047",
+  "num": "841047",
+  "nom": "François-Xavier Ceccoli",
+  "groupe": "Droite Républicaine",
+  "dept": "Haute-Corse",
+  "circo": "2",
+  "naissance": "1968-10-27",
+  "profession_declaree": "(23) - Chef d'entreprise de 10 salariés ou plus",
+  "insee": "Chefs d'entreprise de plus de 10 personnes",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Gérant puis directeur @ Fruticor (station de conditionnement et négoce de clémentines et agrumes, San-Nicolao, Corse) [liberal_independant] 2018-présent (gérant 2018-2021, directeur depuis 2022)",
+   "Président @ GIE Corsica Comptoir [liberal_independant] depuis 2018",
+   "Agriculteur (activité secondaire) @ Exploitation personnelle [liberal_independant] depuis 2018"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Xavier_Ceccoli",
+  "wiki_trimmed": "data/wiki_trimmed/PA841047.txt",
+  "notes_actuelles": "Chef d'entreprise dans la filière agroalimentaire corse (négoce de clémentines), confirmé avec dates et rémunérations précises par sa déclaration HATVP, et par la presse locale (Corse Net Infos, Visit Corsica) qui décrit Fruticor comme une station de conditionnement de 8000 m² employant jusqu'à 60 personnes en pic de saison. Aucune information sur ses études trouvée malgré recherches (HATVP, Facebook, presse corse, annuaires de maires)."
+ },
+ {
+  "uid": "PA842037",
+  "num": "842037",
+  "nom": "Bérenger Cernon",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Essonne",
+  "circo": "8",
+  "naissance": "1988-05-02",
+  "profession_declaree": "(65) - Ouvrier qualifié de la manutention, du magasinage et du transport",
+  "insee": "Ouvriers qualifiés de type industriel",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Conducteur de train (RER D puis R) @ SNCF [public] 2008-présent"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/B%C3%A9renger_Cernon",
+  "wiki_trimmed": "data/wiki_trimmed/PA842037.txt",
+  "notes_actuelles": "Employé de la SNCF (établissement public) comme conducteur depuis 2008, confirmé par Wikipedia et l'article de La Vie Ouvrière (NVO, 2024) qui précise \"il rejoint la SNCF en 2008 comme conducteur sur les lignes D et R\". Engagement syndical CGT (délégué du personnel, secrétaire de CHSCT) exercé dans le cadre de cet emploi, non compté comme carrière séparée. Un profil LinkedIn indique une scolarité à l'Université de Bourgogne, mais sans précision de filière ni de diplôme obtenu - non retenu comme preuve d'un diplôme malgré recherches complémentaires."
+ },
+ {
+  "uid": "PA840701",
+  "num": "840701",
+  "nom": "Bernard Chaix",
+  "groupe": "Union des droites pour la République",
+  "dept": "Alpes-Maritimes",
+  "circo": "3",
+  "naissance": "1965-01-06",
+  "profession_declaree": "(22) - Commerçant et assimilé",
+  "insee": "Commerçants et assimilés",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Gérant majoritaire, commerce de tapis et moquettes @ Chaix Décoration (entreprise familiale fondée en 1936 sous le nom de comptoir textile du Sud-Est, puis Tapichaix) [liberal_independant] gérance formelle depuis 06/2021; entreprise familiale reprise sur plusieurs générations",
+   "Président @ CGPME Alpes-Maritimes [associatif] depuis 2007"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Bernard_Chaix",
+  "wiki_trimmed": "data/wiki_trimmed/PA840701.txt",
+  "notes_actuelles": "Commerçant, gérant de l'entreprise familiale de vente de tapis et moquettes Chaix Décoration à Nice (fondée en 1936, reprise sur trois générations), confirmé par sa déclaration HATVP (dates et employeur nommés) et par la presse (Nice Presse, RCF Nice Côte d'Azur, WebSearch synthétisant Kompass/Société.com). Aucune information sur ses études trouvée malgré recherches multiples."
+ },
+ {
+  "uid": "PA840107",
+  "num": "840107",
+  "nom": "Bernard Chaumeil",
+  "groupe": "Rassemblement National",
+  "dept": "Hérault",
+  "circo": "7",
+  "naissance": "1958-09-30",
+  "profession_declaree": "Directeur des relations institutionnelles",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Directeur de cabinet puis cadre dirigeant @ Bouygues Telecom [prive] inconnu (carrière privée avec missions à l'international)",
+   "Cadre dirigeant, relations institutionnelles @ Engie [prive] inconnu"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Bernard_Chaumeil",
+  "wiki_trimmed": "data/wiki_trimmed/PA840107.txt",
+  "notes_actuelles": "Dans un entretien à Hérault Tribune (Echo des Tribunes), Bernard Chaumeil (né en 1958) déclare avoir \"construit une carrière dense dans le secteur privé\", ayant \"occupé des postes à responsabilités au sein de grands groupes comme Bouygues Telecom ou Engie\" (directeur de cabinet puis cadre dirigeant, missions à l'international); il insiste: \"Je n'ai jamais voulu dépendre de la politique. J'ai toujours travaillé à côté dans le privé.\" Cela est distinct de ses 20 ans d'engagement politique local bénévole (Plessis-Robinson, RPR de Pasqua, Parti radical de Borloo, UDI) évoqués dans le même article."
+ },
+ {
+  "uid": "PA840721",
+  "num": "840721",
+  "nom": "Marc Chavent",
+  "groupe": "Union des droites pour la République",
+  "dept": "Ain",
+  "circo": "5",
+  "naissance": "1968-06-28",
+  "profession_declaree": "(33) - Cadre de la fonction publique",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "politique_principalement",
+   "confiance": "moyenne"
+  },
+  "carriere_connue": [
+   "Assistant parlementaire @ Sylvie Goy-Chavent, sénatrice de l'Ain (sa sœur) [politique] 01/2018-07/2024 (selon HATVP; Wikipedia indique qu'il fut \"un temps\" son assistant, sans date de début précise)"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Marc_Chavent",
+  "wiki_trimmed": "data/wiki_trimmed/PA840721.txt",
+  "notes_actuelles": "La seule activité professionnelle documentée par sa déclaration HATVP est celle d'assistant parlementaire de sa sœur, la sénatrice Sylvie Goy-Chavent. La profession déclarée officiellement (\"cadre de la fonction publique\") ne correspond à aucun poste identifié dans la fonction publique proprement dite - possible classification INSEE approximative du statut de collaborateur parlementaire (qui est un contrat de droit privé, non un poste de fonctionnaire), d'où le classement en \"politique\" plutôt qu'en \"public\". Fils d'agriculteur (Bourg-en-Bresse); aucune activité professionnelle antérieure à 20"
+ },
+ {
+  "uid": "PA841595",
+  "num": "841595",
+  "nom": "Cendrine Chazé",
+  "groupe": "Droite Républicaine",
+  "dept": "Orne",
+  "circo": "3",
+  "naissance": "1977-10-14",
+  "profession_declaree": "Secrétaire de mairie",
+  "insee": "Employés administratifs de la fonction publique, agents de service et auxiliaires de santé",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "moyenne"
+  },
+  "carriere_connue": [
+   "Secrétaire de mairie @ Commune de Gouffern en Auge et communes déléguées [public] inconnu",
+   "Secrétaire de mairie @ Communauté de communes du Pays du Haras du Pin [public] inconnu"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Cendrine_Chaz%C3%A9",
+  "wiki_trimmed": "data/wiki_trimmed/PA841595.txt",
+  "notes_actuelles": "Poste de secrétaire de mairie (fonction publique territoriale) confirmé par Wikipedia, cohérent avec la profession déclarée officiellement à l'Assemblée. Aucune information trouvée sur sa formation ou son diplôme malgré recherches (Wikipedia, fiche AN, Conseil départemental de l'Orne, nosdeputes). Le métier de secrétaire de mairie n'impose pas de diplôme unique standardisé (niveaux très variables selon la taille des communes), donc aucun niveau n'a été inféré par prudence."
+ },
+ {
+  "uid": "PA721202",
+  "num": "721202",
+  "nom": "Éric Coquerel",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Seine-Saint-Denis",
+  "circo": "1",
+  "naissance": "1958-12-30",
+  "profession_declaree": "Industriel-Chef d'entreprise",
+  "insee": "Professions libérales",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "mixte_public_prive",
+   "confiance": "moyenne"
+  },
+  "carriere_connue": [
+   "Fondateur et dirigeant @ Effets Mer (agence de communication) [liberal_independant] fin années 1980 - début années 2000",
+   "Permanent politique (secrétaire national du MRC, puis fondateur du MARS, coordinateur du Parti de Gauche) @ Mouvement républicain et citoyen, MARS, Parti de Gauche [politique] 2003-2021"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/%C3%89ric_Coquerel",
+  "wiki_trimmed": "data/wiki_trimmed/PA721202.txt",
+  "notes_actuelles": "Wikipedia indique qu'il \"entreprend des études d'histoire à l'université Paris-Diderot [...] avec pour objectif le CAPES qu'il n'obtient pas\" - le CAPES est un concours et non un diplôme, et sa réussite suppose déjà une licence, mais aucune source ne confirme explicitement qu'il ait obtenu une licence d'histoire; par prudence le niveau de diplôme reste \"inconnu\" plutôt que d'inférer une licence non confirmée. Il crée et dirige l'agence de communication indépendante Effets Mer (liée à la voile sportive, création du Vendée Globe, communication d'Isabelle Autissier et Michel Desjoyeaux), puis dev"
+ },
+ {
+  "uid": "PA793520",
+  "num": "793520",
+  "nom": "Mickaël Cosson",
+  "groupe": "Les Démocrates",
+  "dept": "Côtes-d'Armor",
+  "circo": "1",
+  "naissance": "1975-11-29",
+  "profession_declaree": "Chargé d'opérations urbanisme",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Chargé d'opérations urbanisme @ DDTM des Côtes-d'Armor (DDTM22) [public] 01/2019-06/2022 (mise en disponibilité automatique à l'élection)"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Micka%C3%ABl_Cosson",
+  "wiki_trimmed": "data/wiki_trimmed/PA793520.txt",
+  "notes_actuelles": "Fonctionnaire, chargé d'opérations à la DDTM des Côtes-d'Armor de janvier 2019 à juin 2022, mise en disponibilité automatique lors de son élection : confirmé par sa déclaration HATVP consultée directement. Aucune information sur ses diplômes trouvée malgré recherche (fiche AN, HATVP, site personnel mickaelcosson.carrd.co, Wikipédia) : reste inconnu."
+ },
+ {
+  "uid": "PA795136",
+  "num": "795136",
+  "nom": "Jean-François Coulomme",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Savoie",
+  "circo": "4",
+  "naissance": "1966-04-01",
+  "profession_declaree": "Ingénieur commercial",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Ingénieur commercial @ SchlegelGiesse [prive] 01/2019-06/2022",
+   "Commercial (bâtiment/second-œuvre, plasturgie, énergies renouvelables) @ Employeurs successifs non tous identifiés [prive] avant 2019"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Coulomme",
+  "wiki_trimmed": "data/wiki_trimmed/PA795136.txt",
+  "notes_actuelles": "Déclaration HATVP consultée directement : ingénieur commercial chez SchlegelGiesse de janvier 2019 à juin 2022 (rémunérations détaillées par année). Carrière antérieure de commercial dans le bâtiment/second-œuvre, la plasturgie et les énergies renouvelables déjà documentée dans les notes précédentes. Le titre de poste « ingénieur commercial » est une fonction commerciale et ne constitue pas une preuve d'un diplôme d'ingénieur : aucune école ni diplôme n'a été trouvé (HATVP, site jfcoulomme.fr, Wikipédia, Who's Who inaccessible en intégralité) : diplôme reste inconnu."
+ },
+ {
+  "uid": "PA795644",
+  "num": "795644",
+  "nom": "Nathalie Da Conceicao Carvalho",
+  "groupe": "Rassemblement National",
+  "dept": "Essonne",
+  "circo": "2",
+  "naissance": "1966-03-31",
+  "profession_declaree": "Profession libérale",
+  "insee": "Professions libérales",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "basse"
+  },
+  "carriere_connue": [
+   "Événementiel (activité indépendante) @ Non identifié [liberal_independant] avant 2022 (non précisé)"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Nathalie_Da_Conceicao_Carvalho",
+  "wiki_trimmed": "data/wiki_trimmed/PA795644.txt",
+  "notes_actuelles": "Se déclarait dans la presse comme travaillant « dans l'événementiel » (France 3 Régions, portrait des législatives 2022, article consulté directement) mais sans nom d'employeur ni d'entreprise. Sa déclaration HATVP 2022-2024 ne mentionne, selon les recherches précédentes, aucune activité professionnelle rémunérée dans les cinq années précédentes. Recherches complémentaires infructueuses (Wikipédia, Augora, Facebook, HATVP) : diplôme et détail de carrière restent inconnus."
+ },
+ {
+  "uid": "PA332523",
+  "num": "332523",
+  "nom": "Marie-Christine Dalloz",
+  "groupe": "Droite Républicaine",
+  "dept": "Jura",
+  "circo": "2",
+  "naissance": "1958-01-10",
+  "profession_declaree": "retraitée",
+  "insee": "Sans profession déclarée",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Employée de banque @ Non nommé [prive] 1981-1991",
+   "Conseillère en gestion de patrimoine @ Non nommé [prive] 1991-2001",
+   "Gérante d'une société de formation-conseil @ Société non nommée (propre entreprise) [liberal_independant] à partir de 2001"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Marie-Christine_Dalloz",
+  "wiki_trimmed": "data/wiki_trimmed/PA332523.txt",
+  "notes_actuelles": "Carrière bancaire (1981-1991), puis conseillère en gestion de patrimoine (1991-2001), puis gérante d'une société de formation-conseil (à partir de 2001) : dates et intitulés confirmés à la fois par Wikipédia et par son site officiel (mcdalloz.fr/votre-depute/son-portrait, déjà consulté lors d'une recherche antérieure). Aucun diplôme mentionné nulle part, y compris sur son propre site : reste inconnu malgré recherche ciblée (BTS banque, etc.)."
+ }
+]

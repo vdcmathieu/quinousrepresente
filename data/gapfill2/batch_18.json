@@ -1,0 +1,155 @@
+{
+ "deputies": [
+  {
+   "uid": "PA842121",
+   "nom": "Nicolas Tryzna",
+   "highest_degree_level": "doctorat",
+   "degrees": [
+    {
+     "institution": "Université Paris 1 Panthéon-Sorbonne",
+     "diplome": "Master 2 communication politique et sociale",
+     "domaine": "communication-journalisme"
+    },
+    {
+     "institution": "Université Paris 1 Panthéon-Sorbonne",
+     "diplome": "Doctorat en histoire des médias (thèse « Le Point : création, positionnement et fonctionnement d'un hebdomadaire français à la fin du XXe siècle », dir. Patrick Eveno, soutenue en septembre 2017)",
+     "domaine": "histoire-geographie"
+    }
+   ],
+   "fields": [
+    "communication-journalisme",
+    "histoire-geographie"
+   ],
+   "career": [
+    {
+     "poste": "Formateur",
+     "employeur": "inconnu (activité libérale)",
+     "secteur": "liberal_independant",
+     "periode": "inconnu"
+    },
+    {
+     "poste": "Conseiller départemental du canton de Thiais, puis vice-président (collèges, jeunesse, réussite éducative, restauration scolaire, enseignement supérieur et recherche)",
+     "employeur": "Conseil départemental du Val-de-Marne",
+     "secteur": "politique",
+     "periode": "2017-2025"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "Diplôme bien documenté et vérifié : master 2 en communication politique et sociale puis doctorat en histoire des médias, tous deux à Paris 1 Panthéon-Sorbonne (thèse sur l'hebdomadaire Le Point, dir. Patrick Eveno, soutenue en septembre 2017, référencée sur theses.fr et citée par l'IDHES-CNRS). En revanche la carrière hors politique reste quasi inconnue : la profession déclarée à l'Assemblée nationale et sur Wikidata est « formateur » (catégorie INSEE « Professions libérales »), mais aucun employeur, établissement ni période n'a pu être retrouvé malgré recherches sur Wikipédia (recherche plein texte), l'article 94.citoyens.com consacré à sa nomination, et un essai de sites personnels (nicolastryzna.fr, variantes — tous injoignables). Aucune déclaration HATVP n'existe pour lui dans l'index local (probablement car il n'est député que depuis le 13 novembre 2025, suppléant devenu titulaire). Sa trajectoire documentée est presque exclusivement politique : conseiller départemental du Val-de-Marne dès mai 2017 (à la sortie de sa thèse), vice-président du conseil départemental depuis 2021, puis député depuis 2025 ; d'où un profil classé « politique_principalement » malgré l'activité libérale déclarée mais non vérifiable.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Nicolas_Tryzna",
+     "pour": "both"
+    },
+    {
+     "url": "https://theses.fr/2017PA01H048",
+     "pour": "diplome"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA842121",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794494",
+   "nom": "Roger Vicot",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {
+     "institution": "Université (non précisée)",
+     "diplome": "DEUG d'anglais",
+     "domaine": "lettres-langues"
+    },
+    {
+     "institution": "École supérieure de journalisme (Paris)",
+     "diplome": "Diplôme de journalisme",
+     "domaine": "communication-journalisme"
+    }
+   ],
+   "fields": [
+    "communication-journalisme"
+   ],
+   "career": [
+    {
+     "poste": "Journaliste",
+     "employeur": "Le Matin de Paris",
+     "secteur": "prive",
+     "periode": "c. 1985 (avant la disparition du titre)"
+    },
+    {
+     "poste": "Journaliste",
+     "employeur": "Nord Éclair",
+     "secteur": "prive",
+     "periode": "c. 1985-1989"
+    },
+    {
+     "poste": "Rédacteur de discours, cabinet du président",
+     "employeur": "Cabinet de Pierre Mauroy (Communauté urbaine de Lille)",
+     "secteur": "politique",
+     "periode": "1989-1991"
+    },
+    {
+     "poste": "Directeur de la communication",
+     "employeur": "Ville de Lomme",
+     "secteur": "public",
+     "periode": "1991-1993"
+    },
+    {
+     "poste": "Attaché de presse",
+     "employeur": "Pierre Mauroy",
+     "secteur": "politique",
+     "periode": "1993-1995"
+    },
+    {
+     "poste": "Directeur de la communication",
+     "employeur": "Ville de Lille",
+     "secteur": "public",
+     "periode": "03/1995-10/2000"
+    },
+    {
+     "poste": "Directeur de la communication",
+     "employeur": "Marché d'Intérêt National (MIN) de la région de Lille / SOGEMIN",
+     "secteur": "public",
+     "periode": "10/2000-inconnu"
+    },
+    {
+     "poste": "Directeur consultant",
+     "employeur": "EFAP (École française des attachés de presse)",
+     "secteur": "prive",
+     "periode": "01/2017-09/2022"
+    },
+    {
+     "poste": "Directeur de cabinet",
+     "employeur": "Centre de gestion de la fonction publique territoriale du Nord (Cdg59)",
+     "secteur": "public",
+     "periode": "01/2017-08/2020"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "Carrière et formation intégralement recoupées avec un entretien à la première personne publié sur lagazettefrance.fr (« Homme de foi et de loi, Roger Vicot se dévoile »), dont le texte a été vérifié directement par curl+grep et non par simple résumé WebFetch. Il y raconte : bac B puis DEUG d'anglais, puis départ à Paris pour l'École supérieure de journalisme ; débute au Matin de Paris puis à Nord Éclair (où il rencontre André Diligent) ; recruté en juillet 1989 par Pierre Mauroy, alors élu président de la Communauté urbaine de Lille, pour écrire ses discours ; en 1991 devient directeur de la communication à Lomme ; en 1993 attaché de presse de Pierre Mauroy ; en mars 1995 directeur de la communication de la Ville de Lille jusqu'en octobre 2000, date à laquelle il démissionne pour rejoindre les listes municipales de Martine Aubry/Yves Durand tout en devenant directeur de la communication du MIN (Marché d'Intérêt National) de Lille — la fin de ce poste n'est pas précisée dans l'entretien. La déclaration HATVP couvre la période plus récente (2017 et après, fenêtre réglementaire) : « Directeur consultant » à l'EFAP (école privée de communication, 2017-2022) et « Directeur de cabinet » au Centre de gestion de la fonction publique territoriale du Nord (Cdg59, établissement public, 2017-2020, démission fin août 2020 selon son propre commentaire dans la déclaration). Le niveau de diplôme « bac+3_4 » retenu pour le diplôme de journalisme est une estimation raisonnable (durée exacte du cursus à l'École supérieure de journalisme non précisée dans la source) plutôt qu'une certitude absolue, mais la matière (institution nommée, DEUG + diplôme professionnel) justifie une confiance globale « haute » compte tenu de la qualité et de la vérification directe des sources sur la carrière.",
+   "sources": [
+    {
+     "url": "https://www.lagazettefrance.fr/article/homme-de-foi-et-de-loi-roger-vicot-se-devoile",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Roger_Vicot",
+     "pour": "carriere"
+    }
+   ]
+  }
+ ]
+}

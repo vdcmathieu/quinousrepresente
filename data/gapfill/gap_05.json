@@ -1,0 +1,15 @@
+{
+  "deputies": [
+    {
+      "uid": "PA718820",
+      "nom": "Pauline Cestrières",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École d'ingénieurs de Purpan (Toulouse)", "diplome": "Diplôme d'ingénieur agricole (79e promotion)", "domaine": "agriculture"}
+      ],
+      "fields": ["agriculture"],
+      "confidence": "moyenne",
+      "notes": "Diplômée ingénieur agricole de Purpan, 79e promotion (source: https://www.purpanalumni.com/news/pauline-cestrieres-79e-appelee-a-sieger-a-l-assemblee-nationale-6228)."
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "batch": 30,
+  "deputies": [
+    {
+      "uid": "PA840801",
+      "nom": "Emmanuel Fouquart",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Militaire de carrière", "employeur": "Armée française", "secteur": "public", "periode": "avant 2024"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "Carrière militaire connue uniquement via la profession déclarée (retraité militaire), la biographie ne détaille pas son parcours professionnel."
+    },
+    {
+      "uid": "PA840809",
+      "nom": "Gérault Verny",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Dirigeant", "employeur": "Mont Blanc composite (groupe de PME industrielles)", "secteur": "liberal_independant", "periode": "depuis 2014"},
+        {"poste": "Salarié, enseignant et responsable des partenariats entreprises", "employeur": "Institut des sciences sociales, économiques et politiques (ISSEP)", "secteur": "prive", "periode": "non précisé"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "La biographie ne mentionne pas son parcours d'études."
+    },
+    {
+      "uid": "PA840817",
+      "nom": "Joël Bruneau",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Tours", "diplome": "Licence de droit", "domaine": "droit"},
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Diplôme de Sciences Po Paris", "domaine": "sciences politiques"}
+      ],
+      "fields": ["droit", "sciences politiques"],
+      "career": [
+        {"poste": "Collaborateur parlementaire", "employeur": "Jean Royer, député-maire de Tours", "secteur": "politique", "periode": "1987"},
+        {"poste": "Assistant parlementaire", "employeur": "Francis Saint-Ellier, député", "secteur": "politique", "periode": "1987-1997"},
+        {"poste": "Directeur de cabinet", "employeur": "René Garrec, président du Conseil régional de Basse-Normandie", "secteur": "politique", "periode": "1997"},
+        {"poste": "Directeur général des services", "employeur": "Région Basse-Normandie", "secteur": "public", "periode": "1997-2004"},
+        {"poste": "Directeur secteur public", "employeur": "Caisse d'Épargne de Normandie", "secteur": "prive", "periode": "2004-2012"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA840829",
+      "nom": "Fabrice Barusseau",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Professeur de technologie", "employeur": "Collège de Burie (Éducation nationale)", "secteur": "public", "periode": "avant et pendant ses mandats locaux"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "La biographie ne détaille pas son parcours d'études."
+    },
+    {
+      "uid": "PA840837",
+      "nom": "Pascal Markowsky",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Militaire", "employeur": "Armée française", "secteur": "public", "periode": "non précisé"},
+        {"poste": "Restaurateur", "employeur": "indépendant", "secteur": "liberal_independant", "periode": "non précisé"},
+        {"poste": "Chef d'entreprise", "employeur": "entreprise d'imprimerie", "secteur": "liberal_independant", "periode": "non précisé"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Séquence de carrière connue mais sans dates précises."
+    },
+    {
+      "uid": "PA840857",
+      "nom": "Nadine Lechon",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Agricultrice", "employeur": "exploitation agricole", "secteur": "liberal_independant", "periode": "avant 2024"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie centrée sur le parcours politique, carrière connue uniquement via la profession déclarée."
+    },
+    {
+      "uid": "PA840869",
+      "nom": "Florence Joubert",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Cadre de la fonction publique (profession déclarée)", "employeur": "non précisé", "secteur": "public", "periode": "avant 2024"},
+        {"poste": "Assistante parlementaire", "employeur": "Serge Muller, député", "secteur": "politique", "periode": "2022-2024"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie centrée sur le parcours politique, emploi antérieur connu seulement via la profession déclarée."
+    },
+    {
+      "uid": "PA840889",
+      "nom": "Matthieu Bloch",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Cadre administratif et commercial (profession déclarée)", "employeur": "entreprise non précisée", "secteur": "prive", "periode": "avant 2024"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie centrée sur le parcours politique, emploi antérieur connu seulement via la profession déclarée."
+    },
+    {
+      "uid": "PA840903",
+      "nom": "Paul Christophle",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Chargé de mission", "employeur": "Cabinet de la ministre de la Culture et de la Communication (Fleur Pellerin)", "secteur": "politique", "periode": "avant 2016"},
+        {"poste": "Conseiller chargé du numérique et de l'engagement des jeunes", "employeur": "Cabinet du ministre de la Ville, de la Jeunesse et des Sports (Patrick Kanner)", "secteur": "politique", "periode": "2016"},
+        {"poste": "Salarié", "employeur": "Korelya Capital (société de gestion)", "secteur": "prive", "periode": "après 2016"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Carrière essentiellement en cabinets ministériels, avec un passage dans le privé chez Korelya Capital; études supérieures non mentionnées."
+    },
+    {
+      "uid": "PA840915",
+      "nom": "Thibaut Monnier",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "non précisée", "diplome": "Master de relations internationales", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Officier de réserve", "employeur": "Armée française", "secteur": "public", "periode": "non précisé"},
+        {"poste": "Secrétaire départemental puis responsable de fédération", "employeur": "Front national", "secteur": "politique", "periode": "2014-2016"},
+        {"poste": "Cofondateur", "employeur": "Institut des sciences sociales, économiques et politiques (ISSEP)", "secteur": "liberal_independant", "periode": "depuis 2018"},
+        {"poste": "Chargé des fédérations", "employeur": "Reconquête", "secteur": "politique", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": ""
+    },
+    {
+      "uid": "PA840939",
+      "nom": "Océane Godard",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Bourgogne", "diplome": "Master en psychologie du travail", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Salariée", "employeur": "associations de formation et d'insertion", "secteur": "associatif", "periode": "après ses études, avant ses mandats locaux"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "moyenne",
+      "notes": "A travaillé dans des associations de formation et d'insertion, secteur non couvert par les catégories privé/public disponibles."
+    },
+    {
+      "uid": "PA840947",
+      "nom": "Catherine Hervieu",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Enseignante", "employeur": "Éducation nationale", "secteur": "public", "periode": "non précisé"},
+        {"poste": "Psychologue scolaire", "employeur": "Éducation nationale", "secteur": "public", "periode": "avant 2024"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "La biographie ne détaille pas son parcours d'études."
+    },
+    {
+      "uid": "PA840955",
+      "nom": "Pierre Pribetich",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Université de Lille", "diplome": "Doctorat en électronique", "domaine": "ingenierie"}
+      ],
+      "fields": ["ingenierie"],
+      "career": [
+        {"poste": "Chargé de recherches", "employeur": "CNRS", "secteur": "public", "periode": "1984-1994"},
+        {"poste": "Professeur des universités en électromagnétisme des circuits RF et micro-ondes", "employeur": "Université de Bourgogne", "secteur": "public", "periode": "depuis 1994"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA840967",
+      "nom": "René Lioret",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Employé", "employeur": "Laboratoires Lederle", "secteur": "prive", "periode": "1976-1984"},
+        {"poste": "Directeur des opérations chargé du circuit pharmaceutique", "employeur": "Laboratoires Urgo", "secteur": "prive", "periode": "1984-2018"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Biographie détaillée sur la carrière professionnelle mais sans mention des études."
+    },
+    {
+      "uid": "PA840979",
+      "nom": "Corentin Le Fur",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "HEC Paris", "diplome": "Diplôme HEC", "domaine": "gestion-commerce"},
+        {"institution": "Centre de formation des journalistes (CFJ)", "diplome": "Diplôme du CFJ", "domaine": "communication-journalisme"}
+      ],
+      "fields": ["gestion-commerce", "communication-journalisme"],
+      "career": [
+        {"poste": "Consultant", "employeur": "cabinet de conseil aux entreprises (non précisé)", "secteur": "prive", "periode": "à partir de 2014"},
+        {"poste": "Conseiller législatif", "employeur": "Groupe LR à l'Assemblée nationale", "secteur": "politique", "periode": "avant 2024"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Bref début de carrière dans le conseil aux entreprises avant un poste de conseiller législatif au sein du groupe LR."
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "batch": 34,
+  "deputies": [
+    {
+      "uid": "PA841563",
+      "nom": "Claire Marais-Beuil",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Profession libérale (activité non précisée)",
+          "employeur": "inconnu",
+          "secteur": "liberal_independant",
+          "periode": "avant 2024"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie très succincte; seule la mention de profession libérale (source INSEE) est disponible."
+    },
+    {
+      "uid": "PA841575",
+      "nom": "Frédéric-Pierre Vos",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "Barreau de Paris",
+          "diplome": "CAPA (certificat d'aptitude à la profession d'avocat)",
+          "domaine": "droit"
+        }
+      ],
+      "fields": ["droit"],
+      "career": [
+        {
+          "poste": "Chargé de mission",
+          "employeur": "EpaMarne",
+          "secteur": "public",
+          "periode": "avant 2000"
+        },
+        {
+          "poste": "Directeur juridique adjoint",
+          "employeur": "EpaMarne",
+          "secteur": "public",
+          "periode": "avant 2000"
+        },
+        {
+          "poste": "Avocat d'affaires",
+          "employeur": "Barreau de Paris (exercice libéral)",
+          "secteur": "liberal_independant",
+          "periode": "depuis 2000"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": "Le diplôme de droit n'est pas explicitement cité mais est nécessaire à l'exercice de la profession d'avocat."
+    },
+    {
+      "uid": "PA841587",
+      "nom": "David Magnier",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Biographie centrée sur son engagement militant (Gilets jaunes, RN), sans détail sur son parcours professionnel."
+    },
+    {
+      "uid": "PA841595",
+      "nom": "Cendrine Chazé",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Secrétaire de mairie",
+          "employeur": "Mairie de Gouffern en Auge, communes déléguées et communauté de communes du Pays du Haras du Pin",
+          "secteur": "public",
+          "periode": "avant 2026"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": ""
+    },
+    {
+      "uid": "PA841605",
+      "nom": "Antoine Golliot",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Biographie mentionne seulement qu'il est technicien, sans précision sur l'employeur ou le secteur."
+    },
+    {
+      "uid": "PA841613",
+      "nom": "Marc de Fleurian",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "École spéciale militaire de Saint-Cyr",
+          "diplome": "Diplôme d'officier (grade de master)",
+          "domaine": "autre"
+        }
+      ],
+      "fields": ["autre"],
+      "career": [
+        {
+          "poste": "Officier militaire",
+          "employeur": "Armée de terre française",
+          "secteur": "public",
+          "periode": "avant 2024"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Décrit comme ancien militaire formé à Saint-Cyr, mais son parcours militaire n'est pas détaillé dans la biographie."
+    },
+    {
+      "uid": "PA841621",
+      "nom": "Auguste Evrard",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Assistant parlementaire",
+          "employeur": "Philippe Olivier, député européen",
+          "secteur": "politique",
+          "periode": "avant 2024"
+        },
+        {
+          "poste": "Collaborateur de cabinet",
+          "employeur": "Ludovic Pajot, maire de Bruay-la-Buissière",
+          "secteur": "politique",
+          "periode": "avant 2024"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "A interrompu ses études pour devenir collaborateur politique; le niveau de diplôme atteint n'est pas précisé."
+    },
+    {
+      "uid": "PA841633",
+      "nom": "Peio Dufau",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Agent de maîtrise, cheminot",
+          "employeur": "SNCF",
+          "secteur": "public",
+          "periode": "depuis 1999"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "SNCF traitée comme employeur du secteur public (entreprise publique)."
+    },
+    {
+      "uid": "PA841645",
+      "nom": "Théo Bernhardt",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Biographie ne mentionne ni études ni parcours professionnel; la profession déclarée (ingénieur de recherche) n'est pas détaillée."
+    },
+    {
+      "uid": "PA841657",
+      "nom": "Anaïs Belouassa-Cherifi",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "Université Lyon 2",
+          "diplome": "Diplôme en sciences politiques (niveau précis non confirmé)",
+          "domaine": "sciences politiques"
+        }
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {
+          "poste": "Éducatrice sportive",
+          "employeur": "Club de handball de Bron (associatif)",
+          "secteur": "associatif",
+          "periode": "avant 2024"
+        },
+        {
+          "poste": "Secrétaire générale de campagne présidentielle",
+          "employeur": "Campagne de Jean-Luc Mélenchon",
+          "secteur": "politique",
+          "periode": "2022"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "A aussi été éducatrice sportive, mais l'essentiel de son parcours documenté relève du militantisme et de la politique."
+    },
+    {
+      "uid": "PA841665",
+      "nom": "Denis Fégné",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Profession déclarée 'ancien cadre' sans précision de secteur; parcours connu essentiellement fait de mandats électifs."
+    },
+    {
+      "uid": "PA841681",
+      "nom": "Thierry Sother",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "Université Marc-Bloch (Strasbourg)",
+          "diplome": "Licence d'histoire contemporaine",
+          "domaine": "lettres-sciences humaines"
+        },
+        {
+          "institution": "Institution parisienne non précisée",
+          "diplome": "Master de communication politique",
+          "domaine": "communication-journalisme"
+        }
+      ],
+      "fields": ["lettres-sciences humaines", "communication-journalisme"],
+      "career": [
+        {
+          "poste": "Coordinateur de l'intergroupe des élus socialistes et écologistes",
+          "employeur": "Région Alsace",
+          "secteur": "politique",
+          "periode": "2004-2007"
+        },
+        {
+          "poste": "Administrateur et responsable de la communication",
+          "employeur": "Compagnie des Rives de l'Ill (compagnie de théâtre professionnelle)",
+          "secteur": "associatif",
+          "periode": "pendant 14 ans, avant 2024"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "L'essentiel de sa carrière s'est déroulé dans une compagnie de théâtre à statut associatif, assimilée ici au secteur privé faute de catégorie dédiée."
+    },
+    {
+      "uid": "PA841701",
+      "nom": "Léa Balage El Mariky",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "Université de Bordeaux",
+          "diplome": "Licence de droit",
+          "domaine": "droit"
+        },
+        {
+          "institution": "Sciences Po Paris",
+          "diplome": "Diplôme de Sciences Po Paris",
+          "domaine": "sciences politiques"
+        }
+      ],
+      "fields": ["droit", "sciences politiques"],
+      "career": [
+        {
+          "poste": "Assistante parlementaire",
+          "employeur": "Noël Mamère, député",
+          "secteur": "politique",
+          "periode": "après 2015"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Certains éléments (entrée à Sciences Po, échec au concours de l'ENA) sont signalés comme non sourcés dans la biographie."
+    },
+    {
+      "uid": "PA841713",
+      "nom": "Boris Tavernier",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "Université Lyon 2",
+          "diplome": "Master en économie sociale et solidaire",
+          "domaine": "economie"
+        }
+      ],
+      "fields": ["economie"],
+      "career": [
+        {
+          "poste": "Cofondateur, cuisinier et programmateur culturel",
+          "employeur": "De l'autre côté du pont (SCOP, bar-restaurant-salle de spectacle)",
+          "secteur": "liberal_independant",
+          "periode": "depuis 2004"
+        },
+        {
+          "poste": "Cofondateur et responsable de projets",
+          "employeur": "VRAC (Vers un réseau d'achat en commun)",
+          "secteur": "associatif",
+          "periode": "2013-2024"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "A aussi dirigé pendant plus de dix ans l'association VRAC (secteur associatif)."
+    },
+    {
+      "uid": "PA841717",
+      "nom": "Sandrine Runel",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "Université de Montpellier",
+          "diplome": "Études d'urbanisme et de science politique (niveau précis non confirmé)",
+          "domaine": "sciences politiques"
+        }
+      ],
+      "fields": ["sciences politiques", "autre"],
+      "career": [
+        {
+          "poste": "Salariée",
+          "employeur": "Fédération nationale des associations d'accueil et de réadaptation sociale (FNARS)",
+          "secteur": "associatif",
+          "periode": "depuis 2005"
+        },
+        {
+          "poste": "Salariée",
+          "employeur": "Office français de protection des réfugiés et apatrides (OFPRA)",
+          "secteur": "public",
+          "periode": "depuis 2005"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "A aussi travaillé dans le secteur associatif (FNARS) en complément de son emploi à l'OFPRA."
+    }
+  ]
+}

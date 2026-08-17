@@ -1,0 +1,480 @@
+{
+ "deputies": [
+  {
+   "uid": "PA795636",
+   "nom": "Benjamin Lucas-Lundy",
+   "highest_degree_level": "bac_ou_moins",
+   "degrees": [],
+   "fields": [
+    "droit"
+   ],
+   "career": [
+    {
+     "poste": "Secrétaire général de Génération.s",
+     "employeur": "Génération.s",
+     "secteur": "politique",
+     "periode": "01/2019-09/2019"
+    },
+    {
+     "poste": "Collaborateur",
+     "employeur": "Conseil départemental de la Somme",
+     "secteur": "politique",
+     "periode": "12/2019-06/2021"
+    },
+    {
+     "poste": "Porte-parole de campagne",
+     "employeur": "Campagne présidentielle de Yannick Jadot",
+     "secteur": "politique",
+     "periode": "12/2021-04/2022"
+    },
+    {
+     "poste": "Coordination de campagne",
+     "employeur": "Campagne de Xavier Autain (bâtonnier de Paris)",
+     "secteur": "politique",
+     "periode": "07/2020-11/2020"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": "France 3 Régions (portrait législatives 2022, confirmé par fetch direct) : « Après trois années de Droit à l'Université de Picardie Jules-Verne, il tourne le dos aux études pour se consacrer à la politique » - aucun diplôme obtenu, d'où bac_ou_moins malgré trois années d'études suivies (champ fields conservé à titre indicatif). Sa déclaration HATVP (fiche nominative consultée) liste uniquement des activités rémunérées de nature politique/militante : secrétaire général de Génération.s (2019), collaborateur du conseil départemental de la Somme (2019-2021), porte-parole de la campagne Jadot (2021-2022), coordination de la campagne Autain au barreau de Paris (2020). Aucun emploi privé ou public de droit commun identifié dans la déclaration ; carrière donc politique_principalement.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Benjamin_Lucas-Lundy",
+     "pour": "both"
+    },
+    {
+     "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/yvelines/portrait-legislatives-2022-benjamin-lucas-de-lyceen-mobilisateur-a-depute-des-yvelines-2566540.html",
+     "pour": "diplome"
+    },
+    {
+     "url": "https://www.hatvp.fr/fiche-nominative/?declarant=lucas-lundy-benjamin-24256",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794578",
+   "nom": "Véronique Ludmann",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {
+     "institution": "non précisée (École normale ou IUFM selon la période exacte d'entrée dans le métier)",
+     "diplome": "Certification d'enseignante du premier degré (institutrice puis professeure des écoles)",
+     "domaine": "enseignement"
+    }
+   ],
+   "fields": [
+    "enseignement"
+   ],
+   "career": [
+    {
+     "poste": "Enseignante puis directrice d'école",
+     "employeur": "Éducation nationale",
+     "secteur": "public",
+     "periode": "inconnu - jusqu'à la retraite"
+    },
+    {
+     "poste": "Conseillère municipale puis adjointe au maire (sport et santé), vice-présidente de la communauté de communes Senlis Sud Oise",
+     "employeur": "Mairie de Senlis / CCSSO",
+     "secteur": "politique",
+     "periode": "2014-2026"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Directrice d'école (puis retraitée) selon la profession déclarée et Wikipédia, qui confirme une carrière d'enseignante puis de directrice d'école jusqu'à la retraite, en parallèle d'un engagement politique local (conseillère municipale de Senlis dès 2014, adjointe au maire, vice-présidente de la CCSSO) avant de succéder à Éric Woerth à l'Assemblée en mars 2026. Diplôme inféré : le métier de directrice d'école suppose la certification d'enseignant du premier degré (instituteur ou professeur des écoles selon l'époque exacte de son recrutement, née en 1963) ; faute de confirmation de l'institution et de la date précises, confiance limitée à moyenne conformément à la règle sur les inférences de profession réglementée. Aucune information sur des études supérieures spécifiques n'a été retrouvée (fiche AN très succincte, nosdeputes.fr ne référence pas encore cette députée récemment entrée en fonction).",
+   "sources": [
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA794578",
+     "pour": "both"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/V%C3%A9ronique_Ludmann",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841587",
+   "nom": "David Magnier",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Militaire (gendarmerie mobile, gradé maréchal des logis)",
+     "employeur": "Gendarmerie nationale",
+     "secteur": "public",
+     "periode": "inconnu (avant les années 1990)"
+    },
+    {
+     "poste": "Second de cuisine",
+     "employeur": "Restaurant La Toque Blanche (Beauvais) puis Auberge Le Gicourt (Agnetz)",
+     "secteur": "prive",
+     "periode": "années 1990"
+    },
+    {
+     "poste": "Second de cuisine puis chef, responsable de la restauration et tuteur d'apprentissage",
+     "employeur": "Lycée Donation Rothschild (Saint-Maximin, 2002) puis lycée Jeanne Hachette (Beauvais, à partir de 2004, chef en 2006)",
+     "secteur": "public",
+     "periode": "2002-2019 (avant son entrée en politique)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "Carrière reconstituée à partir de sa biographie de campagne (davidmagnier.fr/bio, consultée directement) : gendarme mobile, puis second de cuisine en restauration privée (La Toque Blanche à Beauvais, l'auberge Le Gicourt à Agnetz), puis restauration collective en lycée (Saint-Maximin dès 2002, Beauvais dès 2004, chef en 2006, avec une démarche circuits courts à partir de 2010). Cette trajectoire est cohérente avec sa profession déclarée « Contremaître, agent de maîtrise » (poste d'encadrement en restauration collective). Source unique et auto-publiée (site de campagne), non recoupée par la presse ni par Wikipédia (silencieux sur cette période) ; une recherche ciblée sur une autre piste (Storengy/CDC Biodiversité) n'a donné aucun résultat indépendant et a été écartée comme non fiable. Aucun diplôme mentionné nulle part (CAP cuisine possible mais non confirmé, donc laissé inconnu).",
+   "sources": [
+    {
+     "url": "https://www.davidmagnier.fr/bio",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/David_Magnier",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA841587",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841183",
+   "nom": "Hanane Mansouri",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {
+     "institution": "Université Grenoble Alpes (non nommément confirmée)",
+     "diplome": "Licence (droit / administration publique, niveau supposé requis pour l'inscription en master)",
+     "domaine": "droit"
+    }
+   ],
+   "fields": [
+    "droit",
+    "sciences-politiques"
+   ],
+   "career": [],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "Freelanceinfos.fr (article dédié, consulté directement) : élue à 23 ans, elle est décrite comme « encore étudiante en master d'administration publique » au moment de son élection, après des études de droit et administration publique reprises à Grenoble (confirmé par Wikipédia). Son parcours pré-mandat est celui d'une militante (présidente des Jeunes Républicains de l'Isère) sans emploi salarié identifié. Niveau bac+3_4 inféré du fait qu'une inscription en master suppose en principe une licence validée (inférence structurelle sur le système universitaire français, non une confirmation explicite d'obtention), d'où confiance moyenne et non haute. Le master d'administration publique lui-même n'était pas achevé au moment de l'élection.",
+   "sources": [
+    {
+     "url": "https://freelanceinfos.fr/qui-est-hanane-mansouri-deputee-a-23-ans-sous-banniere-lr-rn/",
+     "pour": "both"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Hanane_Mansouri",
+     "pour": "diplome"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA841183",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841563",
+   "nom": "Claire Marais-Beuil",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Profession libérale (nature exacte non identifiée)",
+     "employeur": "inconnu",
+     "secteur": "liberal_independant",
+     "periode": "inconnu, apparemment achevée avant 2024 (HATVP indique « (0) Néant » pour les activités rémunérées au moment de sa déclaration)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Aucune information biographique substantielle trouvée au-delà de la catégorie INSEE « Professions libérales » ; la fiche Wikipédia est très succincte (élection 2024, candidature aux municipales 2026 à Beauvais) et la fiche AN ne détaille rien. Recherches ciblées sur le type de profession libérale (infirmière, kinésithérapeute, avocate, notaire, médecin) sans résultat concluant. Sources tierces indiquent que sa déclaration HATVP mentionne « Néant » pour les activités professionnelles rémunérées au moment du dépôt, ce qui suggère une activité déjà cessée sans en préciser la nature. Études non documentées.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Claire_Marais-Beuil",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA841563",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794530",
+   "nom": "Matthieu Marchio",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Conseiller en immobilier",
+     "employeur": "non précisé",
+     "secteur": "prive",
+     "periode": "avant son entrée en politique (avant 2014)"
+    },
+    {
+     "poste": "Collaborateur du groupe Front National",
+     "employeur": "Conseil régional du Nord-Pas-de-Calais",
+     "secteur": "politique",
+     "periode": "2016-2018"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Contexte.com (fiche « key people », consultée directement, contenu vérifié par curl pour écarter tout risque d'hallucination) qualifie Matthieu Marchio d'« ancien conseiller en immobilier », engagé au RN/FN depuis 2014, avec un passage rémunéré comme collaborateur du groupe Front National au conseil régional du Nord-Pas-de-Calais (2016-2018, confirmé aussi par Wikipédia) avant de devenir élu local puis député. Une page lechodusud.com prétendument consacrée à lui a été écartée après vérification : son contenu HTML statique ne contient aucun texte réel (site nécessitant JavaScript), la réponse précédente de l'outil de fetch était donc fabriquée et ne doit pas être utilisée. Aucune information sur son parcours scolaire/universitaire n'a été retrouvée malgré plusieurs recherches dédiées.",
+   "sources": [
+    {
+     "url": "https://www.contexte.com/resources/key-people/matthieu-marchio/",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Matthieu_Marchio",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA794530",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA840837",
+   "nom": "Pascal Markowsky",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Militaire",
+     "employeur": "non précisé",
+     "secteur": "public",
+     "periode": "inconnu, avant les années 1980"
+    },
+    {
+     "poste": "Restaurateur",
+     "employeur": "non précisé",
+     "secteur": "liberal_independant",
+     "periode": "inconnu"
+    },
+    {
+     "poste": "Chef d'entreprise (imprimerie)",
+     "employeur": "MPC - Média Publicité Conseil (Saint-Pierre-d'Oléron), cogérée avec son épouse Séverine Werbrouck",
+     "secteur": "liberal_independant",
+     "periode": "~1995-2025 (liquidation judiciaire en 2025)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "Wikipédia confirme la séquence militaire puis restaurateur puis chef d'entreprise dans l'imprimerie. Sud Ouest (article sur la liquidation de son entreprise, consulté via fetch direct) confirme et nomme l'entreprise : MPC - Média Publicité Conseil, à Saint-Pierre-d'Oléron (île d'Oléron), créée il y a près de trente ans (donc vers 1995) par Pascal Markowsky et gérée par son épouse, liquidée en 2025 après des soupçons de surfacturation révélés par Les Jours. Dates précises du service militaire et de la période de restaurateur non retrouvées, d'où confiance moyenne malgré la confirmation de l'entreprise d'imprimerie. Aucune information sur ses études.",
+   "sources": [
+    {
+     "url": "https://www.sudouest.fr/charente-maritime/ile-d-oleron/charente-maritime-la-societe-d-imprimerie-du-depute-rn-pascal-markowsky-et-de-severine-werbrouck-eurodeputee-liquidee-25846241.php",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Pascal_Markowsky",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794518",
+   "nom": "Pierre Marle",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {
+     "institution": "non précisée (École normale ou IUFM selon la période exacte d'entrée dans le métier, né en 1954)",
+     "diplome": "Certification d'enseignant du premier degré (instituteur puis directeur d'école)",
+     "domaine": "enseignement"
+    }
+   ],
+   "fields": [
+    "enseignement"
+   ],
+   "career": [
+    {
+     "poste": "Directeur d'école primaire (retraité)",
+     "employeur": "Éducation nationale",
+     "secteur": "public",
+     "periode": "inconnu - jusqu'à la retraite"
+    },
+    {
+     "poste": "Maire de Bollezeele, vice-président de la communauté de communes des Hauts de Flandre",
+     "employeur": "Mairie de Bollezeele / CCHF",
+     "secteur": "politique",
+     "periode": "2014-2025"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Profession déclarée « Directeur d'école primaire (retraité) », confirmée dans les grandes lignes par Wikipédia qui détaille surtout son mandat de maire de Bollezeele (élu 2014, réélu 2020) et son entrée à l'Assemblée en 2024 comme suppléant de Paul Christophe. Aucun nom d'établissement scolaire ni date de carrière précise retrouvés (fiche AN succincte, page lesbiographies.com protégée par une authentification, articles de La Voix du Nord inaccessibles). Diplôme inféré comme pour Véronique Ludmann : le métier de directeur d'école suppose la certification d'enseignant du premier degré, mais l'institution et l'année exactes restent inconnues, d'où confiance moyenne.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Pierre_Marle",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA794518",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841825",
+   "nom": "Patrice Martin",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Agriculteur (petit exploitant, agriculture laitière)",
+     "employeur": "Exploitation agricole personnelle, pays de Bray",
+     "secteur": "liberal_independant",
+     "periode": "inconnu, en cours au moment de son élection (2024)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "France 3 Régions (portrait « qui est Patrice Martin », consulté directement) : il se présente lui-même comme « petit agriculteur laitier » dans le pays de Bray, âgé de 60 ans en 2024, ce qui confirme et précise la profession déclarée (agriculteur sur petite exploitation). Aucune autre activité professionnelle mentionnée. Aucune information sur ses études retrouvée.",
+   "sources": [
+    {
+     "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/dieppe/legislatives-2024-en-seine-maritime-qui-est-patrice-martin-le-nouveau-depute-rn-dans-la-6e-circonscription-3001322.html",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Patrice_Martin_(homme_politique)",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA793944",
+   "nom": "Alexandra Martin (Gironde)",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Responsable de centre de formation aux métiers de l'industrie",
+     "employeur": "Pôle Formation UIMM Nouvelle-Aquitaine (AFPI/CFAI, Bruges)",
+     "secteur": "prive",
+     "periode": "avant son entrée en fonction (2023)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Confirmé par ÉlyséeScope (« exerçait la profession de responsable centre de formation ») ainsi que par les sources déjà identifiées lors d'une recherche précédente (lechodusud.com, ici.fr) et Wikipédia : responsable d'un centre de formation aux métiers de l'industrie à Bruges, identifié comme le Pôle Formation UIMM Nouvelle-Aquitaine (structure de formation professionnelle privée liée au patronat de l'industrie, confirmée existante via formation-maisonindustrie.com et la fiche letudiant.fr de l'établissement). Aucune information sur ses études personnelles trouvée malgré plusieurs recherches.",
+   "sources": [
+    {
+     "url": "https://www.elyseescope.com/legislatives/depute/alexandra-martin-1",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.lechodusud.com/qui-est-alexandra-martin-gironde/",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.ici.fr/infos/politique/qui-est-alexandra-martin-la-nouvelle-deputee-de-la-1ere-circonscription-de-gironde-9756018",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Alexandra_Martin_(1976)",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA795100",
+   "nom": "Éric Martineau",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Agriculteur, arboriculteur (pommes, agriculture biologique)",
+     "employeur": "Ferme des Quantières (Chenu, Sarthe)",
+     "secteur": "liberal_independant",
+     "periode": "depuis janvier 1990"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Son site personnel (eric-martineau72.fr, page « qui suis-je », consultée directement) indique qu'il a « repris en janvier 1990 l'exploitation familiale de pommes, en cultures biologique et éco-responsable » à la Ferme des Quantières, qu'il continue d'exploiter avec des associés. Il a ensuite été conseiller municipal puis maire de Chenu (2020-2022) avant de devenir député en 2022. Aucune information sur son parcours scolaire ou une éventuelle formation agricole (BTSA, BPREA) n'a été retrouvée malgré une recherche ciblée.",
+   "sources": [
+    {
+     "url": "https://www.eric-martineau72.fr/qui-suis-je",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Martineau",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794770",
+   "nom": "Michèle Martinez",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Clerc d'huissier",
+     "employeur": "inconnu (étude d'huissier non identifiée)",
+     "secteur": "prive",
+     "periode": "avant son entrée en fonction (2022)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Aucune information biographique substantielle au-delà de la profession déclarée (clerc d'huissier, catégorie INSEE professions intermédiaires administratives). La profession de foi Barodet (législatives 2022, PDF consulté directement) ne mentionne qu'un mandat de conseillère municipale déléguée de Perpignan, sans détail de carrière ni d'études. Contrairement à des professions strictement réglementées (pharmacien, infirmier, etc.), le métier de clerc d'huissier n'impose pas nécessairement un diplôme universitaire précis (souvent un BTS carrières juridiques ou une expérience professionnelle), donc aucune inférence de diplôme n'a été retenue.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Mich%C3%A8le_Martinez",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA794770",
+     "pour": "carriere"
+    }
+   ]
+  }
+ ]
+}

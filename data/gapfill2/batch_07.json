@@ -1,0 +1,275 @@
+{"deputies": [
+  {
+    "uid": "PA794418",
+    "nom": "Florence Goulet",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Attachée parlementaire", "employeur": "Élus de droite dont Henri Guaino (député des Yvelines, 2012-2017)", "secteur": "politique", "periode": "environ 1995-2019 (24 ans au total)"},
+      {"poste": "Collaboratrice parlementaire", "employeur": "Assemblée nationale", "secteur": "politique", "periode": "janvier 2019-juin 2021"},
+      {"poste": "Assistante", "employeur": "Association financement électoral (RN)", "secteur": "politique", "periode": "juillet 2021-avril 2022"}
+    ],
+    "worked_private": false,
+    "worked_public": false,
+    "political_career_only": true,
+    "career_profile": "politique_principalement",
+    "confidence": "haute",
+    "notes": "Carrière de 24 ans comme attachée parlementaire d'élus de droite (dont Henri Guaino) confirmée par Wikipédia et affinée par sa déclaration HATVP (collaboratrice parlementaire à l'Assemblée nationale janv. 2019-juin 2021, puis assistante d'une association de financement électoral RN juil. 2021-avril 2022, avant son élection en juin 2022). La catégorie Wikipédia anglaise et un article de presse la qualifient de 'journaliste, formée au reportage rural', mais aucun employeur ni établissement de formation n'est nommé pour cette activité antérieure, donc non retenu comme diplôme. Diplôme resté inconnu malgré vérification de : fr.wikipedia, en.wikipedia, HATVP (fiche consultée, aucune mention de formation), pappers.fr (bloqué 403), nosdeputes.fr (erreur serveur), recherche web générale.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Florence_Goulet", "pour": "carriere"},
+      {"url": "https://en.wikipedia.org/wiki/Florence_Goulet", "pour": "carriere"},
+      {"url": "https://www.hatvp.fr/pages_nominatives/goulet-florence-24331", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA840757",
+    "nom": "Monique Griseti",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Assistante commerciale", "employeur": "SG Menuiseries", "secteur": "prive", "periode": "janvier 2019-juillet 2024 (congé sans solde depuis le mandat)"},
+      {"poste": "Présidente", "employeur": "Artisanales (SASU, 100% du capital détenu par elle)", "secteur": "liberal_independant", "periode": "janvier 2019-juillet 2024"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Déclaration HATVP consultée directement : emploi salarié chez SG Menuiseries (assistante commerciale) et présidence d'une SASU personnelle (Artisanales), les deux activités étant maintenues jusqu'à son élection. Confirme le profil 'commerçante/artisane' de la profession déclarée officielle. Engagement au Front national dès 18 ans (1978) mentionné par Wikipédia mais il s'agit de militantisme, pas d'un emploi rémunéré, donc non classé en carrière politique. Diplôme resté inconnu malgré vérification de : fr.wikipedia (biographie quasi inexistante), HATVP, pappers.fr (bloqué), sycomore (base de l'Assemblée, aucune info), recherche web générale.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/griseti-monique-27430", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Monique_Griseti", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841451",
+    "nom": "Julien Guibert",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Commercial matériel agricole", "employeur": "Agriculture robotique de Bourgogne", "secteur": "prive", "periode": "octobre 2023-juillet 2024"},
+      {"poste": "Responsable commercial", "employeur": "STIGA", "secteur": "prive", "periode": "novembre 2022-octobre 2023"},
+      {"poste": "Responsable grands comptes agriculture", "employeur": "Berner", "secteur": "prive", "periode": "mars 2018-novembre 2022"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Déclaration HATVP consultée directement : succession de postes commerciaux dans l'agroéquipement (Berner, STIGA, Agriculture robotique de Bourgogne), confirmant une carrière entièrement privée jusqu'à l'élection. Diplôme resté inconnu : la biographie Wikipédia est quasi vide (seulement date et lieu de naissance), la déclaration HATVP ne mentionne aucune formation, et la recherche web générale n'a rien trouvé de plus.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/fiche-nominative/?declarant=guibert-julien-27431", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Julien_Guibert", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA794734",
+    "nom": "Michel Guiniot",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Artisan-commerçant", "employeur": "Commerce indépendant (Noyon, Oise)", "secteur": "liberal_independant", "periode": "1975-2001 environ (26 ans)"},
+      {"poste": "Secrétaire départemental de l'Oise, puis secrétaire national aux fédérations et aux élus, conseiller spécial de Marine Le Pen pour la réforme territoriale", "employeur": "Front national puis Rassemblement national", "secteur": "politique", "periode": "1988-2022"},
+      {"poste": "Conseiller régional", "employeur": "Conseil régional de Picardie puis Hauts-de-France", "secteur": "politique", "periode": "2004-2022 (mandats successifs)"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "politique_principalement",
+    "confidence": "haute",
+    "notes": "Carrière bien documentée par Wikipédia (biographie détaillée) : artisan-commerçant pendant 26 ans à Noyon puis, à partir de 1988, cadre à plein temps du FN/RN (secrétaire départemental de l'Oise 1992-2017, secrétaire national aux fédérations puis aux élus, conseiller spécial de Marine Le Pen en 2012, direction de campagnes nationales) cumulé avec des mandats de conseiller régional. Les décennies précédant immédiatement son élection relèvent presque exclusivement de l'appareil partisan, d'où le classement politique_principalement malgré la carrière commerciale antérieure. Diplôme resté inconnu malgré vérification de : fr.wikipedia, HATVP (aucune fiche trouvée dans les résultats de recherche), pappers.fr (bloqué 403), augora.fr (page vide/JS), nosdeputes.fr (erreur serveur), recherche web générale.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Michel_Guiniot", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA795258",
+    "nom": "Frantz Gumbs",
+    "highest_degree_level": "bac+2",
+    "degrees": [
+      {"institution": "IUT (établissement non précisé)", "diplome": "DUT de biologie appliquée", "domaine": "sciences"}
+    ],
+    "fields": ["sciences", "enseignement"],
+    "career": [
+      {"poste": "Maître auxiliaire en mathématiques et sciences physiques", "employeur": "Collèges d'enseignement technique de Bouillante puis du Lamentin (Guadeloupe)", "secteur": "public", "periode": "1975-1983"},
+      {"poste": "Professeur", "employeur": "Lycée professionnel de Saint-Martin", "secteur": "public", "periode": "1984-1985 et 1988-1993"},
+      {"poste": "Directeur du GRETA des Îles du Nord, de Cul-de-Sac et de Saint-Martin", "employeur": "Éducation nationale", "secteur": "public", "periode": "1985-1988"},
+      {"poste": "Principal adjoint", "employeur": "Collège de Marigot", "secteur": "public", "periode": "1994-2003"},
+      {"poste": "Proviseur adjoint", "employeur": "Établissements des Îles du Nord", "secteur": "public", "periode": "2003-2008 et 2012-2015"},
+      {"poste": "Proviseur", "employeur": "Cité scolaire Robert Weinum (Saint-Martin)", "secteur": "public", "periode": "2015-2017"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "haute",
+    "notes": "Diplôme et carrière détaillée trouvés sur la fiche du Mouvement démocrate (mouvementdemocrate.fr, consultée directement) : titulaire d'un DUT de biologie appliquée, il fait toute sa carrière dans l'enseignement technique puis la direction d'établissements scolaires (maître auxiliaire, professeur, directeur de GRETA, principal adjoint, proviseur adjoint, proviseur), confirmée en cohérence avec Wikipédia et sa profession déclarée officielle ('personnel de direction de l'éducation nationale retraité'). Le DUT est le seul diplôme explicitement nommé par la source ; sa progression jusqu'à proviseur suggère une qualification supplémentaire (par exemple une certification via concours interne) mais aucune source ne la documente, donc le niveau retenu reste celui du diplôme confirmé (bac+2).",
+    "sources": [
+      {"url": "https://www.mouvementdemocrate.fr/fiche/frantz-gumbs-5474", "pour": "both"},
+      {"url": "https://fr.wikipedia.org/wiki/Frantz_Gumbs", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA842013",
+    "nom": "Steevy Gustave",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Danseur et chorégraphe", "employeur": "France Gall (artiste)", "secteur": "liberal_independant", "periode": "1993-2003 environ (une dizaine d'années)"},
+      {"poste": "Producteur et programmateur d'événements artistiques", "employeur": "Activité indépendante", "secteur": "liberal_independant", "periode": "2007-2014"},
+      {"poste": "Chargé de mission pour les personnes placées sous main de justice", "employeur": "Cabinet de la ministre de la Justice Christiane Taubira", "secteur": "politique", "periode": "2015"},
+      {"poste": "Fondateur et dirigeant", "employeur": "Labelife Events SAS (entreprise événementielle)", "secteur": "liberal_independant", "periode": "depuis 2019"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Carrière artistique et entrepreneuriale bien documentée (fr.wikipedia, en.wikipedia, article LCP, article de presse locale mesinfos.fr) : danseur hip-hop puis chorégraphe de France Gall, producteur d'événements, puis fondateur de sa propre société événementielle (Labelife Events SAS), cohérent avec sa catégorie INSEE ('chef d'entreprise de plus de 10 personnes'). Bref passage en cabinet ministériel en 2015 (chargé de mission Justice) sans que cela devienne le cœur de carrière. Diplôme resté inconnu malgré vérification de : fr.wikipedia, en.wikipedia, page LCP 'La politique et moi', article mesinfos.fr, recherche web générale — aucune de ces sources ne mentionne d'école, de niveau d'études ou de diplôme ; son parcours est présenté comme autodidacte, passionné de danse hip-hop dès l'adolescence.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Steevy_Gustave", "pour": "carriere"},
+      {"url": "https://en.wikipedia.org/wiki/Steevy_Gustave", "pour": "carriere"},
+      {"url": "https://lcp.fr/programmes/la-politique-et-moi/steevy-gustave-depute-ecologiste-et-social-de-l-essonne-434881", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA794470",
+    "nom": "Félicie Gérard",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Conseiller clients industriels", "employeur": "Enedis", "secteur": "prive", "periode": "2007-2017"},
+      {"poste": "Chef de projet", "employeur": "Enedis", "secteur": "prive", "periode": "2022 (activité interrompue par son élection)"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Wikipédia confirme un parcours entièrement salarié chez Enedis (conseiller clients industriels 2007-2017 puis chef de projet en 2022), en cohérence avec sa profession déclarée ('chef de projet') ; parcours politique local (adjointe au maire de Wasquehal) mené en parallèle, non professionnel. Diplôme resté inconnu malgré vérification de : fr.wikipedia (section 'Éducation et famille' ne traite que de vie associative, pas d'études), HATVP (aucune fiche trouvée), pappers.fr (bloqué 403), nosdeputes.fr (erreur serveur), recherche web générale.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/F%C3%A9licie_G%C3%A9rard", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841471",
+    "nom": "Stéphane Hablot",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [
+      {"institution": "non précisé", "diplome": "Licence puis certification d'enseignement (CAPET/PLP, inférée du statut de professeur titulaire de l'enseignement secondaire technique)", "domaine": "enseignement"}
+    ],
+    "fields": ["enseignement"],
+    "career": [
+      {"poste": "Professeur dans l'enseignement secondaire et technique", "employeur": "Éducation nationale (établissement non précisé)", "secteur": "public", "periode": "avant 2008 (activité quittée à son élection comme maire)"},
+      {"poste": "Maire de Vandœuvre-lès-Nancy", "employeur": "Commune de Vandœuvre-lès-Nancy", "secteur": "politique", "periode": "2008-2024"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "Wikipédia le décrit comme 'professeur dans l'enseignement secondaire et technique' avant de devenir maire de Vandœuvre-lès-Nancy en 2008 (mandat tenu 16 ans jusqu'à son élection de député, conformément à la règle de non-cumul). Sa déclaration HATVP, consultée directement, ne liste aucune activité professionnelle rémunérée ('Néant'), seulement des mandats électifs — cohérent avec une carrière d'enseignant achevée avant la période couverte par la déclaration. Le niveau de diplôme est une inférence à partir du statut de professeur titulaire de l'enseignement secondaire technique (concours CAPET/PLP, qui exigeait a minima une licence à l'époque probable de son entrée dans le métier, milieu des années 1980) : aucune source ne nomme d'établissement ni de diplôme précis, donc confiance limitée à 'moyenne'.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/St%C3%A9phane_Hablot", "pour": "carriere"},
+      {"url": "https://www.hatvp.fr/pages_nominatives/hablot-stephane", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA842263",
+    "nom": "Ayda Hadizadeh",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Cadre (plusieurs années)", "employeur": "Direction générale de l'enseignement scolaire (DGESCO), ministère de l'Éducation nationale", "secteur": "public", "periode": "non précisé, avant 2021"},
+      {"poste": "Directrice générale", "employeur": "Fondation Mozaïk", "secteur": "associatif", "periode": "2021-2022"},
+      {"poste": "Déléguée générale", "employeur": "Les Oubliés de la République (association)", "secteur": "associatif", "periode": "depuis mars 2023"},
+      {"poste": "Adjointe au maire chargée de la Culture", "employeur": "Mairie de Saint-Ouen-l'Aumône", "secteur": "politique", "periode": "jusqu'en septembre 2024"}
+    ],
+    "worked_private": true,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "mixte_public_prive",
+    "confidence": "moyenne",
+    "notes": "Carrière confirmée par fr.wikipedia, en.wikipedia et un article de presse locale (mesinfos.fr) : plusieurs années au ministère de l'Éducation nationale (direction générale de l'enseignement scolaire, dates précises non données), puis direction générale de la Fondation Mozaïk (2021-2022, insertion professionnelle des publics discriminés) et délégation générale de l'association 'Les Oubliés de la République' depuis 2023 ; ces deux dernières activités associatives sont classées ici comme 'worked_private' faute de catégorie dédiée dans le schéma, distinctes de la fonction publique. Diplôme resté totalement inconnu malgré vérification de : fr.wikipedia, en.wikipedia, article mesinfos.fr dédié ('de l'Éducation nationale à l'Assemblée'), site de campagne personnel (ayda-deputee.fr, y compris une page intitulée 'Education' qui ne traite en réalité que de ses commissions parlementaires), recherche web générale — aucune mention d'université, d'école ou de diplôme.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Ayda_Hadizadeh", "pour": "carriere"},
+      {"url": "https://mesinfos.fr/ile-de-france/ayda-hadizadeh-de-l-education-nationale-a-l-assemblee-202948.html", "pour": "carriere"},
+      {"url": "https://ayda-deputee.fr/about/", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841813",
+    "nom": "Florence Herouin-Léautey",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Attachée territoriale", "employeur": "Fonction publique territoriale (collectivité non précisée)", "secteur": "public", "periode": "avant 2020"},
+      {"poste": "Conseillère municipale", "employeur": "Mairie de Rouen", "secteur": "politique", "periode": "avant 2020-2024"},
+      {"poste": "Adjointe au maire chargée des Écoles et de la petite enfance", "employeur": "Mairie de Rouen", "secteur": "politique", "periode": "2020-2024"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "haute",
+    "notes": "Wikipédia confirme qu'elle était attachée territoriale (fonction publique territoriale, catégorie A) avant de devenir élue locale à Rouen puis adjointe au maire chargée des écoles. Fille de Pierre Léautey, ancien maire de Mont-Saint-Aignan et ancien député. Le grade d'attaché territorial s'obtient généralement par un concours externe qui exige a minima une licence, mais il existe aussi des voies de concours interne sans ce prérequis ; en l'absence de source nommant un établissement ou un diplôme précis, le niveau est resté 'inconnu' plutôt que déduit. Vérifié : fr.wikipedia, article ici.fr (aucune information biographique supplémentaire), HATVP (aucune fiche trouvée), recherche web générale.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Florence_H%C3%A9rouin-L%C3%A9autey", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA840947",
+    "nom": "Catherine Hervieu",
+    "highest_degree_level": "bac+5",
+    "degrees": [
+      {"institution": "non précisé", "diplome": "Master de psychologie (ou équivalent DESS/DEA), inféré du titre professionnel réglementé de psychologue", "domaine": "medecine-sante"}
+    ],
+    "fields": ["medecine-sante", "enseignement"],
+    "career": [
+      {"poste": "Enseignante", "employeur": "Éducation nationale (établissement non précisé)", "secteur": "public", "periode": "avant sa reconversion"},
+      {"poste": "Psychologue scolaire", "employeur": "Éducation nationale", "secteur": "public", "periode": "jusqu'à son élection en 2024"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "Sa profession déclarée officielle ('psychologue scolaire') et plusieurs sources confirment un parcours enseignante puis psychologue au sein de l'Éducation nationale, complété par un engagement associatif environnemental (France Nature Environnement, Atmo Bourgogne Franche-Comté). Le titre de psychologue est une profession réglementée en France (loi du 25 juillet 1985) qui exige légalement une licence puis un master de psychologie (ou DESS/DEA avant la réforme LMD) : c'est une inférence de ce type, donc confiance plafonnée à 'moyenne' comme demandé, et aucun établissement n'est nommé. Vérifié : site personnel catherinehervieu.fr (aucune info biographique sur les études), page 'Les Écologistes de Bourgogne' (bloquée, 403), fr.wikipedia, recherche web générale.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Catherine_Hervieu", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA795954",
+    "nom": "Catherine Ibled",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [
+      {"institution": "Université Paris I Panthéon-Sorbonne", "diplome": "Diplôme d'histoire de l'art (niveau licence/maîtrise, obtenu en juillet 1998)", "domaine": "arts"}
+    ],
+    "fields": ["arts", "communication-journalisme", "commerce"],
+    "career": [
+      {"poste": "Chargée de communication", "employeur": "Conseil régional de Picardie", "secteur": "public", "periode": "avril 1999-mai 2000"},
+      {"poste": "Responsable publicité puis directrice commerciale print et digital", "employeur": "Les Échos", "secteur": "prive", "periode": "2000-2012 (directrice commerciale mars 2009-juillet 2012)"},
+      {"poste": "Directrice associée", "employeur": "C2C Communication (agence de conseil en relations publiques, fermée en 2020)", "secteur": "prive", "periode": "2012-2020"},
+      {"poste": "Associée", "employeur": "Com'As (activité de holding)", "secteur": "prive", "periode": "depuis 2012"}
+    ],
+    "worked_private": true,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "mixte_public_prive",
+    "confidence": "haute",
+    "notes": "Parcours détaillé et daté trouvé via contexte.com (source de veille politique/économique fiable, consultée directement) : diplômée d'histoire de l'art à Paris I Panthéon-Sorbonne (juillet 1998), puis chargée de communication au conseil régional de Picardie (public, 1999-2000), plus d'une décennie dans la régie publicitaire/commerciale du journal Les Échos (privé, 2000-2012), puis dirigeante de sa propre agence de conseil en communication C2C et de la structure de holding Com'As. Devenue députée en novembre 2025 comme suppléante de David Amiel. Le niveau exact du diplôme (licence vs maîtrise) n'est pas précisé par la source, d'où le choix de 'bac+3_4'.",
+    "sources": [
+      {"url": "https://www.contexte.com/resources/key-people/catherine-ibled/", "pour": "both"},
+      {"url": "https://fr.wikipedia.org/wiki/Catherine_Ibled", "pour": "carriere"}
+    ]
+  }
+]}

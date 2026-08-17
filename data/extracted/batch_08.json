@@ -1,0 +1,501 @@
+{
+  "batch": 8,
+  "deputies": [
+    {
+      "uid": "PA720100",
+      "nom": "Aurélien Pradié",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Collaborateur contractuel au cabinet du président du conseil départemental",
+          "employeur": "Conseil départemental de l'Aveyron (Jean-Claude Luche)",
+          "secteur": "politique",
+          "periode": "2012-2015"
+        },
+        {
+          "poste": "Employé (six mois)",
+          "employeur": "Andros",
+          "secteur": "prive",
+          "periode": "2014"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Après une prépa sciences po, il commence des études de droit à Toulouse mais quitte l'université sans diplôme."
+    },
+    {
+      "uid": "PA720138",
+      "nom": "Laetitia Saint-Paul",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "École spéciale militaire de Saint-Cyr",
+          "diplome": "Diplôme d'officier (Saint-Cyr)",
+          "domaine": "autre"
+        }
+      ],
+      "fields": ["autre"],
+      "career": [
+        {
+          "poste": "Officier de l'armée de terre, commandante d'unité (compagnie de 200 militaires, brigade franco-allemande)",
+          "employeur": "Armée de terre",
+          "secteur": "public",
+          "periode": "2005-2017 (environ)"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA720146",
+      "nom": "Denis Masséglia",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "École d'ingénieur en alternance à Toulouse (Institut catholique d'arts et métiers)",
+          "diplome": "Diplôme d'ingénieur",
+          "domaine": "ingenierie"
+        }
+      ],
+      "fields": ["ingenierie"],
+      "career": [
+        {
+          "poste": "Responsable technique",
+          "employeur": "Entreprise de sous-traitance mécanique (fournisseur Thales, Airbus)",
+          "secteur": "prive",
+          "periode": "2005"
+        },
+        {
+          "poste": "Fondateur d'une société de réparation de consoles de jeux vidéo",
+          "employeur": "Entreprise propre",
+          "secteur": "liberal_independant",
+          "periode": "à partir de 2015"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": ""
+    },
+    {
+      "uid": "PA720154",
+      "nom": "Nicole Dubré-Chirat",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Cadre supérieure de santé (urgences, SAMU, bloc opératoire)",
+          "employeur": "Fonction publique hospitalière",
+          "secteur": "public",
+          "periode": "14 ans, avant 2017"
+        },
+        {
+          "poste": "Chargée de formation pour personnels infirmiers",
+          "employeur": "Instituts de développement professionnel continu",
+          "secteur": "public",
+          "periode": "avant 2017"
+        },
+        {
+          "poste": "Présidente du Conseil interdépartemental de l'Ordre des infirmières (Maine-et-Loire, Mayenne, Sarthe)",
+          "employeur": "Ordre des infirmiers",
+          "secteur": "public",
+          "periode": "2008-2017"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "La source ne précise pas son diplôme initial (infirmière/cadre de santé)."
+    },
+    {
+      "uid": "PA720190",
+      "nom": "Bertrand Sorre",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "Institut d'études politiques de Bordeaux",
+          "diplome": "Diplôme de l'IEP",
+          "domaine": "sciences politiques"
+        }
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {
+          "poste": "Enseignant (SEGPA), directeur d'école",
+          "employeur": "Éducation nationale",
+          "secteur": "public",
+          "periode": "avant 2017"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le passage par l'IEP de Bordeaux provient de Wikidata, non mentionné dans le texte de la biographie."
+    },
+    {
+      "uid": "PA720230",
+      "nom": "Lise Magnier",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {
+          "institution": "non précisée",
+          "diplome": "Licence AES",
+          "domaine": "gestion-commerce"
+        },
+        {
+          "institution": "non précisée",
+          "diplome": "Master en droit public",
+          "domaine": "droit"
+        }
+      ],
+      "fields": ["droit", "gestion-commerce"],
+      "career": [
+        {
+          "poste": "Chargée de mission de la démocratie participative, puis responsable du secrétariat général",
+          "employeur": "Ville de Châlons-en-Champagne",
+          "secteur": "public",
+          "periode": "avant 2011"
+        },
+        {
+          "poste": "Directrice générale des services",
+          "employeur": "Ville de Suippes",
+          "secteur": "public",
+          "periode": "à partir de 2011"
+        },
+        {
+          "poste": "Assistante parlementaire",
+          "employeur": "Benoist Apparu (député)",
+          "secteur": "politique",
+          "periode": "2013-2014"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "A aussi été brièvement assistante parlementaire avant son mandat."
+    },
+    {
+      "uid": "PA720256",
+      "nom": "Géraldine Bannier",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "Université Rennes-II",
+          "diplome": "Maîtrise de lettres classiques",
+          "domaine": "lettres-sciences humaines"
+        },
+        {
+          "institution": "non précisée",
+          "diplome": "CAPES de lettres classiques",
+          "domaine": "education"
+        },
+        {
+          "institution": "non précisée",
+          "diplome": "Agrégation de lettres classiques (2015)",
+          "domaine": "education"
+        }
+      ],
+      "fields": ["lettres-sciences humaines", "education"],
+      "career": [
+        {
+          "poste": "Professeure de lettres classiques (secondaire)",
+          "employeur": "Éducation nationale",
+          "secteur": "public",
+          "periode": "avant 2017"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA720334",
+      "nom": "Jimmy Pahun",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Marin-pêcheur",
+          "employeur": "indépendant",
+          "secteur": "liberal_independant",
+          "periode": "à partir de 16 ans"
+        },
+        {
+          "poste": "Skipper professionnel, champion de France de course au large",
+          "employeur": "indépendant / sponsors",
+          "secteur": "liberal_independant",
+          "periode": "environ 20 ans"
+        },
+        {
+          "poste": "Journaliste sportif",
+          "employeur": "médias (non précisé)",
+          "secteur": "prive",
+          "periode": "non précisée"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "A quitté l'école à 16 ans sans le baccalauréat ; le passage par le Centre de formation des journalistes (Wikidata) n'est pas détaillé dans la biographie."
+    },
+    {
+      "uid": "PA720342",
+      "nom": "Nicole Le Peih",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Employée dans l'hôtellerie de luxe",
+          "employeur": "établissements hôteliers (Quiberon, Chartres, Paris)",
+          "secteur": "prive",
+          "periode": "début de carrière"
+        },
+        {
+          "poste": "Assistante commerciale",
+          "employeur": "Entreprise Lerial (Locminé)",
+          "secteur": "prive",
+          "periode": "jusqu'en 1989"
+        },
+        {
+          "poste": "Chef d'exploitation agricole (volailles, vaches allaitantes)",
+          "employeur": "exploitation agricole propre",
+          "secteur": "liberal_independant",
+          "periode": "à partir de 1989"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA720354",
+      "nom": "Jean-Michel Jacques",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "non précisée",
+          "diplome": "Diplôme d'État d'infirmier",
+          "domaine": "medecine-sante"
+        },
+        {
+          "institution": "École des fusiliers marins de Lorient",
+          "diplome": "Formation de fusilier marin (commando)",
+          "domaine": "autre"
+        }
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {
+          "poste": "Infirmier des forces spéciales (fusilier marin)",
+          "employeur": "Marine nationale",
+          "secteur": "public",
+          "periode": "avant 2017"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Détails issus principalement des données Wikidata, la biographie trimmed étant très courte."
+    },
+    {
+      "uid": "PA720362",
+      "nom": "Belkhir Belhaddad",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Gérant fondateur",
+          "employeur": "Gem Energy Services",
+          "secteur": "liberal_independant",
+          "periode": "à partir de novembre 2012"
+        },
+        {
+          "poste": "Fondateur de l'association Cap Avenir Diversité",
+          "employeur": "association",
+          "secteur": "associatif",
+          "periode": "à partir de décembre 2012"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Passage par l'université de Metz mentionné par Wikidata sans précision de diplôme."
+    },
+    {
+      "uid": "PA720370",
+      "nom": "Ludovic Mendes",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Responsable commercial",
+          "employeur": "entreprises (Metz, Lille, Lyon, Paris)",
+          "secteur": "prive",
+          "periode": "avant 2012"
+        },
+        {
+          "poste": "Gérant",
+          "employeur": "ENIDD (société de nettoyage)",
+          "secteur": "liberal_independant",
+          "periode": "2012-2016"
+        },
+        {
+          "poste": "Fondateur de l'association Avenir ensemble",
+          "employeur": "association",
+          "secteur": "associatif",
+          "periode": "2015"
+        },
+        {
+          "poste": "Permanent du Parti socialiste (campagne de Jean-Pierre Masseret)",
+          "employeur": "Parti socialiste",
+          "secteur": "politique",
+          "periode": "octobre-décembre 2015"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "La société ENIDD qu'il dirigeait a fait l'objet d'une liquidation judiciaire en 2016."
+    },
+    {
+      "uid": "PA720390",
+      "nom": "Jérôme End",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "non précisée",
+          "diplome": "Études de droit (niveau précis non précisé)",
+          "domaine": "droit"
+        }
+      ],
+      "fields": ["droit"],
+      "career": [
+        {
+          "poste": "Comptable des douanes",
+          "employeur": "Douanes françaises (fonction publique d'État)",
+          "secteur": "public",
+          "periode": "avant fonction suivante"
+        },
+        {
+          "poste": "Contrôleur des impôts",
+          "employeur": "Direction générale des finances publiques (fonction publique d'État)",
+          "secteur": "public",
+          "periode": "avant mandats politiques"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le niveau exact du diplôme de droit n'est pas précisé par la source."
+    },
+    {
+      "uid": "PA720430",
+      "nom": "Ugo Bernalicis",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "Université Lille-III",
+          "diplome": "Licence d'histoire",
+          "domaine": "lettres-sciences humaines"
+        },
+        {
+          "institution": "Institut régional d'administration de Lille",
+          "diplome": "Formation d'attaché d'administration (IRA, sur concours)",
+          "domaine": "autre"
+        }
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {
+          "poste": "Attaché d'administration",
+          "employeur": "Ministère de l'Intérieur",
+          "secteur": "public",
+          "periode": "à partir de 2012, avant 2017"
+        }
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Master de science politique commencé à Lille-II mais non achevé."
+    },
+    {
+      "uid": "PA720446",
+      "nom": "Brigitte Liso",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {
+          "poste": "Chargée de relations publiques et commerciales",
+          "employeur": "Pernod Ricard, Hachette Livre",
+          "secteur": "prive",
+          "periode": "non précisée"
+        },
+        {
+          "poste": "Visiteuse médicale",
+          "employeur": "GlaxoSmithKline",
+          "secteur": "prive",
+          "periode": "non précisée"
+        },
+        {
+          "poste": "Co-fondatrice d'un restaurant",
+          "employeur": "restaurant (Vieux-Lille)",
+          "secteur": "liberal_independant",
+          "periode": "à partir de 2010"
+        },
+        {
+          "poste": "Fondatrice d'une boutique de pâtisserie",
+          "employeur": "boutique de pâtisseries (Vieux-Lille)",
+          "secteur": "liberal_independant",
+          "periode": "à partir de 2015"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    }
+  ]
+}

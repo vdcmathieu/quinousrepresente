@@ -1,0 +1,275 @@
+{"deputies": [
+ {
+  "uid": "PA793556",
+  "nom": "Sabine Gervais",
+  "highest_degree_level": "bac+3_4",
+  "degrees": [
+   {"institution": "non précisée (institut de formation en soins infirmiers + école de puériculture)", "diplome": "Diplôme d'État d'infirmier puis diplôme d'État de puéricultrice", "domaine": "medecine-sante"}
+  ],
+  "fields": ["medecine-sante"],
+  "career": [
+   {"poste": "Coordinatrice des assistants familiaux, service PMI (protection maternelle et infantile)", "employeur": "Département de la Charente-Maritime", "secteur": "public", "periode": "inconnu ; en disponibilité de la fonction publique territoriale"}
+  ],
+  "worked_private": false,
+  "worked_public": true,
+  "political_career_only": false,
+  "career_profile": "public_uniquement",
+  "confidence": "moyenne",
+  "notes": "HATVP : aucune déclaration d'intérêts trouvée pour ce uid (entrée absente du dump). Wikipédia (wikitexte, vérifié) confirme la profession d'infirmière puéricultrice ; c'est une profession réglementée (DE infirmier + spécialisation puéricultrice), d'où l'inférence bac+3_4 plafonnée à confiance moyenne conformément à la règle sur les professions réglementées. Le détail de carrière (coordinatrice des assistants familiaux au service PMI du Département, en disponibilité de la fonction publique territoriale) provient du titre et de la citation de l'article du Parisien référencé dans le wikitexte de l'article Wikipédia (« De la PMI au Palais-Bourbon... »), qui confirme au moins le lien PMI. Impossible de revérifier le corps de l'article par curl (Access Denied sur leparisien.fr, archive Wikiwix bloquée par un mur JavaScript côté client), d'où confiance moyenne plutôt que haute sur ce point.",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Sabine_Gervais", "pour": "diplome"},
+   {"url": "https://www.leparisien.fr/charente-maritime-17/de-la-pmi-au-palais-bourbon-le-destin-inattendu-de-sabine-gervais-future-deputee-de-la-rochelle-et-de-lile-de-re-01-04-2026-QB5Y4H32QNHQLJFPEEQWBYX7TU.php", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA796034",
+  "nom": "Frank Giletti",
+  "highest_degree_level": "bac+3_4",
+  "degrees": [
+   {"institution": "Institut régional d'administration (IRA) de Lyon", "diplome": "Formation d'attaché territorial", "domaine": "droit"}
+  ],
+  "fields": ["droit"],
+  "career": [
+   {"poste": "DGAS (directeur général adjoint des services)", "employeur": "Mairie de Fréjus", "secteur": "public", "periode": "09/2018-06/2022"},
+   {"poste": "Agent comptable", "employeur": "Éducation nationale", "secteur": "public", "periode": "09/2017-08/2018"},
+   {"poste": "DAF (directeur administratif et financier), lycée Louis Massignon", "employeur": "AEFE (Agence pour l'enseignement français à l'étranger)", "secteur": "public", "periode": "01/2017-08/2017"}
+  ],
+  "worked_private": false,
+  "worked_public": true,
+  "political_career_only": false,
+  "career_profile": "public_uniquement",
+  "confidence": "haute",
+  "notes": "L'infobox Wikipédia (wikitexte vérifié) donne explicitement « université = IRA de Lyon » et « profession = Fonctionnaire », ce qui confirme la piste attaché territorial (bac+3_4). La déclaration HATVP (locale, data/hatvp/activites.json) est très détaillée et cohérente avec ce parcours : DAF de lycée AEFE (2017), agent comptable à l'Éducation nationale (2017-2018), puis DGAS à la mairie de Fréjus (2018-2022) — carrière entièrement dans la fonction publique, avant son élection de 2022.",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Frank_Giletti", "pour": "diplome"},
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA840939",
+  "nom": "Océane Godard",
+  "highest_degree_level": "bac+5",
+  "degrees": [
+   {"institution": "Université de Bourgogne", "diplome": "Master", "domaine": "psychologie du travail"}
+  ],
+  "fields": ["psychologie"],
+  "career": [
+   {"poste": "Formatrice vacataire", "employeur": "CREPS", "secteur": "public", "periode": "02/2017-07/2017"},
+   {"poste": "Salariée (poste non précisé)", "employeur": "associations de formation et d'insertion (employeur non nommé)", "secteur": "associatif", "periode": "inconnu, avant ses mandats électifs"}
+  ],
+  "worked_private": false,
+  "worked_public": true,
+  "political_career_only": false,
+  "career_profile": "inconnu",
+  "confidence": "moyenne",
+  "notes": "Wikipédia (wikitexte, sourcé à L'Est républicain 2018) confirme explicitement : « diplômée d'un master en psychologie du travail de l'université de Bourgogne et travaille au sein d'associations de formation et d'insertion » — diplôme à confiance haute, mais l'employeur associatif n'est jamais nommé et le secteur associatif n'entre dans aucune des catégories privé/public du référentiel (le batch d'origine notait déjà ce trou de la taxonomie), d'où career_profile laissé à inconnu. HATVP ajoute un poste ponctuel de formatrice vacataire au CREPS (public, 2017) et un rôle de membre de jury de concours pour le CNFPT (jury, pas un emploi). Les autres lignes « dirigeant » du HATVP (Mission Locale, CREATIV, SPL Aménagement, etc.) sont des sièges obtenus au titre de ses mandats d'élue, pas des emplois.",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Oc%C3%A9ane_Godard", "pour": "diplome"},
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA331973",
+  "nom": "Pascale Got",
+  "highest_degree_level": "bac+2",
+  "degrees": [
+   {"institution": "Institut de journalisme Bordeaux Aquitaine (IJBA, ex-IUT de journalisme de Bordeaux)", "diplome": "DUT de journalisme (1985)", "domaine": "communication-journalisme"}
+  ],
+  "fields": ["communication-journalisme"],
+  "career": [
+   {"poste": "Journaliste", "employeur": "inconnu", "secteur": "prive", "periode": "depuis 1985, avant son premier mandat de 2007"},
+   {"poste": "Responsable de service", "employeur": "Ville de Blanquefort", "secteur": "public", "periode": "09/2017-12/2019 (puis disponibilité, retraite depuis avril 2023)"}
+  ],
+  "worked_private": true,
+  "worked_public": true,
+  "political_career_only": false,
+  "career_profile": "mixte_public_prive",
+  "confidence": "haute",
+  "notes": "L'infobox et le texte Wikipédia confirment le diplôme (« Diplômée de l'IUT de journalisme de Bordeaux en 1985 ») et la profession de journaliste, mais aucun employeur de presse n'est nommé dans les sources consultées. Le HATVP révèle un épisode public antérieurement non documenté : responsable de service à la mairie de Blanquefort (Gironde) entre sa défaite de 2017 et sa réélection de 2024, en disponibilité de ce poste depuis fin 2019 puis retraite en 2023. Carrière donc mixte : journalisme (secteur privé, employeur non identifié) puis un poste territorial public.",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Pascale_Got", "pour": "diplome"},
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA721612",
+  "nom": "Carole Guillerm",
+  "highest_degree_level": "inconnu",
+  "degrees": [],
+  "fields": [],
+  "career": [
+   {"poste": "Travail sur des dossiers de politique climatique, dont le protocole de Kyoto", "employeur": "inconnu", "secteur": "public", "periode": "inconnu, avant sa nomination comme conseillère ministérielle"},
+   {"poste": "Conseillère ministérielle", "employeur": "cabinet ministériel non précisé", "secteur": "politique", "periode": "inconnu"}
+  ],
+  "worked_private": false,
+  "worked_public": true,
+  "political_career_only": false,
+  "career_profile": "politique_principalement",
+  "confidence": "basse",
+  "notes": "Aucune entrée HATVP pour ce uid. L'article Wikipédia (marqué « à sourcer ») ne donne ni établissement ni diplôme. La fiche de l'Assemblée nationale (assemblee-nationale.fr/dyn/deputes/PA721612, consultée par curl) se limite à « Conseillère ministérielle » sans détail biographique. Son site de campagne (caroleguillerm.fr, page « Qui suis-je ? », texte vérifié par curl) confirme qu'elle a « travaillé sur... le Protocole de Kyoto » mais ne nomme ni employeur ni institution de formation. Les notes du batch d'origine évoquaient des études de droit à Paris 1 Panthéon-Sorbonne, Strasbourg et Helsinki puis un poste au Quai d'Orsay, à partir d'un recoupement Wikipédia/Viadeo/LinkedIn non confirmé par une source primaire ; aucune des sources consultées ici (Wikipédia, fiche AN, site personnel) ne corrobore ces établissements précis ou l'employeur « Quai d'Orsay », donc le diplôme reste inconnu conformément à la règle d'honnêteté plutôt que d'être deviné.",
+  "sources": [
+   {"url": "https://www.caroleguillerm.fr/?page_id=118", "pour": "carriere"},
+   {"url": "https://www.assemblee-nationale.fr/dyn/deputes/PA721612", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA793218",
+  "nom": "Jordan Guitton",
+  "highest_degree_level": "inconnu",
+  "degrees": [],
+  "fields": ["droit"],
+  "career": [
+   {"poste": "Attaché parlementaire à temps partiel de l'eurodéputé Philippe Olivier / assistant parlementaire", "employeur": "Parlement européen", "secteur": "politique", "periode": "09/2018-06/2022"}
+  ],
+  "worked_private": false,
+  "worked_public": false,
+  "political_career_only": true,
+  "career_profile": "politique_principalement",
+  "confidence": "moyenne",
+  "notes": "Wikipédia précise qu'il « suit des études de droit au centre universitaire de Troyes » (université de Reims-Champagne-Ardenne) sans jamais dire qu'il en est diplômé (source citée : L'Est Éclair, article payant, non consultable) ; le diplôme reste donc inconnu plutôt que déduit. La carrière est en revanche bien documentée et concordante entre Wikipédia et le HATVP : attaché parlementaire à temps partiel de l'eurodéputé RN Philippe Olivier, poste confirmé par le HATVP sous l'intitulé « ASSISTANT PARLEMENTAIRE, PARLEMENT EUROPEEN » (09/2018-06/2022). Aucune autre activité professionnelle trouvée avant son élection de 2022 à 27 ans.",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Jordan_Guitton", "pour": "both"},
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA1592",
+  "nom": "David Habib",
+  "highest_degree_level": "bac+5",
+  "degrees": [
+   {"institution": "Institut d'études politiques (IEP) de Bordeaux", "diplome": "Diplômé de l'IEP de Bordeaux (1983)", "domaine": "sciences-politiques"}
+  ],
+  "fields": ["sciences-politiques"],
+  "career": [],
+  "worked_private": false,
+  "worked_public": false,
+  "political_career_only": true,
+  "career_profile": "politique_principalement",
+  "confidence": "moyenne",
+  "notes": "L'infobox et le texte Wikipédia confirment l'IEP de Bordeaux, diplômé en 1983 (sourcé). Le niveau exact d'équivalence est incertain : en 1983, avant la réforme LMD des IEP (généralisée au début des années 2000), le diplôme d'IEP correspondait à un cycle de 3 ans post-bac, souvent assimilé à une maîtrise (bac+4) plutôt qu'à un master (bac+5) au sens actuel ; faute de règle explicite dans les consignes pour ce cas, bac+5 est retenu par convention usuelle (grade reconnu aujourd'hui pour un diplôme d'IEP) mais la confiance est plafonnée à moyenne du fait de cette ambiguïté. Aucun employeur, privé ou public, n'a été trouvé pour la période entre l'obtention du diplôme (1983) et son premier mandat électif de conseiller municipal de Mourenx (1989) : la biographie Wikipédia très détaillée et sourcée ne mentionne aucune activité professionnelle, et sa déclaration HATVP a une liste « activités » vide. Sa profession déclarée à l'Assemblée nationale (« Cadre ») n'est adossée à aucun employeur identifiable dans les sources consultées.",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/David_Habib", "pour": "both"},
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA793632",
+  "nom": "Timothée Houssin",
+  "highest_degree_level": "inconnu",
+  "degrees": [],
+  "fields": ["commerce"],
+  "career": [
+   {"poste": "Attaché parlementaire", "employeur": "Nicolas Bay, eurodéputé (Front national)", "secteur": "politique", "periode": "juillet 2014-janvier 2015"},
+   {"poste": "Gestion des fédérations", "employeur": "FNUF", "secteur": "inconnu", "periode": "01/2017-08/2017"},
+   {"poste": "Assistant parlementaire", "employeur": "Annika Bruna, députée européenne (Parlement européen)", "secteur": "politique", "periode": "09/2017-06/2022"}
+  ],
+  "worked_private": false,
+  "worked_public": false,
+  "political_career_only": true,
+  "career_profile": "politique_principalement",
+  "confidence": "haute",
+  "notes": "Correction par rapport au champ « actuel » du batch (qui indiquait prive_uniquement, confiance basse) : la biographie Wikipédia, très détaillée et sourcée, montre qu'il « s'installe en Normandie pour intégrer une école de commerce à Rouen » (nom de l'école non précisé, jamais dit diplômé — donc diplôme laissé à inconnu plutôt que bac+5), et que toute sa carrière adulte documentée est celle d'un collaborateur politique/parlementaire rémunéré : attaché parlementaire de l'eurodéputé FN Nicolas Bay (2014-2015, objet de la mise en examen puis de la condamnation dans l'affaire des emplois présumés fictifs d'assistants du FN/RN au Parlement européen — condamné en 2025 puis en appel en 2026 à du sursis et à une peine d'inéligibilité), puis assistant parlementaire de l'eurodéputée Annika Bruna (2017-2022), confirmé par le HATVP. Un bref épisode « Gestion des fédérations » chez « FNUF » (01-08/2017) reste d'employeur/secteur non identifiable (recherche Wikipédia et pappers.fr infructueuses, ce dernier bloqué par Cloudflare).",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Timoth%C3%A9e_Houssin", "pour": "both"},
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA794598",
+  "nom": "Laurent Jacobelli",
+  "highest_degree_level": "bac+5",
+  "degrees": [
+   {"institution": "ESSEC Business School", "diplome": "Diplômé (1992)", "domaine": "economie-gestion"},
+   {"institution": "ESCP Business School", "diplome": "Diplômé (1993)", "domaine": "economie-gestion"}
+  ],
+  "fields": ["economie-gestion", "communication-journalisme"],
+  "career": [
+   {"poste": "Contrôleur de gestion", "employeur": "TF1", "secteur": "prive", "periode": "1994-1998"},
+   {"poste": "Directeur administratif et financier", "employeur": "Coyote (télévision), puis FremantleMedia", "secteur": "prive", "periode": "1998-~2005"},
+   {"poste": "Directeur des programmes", "employeur": "TV5 Monde", "secteur": "public", "periode": "2005-2008"},
+   {"poste": "Fondateur", "employeur": "Sunny Prod (société de production télévisuelle)", "secteur": "prive", "periode": "inconnu"},
+   {"poste": "Secrétaire général", "employeur": "Zodiak Kids / Marathon Media", "secteur": "prive", "periode": "2009-2013"},
+   {"poste": "Délégué national", "employeur": "Rassemblement national", "secteur": "politique", "periode": "11/2017-06/2022"}
+  ],
+  "worked_private": true,
+  "worked_public": true,
+  "political_career_only": false,
+  "career_profile": "mixte_public_prive",
+  "confidence": "haute",
+  "notes": "Carrière très bien documentée et datée par le wikitexte Wikipédia (section « Vie privée et carrière », sourcée à Le Monde, L'Opinion, Le Point, Stratégies) : deux diplômes de commerce nommés (ESSEC 1992, ESCP 1993), puis une carrière de vingt ans dans l'audiovisuel privé (TF1, Coyote, FremantleMedia, Sunny Prod, Zodiak Kids/Marathon Media), avec un passage chez TV5 Monde (2005-2008), chaîne internationale à capitaux publics/consortium de diffuseurs publics, classée ici « public ». Le HATVP confirme ensuite le poste de délégué national du RN (2017-2022), poste politique rémunéré, avant son élection de 2022.",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Laurent_Jacobelli", "pour": "both"},
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA643184",
+  "nom": "Brigitte Klinkert",
+  "highest_degree_level": "bac+3_4",
+  "degrees": [
+   {"institution": "non précisée", "diplome": "DEUG de droit (1976)", "domaine": "droit"},
+   {"institution": "Institut régional d'administration (IRA) de Metz", "diplome": "Formation d'attachée territoriale (1977-1978)", "domaine": "droit"}
+  ],
+  "fields": ["droit"],
+  "career": [
+   {"poste": "Chargée de mission", "employeur": "Conseil général du Bas-Rhin", "secteur": "public", "periode": "1979-2011"},
+   {"poste": "Chargée de mission", "employeur": "Région Alsace puis Région Grand Est", "secteur": "public", "periode": "2011-2017"}
+  ],
+  "worked_private": false,
+  "worked_public": true,
+  "political_career_only": false,
+  "career_profile": "public_uniquement",
+  "confidence": "haute",
+  "notes": "L'infobox Wikipédia confirme le DEUG de droit (1976) et l'IRA de Metz (1977-1978), cohérent avec un parcours d'attachée territoriale (bac+3_4). Le corps profession de l'infobox était vide, et le PDF de CV officiel cité en référence (haut-rhin.fr) redirige aujourd'hui vers le site générique de la Collectivité européenne d'Alsace (lien mort). La carrière professionnelle pré-ministérielle, absente de Wikipédia, a été retrouvée et vérifiée par curl+grep dans un article BFMTV (AFP, 06/07/2020) dont le texte a été confirmé présent sur la page : « a été chargée de mission au conseil général du Bas-Rhin de 1979 à 2011, puis auprès de la région Alsace, puis Grand Est jusqu'en 2017 » — soit 38 ans de fonction publique territoriale avant de devenir présidente du conseil départemental du Haut-Rhin (2017) puis ministre (2020).",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Brigitte_Klinkert", "pour": "diplome"},
+   {"url": "https://www.bfmtv.com/politique/qui-est-brigitte-klinkert-nouvelle-ministre-deleguee-en-charge-de-l-insertion_AD-202007060238.html", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA842125",
+  "nom": "Thomas Lam",
+  "highest_degree_level": "bac+5",
+  "degrees": [
+   {"institution": "NEOMA Business School (Reims et Rouen)", "diplome": "non précisé", "domaine": "economie-gestion"}
+  ],
+  "fields": ["economie-gestion", "commerce"],
+  "career": [
+   {"poste": "Direction commerciale", "employeur": "ASINARIA", "secteur": "prive", "periode": "01/2021-06/2021"},
+   {"poste": "Chargé de mission", "employeur": "Les Républicains", "secteur": "politique", "periode": "03/2024-06/2024"}
+  ],
+  "worked_private": true,
+  "worked_public": false,
+  "political_career_only": false,
+  "career_profile": "prive_uniquement",
+  "confidence": "moyenne",
+  "notes": "Wikipédia (catégorie « Élève de Neoma Business School (Reims et Rouen) ») et Wikidata confirment l'établissement, sans texte explicite « diplômé de » dans le corps de l'article (bio très courte, 6 lignes) ; confiance plafonnée à moyenne pour cette raison. Le HATVP donne deux postes courts et datés : direction commerciale chez « ASINARIA » (privé, 6 mois en 2021 ; société non identifiée sur Wikipédia ni via une recherche pappers.fr, bloquée par Cloudflare) puis chargé de mission chez Les Républicains (politique, 3 mois juste avant son élection de 2024). Sa profession déclarée à l'Assemblée nationale, « chef d'entreprise de 10 salariés ou plus », n'est corroborée par aucun nom d'entreprise dans les sources consultées ; il est resté sans document supplémentaire malgré la fiche AN et nosdeputes.fr (aucune fiche trouvée pour ce slug).",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Thomas_Lam_(homme_politique)", "pour": "diplome"},
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+  ]
+ },
+ {
+  "uid": "PA841515",
+  "nom": "Aurélien Le Coq",
+  "highest_degree_level": "inconnu",
+  "degrees": [],
+  "fields": ["sciences-politiques"],
+  "career": [
+   {"poste": "Chargé de mission (coordination des groupes d'action, campagnes du mouvement)", "employeur": "La France insoumise", "secteur": "politique", "periode": "2020-2024 (contrats successifs)"},
+   {"poste": "Chargé de mission, direction de la campagne des municipales à Lille", "employeur": "La France insoumise", "secteur": "politique", "periode": "01/2020-03/2020"},
+   {"poste": "Chargé de mission", "employeur": "AFCP JLM 2022 (association de financement de la campagne présidentielle de Jean-Luc Mélenchon)", "secteur": "politique", "periode": "07/2021-04/2022"},
+   {"poste": "Serveur", "employeur": "Taberna / Arena", "secteur": "prive", "periode": "06/2019-11/2019"}
+  ],
+  "worked_private": true,
+  "worked_public": false,
+  "political_career_only": false,
+  "career_profile": "politique_principalement",
+  "confidence": "moyenne",
+  "notes": "L'infobox Wikipédia liste Institut d'études politiques de Lille et Université de Lille comme établissements, mais le corps de l'article place la mention d'études sous un bandeau « Quand ? » (date incertaine) et ne dit jamais qu'il est diplômé ; la fiche de l'Assemblée nationale, citée dans l'article et consultable, le décrit en 2026 comme « employé administratif d'entreprise », profession qui n'implique aucun diplôme précis. Conformément à la règle d'honnêteté, le diplôme reste donc inconnu plutôt que déduit du champ d'études. La carrière est en revanche très documentée : chargé de mission salarié de La France insoumise sur plusieurs contrats successifs de 2020 à 2024 (coordination de campagnes, dont la direction de la campagne municipale à Lille en 2020), plus un contrat via l'association de financement de la campagne présidentielle de Jean-Luc Mélenchon en 2021-2022 (tous confirmés par le HATVP) — militantisme et emploi politique dominants depuis l'adolescence, avec un bref emploi privé de serveur en 2019 avant que le militantisme ne devienne son activité rémunérée principale.",
+  "sources": [
+   {"url": "https://fr.wikipedia.org/wiki/Aur%C3%A9lien_Le_Coq", "pour": "both"},
+   {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"}
+  ]
+ }
+]}

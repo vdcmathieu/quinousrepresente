@@ -1,0 +1,266 @@
+{"deputies": [
+  {
+    "uid": "PA266793",
+    "nom": "Jean-Yves Bony",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Exploitant agricole", "employeur": "Exploitation agricole personnelle, Ally (Cantal)", "secteur": "liberal_independant", "periode": "avant 2001 (maire d'Ally dès mars 2001) - 2024, revenus confirmés 2019-2023"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Deuxième passage sans amélioration. HATVP relue en détail (5 lignes d'activités 2019-2024, toutes \"Exploitant agricole/agri\", employeur \"Individuel\") : rien de nouveau sur la formation. Wikitext brut de l'article (action=raw, 118 lignes) entièrement dépouillé : aucune section \"jeunesse\"/\"formation\", aucune référence, section \"Liens externes\" vide de contenu utile ({{liens}} générique). Le métier d'exploitant agricole n'impose légalement aucun diplôme, donc pas d'inférence de niveau. Carrière inchangée par rapport au passage précédent, portée telle quelle.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Jean-Yves_Bony", "pour": "both"}
+    ]
+  },
+  {
+    "uid": "PA841487",
+    "nom": "Anthony Boulogne",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [
+      {"institution": "IDRAC Business School (Lyon)", "diplome": "Diplôme d'école de commerce (niveau précis - bachelor ou programme grande école - non confirmé)", "domaine": "commerce"}
+    ],
+    "fields": ["commerce"],
+    "career": [
+      {"poste": "Alternance attaché commercial", "employeur": "La Poste", "secteur": "prive", "periode": "01/2018-08/2018"},
+      {"poste": "Account executive / chargé de développement commercial", "employeur": "L'expert-comptable.com", "secteur": "prive", "periode": "10/2020-02/2021"},
+      {"poste": "Assistant commercial (prospection, conseil en création d'entreprise)", "employeur": "Expertise Choix B", "secteur": "prive", "periode": "09/2021-09/2022"},
+      {"poste": "Responsable commercial (commercialisation d'une offre de logiciel RH)", "employeur": "FOEDERIS", "secteur": "prive", "periode": "10/2022-07/2024"},
+      {"poste": "Président (dirigeant)", "employeur": "Centre de Conseil en Construction", "secteur": "liberal_independant", "periode": "depuis 08/2021"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Amélioration diplôme : le wikitexte brut de l'article (non visible dans l'extrait trimmé) contient une section \"Vie personnelle\" absente du passage précédent : \"Diplômé de l'IDRAC Business School à Lyon, il est responsable commercial de profession\", sourcée à data.projetarcadie.com/content/anthony-boulogne. Cette page bloque curl (HTTP 418, pare-feu anti-bot) ; une capture d'archive.org (20250212) confirme au moins la cohérence du profil (\"Responsable commercial dans une entreprise d'informatique\", collant à son poste FOEDERIS) sans toutefois montrer explicitement la mention IDRAC dans le texte visible de la capture - donc source Wikipédia retenue mais non vérifiée de façon indépendante à 100%, d'où confiance \"moyenne\" et non \"haute\". IDRAC Business School propose des cursus bachelor (bac+3) et programme grande école (bac+5) : rien ne permet de trancher, donc bac+3_4 retenu comme niveau plancher prudent plutôt que bac+5. Carrière : la déclaration HATVP révèle une ligne inédite absente du passage précédent, une alternance \"attaché commercial\" chez La Poste (01/2018-08/2018), cohérente avec la fin d'études en alternance ; ajoutée en tête de la carrière déjà connue, qui reste par ailleurs inchangée (quatre employeurs privés du commercial B2B + présidence d'une société de conseil en construction).",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Anthony_Boulogne", "pour": "diplome"},
+      {"url": "https://web.archive.org/web/20250212101650/https://data.projetarcadie.com/content/anthony-boulogne", "pour": "diplome"}
+    ]
+  },
+  {
+    "uid": "PA794938",
+    "nom": "Idir Boumertit",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Conseiller emploi formation", "employeur": "Mission locale de Lyon", "secteur": "associatif", "periode": "01/2019-08/2022"},
+      {"poste": "Éducateur sportif (taekwondo)", "employeur": "Taekwondo St Fons Métropole", "secteur": "associatif", "periode": "01/2019-06/2022"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Aucune amélioration sur le diplôme malgré recherches ciblées. HATVP relue : au-delà des deux employeurs déjà connus, la déclaration liste onze mandats de \"dirigeant\" (fédération de taekwondo, collèges, mission locale, Bioforce...) mais ce sont des sièges ès qualités d'élu local (conseiller municipal puis métropolitain de Vénissieux depuis 2001), pas des emplois - aucun ne renseigne un diplôme. Wikitexte brut (208 lignes, bien plus riche que l'extrait trimmé, il est même devenu maire de Vénissieux en mars 2026) entièrement lu : les deux articles de presse cités pour sa jeunesse (Le Progrès, 17/05/2021 et 19/06/2022) sont payants/chargés en JS - curl+grep ne renvoie que du code publicitaire, aucun texte d'article. Recherche via l'API Wikipédia (\"Idir Boumertit\" diplôme) : zéro résultat. Le métier de \"conseiller en insertion professionnelle\" n'est pas une profession réglementée listée dans la grille d'inférence fournie (le titre professionnel CIP existe mais n'y figure pas) ; \"éducateur sportif\" rémunéré suppose légalement un brevet d'État (BPJEPS/DEJEPS) mais n'est pas non plus dans la liste des inférences autorisées - je m'abstiens donc de toute inférence pour ne pas extrapoler au-delà des règles données. Carrière inchangée, portée telle quelle.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Idir_Boumertit", "pour": "both"}
+    ]
+  },
+  {
+    "uid": "PA841131",
+    "nom": "Manon Bouquin",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Stagiaire chargée de missions", "employeur": "Syndicat du Conseil en Relations Publics", "secteur": "associatif", "periode": "10/2019-03/2020"},
+      {"poste": "Assistante parlementaire (Parlement européen)", "employeur": "France Jamet (eurodéputée RN)", "secteur": "politique", "periode": "10/2020-08/2023"},
+      {"poste": "Collaboratrice parlementaire", "employeur": "Aurélien Lopez-Liguori (député RN de l'Hérault)", "secteur": "politique", "periode": "09/2023-06/2024"}
+    ],
+    "worked_private": false,
+    "worked_public": false,
+    "political_career_only": true,
+    "career_profile": "politique_principalement",
+    "confidence": "haute",
+    "notes": "Diplôme toujours inconnu, mais la piste \"études d'histoire à la Sorbonne\" déjà évoquée au passage précédent (comme rumeur non vérifiée) est désormais présente telle quelle dans le corps de l'article Wikipédia lui-même (pas seulement dans une synthèse tierce) : \"Elle effectue ses études à la Sorbonne-Université, en vue de devenir professeure d'histoire\", sourcée à ruralites2024.fr (Hugo Clément, 1/04/2025). Cette URL renvoie désormais un 404 (lien mort, vérifié par curl -I) : impossible de la revérifier directement, et aucune mention d'obtention d'un diplôme n'apparaît nulle part - le niveau reste donc \"inconnu\" par prudence plutôt que présumé bac+3/5. Carrière entièrement confirmée par HATVP (stage syndical professionnel puis collaboration politique RN continue), inchangée par rapport au passage précédent.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Manon_Bouquin", "pour": "diplome"}
+    ]
+  },
+  {
+    "uid": "PA342240",
+    "nom": "Jean-Luc Bourgeaux",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Exploitant agricole (éleveur laitier puis céréalier)", "employeur": "Exploitation individuelle à Cherrueix (Ille-et-Vilaine)", "secteur": "liberal_independant", "periode": "01/2014-12/2023 (activité cessée le 01/01/2024)"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Aucune amélioration sur le diplôme. HATVP relue : deux déclarations concordantes montrent que l'activité d'exploitant agricole individuel remonte en réalité à janvier 2014 (et non 2019 comme retenu au passage précédent), avec un résultat négatif en 2020 et 2023 ; activité cessée au 1er janvier 2024, confirmé. Date de début de carrière donc précisée/corrigée (2014 au lieu de 2019). Wikitexte brut (89 lignes) entièrement lu : aucune section formation, aucun lien externe utile au-delà de la palette de portails. Le site personnel avait déjà été consulté au passage précédent sans résultat sur la formation. Profession d'agriculteur sans exigence légale de diplôme particulier.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Jean-Luc_Bourgeaux", "pour": "both"}
+    ]
+  },
+  {
+    "uid": "PA793182",
+    "nom": "Jorys Bovet",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Chauffeur-livreur (transport)", "employeur": "DRS Transport", "secteur": "prive", "periode": "10/2017-08/2019"},
+      {"poste": "Chauffeur-livreur", "employeur": "SARL SLM Frères Transports", "secteur": "prive", "periode": "08/2019-11/2019"},
+      {"poste": "Chauffeur-livreur", "employeur": "Trans Territoire Service", "secteur": "prive", "periode": "11/2019-08/2020"},
+      {"poste": "Chauffeur-livreur (transport)", "employeur": "Transport Conan", "secteur": "prive", "periode": "09/2019-07/2022"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Aucune amélioration. HATVP relue en intégralité : les quatre employeurs de transport/livraison sont confirmés avec des libellés de poste identiques, plus une ligne \"Parlementaire @ Assemblée nationale 06/2022-06/2024\" qui correspond au mandat lui-même (exclue de la carrière pré-mandat). Wikitexte brut (95 lignes) entièrement lu : aucune section formation, aucune référence biographique en dehors du parcours électoral. La rumeur isolée d'un diplôme Sciences Po Lyon / Saint-Cyr / INSP relevée au passage précédent reste non recoupée par aucune source primaire et continue d'être écartée comme fabrication probable, incompatible avec le parcours de chauffeur-livreur documenté par trois sources indépendantes (AN, Wikipédia, HATVP).",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Jorys_Bovet", "pour": "both"}
+    ]
+  },
+  {
+    "uid": "PA795318",
+    "nom": "Louis Boyard",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Président de l'Union nationale lycéenne (UNL)", "employeur": "UNL", "secteur": "associatif", "periode": "04/2018-07/2019"},
+      {"poste": "Soutien scolaire - aide aux devoirs (auto-entrepreneur)", "employeur": "Auto-entrepreneur", "secteur": "liberal_independant", "periode": "03/2021-04/2021"},
+      {"poste": "Chroniqueur radio (Les Grandes Gueules)", "employeur": "RMC", "secteur": "prive", "periode": "05/2021-08/2021"},
+      {"poste": "Chroniqueur TV (Touche pas à mon poste)", "employeur": "Auto-entrepreneur / C8", "secteur": "prive", "periode": "08/2021-02/2022"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Diplôme toujours inconnu, mais le wikitexte brut (233 lignes, bien plus détaillé que l'extrait trimmé) révèle un fait absent du passage précédent : en parallèle de sa licence de droit à Assas (déjà connue), il s'était aussi inscrit à un BTS communication suivi par correspondance (\"Parallèlement, il s'inscrit à un BTS en communication, suivi par correspondance\", sourcé Le Parisien). Aucune des deux formations n'est confirmée obtenue - il \"met en pause\" ses études en septembre 2022 à son élection - donc le niveau reste inconnu plutôt que présumé bac+2/3. Carrière précisée grâce à HATVP : les dates de ses activités de chroniqueur/soutien scolaire, auparavant regroupées de façon vague (\"à partir de l'été 2021\"), sont maintenant datées précisément mois par mois (chronique RMC 05-08/2021, puis TPMP en auto-entrepreneur 08/2021-02/2022, plus un job de soutien scolaire en 03-04/2021 non repéré au passage précédent), en plus de la présidence UNL déjà connue.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Louis_Boyard", "pour": "both"}
+    ]
+  },
+  {
+    "uid": "PA793508",
+    "nom": "Hubert Brigand",
+    "highest_degree_level": "bac+2",
+    "degrees": [],
+    "fields": ["informatique"],
+    "career": [
+      {"poste": "Technicien en études, recherche et développement en informatique (informaticien)", "employeur": "Non précisé", "secteur": "inconnu", "periode": "avant sa retraite, avant son premier mandat de maire (1995)"}
+    ],
+    "worked_private": false,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "inconnu",
+    "confidence": "moyenne",
+    "notes": "Amélioration diplôme par inférence de profession réglementée. La page Wikipédia \"Liste des députés de la XVIe législature de la Cinquième République\" (source indépendante de l'article personnel, consultée en wikitexte brut) liste sa profession déclarée à son élection de 2022 comme \"Technicien à la retraite\" - ce qui corrobore, sans dépendre d'elle, la piste \"informaticien, technicien en études/R&D informatique\" trouvée au passage précédent sur mon-maire.fr (URL aujourd'hui en 404, revérifiée par curl - lien mort, non ré-exploitable directement). Deux mentions indépendantes convergent donc sur \"technicien\", ce qui autorise l'inférence de la grille (catégorie B fonction publique / technicien → bac+2), plafonnée à confiance \"moyenne\" comme demandé. HATVP relue : aucune \"activité\" salariée n'y figure (seulement des mandats et sièges de représentant d'élu local dans des structures type ORVITIS, EHPAD, hôpital, EPAGE), donc aucun employeur ni secteur (public/privé) n'a pu être confirmé pour sa carrière de technicien - le profil de carrière reste \"inconnu\". Article Wikipédia personnel (107 lignes) entièrement lu sans nouvelle information biographique au-delà des mandats de maire.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Liste_des_d%C3%A9put%C3%A9s_de_la_XVIe_l%C3%A9gislature_de_la_Cinqui%C3%A8me_R%C3%A9publique", "pour": "diplome"},
+      {"url": "https://www.mon-maire.fr/cote-d-or-21/chatillon-sur-seine-21400/hubert-brigand", "pour": "diplome"}
+    ]
+  },
+  {
+    "uid": "PA794798",
+    "nom": "Françoise Buffet",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Restauratrice, patronne de restaurant (création et développement de l'établissement)", "employeur": "Restaurant à Strasbourg (nom non identifié avec certitude)", "secteur": "liberal_independant", "periode": "années 1990 - 2001 (vente de l'établissement)"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Aucune amélioration. HATVP relue : aucune \"activité\" professionnelle enregistrée (seulement des mandats et sièges dans des structures intercommunales - SAMINS, CEEAC, ACMISA, association des maires, caisse des écoles - qui relèvent de son mandat d'élue, pas d'un emploi), donc rien de nouveau sur le restaurant ni sur ses études. Le site personnel francoisebuffet.fr/biographie, déjà consulté au passage précédent, renvoie maintenant un 404 (vérifié par curl -I) - lien mort, non ré-exploitable. Wikitexte brut (77 lignes) entièrement lu : rien sur sa formation, seulement sa carrière de commerçante puis élue municipale. Carrière inchangée, portée telle quelle.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Buffet", "pour": "both"}
+    ]
+  },
+  {
+    "uid": "PA796106",
+    "nom": "Édouard Bénard",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Employé en boulangerie (emploi étudiant)", "employeur": "Boulangerie (non précisée)", "secteur": "prive", "periode": "pendant ses études de philosophie"},
+      {"poste": "Collaborateur de cabinet", "employeur": "Ville de Saint-Étienne-du-Rouvray", "secteur": "public", "periode": "01/2019-08/2019"},
+      {"poste": "Chargé de mission", "employeur": "Ville de Saint-Étienne-du-Rouvray", "secteur": "public", "periode": "09/2019-12/2019"},
+      {"poste": "Directeur de cabinet", "employeur": "Mairie de Tourville-la-Rivière", "secteur": "public", "periode": "01/2020-09/2022"},
+      {"poste": "Collaborateur parlementaire", "employeur": "Hubert Wulfranc", "secteur": "politique", "periode": "09/2023-11/2023"}
+    ],
+    "worked_private": true,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "mixte_public_prive",
+    "confidence": "haute",
+    "notes": "Carrière nettement précisée grâce à HATVP (nouvel index local) : le passage précédent ne savait que \"agent de la fonction publique territoriale @ collectivité non précisée (probablement Saint-Étienne-du-Rouvray ou intercommunalité)\" ; la déclaration HATVP nomme désormais quatre postes datés et deux employeurs publics précis - collaborateur de cabinet puis chargé de mission à la Ville de Saint-Étienne-du-Rouvray (01-12/2019), puis directeur de cabinet à la Mairie de Tourville-la-Rivière (01/2020-09/2022) - plus un passage comme collaborateur parlementaire d'Hubert Wulfranc (09-11/2023, secteur politique) non identifié précédemment. Le mélange privé (boulangerie étudiante)/public (deux mairies) est donc confirmé avec des employeurs nommés : confiance relevée de \"moyenne\" à \"haute\" sur la carrière. Diplôme en revanche toujours inconnu : le wikitexte brut confirme via l'infobox \"université = Université Paris-Sorbonne\" (études de philosophie), cohérent avec le passage précédent, mais aucune source ne confirme l'obtention d'un diplôme (le jeune homme quitte apparemment ses études pour devenir agent public) - niveau maintenu \"inconnu\" par prudence.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/%C3%89douard_B%C3%A9nard", "pour": "diplome"}
+    ]
+  },
+  {
+    "uid": "PA841973",
+    "nom": "Pierre-Henri Carbonnel",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Agriculteur (polyculture-élevage : bovins, moutons, palmipèdes) - GAEC", "employeur": "GAEC / exploitation individuelle à Saint-Cirq (Tarn-et-Garonne)", "secteur": "liberal_independant", "periode": "depuis 01/2020"},
+      {"poste": "Dirigeant (100% associé) - production solaire", "employeur": "SASU PAG", "secteur": "liberal_independant", "periode": "depuis 01/2023"},
+      {"poste": "Administrateur", "employeur": "CUMA d'accueil de Saint-Cirq / Coopérative Natera", "secteur": "liberal_independant", "periode": "depuis 2020 / 07/2024"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Aucune amélioration sur le diplôme. HATVP relue : confirme intégralement l'exploitation agricole (GAEC de polyculture-élevage depuis 2020), la SASU de production solaire (depuis 2023) et ajoute une précision - administrateur de la CUMA d'accueil de Saint-Cirq en plus de la coopérative Natera déjà connue. Wikitexte brut (118 lignes) entièrement lu : les seules références biographiques concernent son passé de rugbyman (itsrugby.fr, uniquement sportif) et sa candidature politique de 2025 ; aucune mention de lycée agricole, BTSA ou autre formation. Recherche Wikipédia (\"Pierre-Henri Carbonnel\" BTS/lycée/diplôme) : aucun résultat pertinent au-delà de sa fiche personnelle. Statut d'agriculteur/chef d'exploitation n'impose légalement aucun diplôme.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Pierre-Henri_Carbonnel", "pour": "both"}
+    ]
+  },
+  {
+    "uid": "PA840075",
+    "nom": "Eddy Casterman",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Collaborateur parlementaire", "employeur": "Vincent Segouin, sénateur de l'Orne", "secteur": "politique", "periode": "12/2019-11/2023"},
+      {"poste": "Collaborateur de cabinet", "employeur": "AFEMM", "secteur": "politique", "periode": "01/2024-06/2024"},
+      {"poste": "Maire-adjoint aux affaires scolaires", "employeur": "Commune d'Englos", "secteur": "politique", "periode": "06/2020-07/2024"}
+    ],
+    "worked_private": false,
+    "worked_public": false,
+    "political_career_only": true,
+    "career_profile": "politique_principalement",
+    "confidence": "haute",
+    "notes": "Aucune amélioration sur le diplôme. HATVP relue : confirme exactement les trois lignes déjà connues (collaborateur parlementaire de Vincent Segouin puis collaborateur de cabinet AFEMM, plus les associations \"Racines d'avenir\"), toujours aucune activité professionnelle en dehors de la sphère politique/associative. Wikitexte brut (133 lignes) entièrement lu : le champ \"université\" de l'infobox est explicitement laissé vide par les contributeurs Wikipédia eux-mêmes (signe qu'ils ne savent pas non plus), et aucune section formation n'existe dans le corps de l'article. Recherche Wikipédia (\"Eddy Casterman\" diplôme/études/master) : aucun résultat pertinent en dehors de sa fiche et des pages électorales. La fiche AN reste inexploitable (rendu JavaScript, aucun contenu biographique dans le HTML statique).",
+    "sources": [
+      {"url": "https://www.hatvp.fr/livraison/merge/declarations.xml", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Eddy_Casterman", "pour": "both"}
+    ]
+  }
+]}

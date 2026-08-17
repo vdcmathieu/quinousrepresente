@@ -1,0 +1,547 @@
+{
+ "deputies": [
+  {
+   "uid": "PA794670",
+   "nom": "Caroline Parmentier",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [
+    "communication-journalisme"
+   ],
+   "career": [
+    {
+     "poste": "Journaliste puis rédactrice en chef",
+     "employeur": "Présent (SARL Présent)",
+     "secteur": "prive",
+     "periode": "1986-2018"
+    },
+    {
+     "poste": "Attachée de presse",
+     "employeur": "Rassemblement national",
+     "secteur": "politique",
+     "periode": "2019-2022"
+    },
+    {
+     "poste": "Collaboratrice parlementaire",
+     "employeur": "Marine Le Pen",
+     "secteur": "politique",
+     "periode": "06/2019-09/2021"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Carrière bien documentée : journaliste puis rédactrice en chef du quotidien Présent pendant 32 ans (1986-2018, confirmé par Wikipédia et sa déclaration HATVP), puis attachée de presse du RN et collaboratrice parlementaire de Marine Le Pen (2019-2021/2022). Aucune information sur son parcours de formation n'a été retrouvée malgré une recherche dans le texte Wikipédia complet et l'API de recherche Wikipédia (mots-clés « études », « journalisme ») : le métier de journaliste n'étant pas une profession réglementée avec diplôme obligatoire en France, le niveau de diplôme reste inconnu plutôt que d'être déduit.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Caroline_Parmentier",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA718784",
+   "nom": "Éric Pauget",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Gérant / dirigeant d'entreprise",
+     "employeur": "SARL Claire",
+     "secteur": "liberal_independant",
+     "periode": "au moins 2017-2024 (déclarations HATVP ; antériorité non confirmée)"
+    },
+    {
+     "poste": "Conseiller municipal, adjoint au maire, conseiller général puis départemental, vice-président du Département",
+     "employeur": "Ville d'Antibes Juan-les-Pins / Département des Alpes-Maritimes",
+     "secteur": "politique",
+     "periode": "1995-2017"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Biographie très lacunaire sur les études et le détail du parcours professionnel, confirmée par la consultation de son propre site de campagne (ericpauget.fr/parcours-2), qui ne détaille que son engagement politique continu depuis 1988 (militant RPR à 18 ans) et son élection comme conseiller municipal à 25 ans (1995), sans aucune mention d'études, d'employeur ou de formation. Sa déclaration HATVP indique qu'il est dirigeant de la SARL Claire (depuis 2017) et de la SPL Antibes Avenir (société publique locale, depuis 2019), concomitamment à son mandat de député ; profession déclarée à l'Assemblée « Autre cadre (secteur privé) ». Aucun diplôme n'a pu être identifié.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Pauget",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://ericpauget.fr/parcours-2/",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841199",
+   "nom": "Thierry Perez",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Dirigeant",
+     "employeur": "Incentive Agency",
+     "secteur": "liberal_independant",
+     "periode": "2018-2024"
+    },
+    {
+     "poste": "Cadre collaborateur de Groupe (staff d'un groupe politique)",
+     "employeur": "Région Auvergne-Rhône-Alpes",
+     "secteur": "politique",
+     "periode": "2021-2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Biographie Wikipédia extrêmement succincte (élu en juillet 2024, aucune mention d'études ni de carrière antérieure). Les seules informations de carrière proviennent de sa déclaration HATVP : dirigeant de la société « Incentive Agency » depuis 2018, et « cadre collaborateur de Groupe » (staff d'un groupe d'élus) à la Région Auvergne-Rhône-Alpes de 2021 à 2024 - ce dernier poste étant classé ici comme « politique » (fonctionnellement analogue à un collaborateur d'élu) même si l'Assemblée nationale le classe administrativement comme « cadre de la fonction publique ». L'article du Dauphiné Libéré consacré à son élection est payant et n'apporte aucun détail supplémentaire accessible. Aucun diplôme n'a été trouvé.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Thierry_Perez",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA841199",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA721270",
+   "nom": "Stéphane Peu",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Employé administratif d'entreprise (profession déclarée, employeur non identifié)",
+     "employeur": "inconnu",
+     "secteur": "prive",
+     "periode": "inconnu, probablement avant 1995"
+    },
+    {
+     "poste": "Adjoint au maire de Saint-Denis, vice-président de Plaine Commune, puis député",
+     "employeur": "Ville de Saint-Denis / Plaine Commune / Assemblée nationale",
+     "secteur": "politique",
+     "periode": "1995-présent"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "basse",
+   "notes": "Sa déclaration HATVP ne recense aucune « activité » professionnelle (liste vide) : seuls figurent des mandats électifs et des sièges d'administrateur (Office public de l'habitat, coopérative HLM, La Chaîne Parlementaire) qui sont des émanations de son mandat d'élu et non un emploi séparé. Engagé dans les Jeunesses communistes dès les années 1980, il est élu local sans interruption depuis 1995 (adjoint au maire de Saint-Denis, vice-président de Plaine Commune), ce qui en fait un profil de politicien de carrière. La profession « Employé » déclarée à l'Assemblée (catégorie INSEE « employés administratifs d'entreprise ») suggère un emploi salarié antérieur non documenté, sans employeur ni période identifiables. Recherche complémentaire via l'API Wikipédia infructueuse.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/St%C3%A9phane_Peu",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA817211",
+   "nom": "René Pilato",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {
+     "institution": "non précisée (CAPES, Éducation nationale)",
+     "diplome": "Professeur certifié (CAPES) de mathématiques",
+     "domaine": "sciences"
+    }
+   ],
+   "fields": [
+    "sciences",
+    "enseignement"
+   ],
+   "career": [
+    {
+     "poste": "Salarié dans l'industrie spatiale (fonction non précisée)",
+     "employeur": "inconnu",
+     "secteur": "prive",
+     "periode": "avant 2002"
+    },
+    {
+     "poste": "Professeur de mathématiques",
+     "employeur": "Éducation nationale (lycée de l'image et du son d'Angoulême)",
+     "secteur": "public",
+     "periode": "muté en Charente en 2002, jusqu'à sa mise en disponibilité en 2023"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "Wikipédia, Sud Ouest et France Bleu confirment qu'après un début de carrière non précisé dans l'industrie spatiale (secteur privé), il devient professeur de mathématiques titulaire de l'Éducation nationale, muté au lycée de l'image et du son d'Angoulême en 2002 (France Bleu), poste occupé jusqu'à sa mise en disponibilité pour mandat en 2023 (HATVP). Diplôme inféré par la règle sur les professions réglementées : un poste de professeur titulaire ayant fait l'objet d'une mutation académique (et non un contractuel) suppose la réussite du CAPES (bac+5) ; établissement et année du concours non confirmés, d'où confiance limitée à « moyenne ». Aucun détail sur l'employeur ni la formation initiale dans le spatial.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Ren%C3%A9_Pilato",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.sudouest.fr/elections/legislatives/charente/politique-qui-est-rene-pilato-le-nouveau-depute-lfi-de-charente-13873475.php",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.francebleu.fr/infos/politique/un-nouveau-depute-charentais-a-l-assemblee-qui-est-rene-pilato-9057580",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA793656",
+   "nom": "Lisette Pollet",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Femme de ménage puis chef de groupe entretien",
+     "employeur": "Elior puis Sodexo (SFRS)",
+     "secteur": "prive",
+     "periode": "1991-10/2021"
+    },
+    {
+     "poste": "Déléguée départementale RN, conseillère régionale, puis députée",
+     "employeur": "Rassemblement national / Conseil régional Auvergne-Rhône-Alpes / Assemblée nationale",
+     "secteur": "politique",
+     "periode": "2020-présent"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Carrière professionnelle bien documentée et concordante entre Wikipédia et sa déclaration HATVP : femme de ménage chez Elior puis chef de groupe entretien chez Sodexo/SFRS de 2017 jusqu'à sa démission en octobre 2021. Aucune information sur son parcours scolaire n'a pu être retrouvée ; le poste occupé, non qualifié, ne permet pas d'inférer un diplôme particulier (règle : ne pas déduire de niveau d'études pour un métier non réglementé).",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Lisette_Pollet",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA720720",
+   "nom": "Josy Poueyto",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Agent puis cadre à la Direction départementale de l'équipement (DDE)",
+     "employeur": "Direction départementale de l'équipement / État",
+     "secteur": "public",
+     "periode": "1972-avant 2017 (retraite)"
+    },
+    {
+     "poste": "Conseillère générale/départementale, adjointe au maire de Pau, vice-présidente du conseil départemental, puis députée",
+     "employeur": "Conseil général/départemental des Pyrénées-Atlantiques / Ville de Pau / Assemblée nationale",
+     "secteur": "politique",
+     "periode": "1998-présent"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Selon un article de presse locale (bap-europe.com, 2017, vérifié par curl+grep), Josy Poueyto entre à la Direction départementale de l'équipement (fonction publique d'État) dès 1972, à 18 ans, poste qu'elle occupe jusqu'à sa retraite avant de se consacrer pleinement à la politique (élue conseillère générale en 1998) ; cohérent avec sa profession déclarée à l'Assemblée (« Retraitée de la fonction publique, hors enseignement »). Aucun diplôme n'est mentionné : son entrée dans la fonction publique dès la sortie du lycée, sans précision de concours ou de catégorie, ne permet pas d'inférer un niveau d'études particulier avec certitude, d'où confiance « moyenne » et diplôme non déduit.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Josy_Poueyto",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://bap-europe.com/qui-sont-les-six-deputes-des-pyrenees-atlantiques/",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841367",
+   "nom": "Christophe Proença",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {
+     "institution": "non précisée (CAPES/CAPET, Éducation nationale)",
+     "diplome": "Professeur certifié (classe exceptionnelle) de sciences de l'ingénieur",
+     "domaine": "ingenierie"
+    }
+   ],
+   "fields": [
+    "ingenierie",
+    "enseignement"
+   ],
+   "career": [
+    {
+     "poste": "Enseignant en sciences de l'ingénieur, professeur certifié classe exceptionnelle (5e échelon)",
+     "employeur": "Éducation nationale",
+     "secteur": "public",
+     "periode": "au moins 09/2018-02/2024"
+    },
+    {
+     "poste": "Maire de Gintrac, conseiller départemental du Lot, président de la CC Cauvaldor, puis député",
+     "employeur": "Commune de Gintrac / Département du Lot / CC Cauvaldor / Assemblée nationale",
+     "secteur": "politique",
+     "periode": "environ 2014-présent"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Sa déclaration HATVP précise explicitement qu'il est « Professeur certifié classe exceptionnelle 5 échelon » en sciences de l'ingénieur à l'Éducation nationale (poste déclaré de 09/2018 à 02/2024 au moins), ce que confirme Wikipédia (« enseignant en sciences de l'ingénieur »). Le statut de « professeur certifié » implique la réussite du CAPES/CAPET (bac+5) : il s'agit ici d'une information directement déclarée dans une source primaire officielle (et non d'une simple inférence de profession réglementée), d'où une confiance « haute ». L'établissement de formation initiale n'est pas précisé.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "both"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Christophe_Proen%C3%A7a",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA719578",
+   "nom": "Loïc Prud'homme",
+   "highest_degree_level": "bac+2",
+   "degrees": [
+    {
+     "institution": "non précisée (INRA, recrutement en catégorie B)",
+     "diplome": "Technicien de la recherche (fonction publique, catégorie B)",
+     "domaine": "sciences"
+    }
+   ],
+   "fields": [
+    "sciences",
+    "agriculture"
+   ],
+   "career": [
+    {
+     "poste": "Emploi non précisé dans le secteur privé",
+     "employeur": "inconnu",
+     "secteur": "prive",
+     "periode": "avant l'INRA"
+    },
+    {
+     "poste": "Technicien, spécialisé en sciences du sol puis dans le cycle des éléments minéraux (phosphore)",
+     "employeur": "Institut national de la recherche agronomique (INRA), site de Villenave-d'Ornon",
+     "secteur": "public",
+     "periode": "jusqu'en 2017 (élection)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "Wikipédia et un article de L'Obs (2018, vérifié) confirment qu'après un début de carrière non précisé dans le privé, il devient technicien à l'INRA (organisme public), spécialisé en sciences du sol (érosion, propriétés hydriques) puis dans le cycle des éléments minéraux (phosphore), sur le site de Villenave-d'Ornon. Il perçoit par ailleurs des droits d'auteur (Éditions T. Souccar, 2019-2022, HATVP) pour un ouvrage co-écrit sur l'alimentation, activité annexe non comptée comme emploi principal. Diplôme inféré par la règle sur les professions réglementées : un poste de « technicien » en catégorie B de la fonction publique correspond typiquement à bac+2 ; établissement et diplôme précis (BTS/DUT) non confirmés, d'où confiance « moyenne ». L'emploi antérieur dans le privé n'est pas détaillé.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Lo%C3%AFc_Prud%27homme",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.nouvelobs.com/politique/20180925.OBS2892/un-depute-en-guerre-contre-la-malbouffe-10-choses-a-savoir-sur-loic-prud-homme.html",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA795966",
+   "nom": "Stéphane Rambaud",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {
+     "institution": "non précisée (concours de commissaire de police, ENSP)",
+     "diplome": "Commissaire de police",
+     "domaine": "droit"
+    }
+   ],
+   "fields": [
+    "armee-securite"
+   ],
+   "career": [
+    {
+     "poste": "Commissaire de police",
+     "employeur": "Police nationale, Ministère de l'Intérieur (commissariats de Mantes-la-Jolie, Cayenne, Rodez, Saint-Brieuc, Annecy, Toulon)",
+     "secteur": "public",
+     "periode": "c. 1984-05/2021 (37 ans de carrière selon Wikipédia)"
+    },
+    {
+     "poste": "Conseiller régional puis député",
+     "employeur": "Conseil régional Provence-Alpes-Côte d'Azur / Assemblée nationale",
+     "secteur": "politique",
+     "periode": "2021-présent"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Carrière de 37 ans dans la police nationale confirmée par Wikipédia et sa déclaration HATVP (commissaire de police, retraité le 1er juin 2021), en poste dans plusieurs commissariats (Mantes-la-Jolie, Cayenne, Rodez, Saint-Brieuc, Annecy, Toulon). Diplôme inféré par la règle sur les professions réglementées : l'accès au corps de conception et de direction (commissaire de police) se fait par un concours de catégorie A+, historiquement ouvert avec une licence (bac+3), exigence portée à un niveau master par les réformes plus récentes ; né en 1960 et vraisemblablement recruté dans les années 1980, le niveau bac+3_4 est retenu par prudence, confiance limitée à « moyenne » faute de confirmation de la date exacte du concours et de l'établissement de formation (ENSP). L'article de presse locale Var-Matin le concernant n'a pas pu être consulté (site bloquant les requêtes automatisées, HTTP 406, et inaccessible via WebFetch).",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/St%C3%A9phane_Rambaud",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA793254",
+   "nom": "Julien Rancoule",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [
+    "armee-securite"
+   ],
+   "career": [
+    {
+     "poste": "Agent de sécurité puis chef d'équipe sécurité incendie",
+     "employeur": "France Gardiennage puis Mondial Protection GSO",
+     "secteur": "prive",
+     "periode": "2017-11/2020"
+    },
+    {
+     "poste": "Collaborateur de groupe d'élus (politique)",
+     "employeur": "Région Occitanie",
+     "secteur": "politique",
+     "periode": "09/2020-07/2021"
+    },
+    {
+     "poste": "Sapeur-pompier volontaire (activité indemnisée, non une profession selon sa déclaration HATVP)",
+     "employeur": "SDIS 11 (Aude)",
+     "secteur": "public",
+     "periode": "2017-présent"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Carrière bien documentée par sa déclaration HATVP : agent de sécurité (France Gardiennage puis Mondial Protection GSO, secteur privé, 2017-2020), collaborateur de groupe d'élus à la Région Occitanie (politique, 2020-2021), puis élu (conseiller municipal de Limoux depuis 2020, député depuis 2022). Il est également sapeur-pompier volontaire au SDIS de l'Aude depuis 2017, mais sa déclaration HATVP précise explicitement qu'il ne s'agit pas d'une profession mais d'une activité indemnisée, non comptée ici dans worked_public. Aucune information sur ses études n'a été trouvée au-delà du fait qu'il était lycéen à Jules-Fil (Carcassonne) en 2011 ; le métier d'agent de sécurité (carte professionnelle/CQP) n'implique pas de diplôme de l'enseignement supérieur.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Julien_Rancoule",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA721062",
+   "nom": "Jean-Hugues Ratenon",
+   "highest_degree_level": "bac_ou_moins",
+   "degrees": [
+    {
+     "institution": "École d'électricité du Port (La Réunion)",
+     "diplome": "Baccalauréat en électrotechnique",
+     "domaine": "ingenierie"
+    }
+   ],
+   "fields": [
+    "ingenierie"
+   ],
+   "career": [
+    {
+     "poste": "Emploi dans le domaine du froid et de la climatisation",
+     "employeur": "inconnu (France métropolitaine)",
+     "secteur": "prive",
+     "periode": "c. 1985-1990 environ, après le service militaire (deux ans)"
+    },
+    {
+     "poste": "Bazardier puis poissonnier",
+     "employeur": "activité indépendante",
+     "secteur": "liberal_independant",
+     "periode": "1992-1998 environ"
+    },
+    {
+     "poste": "Militant puis président d'association (Mouvement des chômeurs panonnais / Agir pou nout tout)",
+     "employeur": "association",
+     "secteur": "associatif",
+     "periode": "1998-2009"
+    },
+    {
+     "poste": "Conseiller municipal de Bras-Panon puis député",
+     "employeur": "Mairie de Bras-Panon / Assemblée nationale",
+     "secteur": "politique",
+     "periode": "2008-présent"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Le texte source (wikitexte brut) de sa page Wikipédia précise qu'il est « détenteur d'un baccalauréat en électrotechnique qu'il a obtenu à l'école d'électricité du Port » (La Réunion), information absente de l'extrait Wikipédia déjà minée mais retrouvée dans l'infobox et le corps de l'article complet. Après son service militaire, il travaille environ deux ans en France métropolitaine dans le froid et la climatisation, avant de retourner à La Réunion en 1992 pour exercer comme bazardier puis poissonnier ; il s'engage ensuite dans le milieu associatif (défense des chômeurs) à partir de 1998 (président de l'association jusqu'en 2009), avant une carrière politique locale puis nationale à partir de 2008. Diplôme le plus élevé confirmé : baccalauréat technologique (aucune étude supérieure mentionnée).",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/w/index.php?title=Jean-Hugues_Ratenon&action=raw",
+     "pour": "both"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Jean-Hugues_Ratenon",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  }
+ ]
+}

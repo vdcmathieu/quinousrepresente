@@ -1,0 +1,287 @@
+{
+  "batch": 24,
+  "deputies": [
+    {
+      "uid": "PA795258",
+      "nom": "Frantz Gumbs",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": ["education"],
+      "career": [
+        {"poste": "Personnel de direction de l'éducation nationale (retraité)", "employeur": "Éducation nationale", "secteur": "public", "periode": "inconnue"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "Career issue de la profession déclarée officielle uniquement, la biographie ne détaille pas son parcours professionnel."
+    },
+    {
+      "uid": "PA795270",
+      "nom": "Marie-Agnès Poussier-Winsback",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université Paris II Panthéon-Assas", "diplome": "Maîtrise de science politique", "domaine": "sciences politiques"},
+        {"institution": "Université Paris I Panthéon-Sorbonne", "diplome": "Maîtrise d'histoire", "domaine": "histoire"}
+      ],
+      "fields": ["sciences politiques", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Chargée de mission", "employeur": "Conseil général de Seine-Maritime", "secteur": "public", "periode": "1989-2002"},
+        {"poste": "Attachée parlementaire de Daniel Fidelin", "employeur": "Assemblée nationale (député Daniel Fidelin)", "secteur": "politique", "periode": "2002-2012"},
+        {"poste": "Professeure d'économie", "employeur": "Lycée Saint-Joseph du Havre (établissement privé)", "secteur": "prive", "periode": "2012-2014"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA795298",
+      "nom": "Jérôme Legavre",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Professeur de français", "employeur": "Éducation nationale (Oise)", "secteur": "public", "periode": "inconnue"},
+        {"poste": "Secrétaire de l'union locale de Compiègne", "employeur": "Fédération nationale de l'enseignement, de la culture et de la formation professionnelle - FO", "secteur": "associatif", "periode": "inconnue"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Niveau d'études non précisé dans la source malgré la profession de professeur."
+    },
+    {
+      "uid": "PA795310",
+      "nom": "Clémence Guetté",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Poitiers", "diplome": "Double licence de lettres et de sciences politiques", "domaine": "lettres et sciences politiques"},
+        {"institution": "Sciences Po Paris", "diplome": "Master de sociologie politique", "domaine": "sociologie politique"},
+        {"institution": "AgroParisTech", "diplome": "Formation aux politiques de l'environnement (non précisé si diplômante)", "domaine": "environnement"}
+      ],
+      "fields": ["lettres-sciences humaines", "sciences politiques"],
+      "career": [
+        {"poste": "Chargée du travail sur le programme présidentiel (embauchée par Charlotte Girard)", "employeur": "La France insoumise", "secteur": "politique", "periode": "2016-2017"},
+        {"poste": "Secrétaire générale du groupe parlementaire La France insoumise", "employeur": "Assemblée nationale / groupe LFI", "secteur": "politique", "periode": "2017-2022"},
+        {"poste": "Coordinatrice du programme l'Avenir en commun", "employeur": "La France insoumise", "secteur": "politique", "periode": "2019-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "La profession officiellement déclarée ('cadre du secteur privé') n'est pas détaillée dans la biographie, qui ne décrit qu'un parcours politique."
+    },
+    {
+      "uid": "PA795318",
+      "nom": "Louis Boyard",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Président de l'Union nationale lycéenne (UNL)", "employeur": "UNL", "secteur": "associatif", "periode": "2018-2019"},
+        {"poste": "Chroniqueur", "employeur": "chaînes de radio et de télévision", "secteur": "prive", "periode": "2021-2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Études de droit à Paris-Panthéon-Assas mentionnées par Wikidata mais sans confirmation d'obtention de diplôme; a occupé un poste de chroniqueur média avant son mandat."
+    },
+    {
+      "uid": "PA795326",
+      "nom": "Christopher Weissberg",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Montréal", "diplome": "non précisé", "domaine": "non précisé"},
+        {"institution": "Collège d'Europe", "diplome": "Master (non précisé)", "domaine": "études européennes"},
+        {"institution": "Sciences Po Paris", "diplome": "non précisé", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Directeur de cabinet de la vice-présidente", "employeur": "Conseil régional d'Île-de-France", "secteur": "politique", "periode": "2012-2014"},
+        {"poste": "Restaurateur", "employeur": "Restaurant à Saranac Lake (New York)", "secteur": "liberal_independant", "periode": "depuis 2010"},
+        {"poste": "Conseiller chargé des relations avec le Parlement et les élus des Français de l'étranger", "employeur": "Cabinet de Jean-Baptiste Lemoyne, secrétaire d'État", "secteur": "politique", "periode": "2020-2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Il est aussi resté restaurateur indépendant en parallèle de ses fonctions politiques."
+    },
+    {
+      "uid": "PA795334",
+      "nom": "Benoît Larrouquis",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École d'ingénieurs (non précisée)", "diplome": "Diplôme d'ingénieur en automatique et robotique", "domaine": "ingénierie"}
+      ],
+      "fields": ["ingenierie"],
+      "career": [
+        {"poste": "Ingénieur en automatique et robotique", "employeur": "non précisé", "secteur": "prive", "periode": "avant création d'entreprise"},
+        {"poste": "Fondateur / chef d'entreprise", "employeur": "Entreprise de courtage en assurance santé internationale", "secteur": "liberal_independant", "periode": "environ 30 ans, en Amérique latine"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Employeurs et dates précises non détaillés dans la source."
+    },
+    {
+      "uid": "PA795350",
+      "nom": "Frédéric Valletoux",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "Université Paris I Panthéon-Sorbonne", "diplome": "DEUG (Diplôme d'études universitaires générales)", "domaine": "histoire"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Journaliste", "employeur": "Revue Pouvoirs locaux (Institut de la gouvernance territoriale et de la décentralisation)", "secteur": "prive", "periode": "1990-1994"},
+        {"poste": "Journaliste puis rédacteur en chef", "employeur": "La Gazette des communes (Groupe Moniteur)", "secteur": "prive", "periode": "1994 et 2002-2005"},
+        {"poste": "Journaliste", "employeur": "Les Échos", "secteur": "prive", "periode": "1994-2002"},
+        {"poste": "Directeur délégué chargé des projets éditoriaux (mi-temps)", "employeur": "Groupe Moniteur", "secteur": "prive", "periode": "2005-2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "N'a obtenu qu'un DEUG en histoire, la licence engagée n'étant pas mentionnée comme achevée."
+    },
+    {
+      "uid": "PA795362",
+      "nom": "Lisa Belluco",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École des Mines d'Alès", "diplome": "Diplôme d'ingénieur", "domaine": "ingénierie"},
+        {"institution": "AgroParisTech", "diplome": "Formation complémentaire d'un an (Politiques publiques et stratégies pour l'environnement)", "domaine": "environnement"}
+      ],
+      "fields": ["ingenierie"],
+      "career": [
+        {"poste": "Ingénieure de l'industrie et des mines, inspectrice de l'environnement", "employeur": "DREAL Nouvelle-Aquitaine", "secteur": "public", "periode": "avant 2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA795374",
+      "nom": "Pascal Lecamp",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Cadre administratif et commercial d'entreprise", "employeur": "non précisé", "secteur": "prive", "periode": "inconnue"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Carrière issue uniquement de la profession déclarée officielle, la biographie ne mentionne que ses mandats locaux."
+    },
+    {
+      "uid": "PA795390",
+      "nom": "Sandrine Lalanne",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Profession déclarée 'sans profession déclarée' et biographie ne mentionnant que son mandat de conseillère municipale."
+    },
+    {
+      "uid": "PA795402",
+      "nom": "Nathalie Coggia",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-Dauphine", "diplome": "non précisé", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {"poste": "Consultante en transactions d'entreprises", "employeur": "non précisé", "secteur": "prive", "periode": "environ 10 ans avant mandat"},
+        {"poste": "Directrice financière (plusieurs postes)", "employeur": "non précisé", "secteur": "prive", "periode": "avant mandat"},
+        {"poste": "Directrice financière et des opérations", "employeur": "non précisé", "secteur": "prive", "periode": "actuelle"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Diplôme précis à Paris-Dauphine non nommé; niveau bac+5 déduit du parcours en conseil puis direction financière."
+    },
+    {
+      "uid": "PA795410",
+      "nom": "Béatrice Roullaud",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "non précisé", "diplome": "CAPA (Certificat d'aptitude à la profession d'avocat)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Juriste", "employeur": "Étude notariale", "secteur": "prive", "periode": "avant d'être avocate"},
+        {"poste": "Avocate", "employeur": "Barreau de Meaux (cabinet libéral)", "secteur": "liberal_independant", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA795422",
+      "nom": "Damien Maudet",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Limoges", "diplome": "Licence", "domaine": "sociologie"},
+        {"institution": "Université Lumière Lyon II puis Sorbonne (Paris)", "diplome": "Master de sciences politiques", "domaine": "sciences politiques"}
+      ],
+      "fields": ["lettres-sciences humaines", "sciences politiques"],
+      "career": [
+        {"poste": "Emplois étudiants (vendeur, livreur, secrétaire d'examen, employé de supermarché)", "employeur": "divers (gare de Brive, centre Leclerc, etc.)", "secteur": "prive", "periode": "adolescence/études"},
+        {"poste": "Attaché parlementaire de François Ruffin", "employeur": "Assemblée nationale (député François Ruffin)", "secteur": "politique", "periode": "2020-2022"},
+        {"poste": "Employé du journal Fakir", "employeur": "Fakir (association)", "secteur": "associatif", "periode": "2020-2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "A aussi occupé de petits emplois étudiants avant son engagement politique."
+    },
+    {
+      "uid": "PA795430",
+      "nom": "Stéphane Delautrette",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Limoges", "diplome": "Diplôme d'ingénieur en environnement", "domaine": "ingénierie"}
+      ],
+      "fields": ["ingenierie"],
+      "career": [
+        {"poste": "Ingénieur en environnement", "employeur": "Ademe du Limousin puis Ademe Nouvelle-Aquitaine (Limoges)", "secteur": "public", "periode": "avant 2022"}
+      ],
+      "worked_private": null,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Le secteur de son premier poste d'ingénieur à Poitiers n'est pas précisé dans la source."
+    }
+  ]
+}

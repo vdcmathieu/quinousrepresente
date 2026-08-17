@@ -1,0 +1,281 @@
+{
+  "batch": 31,
+  "deputies": [
+    {
+      "uid": "PA840983",
+      "nom": "Bartolomé Lenoir",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-Dauphine-PSL", "diplome": "Master de mathématiques", "domaine": "sciences"},
+        {"institution": "EM Lyon Business School", "diplome": "Programme Grande École", "domaine": "gestion-commerce"}
+      ],
+      "fields": ["sciences", "gestion-commerce"],
+      "career": [
+        {"poste": "Fondateur", "employeur": "La Chaise Française", "secteur": "liberal_independant", "periode": "depuis 2017"},
+        {"poste": "Directeur", "employeur": "Contribuables associés", "secteur": "associatif", "periode": "avant 2022"},
+        {"poste": "Conseiller", "employeur": "Les Républicains", "secteur": "politique", "periode": "2022-2024"},
+        {"poste": "Fondateur du média Une certaine idée", "employeur": "Les Républicains", "secteur": "politique", "periode": "2023-2024"},
+        {"poste": "Employé", "employeur": "Havas", "secteur": "prive", "periode": "inconnu"},
+        {"poste": "Employé", "employeur": "Les Échos", "secteur": "prive", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "A aussi fondé une entreprise de mobilier en parallèle de son engagement associatif puis politique au sein de LR."
+    },
+    {
+      "uid": "PA840997",
+      "nom": "Benoît Biteau",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "BTS technologies végétales", "domaine": "agriculture"},
+        {"institution": "inconnu", "diplome": "BTS gestion de l'eau", "domaine": "agriculture"},
+        {"institution": "Bordeaux Sciences Agro", "diplome": "Diplôme d'ingénieur des techniques agricoles", "domaine": "agriculture"}
+      ],
+      "fields": ["agriculture", "ingenierie"],
+      "career": [
+        {"poste": "Directeur du bureau d'études", "employeur": "Entreprise de matériel d'irrigation", "secteur": "prive", "periode": "avant 1997"},
+        {"poste": "Agriculteur exploitant", "employeur": "Ferme familiale (Sablonceaux)", "secteur": "liberal_independant", "periode": "depuis 2007"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA841017",
+      "nom": "Harold Huwart",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École normale supérieure", "diplome": "Élève ENS (promotion L, 2002)", "domaine": "lettres-sciences humaines"},
+        {"institution": "inconnu", "diplome": "Maîtrise et agrégation d'histoire", "domaine": "lettres-sciences humaines"},
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Master d'administration d'État", "domaine": "sciences politiques"},
+        {"institution": "École nationale d'administration", "diplome": "ENA (promotion Émile Zola, 2008-2010)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["lettres-sciences humaines", "sciences politiques"],
+      "career": [
+        {"poste": "Administrateur de l'État", "employeur": "État", "secteur": "public", "periode": "depuis 2010"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Carrière d'administrateur de l'État déduite de la profession déclarée et du cursus ENA, non détaillée dans la biographie."
+    },
+    {
+      "uid": "PA841023",
+      "nom": "Pierre-Yves Cadalen",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Bachelor", "domaine": "sciences politiques"},
+        {"institution": "Université Paris-Sorbonne", "diplome": "Licence de philosophie", "domaine": "lettres-sciences humaines"},
+        {"institution": "EHESS", "diplome": "Master 1 de philosophie contemporaine", "domaine": "lettres-sciences humaines"},
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Master de recherche en relations internationales", "domaine": "sciences politiques"},
+        {"institution": "Institut d'études politiques de Paris", "diplome": "Doctorat en sciences politiques (relations internationales)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Enseignant vacataire en sciences politiques et relations internationales", "employeur": "IEP de Paris, UPEC, Université de Bretagne-Occidentale", "secteur": "public", "periode": "depuis ~2019, professeur vacataire UBO depuis 2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA841047",
+      "nom": "François-Xavier Ceccoli",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Chef d'entreprise", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie disponible limitée au parcours politique local; activité professionnelle déduite de la profession déclarée."
+    },
+    {
+      "uid": "PA841059",
+      "nom": "Catherine Dellong-Meng",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Cadre territoriale, responsable du contrôle de gestion externe", "employeur": "Communauté d'agglomération du Grand Avignon", "secteur": "public", "periode": "2021"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": ""
+    },
+    {
+      "uid": "PA841067",
+      "nom": "Alexandre Allegret-Pilot",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "ESSEC", "diplome": "Diplôme ESSEC (promotion 2013)", "domaine": "gestion-commerce"},
+        {"institution": "École nationale d'administration", "diplome": "ENA (promotion Molière, 2017-2019)", "domaine": "sciences politiques"},
+        {"institution": "inconnu", "diplome": "Diplôme en sciences de l'environnement et biologie", "domaine": "sciences"}
+      ],
+      "fields": ["gestion-commerce", "sciences politiques", "sciences"],
+      "career": [
+        {"poste": "Cofondateur", "employeur": "Cabinet de conseil 4A", "secteur": "liberal_independant", "periode": "depuis 2014"},
+        {"poste": "Haut fonctionnaire (entreprises en difficulté)", "employeur": "Ministère des Finances", "secteur": "public", "periode": "après 2019, avant 2024"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA841075",
+      "nom": "Sylvie Josserand",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Université de Grenoble-II", "diplome": "Doctorat en droit (procédure pénale)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Avocate", "employeur": "Barreau de Nîmes", "secteur": "liberal_independant", "periode": "depuis 2002"},
+        {"poste": "Enseignante", "employeur": "Université de Nîmes", "secteur": "public", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA841091",
+      "nom": "Arnaud Simion",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Cadre de la fonction publique", "employeur": "inconnu", "secteur": "public", "periode": "inconnu"}
+      ],
+      "worked_private": null,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie centrée sur les mandats locaux; activité professionnelle déduite de la profession déclarée."
+    },
+    {
+      "uid": "PA841107",
+      "nom": "Jacques Oberti",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Ingénieur, cadre technique d'entreprise", "employeur": "inconnu", "secteur": "prive", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie centrée sur les mandats locaux; activité professionnelle déduite de la profession déclarée."
+    },
+    {
+      "uid": "PA841131",
+      "nom": "Manon Bouquin",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Assistante parlementaire", "employeur": "France Jamet (Parlement européen)", "secteur": "politique", "periode": "avant 2022"},
+        {"poste": "Collaboratrice parlementaire", "employeur": "Aurélien Lopez-Liguori (député)", "secteur": "politique", "periode": "2022-2024"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA841139",
+      "nom": "Julien Gabarron",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Diplôme en droit", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Cadre commercial (informatique pour professions réglementées)", "employeur": "inconnu", "secteur": "prive", "periode": "inconnu"},
+        {"poste": "Commerçant, dirigeant", "employeur": "Le Plaza (Béziers)", "secteur": "liberal_independant", "periode": "environ 10 ans"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Niveau exact du diplôme en droit non précisé dans la source."
+    },
+    {
+      "uid": "PA841151",
+      "nom": "Alix Fruchon",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Master en droit public", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Attachée parlementaire", "employeur": "Nicolas Forissier (député)", "secteur": "politique", "periode": "plusieurs années avant 2025"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA841183",
+      "nom": "Hanane Mansouri",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": ["droit", "sciences politiques"],
+      "career": [],
+      "worked_private": null,
+      "worked_public": null,
+      "political_career_only": true,
+      "career_profile": "inconnu",
+      "confidence": "basse",
+      "notes": "Études de droit et administration publique à Grenoble avant son élection très jeune (23 ans); aucun emploi mentionné."
+    },
+    {
+      "uid": "PA841191",
+      "nom": "Sandrine Nosbé",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Employée administrative d'entreprise", "employeur": "inconnu", "secteur": "prive", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Parcours avant l'engagement politique peu documenté (séjours au Royaume-Uni et en Allemagne); activité professionnelle déduite de la profession déclarée."
+    }
+  ]
+}

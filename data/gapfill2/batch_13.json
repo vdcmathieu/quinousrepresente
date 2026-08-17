@@ -1,0 +1,505 @@
+{
+ "deputies": [
+  {
+   "uid": "PA795876",
+   "nom": "Davy Rimane",
+   "highest_degree_level": "bac+2",
+   "degrees": [
+    {
+     "institution": "inconnu (formation technique non identifiée)",
+     "diplome": "Formation de technicien (BTS/DUT non précisé)",
+     "domaine": "ingenierie"
+    }
+   ],
+   "fields": [
+    "ingenierie"
+   ],
+   "career": [
+    {
+     "poste": "Technicien d'exploitation",
+     "employeur": "EDF Guyane",
+     "secteur": "public",
+     "periode": "2016-2024"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "La déclaration HATVP confirme le poste de technicien d'exploitation à EDF Guyane (deux déclarations successives, 01/2016-07/2022 puis 01/2019-06/2024), ce que corrobore sa fiche Wikipédia (« Davy Rimane est technicien d'exploitation à EDF Guyane »). EDF étant une entreprise à capitaux majoritairement/totalement publics, l'emploi est classé secteur public. Aucune information sur son établissement de formation n'a été trouvée (Wikipédia très succincte, fiche AN muette, pas de site personnel identifié) ; le titre de « technicien » correspond en général à un diplôme de niveau bac+2 (BTS/DUT), inférence de profession réglementée d'où le plafonnement de la confiance à moyenne. La déclaration HATVP mentionne aussi des fonctions de dirigeant dans deux structures guyanaises (« Le DRIM'S » et « YANA ASEWA », 2019-2020), dont la nature exacte (association ou société) n'a pas pu être confirmée et qui n'ont donc pas été intégrées à la carrière professionnelle.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Davy_Rimane",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA841981",
+   "nom": "Catherine Rimbert",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Communication (activité indépendante)",
+     "employeur": "Auto-entreprise",
+     "secteur": "liberal_independant",
+     "periode": "2019-2024"
+    },
+    {
+     "poste": "Collaboratrice parlementaire",
+     "employeur": "Bénédicte Auzanot, députée",
+     "secteur": "politique",
+     "periode": "2022-2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "La déclaration HATVP est la seule source d'information sur son parcours : activité de « communication » en auto-entreprise de janvier 2019 à juillet 2024, doublée à partir d'août 2022 d'un poste de collaboratrice parlementaire de la députée RN Bénédicte Auzanot. La fiche Wikipédia (deux phrases) et la fiche de l'Assemblée nationale (« Profession libérale ») ne donnent aucun détail supplémentaire sur la nature exacte de cette activité de communication ni sur ses études. Elle est aussi mentionnée comme dirigeante du syndicat mixte du parc régional des Baronnies provençales (12/2021-03/2024), rôle probablement lié à un mandat local non documenté ailleurs, non repris dans la carrière professionnelle par prudence. Aucun diplôme ni établissement de formation trouvé.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Catherine_Rimbert",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA841981",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794442",
+   "nom": "Laurence Robert-Dehault",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Hypnothérapeute",
+     "employeur": "Micro-entreprise (activité libérale)",
+     "secteur": "liberal_independant",
+     "periode": "2017-2022"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "La déclaration HATVP confirme une activité d'hypnothérapeute en micro-entreprise (deux déclarations, 01/2017-06/2022 et 01/2019-06/2022), ce que corrobore la fiche Wikipédia (« Laurence Robert-Dehault est hypnothérapeute »), qui la présente aussi comme « issue d'une dynastie de maîtres de forges » sans autre précision professionnelle. Elle est conseillère départementale de la Haute-Marne depuis 2015 (mandat électif local, non traité comme emploi). L'hypnothérapie n'étant pas une profession réglementée à diplôme d'État en France (formations privées variées, non normalisées), aucune inférence de niveau de diplôme n'a été appliquée ; aucun établissement de formation n'a été identifié dans les sources consultées (Wikipédia, fiche AN, HATVP).",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Laurence_Robert-Dehault",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841927",
+   "nom": "Anne-Sophie Ronceret",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Collaboratrice parlementaire",
+     "employeur": "Aurore Bergé, députée",
+     "secteur": "politique",
+     "periode": "2019-2023"
+    },
+    {
+     "poste": "Cheffe de cabinet adjointe",
+     "employeur": "Ministère chargé de l'Égalité entre les femmes et les hommes",
+     "secteur": "politique",
+     "periode": "2024"
+    },
+    {
+     "poste": "Collaboratrice parlementaire",
+     "employeur": "Philippe Emmanuel, député",
+     "secteur": "politique",
+     "periode": "2023-2024"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": "La déclaration HATVP (une seule déclaration mais quatre lignes d'activité) montre une carrière exclusivement politique : collaboratrice parlementaire d'Aurore Bergé (01/2019-07/2023 puis 09/2024-01/2025), collaboratrice d'un autre député (08/2023-01/2024), et cheffe de cabinet adjointe au ministère chargé de l'Égalité femmes-hommes (01/2024-09/2024), poste confirmé par sa fiche Wikipédia qui précise sa nomination en janvier 2024 « au cabinet de la ministre déléguée [...] chargée de l'égalité entre les femmes et les hommes ». Elle devient députée en octobre 2024 en remplaçant Aurore Bergé nommée au gouvernement. Aucune activité professionnelle hors sphère politique n'a été trouvée, ni aucune information sur ses études (Wikipédia, HATVP et fiche AN muets sur ce point).",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Anne-Sophie_Ronceret",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA840673",
+   "nom": "Valérie Rossi",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Attachée parlementaire",
+     "employeur": "Joël Giraud, député",
+     "secteur": "politique",
+     "periode": "2016-2019"
+    },
+    {
+     "poste": "Agent commercial (conseillère en immobilier)",
+     "employeur": "Micro-entreprise",
+     "secteur": "liberal_independant",
+     "periode": "2019-2024"
+    },
+    {
+     "poste": "Attachée parlementaire",
+     "employeur": "Claire Bouchet, députée",
+     "secteur": "politique",
+     "periode": "2020-2022"
+    },
+    {
+     "poste": "Directrice",
+     "employeur": "Hautes-Alpes Emploi Relais (association)",
+     "secteur": "associatif",
+     "periode": "2023-2024"
+    },
+    {
+     "poste": "Maire de Puy-Sanières",
+     "employeur": "Mairie de Puy-Sanières",
+     "secteur": "politique",
+     "periode": "2001-2020"
+    },
+    {
+     "poste": "Conseillère départementale des Hautes-Alpes (canton de Chorges)",
+     "employeur": "Conseil départemental des Hautes-Alpes",
+     "secteur": "politique",
+     "periode": "2015-2024"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "Parcours très bien documenté par une déclaration HATVP détaillée (quatre déclarations, employeurs et dates nommés) et confirmé point par point par sa fiche Wikipédia : maire de Puy-Sanières de 2001 à 2020, conseillère départementale du canton de Chorges depuis 2015, puis « pendant neuf années la collaboratrice parlementaire des députés de la 2e circonscription des Hautes-Alpes, Joël Giraud et sa suppléante Claire Bouchet ». La HATVP précise en parallèle une activité d'agent commercial en immobilier (micro-entreprise, 2019-2024) et un poste de directrice de l'association Hautes-Alpes Emploi Relais (06/2023-08/2024, démission lors de son élection). Carrière donc mixte entre activité politique rémunérée (attachée parlementaire, mandats électifs) et activité indépendante/associative. Aucune information sur son niveau d'études n'a été trouvée dans aucune des sources consultées.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Val%C3%A9rie_Rossi_(femme_politique_fran%C3%A7aise)",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA342196",
+   "nom": "Claudia Rouaux",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Technicienne qualité et gestionnaire",
+     "employeur": "INRAE (Institut national de recherche pour l'agriculture, l'alimentation et l'environnement)",
+     "secteur": "public",
+     "periode": "2017-2020"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Poste confirmé de façon concordante par trois sources : la déclaration HATVP (« Gestionnaire », INRAE, 12/2017-03/2020, mise en disponibilité de la fonction publique lors de son entrée en fonction de députée), la fiche Wikipédia (référencée sur la fiche officielle de l'Assemblée nationale) et son propre site (claudiarouaux.fr), qui précise « Technicienne qualité et gestionnaire dans le domaine de la recherche » à l'INRAE. L'INRAE étant un établissement public à caractère scientifique et technologique, l'emploi est classé secteur public. Malgré la consultation de ces trois sources, aucune n'indique d'établissement de formation ni de diplôme : le niveau d'études reste donc inconnu, conformément à la règle d'honnêteté du projet plutôt que de risquer une déduction non fondée.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.claudiarouaux.fr/claudia-rouaux.php",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA342196",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841243",
+   "nom": "Sébastien Saint-Pasteur",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {
+     "institution": "Institut d'études politiques de Bordeaux (Sciences Po Bordeaux)",
+     "diplome": "Diplôme de l'IEP de Bordeaux",
+     "domaine": "sciences-politiques"
+    },
+    {
+     "institution": "Université de Pau et des Pays de l'Adour",
+     "diplome": "Non précisé (cursus antérieur/complémentaire cité dans l'infobox Wikipédia)",
+     "domaine": "inconnu"
+    }
+   ],
+   "fields": [
+    "sciences-politiques"
+   ],
+   "career": [
+    {
+     "poste": "Collaborateur de député",
+     "employeur": "Un député (non nommé)",
+     "secteur": "politique",
+     "periode": "2015-2017"
+    },
+    {
+     "poste": "Chargé de mission",
+     "employeur": "Conseil régional de Nouvelle-Aquitaine",
+     "secteur": "public",
+     "periode": "2018-2024"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "L'infobox de sa fiche Wikipédia (wikitexte brut) renseigne le champ « université = IEP Bordeaux / Université de Pau et des pays de l'Adour », source Wikipédia considérée fiable par les consignes du projet. Le diplôme de l'IEP de Bordeaux est reconnu grade de master (bac+5) ; le rôle exact de l'Université de Pau (licence antérieure, double cursus ?) n'est pas précisé dans le texte de l'article. La déclaration HATVP confirme par ailleurs un poste de collaborateur de député (01/2015-09/2017, secteur politique) puis de chargé de mission au Conseil régional de Nouvelle-Aquitaine (01/2018-07/2024, secteur public), en parallèle de mandats électifs locaux (conseiller départemental de la Gironde depuis 2015, conseiller municipal de Pessac). Carrière donc mixte entre emploi politique et emploi public territorial.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/S%C3%A9bastien_Saint-Pasteur",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA774960",
+   "nom": "Isabelle Santiago",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [
+    {
+     "institution": "inconnu (établissement non identifié)",
+     "diplome": "Concours d'attachée territoriale (catégorie A de la fonction publique territoriale), niveau supposé",
+     "domaine": "inconnu"
+    }
+   ],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Chargée de mission",
+     "employeur": "Région Île-de-France",
+     "secteur": "public",
+     "periode": "2015-2020"
+    },
+    {
+     "poste": "Cheffe de cabinet",
+     "employeur": "Parti socialiste",
+     "secteur": "politique",
+     "periode": "2016-2017"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "La déclaration HATVP est très informative : elle confirme un poste de « chargée de mission » à la Région Île-de-France (01/2015-11/2015 puis 04/2018-09/2020, avec la précision explicite « en congé pour convenance personnelle de la fonction publique territoriale lié au mandat de députée »), ce qui établit qu'elle est titulaire de la fonction publique territoriale, cohérent avec sa profession déclarée « Cadre territorial ». Elle a aussi été cheffe de cabinet au Parti socialiste (01/2016-09/2017, secteur politique). Sa fiche Wikipédia ne documente que ses mandats électifs locaux (Alfortville, Val-de-Marne) sans détailler son activité professionnelle. Le statut de titulaire de la fonction publique territoriale en catégorie A (cadre/chargée de mission, assimilable à attachée territoriale) implique en général un diplôme de niveau bac+3_4 ; inférence de profession réglementée, d'où le plafonnement de la confiance à moyenne. Aucun établissement ni diplôme précis n'a pu être identifié.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Isabelle_Santiago",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA757225",
+   "nom": "Mikaele Seo",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Agent d'entretien",
+     "employeur": "Un collège de Wallis (établissement non nommé)",
+     "secteur": "public",
+     "periode": "inconnu"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "basse",
+   "notes": "Sa fiche Wikipédia indique seulement : « Il a travaillé comme agent d'entretien dans un collège de Wallis », sans nom d'établissement ni dates. Cela correspond à un poste d'agent technique de catégorie C de la fonction publique (secteur public, l'enseignement à Wallis-et-Futuna relevant de l'État), classé public. La déclaration HATVP ne contient aucune ligne d'activité professionnelle pour lui (seulement ses mandats à l'Assemblée territoriale). Contrairement à la catégorie « profession intermédiaire administrative de la fonction publique » déclarée à l'Assemblée nationale, aucune source ne confirme un poste de ce niveau : agent d'entretien ne figure pas parmi les professions réglementées permettant une inférence de diplôme, donc le niveau d'études reste inconnu plutôt que déduit par excès.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Mikaele_Seo",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA841091",
+   "nom": "Arnaud Simion",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Cadre de la fonction publique (poste précis non identifié)",
+     "employeur": "inconnu",
+     "secteur": "public",
+     "periode": "inconnu"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "basse",
+   "notes": "Aucune source consultée (Wikipédia, HATVP, fiche AN) ne documente d'activité professionnelle précise : la déclaration HATVP ne contient aucune ligne d'« activité », seulement des mandats électifs (conseiller départemental de la Haute-Garonne depuis 2015, vice-président depuis 2021) et des fonctions de représentant dans des organismes (ALTEAL, SDIS31, Mission locale 31, Centre départemental de l'enfance et de la famille), qui relèvent vraisemblablement de ses mandats électifs plutôt que d'un emploi. Sa fiche Wikipédia ne mentionne aucune profession, le champ « profession » de l'infobox étant vide. Seule la profession déclarée à l'Assemblée nationale (« Cadre de la fonction publique ») donne une indication de secteur (public), retenue ici avec une confiance basse faute de corroboration. Aucune information sur son niveau d'études n'a été trouvée.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Arnaud_Simion",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA267794",
+   "nom": "Michèle Tabarot",
+   "highest_degree_level": "bac_ou_moins",
+   "degrees": [
+    {
+     "institution": "non précisée",
+     "diplome": "Études de droit interrompues vers 20-21 ans (aucun diplôme obtenu)",
+     "domaine": "droit"
+    }
+   ],
+   "fields": [
+    "droit"
+   ],
+   "career": [
+    {
+     "poste": "Adjointe au maire du Cannet puis maire du Cannet",
+     "employeur": "Mairie du Cannet",
+     "secteur": "politique",
+     "periode": "1983-2017"
+    },
+    {
+     "poste": "Chef d'entreprise (profession déclarée à l'Assemblée nationale, détails non identifiés)",
+     "employeur": "inconnu",
+     "secteur": "liberal_independant",
+     "periode": "inconnu"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "Le wikitexte de sa fiche Wikipédia est explicite : « À 20 ans, elle aurait été la plus jeune adjointe de France et abandonne ses études de droit pour faire carrière en politique », désignée par Pierre Bachelet, maire RPR du Cannet, en 1983. Aucun diplôme n'est mentionné comme obtenu : conformément à la règle du projet sur les études inachevées, le niveau retenu est donc bac_ou_moins (le baccalauréat étant supposé acquis pour l'entrée en fac de droit, mais aucune licence). Sa carrière documentée est ensuite exclusivement politique : adjointe puis maire du Cannet (1983-2017), députée des Alpes-Maritimes depuis 2002, secrétaire générale de l'UMP/LR (2012-2014). La profession déclarée à l'Assemblée nationale, « Chef d'entreprise » (catégorie INSEE « chefs d'entreprise de plus de 10 personnes »), n'a pu être corroborée par aucune source (pas de nom d'entreprise, pas de dates) malgré la recherche ; elle est retenue à titre indicatif avec une confiance faible, sans remettre en cause le caractère très majoritairement politique de son parcours documenté.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Mich%C3%A8le_Tabarot",
+     "pour": "both"
+    }
+   ]
+  },
+  {
+   "uid": "PA793382",
+   "nom": "Emmanuel Taché",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Assistant parlementaire",
+     "employeur": "Brigitte Le Brethon, députée UMP du Calvados",
+     "secteur": "politique",
+     "periode": "inconnu"
+    },
+    {
+     "poste": "Chargé de mission campagne présidentielle",
+     "employeur": "AFMLP (association de financement de campagne)",
+     "secteur": "politique",
+     "periode": "2016-2017"
+    },
+    {
+     "poste": "Conseiller technique (chargé de communication)",
+     "employeur": "Groupe des eurodéputés RN, Parlement européen",
+     "secteur": "politique",
+     "periode": "2018-2021"
+    },
+    {
+     "poste": "Agent contractuel de la fonction publique territoriale",
+     "employeur": "Conseil régional des Hauts-de-France",
+     "secteur": "public",
+     "periode": "2021-2022"
+    },
+    {
+     "poste": "Correcteur examinateur de jury",
+     "employeur": "INSEEC",
+     "secteur": "prive",
+     "periode": "2023"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": "Parcours bien documenté et concordant entre la déclaration HATVP (trois déclarations, employeurs nommés) et sa fiche Wikipédia : assistant parlementaire de Brigitte Le Brethon (UMP), rejoint le Front national en 2012, chargé de mission pour la campagne présidentielle de 2016-2017 (AFMLP), puis collaborateur du groupe des eurodéputés RN au Parlement européen comme chargé de communication (2018-2021, confirmé par les deux sources), puis agent contractuel au Conseil régional des Hauts-de-France (2021-2022). La HATVP mentionne aussi une mission ponctuelle de correcteur-examinateur de jury pour l'école de commerce INSEEC en août 2023, activité isolée qui ne permet toutefois pas d'inférer un diplôme personnel (rôle d'examinateur externe, pas nécessairement un ancien élève). Aucune information sur ses études (établissement, diplôme) n'a été trouvée dans aucune source consultée.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/livraison/merge/declarations.xml",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Emmanuel_Tach%C3%A9",
+     "pour": "both"
+    }
+   ]
+  }
+ ]
+}

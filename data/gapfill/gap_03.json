@@ -1,0 +1,24 @@
+{
+  "deputies": [
+    {
+      "uid": "PA610968",
+      "nom": "Pouria Amirshahi",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {
+          "institution": "Universite Paris 1 Pantheon-Sorbonne",
+          "diplome": "Diplome en droit",
+          "domaine": "droit"
+        },
+        {
+          "institution": "Universite Paris 1 Pantheon-Sorbonne",
+          "diplome": "Diplome en administration economique et sociale (AES)",
+          "domaine": "economie"
+        }
+      ],
+      "fields": ["droit", "economie"],
+      "confidence": "moyenne",
+      "notes": "Sa fiche IRIS indique qu'il est diplome en droit et en administration economique et sociale (AES) a Paris 1 Pantheon-Sorbonne, sans preciser le niveau exact (licence/maitrise); il a ete president de l'Unef-ID pendant ses etudes (source: https://www.iris-france.org/en/chercheurs/pouria-amirshahi-2/)."
+    }
+  ]
+}

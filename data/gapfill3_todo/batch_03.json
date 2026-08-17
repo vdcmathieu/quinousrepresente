@@ -1,0 +1,279 @@
+[
+ {
+  "uid": "PA840119",
+  "num": "840119",
+  "nom": "Sandra Delannoy",
+  "groupe": "Non inscrit",
+  "dept": "Nord",
+  "circo": "3",
+  "naissance": "1974-05-01",
+  "profession_declaree": "(21) - Artisan",
+  "insee": "Artisans",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Artisan torréfactrice (entreprise individuelle) @ Entreprise individuelle [liberal_independant] 07/2019-06/2024"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Sandra_Delannoy",
+  "wiki_trimmed": "data/wiki_trimmed/PA840119.txt",
+  "notes_actuelles": "Déclaration HATVP consultée directement : activité d'artisan torréfactrice en entreprise individuelle de juillet 2019 à juin 2024 (revenus déclarés par année). Également administratrice de la CAF du Nord et élue à la Chambre de métiers et de l'artisanat des Hauts-de-France (2021-2024, mandats non rémunérés en tant que tels hors indemnités). Aucun diplôme mentionné dans la déclaration HATVP ni ailleurs (site personnel sandra-delannoy.com, Wikipédia, recherche web ciblée) : reste inconnu."
+ },
+ {
+  "uid": "PA841059",
+  "num": "841059",
+  "nom": "Catherine Dellong Meng",
+  "groupe": "Rassemblement National",
+  "dept": "Gard",
+  "circo": "3",
+  "naissance": "1960-05-04",
+  "profession_declaree": "Cadre territoriale de la fonction publique retraitée",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Cadre territoriale (direction des finances) @ Mairie d'Avignon, Communauté d'agglomération du Grand Avignon, Opéra d'Avignon, Ville du Pontet (employeurs successifs) [public] jusqu'au 01/01/2026 (retraite)",
+   "Responsable du contrôle de gestion externe @ Communauté d'agglomération du Grand Avignon [public] 2021"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Catherine_Dellong-Meng",
+  "wiki_trimmed": "data/wiki_trimmed/PA841059.txt",
+  "notes_actuelles": "Carrière de cadre de la fonction publique territoriale à la direction des finances de la mairie d'Avignon, de la communauté d'agglomération du Grand Avignon, de l'Opéra d'Avignon puis de la ville du Pontet ; responsable du contrôle de gestion externe au Grand Avignon en 2021. Retraitée au 1er janvier 2026. Source : article ICI Vaucluse consulté directement. Aucune information sur ses diplômes trouvée (déclaration HATVP déposée mais publication en attente au moment de la recherche, Wikipédia, recherche web ciblée) : reste inconnu."
+ },
+ {
+  "uid": "PA794982",
+  "num": "794982",
+  "nom": "Julie Delpech",
+  "groupe": "Ensemble pour la République",
+  "dept": "Sarthe",
+  "circo": "1",
+  "naissance": "1989-09-25",
+  "profession_declaree": "Chargée de communication",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Attachée parlementaire du sénateur Jean-Claude Boulard @ Sénat (cabinet du sénateur Boulard, PS) [politique] 2014-2017",
+   "Collaboratrice de cabinet @ Mairie du Mans [politique] 10/2017-08/2018",
+   "Chargée de communication et déléguée générale du Fonds de solidarité @ Oui Care (ex-O2, services à la personne, Le Mans) [prive] 07/2018-05/2022"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Julie_Delpech",
+  "wiki_trimmed": "data/wiki_trimmed/PA794982.txt",
+  "notes_actuelles": "Déclaration HATVP (PDF consulté directement) : chargée de communication chez Oui Care (ex-O2, services à la personne, Le Mans) de juillet 2018 à mai 2022, puis présidente bénévole de l'association Les Simones (10/2021-07/2022). Avant cela, selon la presse (ICI Sarthe, article consulté directement) : attachée parlementaire du sénateur PS Jean-Claude Boulard (2014-2017) puis collaboratrice du cabinet du maire du Mans (10/2017-08/2018) — deux postes relevant du secteur « politique » (collaboration d'élu) et non de la fonction publique statutaire. Le poste le plus récent et le mieux documenté avan"
+ },
+ {
+  "uid": "PA722382",
+  "num": "722382",
+  "nom": "Benjamin Dirx",
+  "groupe": "Ensemble pour la République",
+  "dept": "Saône-et-Loire",
+  "circo": "1",
+  "naissance": "1979-01-25",
+  "profession_declaree": "Industriel-Chef d'entreprise",
+  "insee": "Commerçants et assimilés",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "carriere_connue": [
+   "Cadre dirigeant @ Entreprise familiale (non nommée) [prive] non précisée, avant création d'entreprise",
+   "Entrepreneur, secteur de la formation professionnelle continue @ Entreprise créée par lui-même (non nommée avec certitude) [liberal_independant] avant 2017"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Benjamin_Dirx",
+  "wiki_trimmed": "data/wiki_trimmed/PA722382.txt",
+  "notes_actuelles": "A fait toute sa scolarité à Mâcon (école des Blanchettes, collège Saint-Exupéry, lycée Lamartine) puis ses études universitaires à l'Université de Bourgogne (Dijon), sans diplôme précisé (Wikipédia, consulté directement). Carrière : cadre dirigeant dans une entreprise familiale, puis créateur d'entreprise dans le secteur de la formation tout au long de la vie (Wikipédia). Une synthèse de recherche web a évoqué des postes chez « IFPAD » et comme chargé de mission pour le « GIP FIPAN », mais ce dernier organisme est basé dans l'académie de Nice (Alpes-Maritimes/Var), ce qui est incohérent avec l"
+ },
+ {
+  "uid": "PA793146",
+  "num": "793146",
+  "nom": "Nicolas Dragon",
+  "groupe": "Rassemblement National",
+  "dept": "Aisne",
+  "circo": "1",
+  "naissance": "1977-04-19",
+  "profession_declaree": "Profession libérale",
+  "insee": "Professions libérales",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Consultant indépendant en communication et relations publiques @ Activité indépendante [liberal_independant] 01/2019-06/2022"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Nicolas_Dragon",
+  "wiki_trimmed": "data/wiki_trimmed/PA793146.txt",
+  "notes_actuelles": "Déclaration HATVP : consultant indépendant en communication et relations publiques de janvier 2019 à juin 2022 (déjà identifié dans les notes existantes, reconfirmé lors de cette recherche). Engagé en politique locale depuis l'adolescence (RPR puis RN) mais sans mandat rémunéré à plein temps avant son élection. Aucun diplôme trouvé malgré recherche (site personnel nicolasdragon.com/a-propos consulté directement, Wikipédia, recherche web ciblée) : reste inconnu."
+ },
+ {
+  "uid": "PA841633",
+  "num": "841633",
+  "nom": "Peio Dufau",
+  "groupe": "Socialistes et apparentés",
+  "dept": "Pyrénées-Atlantiques",
+  "circo": "6",
+  "naissance": "1979-05-30",
+  "profession_declaree": "(48) - Contremaître, agent de maîtrise",
+  "insee": "Agents de maîtrise (hors maîtrise administrative)",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Agent de maîtrise / surveillant travaux bâtiments ferroviaires @ SNCF Gares & Connexions [public] 1999-2024 (HATVP: 2019-2024)"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Peio_Dufau",
+  "wiki_trimmed": "data/wiki_trimmed/PA841633.txt",
+  "notes_actuelles": "Cheminot à la SNCF depuis 1999 comme agent de maîtrise sur des chantiers de bâtiments ferroviaires ; la déclaration HATVP confirme le poste précis de « Surveillant Travaux Bâtiments » chez SA SNCF Gares & Connexions de janvier 2019 à juillet 2024, avec rémunération. SNCF traité comme employeur du secteur public (entreprise publique), conformément à la convention du projet. Aucune information trouvée sur son niveau de diplôme (Wikipédia, HATVP, recherches web) : le grade d'agent de maîtrise s'obtient généralement par promotion interne sans diplôme post-bac précis identifié, donc diplôme laissé "
+ },
+ {
+  "uid": "PA794718",
+  "num": "794718",
+  "nom": "Christine Engrand",
+  "groupe": "Non inscrit",
+  "dept": "Pas-de-Calais",
+  "circo": "6",
+  "naissance": "1955-05-07",
+  "profession_declaree": "Cadre administratif et commercial d'entreprise",
+  "insee": "Cadres des services administratifs et commerciaux d’entreprise",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Professeure d'anglais @ inconnu (établissement non précisé) [inconnu] inconnu",
+   "Directrice commerciale @ Kiabi (Boulogne, Saint-Martin) [prive] inconnu",
+   "Responsable Duty Free @ Eurotunnel [prive] inconnu",
+   "Directrice de neuf agences d'intérim sur la Côte d'Opale @ inconnu (réseau d'agences d'intérim) [prive] inconnu",
+   "Directrice commerciale @ Organisme de formation [prive] inconnu"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Christine_Engrand",
+  "wiki_trimmed": "data/wiki_trimmed/PA794718.txt",
+  "notes_actuelles": "Carrière privée bien documentée par deux sources de presse régionale distinctes (radio6.fr, lechodusud.com, 75secondes.fr) : professeure d'anglais en début de carrière puis reconversion dans le commerce et la formation (Kiabi, Eurotunnel, agences d'intérim, organisme de formation). Le niveau de diplôme n'est précisé nulle part : le titre de « professeure d'anglais » n'est pas une profession réglementée à titre protégé unique (contrairement à professeur des écoles) et pourrait correspondre à un enseignement privé/associatif sans certification d'État confirmée ; par honnêteté, diplôme et champ d"
+ },
+ {
+  "uid": "PA795844",
+  "num": "795844",
+  "nom": "Karen Erodi",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Tarn",
+  "circo": "2",
+  "naissance": "1977-02-04",
+  "profession_declaree": "Profession libérale",
+  "insee": "Professions libérales",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Gérante @ SARL Économie et Construction [liberal_independant] 2010-2024 (HATVP: 2019-2024)",
+   "Secrétaire comptable @ Comité régional CGT Occitanie [associatif] fev-juil 2022"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Karen_Erodi",
+  "wiki_trimmed": "data/wiki_trimmed/PA795844.txt",
+  "notes_actuelles": "Cheffe d'entreprise dans le secteur du bâtiment (économie de la construction) depuis 2010, confirmé par Wikipédia et par la déclaration HATVP (gérante à 100% de la SARL Économie et Construction, 2019-2024, avec chiffres de rémunération annuels). Bref épisode salarié associatif (secrétaire comptable au comité régional CGT Occitanie, 5 mois en 2022). Aucune information trouvée sur son niveau d'études malgré recherches ciblées (nom de l'entreprise « Économie et Construction » évoque un possible lien avec un BTS Études et Économie de la Construction, mais ce rapprochement n'est pas confirmé par un"
+ },
+ {
+  "uid": "PA841621",
+  "num": "841621",
+  "nom": "Auguste Evrard",
+  "groupe": "Rassemblement National",
+  "dept": "Pas-de-Calais",
+  "circo": "8",
+  "naissance": "2000-05-04",
+  "profession_declaree": "Collaborateur de cabinet en mairie",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "politique_principalement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Assistant parlementaire du député européen Philippe Olivier @ Parlement européen / Philippe Olivier [politique] à partir de 2019",
+   "Collaborateur de cabinet @ Mairie de Bruay-la-Buissière (maire Ludovic Pajot, RN) [politique] inconnu (avant 2024)"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Auguste_%C3%89vrard",
+  "wiki_trimmed": "data/wiki_trimmed/PA841621.txt",
+  "notes_actuelles": "Carrière exclusivement politique dès la fin de l'adolescence : il interrompt ses études pour devenir assistant parlementaire de Philippe Olivier (député européen RN, beau-frère de Marine Le Pen), puis collaborateur de cabinet du maire RN de Bruay-la-Buissière Ludovic Pajot. Sources consultées : Wikipédia, fiche Assemblée nationale (PA841621) et recherches web ciblées (Le Monde, presse) : aucune ne précise quel type d'études (BTS, licence, IEP...) a été interrompu ni le niveau atteint avant interruption. Diplôme laissé honnêtement inconnu."
+ },
+ {
+  "uid": "PA840773",
+  "num": "840773",
+  "nom": "Olivier Fayssat",
+  "groupe": "Union des droites pour la République",
+  "dept": "Bouches-du-Rhône",
+  "circo": "6",
+  "naissance": "1968-03-24",
+  "profession_declaree": "Dirigeant d'entreprise",
+  "insee": "Chefs d'entreprise de plus de 10 personnes",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "haute"
+  },
+  "carriere_connue": [
+   "Courtier en assurances, co-fondateur et dirigeant @ S2C Sud Courtage et Conseil (avec Alain de Gasquet) [liberal_independant] env. 2018 (société fondée il y a ~15 ans avant 2024)",
+   "Activité tourisme (camping) et gestion locative immobilière @ SAS Bonporteau / SCI diverses [liberal_independant] depuis 2018"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Olivier_Fayssat",
+  "wiki_trimmed": "data/wiki_trimmed/PA840773.txt",
+  "notes_actuelles": "Chef d'entreprise dans le courtage d'assurances, co-fondateur de S2C Sud Courtage et Conseil avec Alain de Gasquet, confirmé par la déclaration HATVP (rémunérations 2018-2024) et par la presse (« courtier en assurances », site Eurosud-assurances mentionnant S2C). Diversifié aussi dans l'immobilier locatif et le tourisme (camping, via SAS Bonporteau). Aucune information trouvée sur sa formation ou ses diplômes malgré recherches ciblées (Wikipédia, HATVP, presse) : diplôme laissé inconnu."
+ },
+ {
+  "uid": "PA841251",
+  "num": "841251",
+  "nom": "Mathilde Feld",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Gironde",
+  "circo": "12",
+  "naissance": "1969-04-28",
+  "profession_declaree": "(33) - Cadre de la fonction publique",
+  "insee": "Cadres administratifs et techniques de la fonction publique",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "public_uniquement",
+   "confiance": "moyenne"
+  },
+  "carriere_connue": [
+   "Attachée territoriale, directrice générale adjointe @ Communauté de communes du Grand Saint-Émilionnais [public] 2019-2024",
+   "Présidente @ Communauté de communes du Créonnais [politique] 2014-2020",
+   "Adjointe au maire de Créon @ Mairie de Créon [politique] 2020-2024"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Mathilde_Feld",
+  "wiki_trimmed": "data/wiki_trimmed/PA841251.txt",
+  "notes_actuelles": "Fonctionnaire territoriale (attachée territoriale), directrice générale adjointe de la communauté de communes du Grand Saint-Émilionnais de 2019 à 2024, confirmé par la déclaration HATVP (rémunérations annuelles détaillées) et son site officiel. A aussi occupé des mandats politiques locaux (présidente de communauté de communes, adjointe au maire). Le grade d'attaché territorial (catégorie A de la fonction publique territoriale) s'obtient en général par concours externe nécessitant une licence, mais peut aussi s'obtenir par promotion interne sans ce prérequis ; en l'absence de confirmation de l"
+ },
+ {
+  "uid": "PA794786",
+  "num": "794786",
+  "nom": "Emmanuel Fernandes",
+  "groupe": "La France insoumise - Nouveau Front Populaire",
+  "dept": "Bas-Rhin",
+  "circo": "2",
+  "naissance": "1980-08-10",
+  "profession_declaree": "Profession intermédiaire administrative et commerciale des entreprises",
+  "insee": "Professions intermédiaires administratives et commerciales des entreprises",
+  "actuel": {
+   "diplome": "inconnu",
+   "profil": "prive_uniquement",
+   "confiance": "moyenne"
+  },
+  "carriere_connue": [
+   "Coordinateur S.I. Métier @ Flender [prive] 2019-2022"
+  ],
+  "frwiki": "https://fr.wikipedia.org/wiki/Emmanuel_Fernandes",
+  "wiki_trimmed": "data/wiki_trimmed/PA794786.txt",
+  "notes_actuelles": "Venu à Strasbourg en 2002 pour ses études (institution et diplôme non identifiés). La déclaration HATVP révèle un emploi salarié précis dans le privé : coordinateur systèmes d'information « métier » chez Flender (groupe industriel d'engrenages) de juin 2019 à juin 2022, avec rémunérations annuelles. Un article de France 3 (2022) mentionne qu'il a « travaillé à Illkirch-Graffenstaden pendant plus de 16 ans » sans préciser l'employeur ni le poste sur cette période plus longue ; son site officiel et les réseaux sociaux ne détaillent pas non plus sa formation. Diplôme laissé inconnu par honnêteté "
+ }
+]

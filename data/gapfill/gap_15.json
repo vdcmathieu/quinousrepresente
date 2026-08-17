@@ -1,0 +1,67 @@
+{
+  "deputies": [
+    {
+      "uid": "PA793334",
+      "nom": "Cyril Tribuiani",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [
+        {
+          "institution": "inconnu",
+          "diplome": "baccalaureat professionnel comptabilite",
+          "domaine": "gestion-commerce"
+        }
+      ],
+      "fields": ["gestion-commerce"],
+      "career": [
+        {
+          "poste": "Employe grande distribution",
+          "employeur": "Carrefour",
+          "secteur": "prive",
+          "periode": "10 ans, a partir de 18 ans"
+        },
+        {
+          "poste": "Agent d'assurances",
+          "employeur": "Axa",
+          "secteur": "prive",
+          "periode": "inconnu"
+        },
+        {
+          "poste": "Collaborateur parlementaire",
+          "employeur": "Bryan Masson (depute RN)",
+          "secteur": "politique",
+          "periode": "a partir de 2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Bac pro comptabilite a 18 ans puis 10 ans chez Carrefour, ensuite agent d'assurances chez Axa avant de devenir collaborateur de Bryan Masson (source: https://nicepresse.com/pres-de-nice-a-cagnes-sur-mer-le-depart-du-depute-vers-la-mairie-propulse-son-suppleant-a-lassemblee-ce-quil-faut-savoir-de-cyril-tribuiani/)."
+    },
+    {
+      "uid": "PA793298",
+      "nom": "Lionel Tivoli",
+      "career": [
+        {
+          "poste": "Chef d'entreprise (fabrication et vente d'e-liquides)",
+          "employeur": "inconnu",
+          "secteur": "liberal_independant",
+          "periode": "a partir de 2013"
+        },
+        {
+          "poste": "Assistant de groupe",
+          "employeur": "Ville d'Antibes",
+          "secteur": "public",
+          "periode": "06/2020-06/2022"
+        }
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": "Declaration HATVP: assistant de groupe salarie par la Ville d'Antibes 2020-2022, en parallele de son entreprise d'e-liquides fondee en 2013 (source: https://www.hatvp.fr/pages_nominatives/tivoli-lionel-24176)."
+    }
+  ]
+}

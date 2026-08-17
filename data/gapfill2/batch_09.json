@@ -1,0 +1,581 @@
+{
+ "deputies": [
+  {
+   "uid": "PA840857",
+   "nom": "Nadine Lechon",
+   "highest_degree_level": "bac_ou_moins",
+   "degrees": [],
+   "fields": [
+    "medecine-sante"
+   ],
+   "career": [
+    {
+     "poste": "Ambulancière",
+     "employeur": "Secteur privé, entre Périgueux et Bergerac",
+     "secteur": "prive",
+     "periode": "inconnu (jeunesse)"
+    },
+    {
+     "poste": "Viticultrice/agricultrice (exploitation familiale)",
+     "employeur": "Exploitation familiale, Le Fleix (Dordogne)",
+     "secteur": "liberal_independant",
+     "periode": "à partir d'environ 2000 (37 ans)"
+    },
+    {
+     "poste": "Commerçante, boutique de vêtements",
+     "employeur": "Commerce indépendant, rue du Colonel-de-Chadois, Bergerac",
+     "secteur": "liberal_independant",
+     "periode": "inconnu, jusqu'à il y a 2-3 ans"
+    },
+    {
+     "poste": "Exploitante agricole et viticole (kiwis)",
+     "employeur": "Exploitation familiale, Le Fleix / Saint-Avit-Saint-Nazaire",
+     "secteur": "liberal_independant",
+     "periode": "reprise il y a 2-3 ans - aujourd'hui"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Carrière bien documentée par un portrait de presse régionale (France Bleu/ici.fr) : ambulancière entre Périgueux et Bergerac dans sa jeunesse, puis viticultrice à 37 ans avec son mari, puis commerçante (boutique de vêtements à Bergerac), puis retour à l'agriculture (vigne et kiwis) depuis 2-3 ans. Aucun diplôme n'est mentionné explicitement dans les sources. Le niveau bac_ou_moins est une inférence à partir de la profession réglementée d'ambulancière (le diplôme d'État d'ambulancier, DEA, est un titre professionnel de niveau infra-bac+2, accessible sans le baccalauréat) ; confiance abaissée à moyenne en conséquence, conformément à la règle sur les inférences de profession réglementée. Sources consultées : fiche AN, Wikipédia FR et EN, article France Bleu/ici.fr.",
+   "sources": [
+    {
+     "url": "https://www.ici.fr/infos/politique/legislatives-en-dordogne-qui-est-nadine-lechon-elue-deputee-rn-de-perigueux-et-la-vallee-de-l-isle-8322220",
+     "pour": "both"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Nadine_Lechon",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Nadine_Lechon",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA795298",
+   "nom": "Jérôme Legavre",
+   "highest_degree_level": "bac+3_4",
+   "degrees": [],
+   "fields": [
+    "lettres-langues",
+    "enseignement"
+   ],
+   "career": [
+    {
+     "poste": "Professeur de lettres (français)",
+     "employeur": "Éducation nationale, académie d'Amiens (Oise)",
+     "secteur": "public",
+     "periode": "inconnu, avant 2022"
+    },
+    {
+     "poste": "Employé administratif",
+     "employeur": "ACTE (association ; nature exacte non confirmée)",
+     "secteur": "inconnu",
+     "periode": "2019-2022 (déclaration HATVP)"
+    },
+    {
+     "poste": "Secrétaire de l'union locale de Compiègne, militant syndical FNEC-FP-FO",
+     "employeur": "Force Ouvrière",
+     "secteur": "associatif",
+     "periode": "avant 2017"
+    },
+    {
+     "poste": "Membre de la direction nationale du Parti ouvrier indépendant",
+     "employeur": "Parti ouvrier indépendant (POI)",
+     "secteur": "politique",
+     "periode": "depuis 2017"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Wikipédia confirme qu'il a été professeur de français à l'Éducation nationale dans l'Oise, avant d'être élu. Sa déclaration HATVP (fiche consultée) mentionne un emploi administratif chez une entité abrégée « ACTE » de janvier 2019 à juin 2022, dont la nature exacte (association, structure syndicale ?) n'a pas pu être confirmée ; elle ne semble pas remettre en cause le profil « fonction publique » dominant. Aucun diplôme n'est cité nommément. Le niveau bac+3_4 est une inférence à partir de la profession réglementée de professeur de lettres (le CAPES de lettres a longtemps exigé au minimum une licence, avant la mastérisation de 2010) ; confiance abaissée à moyenne en conséquence. Sources consultées : fiche AN, Wikipédia FR/EN, HATVP, export JSON nosdeputes.fr.",
+   "sources": [
+    {
+     "url": "http://www.hatvp.fr/fiche-nominative/?declarant=legavre-jerome-24276",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Legavre",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA795298",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794838",
+   "nom": "Didier Lemaire",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Sapeur-pompier volontaire",
+     "employeur": "SDIS du Haut-Rhin",
+     "secteur": "public",
+     "periode": "à partir de 16 ans"
+    },
+    {
+     "poste": "Sapeur-pompier professionnel",
+     "employeur": "SDIS du Haut-Rhin, centre de secours principal de Mulhouse puis Altkirch",
+     "secteur": "public",
+     "periode": "2003-2018"
+    },
+    {
+     "poste": "Adjudant-chef, adjoint au chef de centre de secours d'Altkirch",
+     "employeur": "SDIS du Haut-Rhin",
+     "secteur": "public",
+     "periode": "2011-2018"
+    },
+    {
+     "poste": "Agent au centre opérationnel départemental d'incendie et de secours (CODIS)",
+     "employeur": "SDIS du Haut-Rhin, Colmar",
+     "secteur": "public",
+     "periode": "2018-2022"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Carrière de sapeur-pompier professionnel bien documentée et confirmée par sa déclaration HATVP (employeur SDIS du Haut-Rhin, janvier 2018-juin 2022, avec rémunérations annuelles précises) et par Wikipédia. Aucune mention d'un diplôme ou d'une formation académique spécifique dans les sources consultées (fiche AN, Wikipédia FR/EN, HATVP) ; le concours de sapeur-pompier professionnel ne requiert pas de diplôme universitaire, donc pas d'inférence de niveau appliquée. Diplôme laissé inconnu par honnêteté.",
+   "sources": [
+    {
+     "url": "http://www.hatvp.fr/fiche-nominative/?declarant=lemaire-didier-24312",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Didier_Lemaire",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA794838",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA721632",
+   "nom": "Patricia Lemoine",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Agent immobilier",
+     "employeur": "inconnu",
+     "secteur": "liberal_independant",
+     "periode": "avant sa carrière politique (source Who's Who)"
+    },
+    {
+     "poste": "Directrice de cabinet",
+     "employeur": "inconnu (cabinet d'un élu local, non identifié)",
+     "secteur": "politique",
+     "periode": "avant 2018 (profession déclarée à l'Assemblée nationale)"
+    },
+    {
+     "poste": "Maire de Condé-Sainte-Libiaire",
+     "employeur": "Commune de Condé-Sainte-Libiaire",
+     "secteur": "politique",
+     "periode": "jusqu'en 2018"
+    },
+    {
+     "poste": "Présidente de la communauté de communes du Pays Créçois",
+     "employeur": "CC du Pays Créçois",
+     "secteur": "politique",
+     "periode": "jusqu'en 2018"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "La fiche Who's Who France (déjà identifiée lors d'une recherche précédente, non re-consultable en détail car le contenu est chargé en JavaScript) la présente comme agent immobilier avant sa carrière politique. L'export de données nosdeputes.fr/Assemblée nationale indique par ailleurs la profession déclarée « Directrice de cabinet » lors de son entrée en fonction en 2018, en cohérence avec ses mandats de maire et de présidente de communauté de communes. Étant donné le poids des fonctions politiques (directrice de cabinet d'élu, maire, présidente de CC) par rapport au bref épisode d'agent immobilier, le profil retenu est « politique_principalement ». Aucun diplôme trouvé malgré la recherche (fiche AN, Wikipédia FR/EN, Who's Who, JSON nosdeputes.fr).",
+   "sources": [
+    {
+     "url": "https://www.whoswho.fr/biographie/patricia-lemoine_81929",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Patricia_Lemoine",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.nosdeputes.fr/deputes/json",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA795244",
+   "nom": "Stéphane Lenormand",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Ancien cadre (secteur et employeur non précisés)",
+     "employeur": "inconnu",
+     "secteur": "inconnu",
+     "periode": "avant 2017"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "basse",
+   "notes": "Aucune source n'a permis de préciser son emploi de « cadre » avant sa carrière politique : la fiche AN et Wikipédia FR/EN ne mentionnent que la profession déclarée « Ancien cadre » ; l'article de portrait la1ere.francetvinfo.fr cité par Wikipédia n'est plus accessible (404) et aucun résultat pertinent n'a été trouvé via les moteurs de recherche alternatifs (Marginalia). Le classement « public_uniquement » repose uniquement sur la catégorie INSEE de la profession déclarée (« Cadres administratifs et techniques de la fonction publique »), d'où une confiance basse maintenue. Diplôme laissé inconnu.",
+   "sources": [
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA795244",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/St%C3%A9phane_Lenormand",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA774958",
+   "nom": "Gérard Leseul",
+   "highest_degree_level": "bac_ou_moins",
+   "degrees": [
+    {
+     "institution": "Lycée Corneille de Rouen",
+     "diplome": "Scolarité secondaire (aucun établissement d'enseignement supérieur identifié)",
+     "domaine": "inconnu"
+    }
+   ],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Stagiaire puis attaché de presse, cabinet ministériel",
+     "employeur": "Cabinet de Jean-Marie Bockel, secrétaire d'État puis ministre du Commerce, de l'Artisanat et du Tourisme",
+     "secteur": "politique",
+     "periode": "à partir de 1985"
+    },
+    {
+     "poste": "Collaborateur parlementaire",
+     "employeur": "Jean-Marie Bockel puis Jean Beaufils",
+     "secteur": "politique",
+     "periode": "fin des années 1980-1990"
+    },
+    {
+     "poste": "Patron d'une PME du secteur de l'imprimerie",
+     "employeur": "PME (imprimerie)",
+     "secteur": "prive",
+     "periode": "avant 1994"
+    },
+    {
+     "poste": "Professeur remplaçant dans les collèges",
+     "employeur": "Éducation nationale",
+     "secteur": "public",
+     "periode": "inconnu"
+    },
+    {
+     "poste": "Professeur associé en éco-gestion, Faculté de Lettres",
+     "employeur": "Université de Rouen",
+     "secteur": "public",
+     "periode": "1994-2020"
+    },
+    {
+     "poste": "Responsable des affaires publiques et de la RSE",
+     "employeur": "Crédit Mutuel",
+     "secteur": "prive",
+     "periode": "janvier 2019-octobre 2020"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "moyenne",
+   "notes": "Carrière très bien documentée (Wikipédia + déclaration HATVP consultée, qui précise dates et rémunérations pour Crédit Mutuel et Université de Rouen). L'infobox Wikipédia indique comme unique établissement « Diplômé de : Lycée Corneille de Rouen », sans mention d'un établissement d'enseignement supérieur malgré une carrière de cadre (rémunération Crédit Mutuel > 100 000 €/an) et de professeur associé à l'université - fonction qui, en droit français, ne requiert pas de doctorat et peut être occupée sur la base de l'expérience professionnelle. Le niveau retenu (bac_ou_moins) reflète l'absence de tout établissement supérieur identifié, mais la confiance est limitée à moyenne car l'absence de mention dans l'infobox ne prouve pas formellement l'absence de diplôme supérieur.",
+   "sources": [
+    {
+     "url": "https://www.hatvp.fr/pages_nominatives/leseul-gerard-20487",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/G%C3%A9rard_Leseul",
+     "pour": "both"
+    },
+    {
+     "url": "https://www.nosdeputes.fr/deputes/json",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA794750",
+   "nom": "Thierry Liger",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Chef d'entreprise (secteur et société non identifiés)",
+     "employeur": "inconnu",
+     "secteur": "liberal_independant",
+     "periode": "avant 2014"
+    },
+    {
+     "poste": "Maire de Maison-Maugis",
+     "employeur": "Commune de Maison-Maugis",
+     "secteur": "politique",
+     "periode": "2014-"
+    },
+    {
+     "poste": "Président de la communauté de communes Cœur du Perche",
+     "employeur": "CdC Cœur du Perche",
+     "secteur": "politique",
+     "periode": "2020-"
+    },
+    {
+     "poste": "Conseiller régional de Normandie",
+     "employeur": "Région Normandie",
+     "secteur": "politique",
+     "periode": "2021-"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "La profession déclarée « Chef d'entreprise » est confirmée par la fiche AN, mais ni le nom ni le secteur de l'entreprise n'ont pu être identifiés : Wikipédia FR ne donne aucun détail, l'article actu.fr du 24/12/2024 (consulté en entier) ne mentionne que ses mandats locaux (maire de Maison-Maugis, président de CdC Cœur du Perche, conseiller régional), et la page normandie.fr citée par Wikipédia est inaccessible (403). Diplôme laissé inconnu faute de toute source.",
+   "sources": [
+    {
+     "url": "https://actu.fr/normandie/mortagne-au-perche_61293/thierry-liger-est-le-nouveau-depute-de-la-2e-circonscription-de-lorne_62046113.html",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA794750",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Thierry_Liger",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA840967",
+   "nom": "René Lioret",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Employé, spécialisé en antibiothérapie, cancérologie et psychotropes",
+     "employeur": "Laboratoires Lederle (laboratoire pharmaceutique américain)",
+     "secteur": "prive",
+     "periode": "1976-1984"
+    },
+    {
+     "poste": "Directeur des opérations, circuit pharmaceutique",
+     "employeur": "Laboratoires Urgo",
+     "secteur": "prive",
+     "periode": "1984-2018 (retraite)"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Carrière professionnelle précisément documentée par Wikipédia (postes, employeurs nommés, dates) : Laboratoires Lederle (1976-1984) puis Laboratoires Urgo comme directeur des opérations en charge du circuit pharmaceutique (1984-2018). Aucune mention d'un diplôme ou d'une formation académique dans les sources consultées (Wikipédia FR/EN, fiche AN) ; le poste de directeur des opérations n'implique pas nécessairement un diplôme de pharmacien puisqu'il concerne la logistique du circuit pharmaceutique et non la fabrication ou la dispensation du médicament. Diplôme laissé inconnu par honnêteté.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Ren%C3%A9_Lioret",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.francebleu.fr/infos/politique/legislatives-2024-rene-lioret-devient-le-premier-depute-rassemblement-national-de-cote-d-or-6109516",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA720446",
+   "nom": "Brigitte Liso",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Chargée de relations publiques et commerciales",
+     "employeur": "Pernod Ricard",
+     "secteur": "prive",
+     "periode": "inconnu"
+    },
+    {
+     "poste": "Chargée de relations publiques et commerciales",
+     "employeur": "Hachette Livre",
+     "secteur": "prive",
+     "periode": "inconnu"
+    },
+    {
+     "poste": "Visiteuse médicale",
+     "employeur": "GlaxoSmithKline (GSK)",
+     "secteur": "prive",
+     "periode": "inconnu"
+    },
+    {
+     "poste": "Co-fondatrice, restaurant de cuisine française moderne",
+     "employeur": "Restaurant indépendant, Vieux-Lille",
+     "secteur": "liberal_independant",
+     "periode": "2010-"
+    },
+    {
+     "poste": "Fondatrice, boutique de pâtisseries spécialisée dans les éclairs",
+     "employeur": "Commerce indépendant, Vieux-Lille",
+     "secteur": "liberal_independant",
+     "periode": "2015-"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Carrière privée bien documentée par Wikipédia, avec plusieurs employeurs nommés (Pernod Ricard, Hachette Livre, GlaxoSmithKline) puis création de deux commerces indépendants. Le site personnel brigitteliso.fr n'est plus accessible (domaine injoignable) et les articles de presse régionale cités (La Voix du Nord) sont bloqués (403) ; aucun diplôme n'a pu être trouvé malgré ces vérifications. Diplôme laissé inconnu.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Brigitte_Liso",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA642725",
+   "nom": "Eric Liégeon",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Exploitant agricole (reprise de l'exploitation familiale à 19 ans)",
+     "employeur": "Exploitation agricole familiale (GAEC), Courvières (Doubs)",
+     "secteur": "liberal_independant",
+     "periode": "1980-présent"
+    },
+    {
+     "poste": "Secrétaire général",
+     "employeur": "FDSEA du Doubs (syndicat agricole)",
+     "secteur": "associatif",
+     "periode": "2008-2014"
+    },
+    {
+     "poste": "Maire de Courvières",
+     "employeur": "Commune de Courvières",
+     "secteur": "politique",
+     "periode": "2014-présent"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Wikipédia (citant L'Est républicain) précise qu'il a repris l'exploitation agricole familiale à 19 ans en 1980, gère un GAEC avec son épouse Hélène, et a été secrétaire général de la FDSEA du Doubs de 2008 à 2014, en cohérence avec la profession déclarée « Exploitant agricole ». Aucun diplôme mentionné dans les sources consultées (fiche AN, Wikipédia FR/EN) ; article Les Echos référencé inaccessible (403). Diplôme laissé inconnu.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Li%C3%A9geon",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA642725",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA721932",
+   "nom": "Marie-France Lorho",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Déléguée médicale",
+     "employeur": "inconnu (secteur privé, Vaucluse)",
+     "secteur": "prive",
+     "periode": "plus de 30 ans, jusqu'à son mandat"
+    },
+    {
+     "poste": "Conseillère municipale déléguée à l'urbanisme puis première adjointe au maire d'Orange",
+     "employeur": "Commune d'Orange (maire : Jacques Bompard)",
+     "secteur": "politique",
+     "periode": "avant 2017"
+    }
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Son propre site de campagne (page « Mon parcours ») confirme qu'elle a exercé plus de 30 ans comme déléguée médicale dans le Vaucluse avant son mandat, en cohérence avec la profession déclarée. Aucun diplôme mentionné sur son site ni sur Wikipédia FR/EN ; source consultée en entier. Diplôme laissé inconnu.",
+   "sources": [
+    {
+     "url": "http://mariefrancelorho.fr/parcours/",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Marie-France_Lorho",
+     "pour": "carriere"
+    }
+   ]
+  },
+  {
+   "uid": "PA879389",
+   "nom": "Marie-Philippe Lubet",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {
+     "poste": "Fonctionnaire",
+     "employeur": "Ministère de l'Intérieur",
+     "secteur": "public",
+     "periode": "inconnu, avant sa retraite"
+    },
+    {
+     "poste": "Maire de Saint-Denis-en-Val",
+     "employeur": "Commune de Saint-Denis-en-Val",
+     "secteur": "politique",
+     "periode": "jusqu'en février 2026"
+    }
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "L'infobox de Wikipédia indique la profession « Fonctionnaire du ministère de l'Intérieur », en cohérence avec la profession déclarée « Retraitée ». Aucune date ni fonction précise n'est fournie, d'où une confiance moyenne plutôt que haute. Aucun diplôme trouvé malgré la recherche (fiche AN, Wikipédia FR/EN, articles de presse cités par Wikipédia). Diplôme laissé inconnu.",
+   "sources": [
+    {
+     "url": "https://fr.wikipedia.org/wiki/Marie-Philippe_Lubet",
+     "pour": "carriere"
+    },
+    {
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA879389",
+     "pour": "carriere"
+    }
+   ]
+  }
+ ]
+}

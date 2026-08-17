@@ -13,6 +13,14 @@ for f in glob.glob(os.path.join(DATA, "amo10/json/organe/*.json")):
     o = json.load(open(f))["organe"]
     organes[o["uid"]] = (o["codeType"], o.get("libelle") or o.get("libelleAbrege"))
 
+def txt(v):
+    """AN JSON renders an empty XML element as {'@xsi:nil': 'true'}; that is a
+    null, not a value, and it leaks into the CSV if taken at face value."""
+    if isinstance(v, dict):
+        return v.get("#text")
+    return v
+
+
 rows = []
 for f in sorted(glob.glob(os.path.join(DATA, "amo10/json/acteur/*.json"))):
     a = json.load(open(f))["acteur"]
@@ -42,14 +50,14 @@ for f in sorted(glob.glob(os.path.join(DATA, "amo10/json/acteur/*.json"))):
 
     rows.append({
         "uid": a["uid"]["#text"] if isinstance(a["uid"], dict) else a["uid"],
-        "civilite": ident.get("civ"),
-        "prenom": ident.get("prenom"),
-        "nom": ident.get("nom"),
-        "date_naissance": nais.get("dateNais"),
-        "ville_naissance": nais.get("villeNais"),
-        "profession_declaree": prof.get("libelleCourant"),
-        "insee_cat_socpro": soc.get("catSocPro"),
-        "insee_fam_socpro": soc.get("famSocPro"),
+        "civilite": txt(ident.get("civ")),
+        "prenom": txt(ident.get("prenom")),
+        "nom": txt(ident.get("nom")),
+        "date_naissance": txt(nais.get("dateNais")),
+        "ville_naissance": txt(nais.get("villeNais")),
+        "profession_declaree": txt(prof.get("libelleCourant")),
+        "insee_cat_socpro": txt(soc.get("catSocPro")),
+        "insee_fam_socpro": txt(soc.get("famSocPro")),
         "groupe_politique": groupe,
         "departement": circo_dep,
         "circonscription": circo_num,

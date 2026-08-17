@@ -1,0 +1,57 @@
+{"deputies": [
+  {
+    "uid": "PA722382",
+    "nom": "Benjamin Dirx",
+    "career": [
+      {"poste": "Chef d'entreprise (industriel)", "employeur": null, "secteur": "liberal_independant", "periode": "avant 2017"},
+      {"poste": "Cadre dirigeant", "employeur": "Entreprise familiale", "secteur": "prive", "periode": "avant creation entreprise"},
+      {"poste": "Entrepreneur (secteur de la formation professionnelle continue)", "employeur": null, "secteur": "liberal_independant", "periode": "avant 2017"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "Scolarite a Macon (ecole des Blanchettes, college Saint-Exupery, lycee Lamartine) puis etudes superieures a l'Universite de Bourgogne (Dijon), diplome non precise ; a d'abord ete cadre dirigeant dans l'entreprise familiale avant de creer sa propre entreprise dans le secteur de la formation professionnelle (source: fr.wikipedia.org/wiki/Benjamin_Dirx)."
+  },
+  {
+    "uid": "PA774958",
+    "nom": "Gérard Leseul",
+    "career": [
+      {"poste": "Professeur remplaçant", "employeur": "Collèges (Éducation nationale)", "secteur": "public", "periode": "avant 1985"},
+      {"poste": "Stagiaire puis attaché de presse", "employeur": "Cabinet ministériel de Jean-Marie Bockel", "secteur": "politique", "periode": "1985"},
+      {"poste": "Collaborateur parlementaire", "employeur": "Jean-Marie Bockel puis Jean Beaufils", "secteur": "politique", "periode": "après 1985"},
+      {"poste": "Professeur associé en éco-gestion", "employeur": "Université de Rouen (Faculté de Lettres)", "secteur": "public", "periode": "2019-2020"},
+      {"poste": "Chef d'entreprise (PME imprimerie)", "employeur": "PME d'imprimerie", "secteur": "liberal_independant", "periode": "inconnu"},
+      {"poste": "Responsable des affaires publiques et de la RSE", "employeur": "Crédit Mutuel", "secteur": "prive", "periode": "2019-2020"},
+      {"poste": "Administrateur", "employeur": "ADIE (Association pour le droit à l'initiative économique)", "secteur": "associatif", "periode": "2019-2020"},
+      {"poste": "Président", "employeur": "École de musique de Rouen", "secteur": "associatif", "periode": "2019-2020"}
+    ],
+    "worked_private": true,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "mixte_public_prive",
+    "confidence": "haute",
+    "notes": "Declaration HATVP precise les dates et remunerations du poste au Credit Mutuel (janvier 2019-octobre 2020) et de professeur associe a l'Universite de Rouen (janvier 2019-septembre 2020), plus des mandats associatifs (ADIE, ecole de musique de Rouen) (source: https://www.hatvp.fr/pages_nominatives/leseul-gerard-20487)."
+  },
+  {
+    "uid": "PA774962",
+    "nom": "Karine Lebon",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [
+      {"institution": "Université Sorbonne Nouvelle (Paris 3)", "diplome": "Licence", "domaine": "arts du spectacle et études théâtrales"}
+    ],
+    "fields": ["arts", "education"],
+    "career": [
+      {"poste": "Professeure des écoles", "employeur": "Éducation nationale", "secteur": "public", "periode": "à partir de 2007"},
+      {"poste": "Secrétaire générale", "employeur": "Union des femmes de La Réunion (UFR)", "secteur": "associatif", "periode": "avant 2020"},
+      {"poste": "Actrice (série Cut!)", "employeur": "France Ô", "secteur": "prive", "periode": "2017-2019"}
+    ],
+    "worked_private": true,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "mixte_public_prive",
+    "confidence": "moyenne",
+    "notes": "A 18 ans, partie a Paris etudier a la Sorbonne Nouvelle (licence arts du spectacle et etudes theatrales) pour devenir actrice, puis retour a La Reunion et obtention du CRPE (professeure des ecoles) en 2007 (source: en.wikipedia.org/wiki/Karine_Lebon)."
+  }
+]}

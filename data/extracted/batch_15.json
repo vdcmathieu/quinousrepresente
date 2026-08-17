@@ -1,0 +1,309 @@
+{
+  "batch": 15,
+  "deputies": [
+    {
+      "uid": "PA793290",
+      "nom": "Gisèle Lelouis",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Diplôme d'ingénieur en électronique (établissement non précisé)", "domaine": "ingenierie"}
+      ],
+      "fields": ["ingenierie"],
+      "career": [
+        {"poste": "Ingénieure en électronique", "employeur": "Armée", "secteur": "public", "periode": "inconnu"},
+        {"poste": "Ingénieure en électronique", "employeur": "Constructeurs d'avions", "secteur": "prive", "periode": "inconnu"},
+        {"poste": "Ouvrière agricole saisonnière (vendanges)", "employeur": "inconnu", "secteur": "prive", "periode": "avant 1995"},
+        {"poste": "Ostréicultrice", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "avant 1995"},
+        {"poste": "Vendeuse en boulangerie", "employeur": "inconnu", "secteur": "prive", "periode": "à partir de 1995"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "moyenne",
+      "notes": "Diplôme d'ingénieur déduit du titre professionnel, aucun établissement ni dates précisés."
+    },
+    {
+      "uid": "PA793298",
+      "nom": "Lionel Tivoli",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Chef d'entreprise", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Carrière professionnelle non détaillée dans la biographie ; entrée déduite de la déclaration officielle (chef d'entreprise), engagement politique dès 18 ans."
+    },
+    {
+      "uid": "PA793322",
+      "nom": "Christelle D'Intorni",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Formation d'avocate (master en droit + CAPA, non précisés)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Avocate", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "avant 2022"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Profession d'avocate mentionnée sans détail sur le cursus universitaire suivi."
+    },
+    {
+      "uid": "PA793334",
+      "nom": "Cyril Tribuiani",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Agent d'assurances", "employeur": "inconnu", "secteur": "prive", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": null,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "basse",
+      "notes": "Biographie très succincte, aucune information sur les études."
+    },
+    {
+      "uid": "PA793342",
+      "nom": "Alexandra Martin (Alpes-Maritimes)",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université Nice-Sophia-Antipolis", "diplome": "Études de droit (niveau de diplôme non précisé)", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Membre du cabinet du maire de Cannes", "employeur": "Mairie de Cannes (Michel Mouillot)", "secteur": "politique", "periode": "à partir de 1994"},
+        {"poste": "Secrétaire générale", "employeur": "Nouvelle Énergie", "secteur": "politique", "periode": "inconnu"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Diplôme de droit non précisément défini ; carrière connue limitée à des fonctions politiques/de cabinet."
+    },
+    {
+      "uid": "PA793354",
+      "nom": "Joëlle Mélin",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Faculté de médecine de Marseille", "diplome": "Doctorat de médecine (1975)", "domaine": "medecine-sante"},
+        {"institution": "inconnu", "diplome": "Diplômes de gériatrie, réparation juridique du dommage corporel, thermalisme, médecine du sport, médecine manuelle, rééducation et réadaptation fonctionnelle", "domaine": "medecine-sante"},
+        {"institution": "inconnu", "diplome": "DES d'immuno-rhumatologie ; DU droit de l'activité et de la responsabilité médicale ; DU évaluation des traumatisés crâniens graves", "domaine": "medecine-sante"}
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {"poste": "Médecin généraliste", "employeur": "cabinet libéral (milieu semi-rural)", "secteur": "liberal_independant", "periode": "1977-1986"},
+        {"poste": "Médecin gériatre", "employeur": "centres de rééducation gériatrique", "secteur": "prive", "periode": "1975-1988"},
+        {"poste": "Rééducateur", "employeur": "plateau technique de médecine de ville", "secteur": "liberal_independant", "periode": "1986-2002"},
+        {"poste": "Responsable d'un centre de rééducation", "employeur": "inconnu", "secteur": "prive", "periode": "1997"},
+        {"poste": "Médecin expert judiciaire", "employeur": "cour d'appel d'Aix-en-Provence", "secteur": "liberal_independant", "periode": "à partir de 1991"},
+        {"poste": "Médecin-coordinateur", "employeur": "structures de polyhandicapés lourds", "secteur": "prive", "periode": "2005-2008"},
+        {"poste": "Médecin attachée à la réserve militaire", "employeur": "Armée", "secteur": "public", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793362",
+      "nom": "José Gonzalez",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Employé", "employeur": "Bourse des primeurs, port de Marseille", "secteur": "prive", "periode": "à partir de 1962"},
+        {"poste": "Directeur d'auto-école", "employeur": "inconnu", "secteur": "prive", "periode": "inconnu"},
+        {"poste": "Employé jusqu'à la retraite", "employeur": "Chambre de commerce et d'industrie de Marseille", "secteur": "public", "periode": "jusqu'à la retraite"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": "Aucune mention d'études dans la biographie."
+    },
+    {
+      "uid": "PA793374",
+      "nom": "Romain Baubry",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Gendarme adjoint volontaire", "employeur": "Gendarmerie nationale", "secteur": "public", "periode": "2 ans"},
+        {"poste": "Surveillant pénitentiaire", "employeur": "Administration pénitentiaire", "secteur": "public", "periode": "inconnu"},
+        {"poste": "Policier", "employeur": "Police nationale, Nîmes", "secteur": "public", "periode": "inconnu"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793382",
+      "nom": "Emmanuel Taché",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Assistant parlementaire", "employeur": "Brigitte Le Brethon (députée UMP)", "secteur": "politique", "periode": "inconnu"},
+        {"poste": "Chroniqueur, fondateur du site", "employeur": "Particule Deluxe", "secteur": "liberal_independant", "periode": "inconnu"},
+        {"poste": "Chroniqueur pages consommation", "employeur": "Télé Star", "secteur": "liberal_independant", "periode": "inconnu"},
+        {"poste": "Collaborateur chargé de communication", "employeur": "Groupe des eurodéputés RN au Parlement européen", "secteur": "politique", "periode": "2018-2021"},
+        {"poste": "Agent contractuel", "employeur": "Conseil régional des Hauts-de-France", "secteur": "public", "periode": "2021-2022"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": "Aucune mention d'études dans la biographie."
+    },
+    {
+      "uid": "PA793394",
+      "nom": "Arthur Delaporte",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "École normale supérieure de Lyon", "diplome": "Admis en classe préparatoire littéraire puis à l'ENS Lyon (2012)", "domaine": "lettres-sciences humaines"},
+        {"institution": "Institut d'études politiques de Paris (Sciences Po)", "diplome": "Master Affaires publiques (2015)", "domaine": "sciences politiques"},
+        {"institution": "Éducation nationale", "diplome": "Agrégation d'histoire (2016)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["sciences politiques", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Doctorant contractuel chargé d'enseignement (ATER)", "employeur": "Université Paris 1 Panthéon-Sorbonne", "secteur": "public", "periode": "inconnu"},
+        {"poste": "Collaborateur, conseil auprès d'élus", "employeur": "Yann Galut et Valérie Rabault (députés)", "secteur": "politique", "periode": "inconnu"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Thèse de doctorat non achevée ; plus haut diplôme obtenu est le master de Sciences Po (agrégation en parallèle)."
+    },
+    {
+      "uid": "PA793398",
+      "nom": "Jérémie Patrier-Leitus",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Paris-Dauphine", "diplome": "Diplôme en économie", "domaine": "economie"}
+      ],
+      "fields": ["economie"],
+      "career": [
+        {"poste": "Membre du cabinet", "employeur": "Alain Juppé, ministère des Affaires étrangères", "secteur": "politique", "periode": "à partir de 2011"},
+        {"poste": "Chargé de programmation et financement", "employeur": "French Institute Alliance Française (FIAF)", "secteur": "associatif", "periode": "2013-2015"},
+        {"poste": "Représentant du French Institute", "employeur": "French Institute Alliance Française", "secteur": "associatif", "periode": "à partir de 2015"},
+        {"poste": "Enseignant en gestion des organisations culturelles", "employeur": "École d'affaires publiques de Sciences Po Paris", "secteur": "prive", "periode": "à partir de 2017"},
+        {"poste": "Délégué général chargé de la restauration de Notre-Dame", "employeur": "Cabinet du ministre de la Culture Franck Riester", "secteur": "politique", "periode": "2019"},
+        {"poste": "Directeur de la communication, du développement et de la programmation culturelle", "employeur": "Établissement public chargé de la restauration de la cathédrale Notre-Dame", "secteur": "public", "periode": "inconnu"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793432",
+      "nom": "Franck Allisio",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université d'Aix-Marseille", "diplome": "Licence de droit", "domaine": "droit"},
+        {"institution": "Université d'Aix-Marseille", "diplome": "Maîtrise en droit public (2002)", "domaine": "droit"},
+        {"institution": "Université Paris II (Assas)", "diplome": "Diplôme d'études approfondies (DEA) en science politique (2003)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["droit", "sciences politiques"],
+      "career": [
+        {"poste": "Assistant parlementaire", "employeur": "Sénat", "secteur": "politique", "periode": "dès 25 ans"},
+        {"poste": "Président des jeunes actifs", "employeur": "UMP", "secteur": "politique", "periode": "à 31 ans"},
+        {"poste": "Chargé des relations avec la presse", "employeur": "Cabinet de Roger Karoutchi", "secteur": "politique", "periode": "inconnu"},
+        {"poste": "Collaborateur", "employeur": "Pierre Lellouche, député de Paris", "secteur": "politique", "periode": "environ 1,5 an, après 2012"},
+        {"poste": "Collaborateur parlementaire", "employeur": "Nathalie Kosciusko-Morizet", "secteur": "politique", "periode": "2014-2015"},
+        {"poste": "Porte-parole de campagne régionale", "employeur": "Marion Maréchal-Le Pen", "secteur": "politique", "periode": "2015"},
+        {"poste": "Chargé des argumentaires de campagne présidentielle", "employeur": "Marine Le Pen", "secteur": "politique", "periode": "2022"}
+      ],
+      "worked_private": false,
+      "worked_public": false,
+      "political_career_only": true,
+      "career_profile": "politique_principalement",
+      "confidence": "moyenne",
+      "notes": "Déclare une 'profession libérale' mais la biographie ne décrit qu'une carrière de collaborateur politique."
+    },
+    {
+      "uid": "PA793444",
+      "nom": "Manuel Bompard",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Ensimag, Institut polytechnique de Grenoble (Grenoble INP)", "diplome": "Diplôme d'ingénieur", "domaine": "ingenierie"},
+        {"institution": "Université Nice-Sophia-Antipolis", "diplome": "Doctorat en mathématiques appliquées (2011)", "domaine": "sciences"}
+      ],
+      "fields": ["ingenierie", "sciences"],
+      "career": [
+        {"poste": "Cofondateur", "employeur": "Adagos (startup en intelligence artificielle)", "secteur": "liberal_independant", "periode": "après 2011"},
+        {"poste": "Secrétaire national", "employeur": "Parti de gauche", "secteur": "politique", "periode": "à partir de 2010"},
+        {"poste": "Directeur de campagne", "employeur": "Jean-Luc Mélenchon (campagnes de 2014, 2017, 2022)", "secteur": "politique", "periode": "2014-2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793452",
+      "nom": "Hendrik Davi",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Doctorat (implicite : poste de directeur de recherche à l'INRAE)", "domaine": "sciences"},
+        {"institution": "inconnu", "diplome": "Licence et master de philosophie (2011-2012)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["sciences", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Directeur de recherche en écologie forestière", "employeur": "INRAE (Institut national de recherche pour l'agriculture, l'alimentation et l'environnement)", "secteur": "public", "periode": "inconnu"},
+        {"poste": "Porte-parole syndical", "employeur": "CGT INRAE", "secteur": "associatif", "periode": "inconnu"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Doctorat déduit du poste de directeur de recherche ; discipline et établissement d'origine non précisés dans la biographie."
+    },
+    {
+      "uid": "PA793464",
+      "nom": "Sébastien Delogu",
+      "highest_degree_level": "bac_ou_moins",
+      "degrees": [
+        {"institution": "inconnu", "diplome": "Brevet des collèges (candidat libre)", "domaine": "autre"}
+      ],
+      "fields": [],
+      "career": [
+        {"poste": "Vendeur en prêt-à-porter", "employeur": "inconnu", "secteur": "prive", "periode": "dès sa majorité"},
+        {"poste": "Serveur", "employeur": "inconnu", "secteur": "prive", "periode": "dès sa majorité"},
+        {"poste": "Agent de sécurité", "employeur": "inconnu", "secteur": "prive", "periode": "dès sa majorité"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": "Formation en lycée professionnel non diplômante mentionnée, seul le brevet des collèges est explicitement obtenu."
+    }
+  ]
+}

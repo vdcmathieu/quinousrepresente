@@ -1,0 +1,252 @@
+{"deputies": [
+  {
+    "uid": "PA841531",
+    "nom": "Shéhérazade Bentorki",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": ["sciences-politiques", "sport"],
+    "career": [
+      {"poste": "Lutteuse de haut niveau (championne de France, médaillée internationale)", "employeur": "Fédération française de lutte / INSEP", "secteur": "inconnu", "periode": "~2000s-2012"},
+      {"poste": "Collaboratrice parlementaire suppléante de David Guiraud", "employeur": "David Guiraud (Assemblée nationale)", "secteur": "politique", "periode": "2022-2026"}
+    ],
+    "worked_private": false,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "inconnu",
+    "confidence": "moyenne",
+    "notes": "roubaixxl.fr (interview) confirme qu'elle a fait des études de sciences politiques à l'université Paris II Panthéon-Assas tout en s'entraînant à l'INSEP, mais aucun diplôme précis (licence, master) n'est mentionné comme obtenu — highest_degree_level laissé à 'inconnu' par prudence plutôt que de présumer une licence. Carrière professionnelle avant la politique = carrière sportive de haut niveau (lutte), dont le statut d'emploi (fédération, INSEP, sponsor) n'est pas documenté, d'où secteur 'inconnu' pour cette ligne. Devenue collaboratrice parlementaire suppléante de David Guiraud puis députée en avril 2026 à sa suite. Sources vérifiées: wikipédia (thin), roubaixxl.fr (fetché), x-pression.media (fetch échoué, contenu illisible).",
+    "sources": [{"url": "https://www.roubaixxl.fr/5-questions-sheherazade-bentorki-deputee/", "pour": "both"}]
+  },
+  {
+    "uid": "PA841645",
+    "nom": "Théo Bernhardt",
+    "highest_degree_level": "bac+5",
+    "degrees": [{"institution": "IUT Louis Pasteur de Schiltigheim (Université de Strasbourg)", "diplome": "Master en recherche biomédicale", "domaine": "sciences"}],
+    "fields": ["sciences", "medecine-sante"],
+    "career": [
+      {"poste": "Vendeur", "employeur": "Jules SAS", "secteur": "prive", "periode": "2019-2020, 2021-2023"},
+      {"poste": "Employé polyvalent (job étudiant)", "employeur": "Lidl", "secteur": "prive", "periode": "mars-mai 2021"},
+      {"poste": "Service civique", "employeur": "Lycée Oberlin, Strasbourg", "secteur": "public", "periode": "novembre 2021-juillet 2022"},
+      {"poste": "Stage de master, laboratoire de virologie moléculaire (UPR 9002)", "employeur": "IBMC / CNRS", "secteur": "public", "periode": "septembre 2023-juin 2024"}
+    ],
+    "worked_private": true,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "mixte_public_prive",
+    "confidence": "haute",
+    "notes": "Très jeune député (né en 2000, élu à 24 ans) sans véritable carrière pré-politique: la déclaration HATVP ne montre que des jobs étudiants (vendeur Jules, Lidl), un service civique en lycée public et un stage de fin de master au laboratoire de virologie moléculaire de l'IBMC/CNRS à Strasbourg (2023-2024), cohérent avec l'article ici.fr qui le dit 'fraîchement diplômé d'un master en recherche biomédicale, obtenu à l'IUT Louis Pasteur de Schiltigheim'. La profession déclarée 'ingénieur de recherche' semble correspondre à ce master tout juste obtenu plutôt qu'à un poste effectivement occupé et documenté.",
+    "sources": [
+      {"url": "https://www.ici.fr/infos/politique/legislatives-2024-qui-est-theo-bernhardt-l-unique-depute-rassemblement-national-en-alsace-2106932", "pour": "diplome"},
+      {"url": "https://www.hatvp.fr/pages_nominatives/bernhardt-theo-27503", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA687214",
+    "nom": "Sylvain Berrios",
+    "highest_degree_level": "bac+3_4",
+    "degrees": [{"institution": "Université Paris XII Val-de-Marne (UPEC)", "diplome": "Études de droit et d'économie (niveau exact non précisé par la source)", "domaine": "droit"}],
+    "fields": ["droit", "economie-gestion"],
+    "career": [
+      {"poste": "Responsable commercial, division des produits publics", "employeur": "L'Oréal", "secteur": "prive", "periode": "juin 1990-septembre 1994"},
+      {"poste": "Consultant en communication", "employeur": "ATACAMA / SCB Conseil", "secteur": "prive", "periode": "septembre 1994-juin 2002"},
+      {"poste": "Chef de cabinet du secrétaire d'État à la Réforme de l'État (Henri Plagnol)", "employeur": "Gouvernement français", "secteur": "public", "periode": "2002-2004"},
+      {"poste": "Chargé de mission, déploiement national d'Allô service public 3939", "employeur": "Services du Premier ministre", "secteur": "public", "periode": "2004-2006"},
+      {"poste": "Chef de la mission de la communication, Direction générale de la modernisation de l'État", "employeur": "Ministère du Budget, des Comptes publics, de la Fonction publique et de la Réforme de l'État", "secteur": "public", "periode": "~2006-2012"}
+    ],
+    "worked_private": true,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "mixte_public_prive",
+    "confidence": "haute",
+    "notes": "Carrière très bien documentée sur sa propre page Wikipédia et confirmée par son site de campagne (études de droit/économie à Paris XII Val-de-Marne). Le niveau exact du diplôme (licence, maîtrise) n'est pas précisé par la source, d'où le choix conservateur de 'bac+3_4' plutôt qu'un niveau supérieur. La déclaration HATVP fetchée ne détaille pas d'activités professionnelles récentes (poste de maire/député uniquement), ce qui est cohérent avec une carrière privée/publique achevée avant son entrée en politique locale en 2008.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Sylvain_Berrios", "pour": "carriere"},
+      {"url": "https://sylvainberrios.fr/index.php/about/", "pour": "diplome"}
+    ]
+  },
+  {
+    "uid": "PA793772",
+    "nom": "Christophe Bex",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Agent", "employeur": "PTT / La Poste-France Télécom", "secteur": "public", "periode": "environ 16 ans, avant les années 2000"},
+      {"poste": "Attaché d'administration", "employeur": "Université Toulouse Jean-Jaurès", "secteur": "public", "periode": "septembre 2016-juin 2022 (confirmé HATVP)"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "haute",
+    "notes": "Carrière publique bien documentée (Wikipédia + déclaration HATVP fetchée, qui confirme le poste d'attaché d'administration à l'Université Toulouse Jean-Jaurès de septembre 2016 à juin 2022 avec les salaires annuels). Aucune information sur son niveau de diplôme n'a été trouvée (ni Wikipédia, ni HATVP, ni fiche AN). Le poste d'attaché d'administration n'est pas dans la liste des professions réglementées permettant une inférence fiable (recrutement possible par concours interne sans licence obligatoire), donc pas d'inférence de diplôme.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Christophe_Bex", "pour": "carriere"},
+      {"url": "https://www.hatvp.fr/pages_nominatives/bex-christophe-24294", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA720668",
+    "nom": "Emmanuel Blairy",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Agent de la fonction publique territoriale", "employeur": "Communauté d'agglomération de Lens-Liévin", "secteur": "public", "periode": "depuis 2006 (Wikipédia); septembre 2018-décembre 2021 (segment confirmé par HATVP)"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "haute",
+    "notes": "Carrière publique confirmée par la déclaration HATVP (agent territorial de la Communauté d'agglomération de Lens-Liévin, septembre 2018-décembre 2021) et par Wikipédia (fonctionnaire territorial depuis 2006, référence non sourcée sur Wikipédia lui-même). Aucune information sur ses études ou son établissement de formation n'a été trouvée dans la fiche AN, HATVP, Wikipédia ou la presse consultée.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/blairy-emmanuel-23519", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Emmanuel_Blairy", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA842183",
+    "nom": "Benoît Blanchard",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Directeur d'un laboratoire de recherche en aérodynamique", "employeur": "Institut Aérodynamique Eiffel (soufflerie Eiffel, Paris)", "secteur": "prive", "periode": "retraité, dates exactes non précisées"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "moyenne",
+    "notes": "La fiche AN et Wikipédia disent seulement 'directeur d'un laboratoire de recherche en aérodynamique, retraité'. Le nom précis de l'employeur ('Institut Aérodynamique Eiffel', société privée exploitant la soufflerie Eiffel à Paris) provient d'une synthèse de recherche web (LinkedIn, societe.com) et n'a pas pu être confirmé par la lecture directe d'une page fetchée nommant explicitement Benoît Blanchard à ce poste — d'où confiance 'moyenne' plutôt que 'haute'. Aucune information sur son diplôme d'ingénieur ou son établissement de formation n'a été trouvée malgré la recherche.",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Beno%C3%AEt_Blanchard", "pour": "carriere"},
+      {"url": "https://www.assemblee-nationale.fr/dyn/deputes/PA842183", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA840889",
+    "nom": "Matthieu Bloch",
+    "highest_degree_level": "bac+5",
+    "degrees": [
+      {"institution": "Université de Franche-Comté", "diplome": "Études de droit privé", "domaine": "droit"},
+      {"institution": "Université Paris Panthéon-Assas", "diplome": "Études de droit de la famille (master, niveau exact non confirmé)", "domaine": "droit"}
+    ],
+    "fields": ["droit"],
+    "career": [
+      {"poste": "Clerc de notaire", "employeur": "LEX NOTAIRES", "secteur": "prive", "periode": "janvier 2019-août 2024"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "Études de droit confirmées par letrois.info (droit privé à Franche-Comté puis droit de la famille à Paris Panthéon-Assas), carrière de clerc de notaire chez LEX NOTAIRES confirmée avec dates précises par la déclaration HATVP fetchée. Le niveau exact du diplôme parisien (master 1 ou 2) n'est pas précisé par la source, mais des études de droit de la famille poursuivies après une première université correspondent normalement à un cursus de master, d'où bac+5.",
+    "sources": [
+      {"url": "https://letrois.info/politique/matthieu-bloch-secretaire-lr-du-doubs-elu-depute-lr-rn-dans-la-3e-circonscription/", "pour": "diplome"},
+      {"url": "https://www.hatvp.fr/pages_nominatives/bloch-matthieu-27514", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA796042",
+    "nom": "Frédéric Boccaletti",
+    "highest_degree_level": "bac_ou_moins",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Apprenti cuisinier", "employeur": "inconnu", "secteur": "prive", "periode": "après l'interruption des études en classe de cinquième"},
+      {"poste": "Libraire indépendant (librairie Alaïs puis Anthinéa)", "employeur": "Entreprise individuelle (Toulon)", "secteur": "liberal_independant", "periode": "avant 1997-1998"},
+      {"poste": "Conseiller régional PACA, président du groupe RN", "employeur": "Conseil régional Provence-Alpes-Côte d'Azur", "secteur": "politique", "periode": "depuis 2010"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "politique_principalement",
+    "confidence": "haute",
+    "notes": "lechodusud.com (fetché) confirme qu'il a interrompu ses études en classe de cinquième, puis a été apprenti cuisinier avant de reprendre une librairie à Toulon (Alaïs, devenue Anthinéa en 1997), fermée en 1998 après controverse pour vente d'ouvrages antisémites/négationnistes. Depuis 2010 il est conseiller régional PACA à plein temps (président du groupe RN), poste qu'il occupe depuis 15 ans contre environ 4 ans de librairie indépendante — d'où le choix de 'politique_principalement' pour le profil de carrière global, tout en documentant l'épisode indépendant antérieur.",
+    "sources": [{"url": "https://www.lechodusud.com/post/qui-est-fr%C3%A9d%C3%A9ric-boccaletti", "pour": "both"}]
+  },
+  {
+    "uid": "PA841543",
+    "nom": "Jean Bodart",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": [],
+    "career": [
+      {"poste": "Retraité de la sidérurgie (catégorie déclarée AN, employeur non précisé)", "employeur": "inconnu", "secteur": "prive", "periode": "avant 1995 (début de son engagement politique local)"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "basse",
+    "notes": "Député très récent (avril 2026), sa déclaration HATVP est marquée 'publication à venir' au moment de la recherche — aucun détail de carrière disponible par ce canal. Sa page Wikipédia personnelle ne documente que son parcours politique et associatif (adjoint au maire, président du comité des Quatre Jours de Dunkerque, maire) et confirme seulement la catégorie déclarée AN 'retraité de la sidérurgie', sans nommer d'employeur. Une recherche web a fait remonter un lien 'Arbèl' (bureau d'études ferroviaire, 1970) associé au nom 'Jean Bodart', mais celui-ci provient d'une page Wikipédia distincte ('Jean Bodart (cyclisme)') concernant potentiellement une autre personne du même nom — ce détail n'a donc pas été retenu par prudence. Sources vérifiées: Wikipédia, HATVP (non publiée), fiche AN, ici.fr/francebleu.fr (aucune info carrière/études), PDF ville-dunkerque.fr (non accessible).",
+    "sources": [
+      {"url": "https://fr.wikipedia.org/wiki/Jean_Bodart_(homme_politique_fran%C3%A7ais)", "pour": "carriere"},
+      {"url": "https://www.hatvp.fr/fiche-nominative/?declarant=bodart-jean-26759", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA841885",
+    "nom": "Arnaud Bonnet",
+    "highest_degree_level": "bac+5",
+    "degrees": [],
+    "fields": ["enseignement", "sciences"],
+    "career": [
+      {"poste": "Professeur certifié de sciences de la vie et de la Terre (collège)", "employeur": "Éducation nationale (académie de Créteil: Ivry-sur-Seine puis Pontault-Combault)", "secteur": "public", "periode": "janvier 2019-août 2024 (confirmé HATVP); en poste depuis plus longtemps selon Wikipédia/presse"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "Carrière d'enseignant du public bien confirmée par la déclaration HATVP fetchée (employeur 'Éducation nationale', dates précises, mise en disponibilité au 1er septembre 2023). Aucune source ne nomme l'université ou le master fréquenté. highest_degree_level='bac+5' est une inférence à partir de la profession réglementée: le CAPES de SVT (professeur certifié) exige aujourd'hui un master MEEF ou équivalent (mastérisation 2010) — confiance donc limitée à 'moyenne' plutôt que 'haute', conformément à la règle sur les inférences.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/fiche-nominative/?declarant=bonnet-arnaud-27515", "pour": "carriere"},
+      {"url": "https://mesinfos.fr/ile-de-france/arnaud-bonnet-depute-ecologiste-de-seine-et-marne-la-politique-n-est-pas-mon-metier-248256.html", "pour": "carriere"}
+    ]
+  },
+  {
+    "uid": "PA719968",
+    "nom": "Sylvie Bonnet",
+    "highest_degree_level": "bac+5",
+    "degrees": [],
+    "fields": ["sciences"],
+    "career": [
+      {"poste": "Cadre médico-social / gestionnaire des risques professionnels", "employeur": "Maison de retraite de la Loire (MRL), Saint-Just-Saint-Rambert", "secteur": "inconnu", "periode": "janvier 2019-décembre 2020 (confirmé HATVP), poste tenu plus longtemps selon la presse"},
+      {"poste": "Chargée de mission", "employeur": "Région Auvergne-Rhône-Alpes", "secteur": "public", "periode": "janvier 2019-décembre 2022"},
+      {"poste": "Collaboratrice parlementaire", "employeur": "Dino Cinieri (Assemblée nationale)", "secteur": "politique", "periode": "janvier 2019-novembre 2023"}
+    ],
+    "worked_private": false,
+    "worked_public": true,
+    "political_career_only": false,
+    "career_profile": "public_uniquement",
+    "confidence": "moyenne",
+    "notes": "La déclaration HATVP fetchée confirme trois activités simultanées 2019-2023: cadre à la Maison de retraite de la Loire, chargée de mission à la Région AURA (secteur public confirmé) et collaboratrice parlementaire de Dino Cinieri (secteur politique). Le statut de la Maison de retraite de la Loire (publique, privée ou associative) n'a pas pu être déterminé, d'où secteur 'inconnu' pour cette ligne. lechodusud.com confirme qu'elle est 'ergonome de formation' mais ne précise ni établissement ni niveau de diplôme; highest_degree_level='bac+5' est une inférence (la pratique professionnelle de l'ergonomie repose généralement sur un master 2 ergonomie), inférence plus fragile que les exemples de professions strictement réglementées du prompt, d'où confiance 'moyenne'.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/bonnet-sylvie-26241", "pour": "carriere"},
+      {"url": "https://www.lechodusud.com/post/qui-est-sylvie-bonnet", "pour": "diplome"}
+    ]
+  },
+  {
+    "uid": "PA266793",
+    "nom": "Jean-Yves Bony",
+    "highest_degree_level": "inconnu",
+    "degrees": [],
+    "fields": ["agriculture"],
+    "career": [
+      {"poste": "Exploitant agricole", "employeur": "Exploitation agricole personnelle, Ally (Cantal)", "secteur": "liberal_independant", "periode": "revenus agricoles confirmés 2019-2023 par HATVP; exploitant depuis avant 2001 (maire d'Ally dès mars 2001)"}
+    ],
+    "worked_private": true,
+    "worked_public": false,
+    "political_career_only": false,
+    "career_profile": "prive_uniquement",
+    "confidence": "haute",
+    "notes": "La déclaration HATVP officielle (déjà identifiée dans les notes existantes, revérifiée) confirme des revenus d'exploitant agricole sur 2019-2023. Aucune information sur son parcours de formation (lycée agricole, BTA/BTS) n'a été trouvée malgré la consultation de nosdeputes.fr, datan.fr, reussir.fr (page fetchée, sans contenu biographique utile), Wikipédia et la fiche AN — highest_degree_level reste 'inconnu'. Le métier d'exploitant agricole n'exige pas légalement de diplôme spécifique, donc pas d'inférence de niveau.",
+    "sources": [
+      {"url": "https://www.hatvp.fr/pages_nominatives/bony-jean-yves-1013", "pour": "carriere"},
+      {"url": "https://fr.wikipedia.org/wiki/Jean-Yves_Bony", "pour": "carriere"}
+    ]
+  }
+]}

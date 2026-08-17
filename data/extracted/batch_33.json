@@ -1,0 +1,268 @@
+{
+ "batch": 33,
+ "deputies": [
+  {
+   "uid": "PA841395",
+   "nom": "Maxime Michelet",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université Paris-Sorbonne", "diplome": "Master d'histoire", "domaine": "histoire"}
+   ],
+   "fields": ["lettres-sciences humaines"],
+   "career": [
+    {"poste": "Surveillant", "employeur": "Lycée Fénelon (Paris)", "secteur": "public", "periode": "2013-2019"},
+    {"poste": "Secrétaire du proviseur chargé de la scolarité", "employeur": "Lycée Fénelon (Paris)", "secteur": "public", "periode": "à partir de 2019"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Inscrit en thèse d'histoire en 2017 mais obtention du doctorat non confirmée dans la source."
+  },
+  {
+   "uid": "PA841419",
+   "nom": "Damien Girard",
+   "highest_degree_level": "bac_ou_moins",
+   "degrees": [
+    {"institution": "Lycée de Fontenay-le-Comte", "diplome": "Baccalauréat technologique", "domaine": "autre"}
+   ],
+   "fields": [],
+   "career": [
+    {"poste": "Salarié dans le secteur de la biochimie", "employeur": "inconnu", "secteur": "prive", "periode": "environ 1995-2005"},
+    {"poste": "Salarié dans les énergies renouvelables", "employeur": "Engie", "secteur": "prive", "periode": "à partir de 2005"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Périodes professionnelles approximatives, pas de diplôme post-bac mentionné."
+  },
+  {
+   "uid": "PA841431",
+   "nom": "Nathalie Colin-Oesterlé",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université Panthéon-Assas", "diplome": "Diplôme de droit notarial", "domaine": "droit"}
+   ],
+   "fields": ["droit"],
+   "career": [
+    {"poste": "Profession libérale (droit notarial)", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "avant mandats politiques"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Activité professionnelle déduite du diplôme de droit notarial et de la profession déclarée « profession libérale », non détaillée par la source biographique."
+  },
+  {
+   "uid": "PA841439",
+   "nom": "Pascal Jenft",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Gendarme motocycliste", "employeur": "Gendarmerie nationale", "secteur": "public", "periode": "environ 1985-2005 (vingtaine d'années)"},
+    {"poste": "Fondateur, chef d'entreprise de menuiserie (FERMAP)", "employeur": "FERMAP", "secteur": "liberal_independant", "periode": "à partir de 2005"}
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA841451",
+   "nom": "Julien Guibert",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Profession intermédiaire administrative et commerciale d'entreprise", "employeur": "inconnu", "secteur": "prive", "periode": "avant 2024"}
+   ],
+   "worked_private": true,
+   "worked_public": null,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Biographie quasi inexistante ; classement basé uniquement sur la profession déclarée."
+  },
+  {
+   "uid": "PA841463",
+   "nom": "Estelle Mercier",
+   "highest_degree_level": "doctorat",
+   "degrees": [
+    {"institution": "inconnu", "diplome": "Doctorat en sciences de gestion", "domaine": "gestion-commerce"}
+   ],
+   "fields": ["gestion-commerce"],
+   "career": [
+    {"poste": "Maître de conférences", "employeur": "IAE Nancy", "secteur": "public", "periode": "avant 2024"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA841471",
+   "nom": "Stéphane Hablot",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Professeur (enseignement secondaire et technique)", "employeur": "Éducation nationale", "secteur": "public", "periode": "avant les mandats électifs"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "Carrière d'enseignant confirmée mais niveau de diplôme non précisé par la source."
+  },
+  {
+   "uid": "PA841479",
+   "nom": "Frédéric Weber",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [],
+   "worked_private": null,
+   "worked_public": null,
+   "political_career_only": false,
+   "career_profile": "inconnu",
+   "confidence": "basse",
+   "notes": "Biographie quasiment vide et catégories déclarées (profession/INSEE) contradictoires."
+  },
+  {
+   "uid": "PA841487",
+   "nom": "Anthony Boulogne",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Cadre administratif et commercial d'entreprise", "employeur": "inconnu", "secteur": "prive", "periode": "avant 2024"}
+   ],
+   "worked_private": true,
+   "worked_public": null,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Biographie centrée sur son parcours militant et électoral au RN, peu d'informations professionnelles."
+  },
+  {
+   "uid": "PA841495",
+   "nom": "Maxime Amblard",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "inconnu", "diplome": "Diplôme d'ingénieur", "domaine": "physique nucléaire"}
+   ],
+   "fields": ["ingenierie", "sciences"],
+   "career": [
+    {"poste": "Ingénieur en physique nucléaire", "employeur": "Framatome", "secteur": "prive", "periode": "avant 2024"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Également représentant syndical CFDT chez Framatome."
+  },
+  {
+   "uid": "PA841507",
+   "nom": "Nicolas Bonnet",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "ISIMA (Institut Supérieur d'Informatique, de Modélisation et de leurs Applications), Clermont-Ferrand", "diplome": "Diplôme d'ingénieur", "domaine": "informatique"}
+   ],
+   "fields": ["informatique", "ingenierie"],
+   "career": [
+    {"poste": "Ingénieur en informatique et modélisation", "employeur": "inconnu", "secteur": "prive", "periode": "à partir de 2003"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Employeur précis non mentionné par la source."
+  },
+  {
+   "uid": "PA841515",
+   "nom": "Aurélien Le Coq",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Institut d'études politiques de Lille", "diplome": "Diplôme de Sciences Po", "domaine": "sciences politiques"}
+   ],
+   "fields": ["sciences politiques"],
+   "career": [
+    {"poste": "Employé administratif d'entreprise", "employeur": "inconnu", "secteur": "prive", "periode": "avant 2024"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "basse",
+   "notes": "Obtention effective du diplôme de Sciences Po Lille non confirmée explicitement ; parcours dominé par le militantisme étudiant et politique dès l'adolescence."
+  },
+  {
+   "uid": "PA841531",
+   "nom": "Shéhérazade Bentorki",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": ["sport"],
+   "career": [
+    {"poste": "Lutteuse de haut niveau", "employeur": "inconnu", "secteur": "liberal_independant", "periode": "environ 2005-2012"}
+   ],
+   "worked_private": true,
+   "worked_public": null,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "moyenne",
+   "notes": "Carrière sportive documentée mais sans club/employeur ni parcours de formation précisés."
+  },
+  {
+   "uid": "PA841543",
+   "nom": "Jean Bodart",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Salarié de la sidérurgie (retraité)", "employeur": "inconnu", "secteur": "prive", "periode": "avant les mandats électifs"}
+   ],
+   "worked_private": true,
+   "worked_public": null,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "Détail professionnel issu uniquement de la profession déclarée (« retraité de la sidérurgie »), non développé dans la biographie."
+  },
+  {
+   "uid": "PA841553",
+   "nom": "Thierry Tesson",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "inconnu", "diplome": "Agrégation d'histoire", "domaine": "histoire"}
+   ],
+   "fields": ["lettres-sciences humaines"],
+   "career": [
+    {"poste": "Instituteur", "employeur": "Éducation nationale", "secteur": "public", "periode": "avant agrégation"},
+    {"poste": "Professeur agrégé d'histoire", "employeur": "Éducation nationale", "secteur": "public", "periode": "avant fonctions de direction"},
+    {"poste": "Chef d'établissement", "employeur": "Éducation nationale", "secteur": "public", "periode": "avant 2008"},
+    {"poste": "Inspecteur d'académie, directeur des services départementaux de l'Éducation nationale de la Vienne", "employeur": "Éducation nationale", "secteur": "public", "periode": "avant 2008"},
+    {"poste": "Conseiller technique puis directeur de cabinet (ministres de l'Éducation nationale, du Travail, secrétariat d'État à la Ville)", "employeur": "Cabinets ministériels (Xavier Darcos, Fadela Amara)", "secteur": "politique", "periode": "2008-2010"},
+    {"poste": "Sous-préfet de Saintes", "employeur": "État (préfecture de Charente-Maritime)", "secteur": "public", "periode": "2011-2012"},
+    {"poste": "Retour dans le corps de l'Éducation nationale", "employeur": "Éducation nationale", "secteur": "public", "periode": "après 2012"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "A occupé un poste en cabinet ministériel (secteur politique) entre deux périodes de carrière de haut fonctionnaire."
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "batch": 21,
+ "deputies": [
+  {
+   "uid": "PA794658",
+   "nom": "Philippe Fait",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Professeur des écoles", "employeur": "Éducation nationale", "secteur": "public", "periode": "inconnue"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "moyenne",
+   "notes": "La biographie ne détaille pas le parcours professionnel ; l'information sur son métier d'enseignant provient de la profession déclarée."
+  },
+  {
+   "uid": "PA794670",
+   "nom": "Caroline Parmentier",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Journaliste, rédactrice en chef", "employeur": "Présent (quotidien)", "secteur": "prive", "periode": "1986-2018"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA794678",
+   "nom": "Thierry Frappé",
+   "highest_degree_level": "doctorat",
+   "degrees": [
+    {"institution": "non précisé", "diplome": "Doctorat en médecine", "domaine": "médecine"}
+   ],
+   "fields": ["medecine-sante"],
+   "career": [
+    {"poste": "Médecin généraliste", "employeur": "Cabinet médical (Bruay-la-Buissière)", "secteur": "liberal_independant", "periode": "inconnue"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": "Le niveau doctorat est déduit de l'exercice de la médecine, non explicitement mentionné comme diplôme."
+  },
+  {
+   "uid": "PA794686",
+   "nom": "Marianne Maximi",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Université Blaise-Pascal (Clermont-Ferrand)", "diplome": "Master", "domaine": "histoire"},
+    {"institution": "Institut régional du travail social (IRTS)", "diplome": "Diplôme d'État d'éducateur spécialisé", "domaine": "travail social"}
+   ],
+   "fields": ["lettres-sciences humaines", "autre"],
+   "career": [
+    {"poste": "Éducatrice spécialisée", "employeur": "Centre départemental de l'enfance et de la famille", "secteur": "public", "periode": "inconnue"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "public_uniquement",
+   "confidence": "haute",
+   "notes": "Des emplois d'étudiante (surveillante, La Poste) menés en parallèle de ses études ne sont pas comptés comme carrière."
+  },
+  {
+   "uid": "PA794702",
+   "nom": "Delphine Lingemann",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "École supérieure de gestion de Paris (ESG/PSB Paris School of Business)", "diplome": "Master 2 management", "domaine": "gestion-commerce"},
+    {"institution": "Université Paris-I-Panthéon-Sorbonne", "diplome": "Master 2 sciences politiques", "domaine": "sciences politiques"}
+   ],
+   "fields": ["gestion-commerce", "sciences politiques"],
+   "career": [
+    {"poste": "Stagiaire puis collaboratrice", "employeur": "Publicis Consultants, cabinet du ministre Alain Lamassoure, députés Pierre Pascallon et Jean-Claude Mignon", "secteur": "politique", "periode": "inconnue"},
+    {"poste": "Consultante", "employeur": "J. Walter Thompson Germany (pour Siemens, Francfort)", "secteur": "prive", "periode": "1998-2000"},
+    {"poste": "Consultante", "employeur": "Markem Imaje (Valence)", "secteur": "prive", "periode": "inconnue"},
+    {"poste": "Enseignante", "employeur": "Institut français de mécanique avancée, Polytech Clermont", "secteur": "public", "periode": "inconnue"},
+    {"poste": "Fondatrice, dirigeante", "employeur": "Société de conseil aux entreprises (propre société)", "secteur": "liberal_independant", "periode": "inconnue"}
+   ],
+   "worked_private": true,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "mixte_public_prive",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA794710",
+   "nom": "Julien Brugerolles",
+   "highest_degree_level": "bac+5",
+   "degrees": [
+    {"institution": "Institut d'études politiques de Toulouse", "diplome": "Diplôme IEP", "domaine": "sciences politiques"}
+   ],
+   "fields": ["sciences politiques"],
+   "career": [
+    {"poste": "Enseignant", "employeur": "Lycée agricole", "secteur": "public", "periode": "avant 2012"},
+    {"poste": "Attaché parlementaire", "employeur": "André Chassaigne (député)", "secteur": "politique", "periode": "env. 2012-2025 (13 ans)"}
+   ],
+   "worked_private": false,
+   "worked_public": true,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": "A été enseignant dans le public avant treize ans comme collaborateur parlementaire, activité dominante avant son mandat."
+  },
+  {
+   "uid": "PA794718",
+   "nom": "Christine Engrand",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Directrice commerciale", "employeur": "Organisme de formation, Kiabi, Eurotunnel", "secteur": "prive", "periode": "inconnue"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA794734",
+   "nom": "Michel Guiniot",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Artisan-commerçant", "employeur": "Commerce familial (Noyon)", "secteur": "liberal_independant", "periode": "1975-2001 (26 ans)"},
+    {"poste": "Formateur, secrétaire national aux fédérations puis aux élus, conseiller spécial", "employeur": "Front national / Rassemblement national", "secteur": "politique", "periode": "1988-2022"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "politique_principalement",
+   "confidence": "moyenne",
+   "notes": "Artisan-commerçant pendant 26 ans, puis carrière de cadre du parti à temps plein pendant plusieurs décennies avant le mandat."
+  },
+  {
+   "uid": "PA794750",
+   "nom": "Thierry Liger",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Chef d'entreprise", "employeur": "non précisé", "secteur": "liberal_independant", "periode": "inconnue"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "La biographie ne mentionne pas le parcours professionnel ; information tirée uniquement de la profession déclarée."
+  },
+  {
+   "uid": "PA794762",
+   "nom": "Sandrine Dogor-Such",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Préparatrice en pharmacie", "employeur": "Pharmacie (officine)", "secteur": "prive", "periode": "inconnue"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "La biographie ne détaille pas le parcours professionnel au-delà de la profession déclarée."
+  },
+  {
+   "uid": "PA794770",
+   "nom": "Michèle Martinez",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Clerc d'huissier de justice", "employeur": "Étude d'huissier", "secteur": "prive", "periode": "inconnue"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "La biographie ne détaille pas le parcours professionnel au-delà de la profession déclarée."
+  },
+  {
+   "uid": "PA794778",
+   "nom": "Sandra Regol",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Secrétaire nationale adjointe", "employeur": "Europe Écologie Les Verts (EELV)", "secteur": "politique", "periode": "2019-2022"}
+   ],
+   "worked_private": null,
+   "worked_public": null,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "basse",
+   "notes": "Aucune information sur un emploi hors du champ politique/associatif n'est disponible dans la source."
+  },
+  {
+   "uid": "PA794786",
+   "nom": "Emmanuel Fernandes",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Profession intermédiaire administrative et commerciale d'entreprise", "employeur": "non précisé", "secteur": "prive", "periode": "inconnue"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "basse",
+   "notes": "La biographie ne détaille ni les études ni l'emploi ; information de carrière tirée de la profession déclarée."
+  },
+  {
+   "uid": "PA794798",
+   "nom": "Françoise Buffet",
+   "highest_degree_level": "inconnu",
+   "degrees": [],
+   "fields": [],
+   "career": [
+    {"poste": "Restauratrice, patronne de restaurant", "employeur": "Restaurant (entreprise propre)", "secteur": "liberal_independant", "periode": "inconnue"}
+   ],
+   "worked_private": true,
+   "worked_public": false,
+   "political_career_only": false,
+   "career_profile": "prive_uniquement",
+   "confidence": "haute",
+   "notes": ""
+  },
+  {
+   "uid": "PA794802",
+   "nom": "Charles Sitzenstuhl",
+   "highest_degree_level": "doctorat",
+   "degrees": [
+    {"institution": "Institut d'études politiques de Strasbourg", "diplome": "Master politiques européennes", "domaine": "sciences politiques"},
+    {"institution": "Institut d'études politiques de Paris (Sciences Po)", "diplome": "Doctorat en science politique", "domaine": "sciences politiques"}
+   ],
+   "fields": ["sciences politiques"],
+   "career": [
+    {"poste": "Assistant parlementaire (temps partiel)", "employeur": "Antoine Herth (député)", "secteur": "politique", "periode": "2011-2014"},
+    {"poste": "Conseiller politique", "employeur": "Cabinet du ministre de l'Économie et des Finances Bruno Le Maire", "secteur": "politique", "periode": "2017-2021"}
+   ],
+   "worked_private": false,
+   "worked_public": false,
+   "political_career_only": true,
+   "career_profile": "politique_principalement",
+   "confidence": "haute",
+   "notes": ""
+  }
+ ]
+}

@@ -1,0 +1,282 @@
+{
+  "batch": 17,
+  "deputies": [
+    {
+      "uid": "PA793708",
+      "nom": "Sébastien Peytavie",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Toulouse-II-Le Mirail", "diplome": "Master de psychopathologie clinique", "domaine": "medecine-sante"}
+      ],
+      "fields": ["medecine-sante"],
+      "career": [
+        {"poste": "Psychologue clinicien libéral", "employeur": "Cabinet libéral", "secteur": "liberal_independant", "periode": "après 2006"},
+        {"poste": "Formateur en école préparatoire au concours infirmier", "employeur": "École préparatoire", "secteur": "prive", "periode": "9 ans"},
+        {"poste": "Psychologue à temps partiel", "employeur": "Association des paralysés de France (APF) / Institut médico-éducatif", "secteur": "associatif", "periode": ""},
+        {"poste": "Psychologue remplaçant en psychiatrie", "employeur": "Hôpital public de Sarlat-la-Canéda", "secteur": "public", "periode": "depuis 2019"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793716",
+      "nom": "Laurent Croizier",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Faculté des sciences de Besançon", "diplome": "Licence de sciences physique et chimie", "domaine": "sciences"}
+      ],
+      "fields": ["sciences"],
+      "career": [
+        {"poste": "Professeur des écoles", "employeur": "Éducation nationale", "secteur": "public", "periode": ""}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793736",
+      "nom": "Hadrien Clouet",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Paris (campus de Nancy)", "diplome": "Diplôme de l'IEP", "domaine": "sciences politiques"},
+        {"institution": "Non précisé", "diplome": "Doctorat (soutenu en 2018)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["sciences politiques", "lettres-sciences humaines"],
+      "career": [
+        {"poste": "Post-doctorant en sociologie", "employeur": "Université Toulouse-Jean-Jaurès", "secteur": "public", "periode": ""},
+        {"poste": "Chercheur associé", "employeur": "Centre de sociologie des organisations (IEP Paris) / LISE (CNAM)", "secteur": "public", "periode": ""}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": "Engagement politique important (Parti de Gauche, LFI) en parallèle de sa carrière académique publique."
+    },
+    {
+      "uid": "PA793744",
+      "nom": "Anne Stambach-Terrenoir",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université Toulouse-II-Le Mirail", "diplome": "Études de musicologie (diplôme précis non indiqué)", "domaine": "arts"}
+      ],
+      "fields": ["arts"],
+      "career": [
+        {"poste": "Professeure de piano", "employeur": "École de musique", "secteur": "public", "periode": "plus de 15 ans"},
+        {"poste": "Attachée parlementaire", "employeur": "Manuel Bompard, eurodéputé", "secteur": "politique", "periode": "2019-2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "moyenne",
+      "notes": "Niveau de diplôme et statut exact de l'école de musique non précisés par la source."
+    },
+    {
+      "uid": "PA793756",
+      "nom": "François Piquemal",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Toulouse-Jean-Jaurès", "diplome": "Études d'histoire (niveau précis non indiqué)", "domaine": "lettres-sciences humaines"},
+        {"institution": "Institut national supérieur du professorat et de l'éducation (INSPE)", "diplome": "Master MEEF (professorat)", "domaine": "education"}
+      ],
+      "fields": ["lettres-sciences humaines", "education"],
+      "career": [
+        {"poste": "Professeur de lettres-histoire-géographie", "employeur": "Lycée professionnel du Mirail (Toulouse)", "secteur": "public", "periode": ""}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793772",
+      "nom": "Christophe Bex",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Salarié", "employeur": "PTT", "secteur": "public", "periode": "environ 16 ans"},
+        {"poste": "Attaché d'administration", "employeur": "Université Jean-Jaurès de Toulouse", "secteur": "public", "periode": ""},
+        {"poste": "Collaborateur", "employeur": "Journal Fakir", "secteur": "associatif", "periode": ""}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793780",
+      "nom": "Christine Arrighi",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Institut d'études politiques de Toulouse (Sciences Po Toulouse)", "diplome": "Diplôme de l'IEP (promotion 1980)", "domaine": "sciences politiques"}
+      ],
+      "fields": ["sciences politiques"],
+      "career": [
+        {"poste": "Administratrice", "employeur": "Direction générale des Finances publiques (DGFiP)", "secteur": "public", "periode": "jusqu'en 2022"}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793796",
+      "nom": "David Taupiac",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université Toulouse-III-Paul-Sabatier", "diplome": "Diplôme d'ingénieur en conception aéronautique", "domaine": "ingenierie"}
+      ],
+      "fields": ["ingenierie"],
+      "career": [
+        {"poste": "Ingénieur aéronautique / consultant", "employeur": "Entreprise du secteur aéronautique (vols en jet privé)", "secteur": "prive", "periode": "jusqu'en 2019"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793816",
+      "nom": "Mélanie Thomin",
+      "highest_degree_level": "bac+3_4",
+      "degrees": [
+        {"institution": "Université de Bretagne-Occidentale (Brest)", "diplome": "Études de lettres (niveau précis non indiqué)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Enseignante de français", "employeur": "Lycées privés (Diwan, Le Likès)", "secteur": "prive", "periode": ""}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": "Enseigne dans des lycées privés sous contrat (Diwan, enseignement catholique), non fonction publique d'État."
+    },
+    {
+      "uid": "PA793832",
+      "nom": "Yoann Gillet",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Gérant", "employeur": "Société de prêt-à-porter", "secteur": "liberal_independant", "periode": ""},
+        {"poste": "Cadre de la fonction publique (poste non précisé)", "employeur": "Fonction publique", "secteur": "public", "periode": "avant l'élection"}
+      ],
+      "worked_private": true,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "mixte_public_prive",
+      "confidence": "basse",
+      "notes": "Bio Wikipedia limitée; la profession déclarée à l'Assemblée nationale suggère un poste dans la fonction publique non détaillé."
+    },
+    {
+      "uid": "PA793852",
+      "nom": "Pierre Meurin",
+      "highest_degree_level": "bac+5",
+      "degrees": [
+        {"institution": "Université de Versailles-Saint-Quentin-en-Yvelines", "diplome": "Maîtrise de droit public", "domaine": "droit"},
+        {"institution": "Université de Versailles-Saint-Quentin-en-Yvelines", "diplome": "Master 2 de droit public de l'économie", "domaine": "droit"}
+      ],
+      "fields": ["droit"],
+      "career": [
+        {"poste": "Directeur de cabinet du maire de Charvieu-Chavagneux", "employeur": "Mairie de Charvieu-Chavagneux", "secteur": "politique", "periode": "2015"},
+        {"poste": "Délégué des études", "employeur": "Institut des sciences sociales, économiques et politiques (ISSEP)", "secteur": "prive", "periode": "2019-2021"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "haute",
+      "notes": "Poste à l'ISSEP, institut privé proche de la mouvance politique de Marion Maréchal; carrière par ailleurs très marquée par des engagements politiques et de cabinet."
+    },
+    {
+      "uid": "PA793872",
+      "nom": "Nathalie Oziol",
+      "highest_degree_level": "doctorat",
+      "degrees": [
+        {"institution": "Non précisé", "diplome": "Agrégation d'anglais (2013)", "domaine": "lettres-sciences humaines"},
+        {"institution": "Non précisé", "diplome": "Doctorat d'anglais (2020)", "domaine": "lettres-sciences humaines"}
+      ],
+      "fields": ["lettres-sciences humaines"],
+      "career": [
+        {"poste": "Enseignante d'anglais (agrégée)", "employeur": "Lycée de Béziers", "secteur": "public", "periode": ""}
+      ],
+      "worked_private": false,
+      "worked_public": true,
+      "political_career_only": false,
+      "career_profile": "public_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793892",
+      "nom": "Stéphanie Galzy",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Commerçante", "employeur": "", "secteur": "liberal_independant", "periode": ""},
+        {"poste": "Conseillère bancaire intérimaire", "employeur": "La Banque postale (Béziers)", "secteur": "prive", "periode": ""}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "moyenne",
+      "notes": ""
+    },
+    {
+      "uid": "PA793912",
+      "nom": "Sylvain Carrière",
+      "highest_degree_level": "bac+2",
+      "degrees": [
+        {"institution": "Lycée agricole de Rodilhan (Gard)", "diplome": "BTS technico-commercial agricole (2011)", "domaine": "agriculture"}
+      ],
+      "fields": ["agriculture", "gestion-commerce"],
+      "career": [
+        {"poste": "Vendeur-conseiller", "employeur": "Jardiland", "secteur": "prive", "periode": "2011-2015"},
+        {"poste": "Employé de commerce", "employeur": "Animalerie (Saint-Jean-de-Védas)", "secteur": "prive", "periode": "2015-2022"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "prive_uniquement",
+      "confidence": "haute",
+      "notes": ""
+    },
+    {
+      "uid": "PA793928",
+      "nom": "Edwige Diaz",
+      "highest_degree_level": "inconnu",
+      "degrees": [],
+      "fields": [],
+      "career": [
+        {"poste": "Cadre administratif et commercial d'entreprise (poste non précisé)", "employeur": "Non précisé", "secteur": "prive", "periode": "avant le mandat"}
+      ],
+      "worked_private": true,
+      "worked_public": false,
+      "political_career_only": false,
+      "career_profile": "politique_principalement",
+      "confidence": "basse",
+      "notes": "La biographie Wikipedia se concentre presque exclusivement sur son parcours militant et électif; la profession déclarée à l'Assemblée nationale évoque un emploi privé non détaillé."
+    }
+  ]
+}
