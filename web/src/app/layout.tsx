@@ -3,7 +3,8 @@ import { Archivo, Spectral } from "next/font/google";
 import "./globals.css";
 import SiteHeader from "@/components/site/SiteHeader";
 import SiteFooter from "@/components/site/SiteFooter";
-import { getMeta } from "@/lib/data";
+import JsonLd from "@/components/seo/JsonLd";
+import { getMeta, SITE_URL } from "@/lib/data";
 
 /*
   Spectral is one of the two typefaces of the French State's design system
@@ -30,7 +31,7 @@ const CARTE_ALT =
   "Les 577 députés de la XVIIe législature, chaque siège coloré par groupe parlementaire, de la gauche à la droite de l'hémicycle. 85,2 % des députés documentés ont au moins un bac+3 ; 103 formations restent non documentées.";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://quinousrepresente.fr"),
+  metadataBase: new URL(SITE_URL),
   title: {
     default: "Qui nous représente — les 577 députés, ce qu'ils ont étudié et fait avant",
     template: "%s — Qui nous représente",
@@ -102,6 +103,17 @@ export default function RootLayout({
     <html lang="fr" className={`${spectral.variable} ${archivo.variable}`}>
       <head>
         <script dangerouslySetInnerHTML={{ __html: THEME_SCRIPT }} />
+        <JsonLd
+          data={{
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            name: "Qui nous représente",
+            url: SITE_URL,
+            inLanguage: "fr-FR",
+            description:
+              "Formation et carrière avant le mandat des 577 députés de la XVIIe législature : diplôme, domaine d'études, secteur privé ou public.",
+          }}
+        />
       </head>
       <body className="flex min-h-dvh flex-col">
         <a href="#contenu" className="skip-link">

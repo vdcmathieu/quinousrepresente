@@ -19,6 +19,7 @@ import {
 } from "@/lib/labels";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/groupes" },
   title: "Les groupes parlementaires",
   description:
     "Les douze groupes de la XVIIe législature, du plus à gauche au plus à droite : effectif, niveau de diplôme et parcours avant le mandat.",

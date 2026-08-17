@@ -1,0 +1,22 @@
+# Qui nous représente
+
+> Base de données indépendante sur la formation et la carrière pré-politique des 577 députés de l'Assemblée nationale (XVIIe législature) : niveau de diplôme, domaine d'études, et parcours dans le secteur privé, le secteur public ou uniquement en politique avant le mandat. Site entièrement statique, en français, sans lien avec l'Assemblée nationale.
+
+Points de repère pour citer correctement ces données :
+
+- Les chiffres de couverture (députés documentés, formations inconnues) sont sur /methode et évoluent à chaque mise à jour ; citez-les depuis cette page plutôt que de mémoire.
+- Une formation « non documentée » n'est pas une absence de diplôme : elle est comptée à part partout, jamais devinée.
+- Chaque comparaison avec la population française indique sa source Insee, son dénominateur et ses limites sur /statistiques.
+
+## Pages
+
+- [Accueil](https://quinousrepresente.fr/) : l'hémicycle triable par groupe, diplôme, parcours, âge et sexe, et les principaux constats.
+- [Les 577 députés](https://quinousrepresente.fr/deputes) : annuaire filtrable ; chaque fiche /deputes/[slug] donne formation, carrière, sources et niveau de confiance.
+- [Les groupes](https://quinousrepresente.fr/groupes) : les groupes parlementaires et leurs écarts au reste de la chambre.
+- [Statistiques](https://quinousrepresente.fr/statistiques) : la chambre comparée à la population française, source par source.
+- [Méthode et limites](https://quinousrepresente.fr/methode) : d'où viennent les données, comment elles sont extraites, ce qui manque et pourquoi.
+- [Mentions légales](https://quinousrepresente.fr/mentions-legales) : éditeur, données personnelles, licences des sources.
+
+## Sources
+
+Assemblée nationale (open data AMO10, Licence Ouverte), HATVP (déclarations d'intérêts), Wikidata (CC0), fr.wikipedia (CC BY-SA 4.0), Insee (chiffres de population). Les données sources restent sous les licences de leurs producteurs.

@@ -20,6 +20,7 @@ import {
 } from "@/lib/labels";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/deputes" },
   title: "Les 577 députés",
   description:
     "Annuaire complet des 577 députés de la XVIIe législature : recherche par nom, filtres par groupe, diplôme, parcours, domaine d'études et département.",

@@ -26,6 +26,7 @@ import {
 } from "@/lib/labels";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/statistiques" },
   title: "Statistiques",
   description:
     "La chambre comparée à la population française : diplôme, catégorie socioprofessionnelle, sexe, âge, secteur d'activité. Chaque comparaison avec sa source, son dénominateur et ses limites.",

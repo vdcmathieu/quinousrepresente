@@ -6,12 +6,14 @@ import PastilleGroupe from "@/components/PastilleGroupe";
 import RubanPosition from "@/components/RubanPosition";
 import { Carrieres, Formations } from "@/components/fiche/Parcours";
 import Sources from "@/components/fiche/Sources";
+import JsonLd from "@/components/seo/JsonLd";
 import {
   getDeputes,
   getDepute,
   getProfil,
   getStats,
   photoSrc,
+  SITE_URL,
 } from "@/lib/data";
 import {
   age,
@@ -37,9 +39,23 @@ export async function generateMetadata({
   const d = getDepute(slug);
   if (!d) return {};
   const nom = `${d.prenom} ${d.nom}`;
+  const description = `${nom}, ${d.civilite === "Mme" ? "députée" : "député"} ${d.groupe} de la ${circoLabel(d.circonscription, d.departement)} : formation, diplôme et carrière avant le mandat.`;
+  const photo = photoSrc(d);
   return {
     title: nom,
-    description: `${nom}, députée ou député ${d.groupe} de la ${circoLabel(d.circonscription, d.departement)} : formation, diplôme et carrière avant le mandat.`,
+    description,
+    alternates: { canonical: `/deputes/${d.slug}` },
+    /*
+      The official portrait replaces the site-wide card. It is a 150×192 head
+      shot, so the small `summary` card, not the panoramic one, is what it can
+      honestly fill.
+    */
+    ...(photo
+      ? {
+          openGraph: { title: nom, description, images: [{ url: photo }] },
+          twitter: { card: "summary", title: nom, description, images: [photo] },
+        }
+      : {}),
   };
 }
 
@@ -84,8 +100,65 @@ export default async function FicheDepute({
       : []),
   ];
 
+  /*
+    The machine-readable card of the page, for search engines and assistants:
+    who this is, which chamber and group, where they studied, and the same
+    external references a reader gets under "Sources". Only facts already
+    printed on the page appear here.
+  */
+  const url = `${SITE_URL}/deputes/${d.slug}`;
+  const photo = photoSrc(d);
+  const institutions = [
+    ...new Set(
+      (p.formations ?? [])
+        .map((f) => f.institution?.trim())
+        .filter((i): i is string => !!i),
+    ),
+  ];
+  const personne = {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    name: nom,
+    givenName: d.prenom,
+    familyName: d.nom,
+    jobTitle: d.civilite === "Mme" ? "Députée" : "Député",
+    memberOf: [
+      { "@type": "Organization", name: "Assemblée nationale" },
+      { "@type": "Organization", name: d.groupeNom },
+    ],
+    ...(d.dateNaissance ? { birthDate: d.dateNaissance } : {}),
+    ...(photo
+      ? { image: photo.startsWith("/") ? `${SITE_URL}${photo}` : photo }
+      : {}),
+    url,
+    sameAs: liens.map((l) => l.href),
+    ...(institutions.length
+      ? {
+          alumniOf: institutions.map((name) => ({
+            "@type": "EducationalOrganization",
+            name,
+          })),
+        }
+      : {}),
+  };
+  const filAriane = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Les 577 députés",
+        item: `${SITE_URL}/deputes`,
+      },
+      { "@type": "ListItem", position: 2, name: nom, item: url },
+    ],
+  };
+
   return (
     <article className="mx-auto max-w-[var(--page)] px-4 pt-6 sm:px-6 sm:pt-10">
+      <JsonLd data={personne} />
+      <JsonLd data={filAriane} />
       <nav className="mb-6 text-[0.75rem] text-[var(--muted)]" aria-label="Fil d'Ariane">
         <Link
           href="/deputes"

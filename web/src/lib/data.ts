@@ -18,6 +18,9 @@ import type {
  * pipeline produced for that build. Nothing is snapshotted into source.
  */
 
+/** Canonical origin, shared by metadata, sitemap and structured data. */
+export const SITE_URL = "https://quinousrepresente.fr";
+
 const CANDIDATE_DIRS = [
   join(process.cwd(), ".data"),
   join(process.cwd(), "..", "data", "site"),

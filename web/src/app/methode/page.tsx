@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import JsonLd from "@/components/seo/JsonLd";
 import {
   getDeputes,
   getMeta,
@@ -7,6 +8,7 @@ import {
   getProfils,
   getReference,
   getStats,
+  SITE_URL,
 } from "@/lib/data";
 import {
   ORDRE_DIPLOME,
@@ -20,6 +22,7 @@ import {
 import { ChipSecteur } from "@/components/fiche/Parcours";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/methode" },
   title: "Méthode et limites",
   description:
     "D'où viennent les données, comment la formation et la carrière de chaque député sont extraites, ce qui manque et pourquoi.",
@@ -91,6 +94,28 @@ export default function PageMethode() {
 
   return (
     <div className="mx-auto max-w-[var(--page)] px-4 pt-10 sm:px-6 sm:pt-14">
+      {/*
+        The dataset behind the site, described as one. Coverage figures come
+        from the same meta.json every page reads, so the card can never drift
+        from the numbers printed below it.
+      */}
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "Dataset",
+          name: "Qui nous représente — formation et carrière des 577 députés",
+          description: `Formation (niveau de diplôme, domaine d'études) et carrière avant le mandat (secteur privé, public ou politique) des ${nombre(meta.couverture.deputes)} députés de la XVIIe législature. ${nombre(meta.couverture.diplomeDocumente)} formations documentées, ${nombre(meta.couverture.diplomeInconnu)} laissées vides plutôt que devinées.`,
+          url: `${SITE_URL}/methode`,
+          inLanguage: "fr-FR",
+          isBasedOn: [
+            "https://data.assemblee-nationale.fr/",
+            "https://www.wikidata.org/",
+            "https://fr.wikipedia.org/",
+            "https://www.hatvp.fr/open-data/",
+            "https://www.insee.fr/",
+          ],
+        }}
+      />
       <p className="eyebrow">Méthode</p>
       <h1 className="display mt-2.5 max-w-3xl text-[clamp(2rem,5.5vw,3.25rem)]">
         D&apos;où viennent ces données, et ce qu&apos;elles ne disent pas

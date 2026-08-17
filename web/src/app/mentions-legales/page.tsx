@@ -4,6 +4,7 @@ import { getMeta } from "@/lib/data";
 import { nombre } from "@/lib/labels";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/mentions-legales" },
   title: "Mentions légales",
   description:
     "Éditeur, hébergeur, contact, traitement des données personnelles, sources et licence du site Qui nous représente.",

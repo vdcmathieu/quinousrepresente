@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import Explorateur, { donneesVous } from "@/components/hemicycle/Explorateur";
 import VousEtLaChambre from "@/components/hemicycle/VousEtLaChambre";
@@ -25,6 +26,10 @@ import {
   pourcent,
   sortByOrder,
 } from "@/lib/labels";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+};
 
 export default function Accueil() {
   const meta = getMeta();

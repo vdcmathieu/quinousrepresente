@@ -12,12 +12,14 @@ import {
   remplissageDiplome,
   remplissageProfil,
 } from "@/components/viz/tokens";
+import JsonLd from "@/components/seo/JsonLd";
 import {
   getGroupeParSlug,
   getGroupes,
   getMembres,
   getStats,
   groupeSlug,
+  SITE_URL,
 } from "@/lib/data";
 import {
   ORDRE_DIPLOME,
@@ -45,6 +47,7 @@ export async function generateMetadata({
   return {
     title: `${g.nom} (${g.abbrev})`,
     description: `Les ${g.sieges} députés du groupe ${g.nom} : niveau de diplôme, domaines d'études et parcours avant le mandat, comparés à l'ensemble de l'Assemblée.`,
+    alternates: { canonical: `/groupes/${groupeSlug(g.abbrev)}` },
   };
 }
 
@@ -112,6 +115,26 @@ export default async function PageGroupe({
 
   return (
     <div className="mx-auto max-w-[var(--page)] px-4 pt-6 sm:px-6 sm:pt-10">
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          itemListElement: [
+            {
+              "@type": "ListItem",
+              position: 1,
+              name: "Les groupes",
+              item: `${SITE_URL}/groupes`,
+            },
+            {
+              "@type": "ListItem",
+              position: 2,
+              name: `${g.nom} (${g.abbrev})`,
+              item: `${SITE_URL}/groupes/${groupeSlug(g.abbrev)}`,
+            },
+          ],
+        }}
+      />
       <nav className="mb-6 text-[0.75rem] text-[var(--muted)]" aria-label="Fil d'Ariane">
         <Link
           href="/groupes"

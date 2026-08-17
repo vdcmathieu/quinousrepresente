@@ -1,7 +1,5 @@
 import type { MetadataRoute } from "next";
-import { getDeputes, getGroupes, groupeSlug } from "@/lib/data";
-
-const BASE = "https://quinousrepresente.fr";
+import { getDeputes, getGroupes, groupeSlug, SITE_URL as BASE } from "@/lib/data";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const fixes = [
