@@ -12,3 +12,6 @@ data/gapfill*_todo/
 # 88 MB raw HATVP dump; re-downloaded by scripts/09_hatvp.py.
 # The parsed data/hatvp/activites.json is kept.
 data/hatvp/declarations.xml
+# Agent docs stay local; the public repo documents itself in the READMEs.
+CLAUDE.md
+AGENTS.md
