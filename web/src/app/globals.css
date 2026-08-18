@@ -891,6 +891,23 @@ body {
 }
 
 /*
+  The opening view. On the accueil the chamber is the first thing after the
+  title, and it must land above the fold: nobody should scroll to discover the
+  visual. So there — and only there — the height budget also counts the hero
+  block sitting above the chart: ~11rem of eyebrow, title and lede, plus the
+  16rem of chrome the chamber already budgets for. `--chambre-max` has to be
+  restated because the :root value was computed against :root's own chrome.
+  Phones keep the plain budget: the floor would shrink the chamber to a coin,
+  and a stacked page is what a phone expects anyway.
+*/
+@media (min-width: 40rem) and (min-height: 32rem) {
+  .accueil-une {
+    --chambre-chrome: 27rem;
+    --chambre-max: max(9rem, calc(100svh - var(--chambre-chrome)));
+  }
+}
+
+/*
   A short screen — a phone on its side, a 600px-tall laptop — cannot afford a
   64px band that never scrolls away. The header gives it back, and the anchors
   stop reserving room for it.

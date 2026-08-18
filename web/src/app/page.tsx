@@ -66,28 +66,37 @@ export default function Accueil() {
   return (
     <>
       {/* ── L'hémicycle ─────────────────────────────────────────────────── */}
-      <section className="mx-auto max-w-[var(--page)] px-4 pt-8 sm:px-6 sm:pt-14">
-        <p className="eyebrow">
-          Assemblée nationale · XVII<sup>e</sup> législature
-        </p>
-        <h1 className="display mt-3 max-w-3xl text-[clamp(2.25rem,7vw,4.25rem)]">
-          Les 577 députés, avant la politique
-        </h1>
-        <p className="lede mt-4 max-w-2xl">
-          Ce qu&apos;ils ont étudié, et où ils ont travaillé : dans le privé, dans
-          le public, ou nulle part ailleurs qu&apos;en politique. Une base
-          ouverte, ses lacunes comprises.
-        </p>
-      </section>
+      {/* `accueil-une` tightens the chamber's height budget so the whole
+          opening — title, controls, chamber — lands inside the first screen. */}
+      <div className="accueil-une">
+        <section className="mx-auto max-w-[var(--page)] px-4 pt-5 sm:px-6 sm:pt-7">
+          <div className="flex flex-col gap-x-10 gap-y-3 md:flex-row md:items-end md:justify-between">
+            <div>
+              <p className="eyebrow">
+                Assemblée nationale · XVII<sup>e</sup> législature
+              </p>
+              <h1 className="display mt-2 max-w-xl text-[clamp(2rem,4.5vw,3.125rem)] md:max-w-none">
+                Les 577 députés,
+                <br className="hidden md:block" /> avant la politique
+              </h1>
+            </div>
+            <p className="lede max-w-md text-[clamp(1rem,0.9rem+0.4vw,1.125rem)] md:pb-1.5">
+              Ce qu&apos;ils ont étudié, et où ils ont travaillé : dans le privé,
+              dans le public, ou nulle part ailleurs qu&apos;en politique. Une
+              base ouverte, ses lacunes comprises.
+            </p>
+          </div>
+        </section>
 
-      <section className="mt-8 sm:mt-12" aria-labelledby="titre-hemicycle">
-        <h2 id="titre-hemicycle" className="sr-only">
-          L&apos;hémicycle, rangé comme vous voulez
-        </h2>
-        <div className="mx-auto max-w-[var(--page)] px-0 sm:px-6">
-          <Explorateur />
-        </div>
-      </section>
+        <section className="mt-5 sm:mt-6" aria-labelledby="titre-hemicycle">
+          <h2 id="titre-hemicycle" className="sr-only">
+            L&apos;hémicycle, rangé comme vous voulez
+          </h2>
+          <div className="mx-auto max-w-[var(--page)] px-0 sm:px-6">
+            <Explorateur />
+          </div>
+        </section>
+      </div>
 
       {/* ── Les chiffres ────────────────────────────────────────────────── */}
       <Apparition
