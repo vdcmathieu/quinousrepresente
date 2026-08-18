@@ -32,7 +32,7 @@ When `../data` is reachable, every build refreshes them from whatever the pipeli
 | `/groupes/[abbrev]` | 12 | One group, and how it departs from the chamber |
 | `/statistiques` | 1 | The report: one section per comparison in `reference.json`, plus the group breakdowns |
 | `/methode` | 1 | Sources, coverage, and what the data does not prove |
-| `/mentions-legales` | 1 | Éditeur, hébergeur, RGPD, sources and licence — scaffolded, with `À COMPLÉTER` placeholders the publisher has to fill before launch |
+| `/mentions-legales` | 1 | Éditeur, hébergeur, RGPD, sources and licence |
 
 ## Where things live
 

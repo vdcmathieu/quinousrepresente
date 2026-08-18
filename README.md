@@ -73,7 +73,7 @@ Quand `data/` est présent, chaque build les régénère depuis la sortie du pip
 
 Le code est publié sous licence MIT.
 
-La licence du jeu de données reste à fixer — voir `À COMPLÉTER` sur la page `/mentions-legales`.
+Le jeu de données produit par le projet (structuration des formations et des carrières, classement des diplômes et des parcours) est publié sous [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence), avec mention de « Qui nous représente » comme source.
 Les données sources appartiennent à leurs producteurs respectifs et leurs conditions s'appliquent, notamment la Licence Ouverte pour l'open data de l'Assemblée nationale et les droits attachés aux portraits officiels.
 
 ## Corrections

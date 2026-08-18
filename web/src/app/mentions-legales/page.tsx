@@ -21,26 +21,12 @@ export const metadata: Metadata = {
  * has to say what it processes, on what legal basis, and how an error gets
  * corrected.
  *
- * Everything only the publisher can know is left as a visible TODO rather than
- * filled with something plausible. A wrong name or a wrong address on a legal
- * page is worse than an obvious blank, and this page is the one place on the
- * site where a fabrication would be a legal statement.
- *
- * The blanks to fill before this goes live:
- *   · the publisher's name, status and postal contact
- *   · the directeur de la publication
- *   · the contact e-mail (it is also the rectification address)
- *   · the licence chosen for the project's own dataset
+ * The site is published non-professionally by a private individual, so under
+ * art. 6-III-2 LCEN the postal address stays off the page: the host holds the
+ * publisher's full details, and the printed contact is the e-mail address.
  */
 
-/** A blank only the publisher can fill. Deliberately loud on the page. */
-function AFaire({ children }: { children: React.ReactNode }) {
-  return (
-    <mark className="rounded-[2px] bg-[var(--surface-sunken)] px-1.5 py-0.5 font-mono text-[0.8125em] text-[var(--ink)] shadow-[inset_0_0_0_1px_var(--bordure)]">
-      À COMPLÉTER — {children}
-    </mark>
-  );
-}
+const CONTACT_EMAIL = "contact@quinousrepresente.fr";
 
 function Section({
   id,
@@ -86,31 +72,24 @@ export default function PageMentionsLegales() {
       <Section id="editeur" titre="Éditeur du site">
         <p>
           Le site <strong>Qui nous représente</strong> (
-          <span className="num">quinousrepresente.fr</span>) est édité par{" "}
-          <AFaire>nom du publiant</AFaire>, <AFaire>statut : personne physique, association loi 1901 ou société</AFaire>.
+          <span className="num">quinousrepresente.fr</span>) est édité à titre
+          non professionnel par <strong>Mathieu Vandecatsije</strong>, personne
+          physique.
         </p>
         <p>
-          Adresse de contact&nbsp;: <AFaire>adresse postale</AFaire>.
+          Directeur de la publication&nbsp;: Mathieu Vandecatsije.
         </p>
         <p>
-          Directeur de la publication&nbsp;:{" "}
-          <AFaire>nom du directeur de la publication</AFaire>.
-        </p>
-        <p>
-          {/*
-            A SIRET / RCS / TVA line is only required of a publisher acting in a
-            professional capacity. A private individual publishing a
-            non-commercial site may withhold their address from the page, on
-            condition that the host holds it — art. 6-III-2 LCEN. Which of the
-            two applies is the publisher's call, so both are named here.
-          */}
-          Si le site est édité à titre professionnel&nbsp;:{" "}
-          <AFaire>numéro SIRET ou RCS, et numéro de TVA le cas échéant</AFaire>.
-          S&apos;il est édité à titre non professionnel par une personne
-          physique, celle-ci peut ne mentionner ici que son nom et l&apos;identité
-          de son hébergeur, à condition d&apos;avoir communiqué ses coordonnées
-          complètes à ce dernier (article 6-III-2 de la loi du 21 juin 2004 pour
-          la confiance dans l&apos;économie numérique).
+          Édité à titre non professionnel par une personne physique, le site
+          mentionne ici le nom de son éditeur et l&apos;identité de son
+          hébergeur&nbsp;; les coordonnées complètes de l&apos;éditeur ont été
+          communiquées à l&apos;hébergeur, conformément à l&apos;article 6-III-2
+          de la loi du 21 juin 2004 pour la confiance dans l&apos;économie
+          numérique. Pour toute demande, voir{" "}
+          <a href="#contact" className="lien">
+            Contact
+          </a>
+          .
         </p>
       </Section>
 
@@ -135,7 +114,11 @@ export default function PageMentionsLegales() {
       <Section id="contact" titre="Contact">
         <p>
           Pour toute question, signalement d&apos;erreur ou demande de
-          rectification&nbsp;: <AFaire>adresse e-mail de contact</AFaire>.
+          rectification&nbsp;:{" "}
+          <a href={`mailto:${CONTACT_EMAIL}`} className="lien num">
+            {CONTACT_EMAIL}
+          </a>
+          .
         </p>
         <p>
           C&apos;est aussi l&apos;adresse à laquelle une députée ou un député, ou
@@ -259,15 +242,19 @@ export default function PageMentionsLegales() {
           </li>
         </ul>
         <p className="mt-3">
-          {/*
-            Two sensible options, both compatible with the upstream licences:
-            Licence Ouverte 2.0 (Etalab) matches what the AN already publishes
-            under and asks only for attribution; ODbL adds a share-alike clause
-            on the database itself. The choice is the publisher's.
-          */}
           Le jeu de données produit par ce projet — la structuration des
           formations et des carrières, le classement des diplômes et des
-          parcours — est publié sous <AFaire>licence choisie pour le jeu de données</AFaire>.
+          parcours — est publié sous{" "}
+          <a
+            href="https://www.etalab.gouv.fr/licence-ouverte-open-licence"
+            rel="noreferrer"
+            className="lien"
+          >
+            Licence Ouverte 2.0
+          </a>
+          . La réutilisation, y compris commerciale, est libre à condition de
+          mentionner «&nbsp;Qui nous représente&nbsp;»
+          (quinousrepresente.fr) comme source.
         </p>
         <p>
           La méthode, ses règles et ses angles morts sont décrits sur la page{" "}

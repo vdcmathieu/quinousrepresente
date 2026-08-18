@@ -19,4 +19,4 @@ Points de repère pour citer correctement ces données :
 
 ## Sources
 
-Assemblée nationale (open data AMO10, Licence Ouverte), HATVP (déclarations d'intérêts), Wikidata (CC0), fr.wikipedia (CC BY-SA 4.0), Insee (chiffres de population). Les données sources restent sous les licences de leurs producteurs.
+Assemblée nationale (open data AMO10, Licence Ouverte), HATVP (déclarations d'intérêts), Wikidata (CC0), fr.wikipedia (CC BY-SA 4.0), Insee (chiffres de population). Les données sources restent sous les licences de leurs producteurs. Le jeu de données produit par le projet est publié sous Licence Ouverte 2.0 : citez « Qui nous représente » (quinousrepresente.fr) comme source.
