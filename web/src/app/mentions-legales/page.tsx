@@ -73,11 +73,11 @@ export default function PageMentionsLegales() {
         <p>
           Le site <strong>Qui nous représente</strong> (
           <span className="num">quinousrepresente.fr</span>) est édité à titre
-          non professionnel par <strong>Mathieu Vandecatsije</strong>, personne
+          non professionnel par <strong>Mathieu Van de Catsije</strong>, personne
           physique.
         </p>
         <p>
-          Directeur de la publication&nbsp;: Mathieu Vandecatsije.
+          Directeur de la publication&nbsp;: Mathieu Van de Catsije.
         </p>
         <p>
           Édité à titre non professionnel par une personne physique, le site
